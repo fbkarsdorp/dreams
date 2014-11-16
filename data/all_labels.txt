@@ -1,4 +1,3 @@
-
 QQQ10484.	Hall/VdC Norms: Male#0001	actV> actV> emoAP setID objAV 
 QQQ10485.	Hall/VdC Norms: Male#0002	actP actS setIQ objAE objHH objFO objFO 
 QQQ10486.	Hall/VdC Norms: Male#0003	actV= actP actM actS actS actV actP mf5 setIF setOF objTR objAR objST objBH 

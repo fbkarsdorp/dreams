@@ -1,4 +1,3 @@
-
 QQQ9994.	Hall/VdC Norms: Female#0001	objAE objMO objRG objFO objFO objFO 
 QQQ9995.	Hall/VdC Norms: Female#0002	objAR objAR objAD objHH objNA objNA objHH objBE objBT objRG 
 QQQ9996.	Hall/VdC Norms: Female#0003	objNA objBT 

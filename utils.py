@@ -11,6 +11,14 @@ def flatten(lst):
             return [car] + flatten(cdr)
         return [car]
 
+def flatten_labels(container):
+    for i in container:
+        if isinstance(i, list) or isinstance(i, tuple):
+            for j in flatten(i):
+                yield j
+        else:
+            yield i
+
 def unique_everseen(iterable, key=None):
     "List unique elements, preserving order. Remember all elements ever seen."
     # unique_everseen('AAAABBBCCDAABBB') --> A B C D
