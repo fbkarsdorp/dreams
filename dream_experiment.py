@@ -63,7 +63,7 @@ def match_labels_documents(documents, labels):
 if __name__ == '__main__':
     for labelfile in ("labels.hcnorms_misgoodfortune.all.txt",
                       "labels.hcnorms_char.all.txt",
-                      "dream_acts.txt"):
+                      "dream_acts.txt", 'dream_sets.txt'):
     # First we'll do a regular IR experiment with BM25
         documents = {doc_id: text for doc_id, text in read_dreams("data/dreambank.en.stanford.out")}
         labels = list(read_labels("data/" + labelfile))
@@ -84,7 +84,7 @@ if __name__ == '__main__':
             rank_scores[i] = mean_average_precision(ranking, y_test)
         print 'IR: (%s)' % (labelfile), rank_scores.mean(), rank_scores.std()
 
-            # Next, we'll do an IR experiment with Big Documents
+        # Next, we'll do an IR experiment with Big Documents
         documents = {doc_id: text for doc_id, text in read_dreams("data/dreambank.en.stanford.out")}
         labels = list(read_labels("data/" + labelfile))
         y, X = zip(*match_labels_documents(documents, labels))
