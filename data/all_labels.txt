@@ -1,982 +1,982 @@
 
-QQQ9994.	Hall/VdC Norms: Female#0001	actV> actV> actC actV> actC actV> actP> actP actV> actVR setIQ 
-QQQ9995.	Hall/VdC Norms: Female#0002	actV> actP actS actP actS actM actM setIU 
-QQQ9996.	Hall/VdC Norms: Female#0003	actP setOU 
-QQQ9997.	Hall/VdC Norms: Female#0004	actL actL actP actP actP actP mf2 setOU setOU 
-QQQ9998.	Hall/VdC Norms: Female#0005	actP actM actV setIF 
-QQQ9999.	Hall/VdC Norms: Female#0006	actP actM actS actP actV> actP actP actP actM actE actC mf1 setIF 
-QQQ10000.	Hall/VdC Norms: Female#0007	actV> actP> actV> actM actV> actP actL actL actP setOQ 
-QQQ10001.	Hall/VdC Norms: Female#0008	actP actV> actP actV> actA actM actM mf3 setIF 
-QQQ10002.	Hall/VdC Norms: Female#0009	actS actM actV> actM actP actM actM actP actV> setID 
-QQQ10003.	Hall/VdC Norms: Female#0010	actP actV> actP actP actV> actS setOQ 
-QQQ10004.	Hall/VdC Norms: Female#0011	actP actP> setIQ 
-QQQ10005.	Hall/VdC Norms: Female#0012	actP actS actP actV> actM actM setOQ 
-QQQ10006.	Hall/VdC Norms: Female#0013	actP actV> setIF 
-QQQ10007.	Hall/VdC Norms: Female#0014	actP actL actP actV> actM actP actS actS setOQ 
-QQQ10008.	Hall/VdC Norms: Female#0015	actV> actS actM mf6 setIQ 
-QQQ10009.	Hall/VdC Norms: Female#0016	actM actM actS actS actV> actE setOF 
-QQQ10010.	Hall/VdC Norms: Female#0017	actM actV> actP actP mf1 setOQ 
-QQQ10011.	Hall/VdC Norms: Female#0018	actM actS actP actM setOF setIF setIU 
-QQQ10012.	Hall/VdC Norms: Female#0019	actL actL actV setIF setIQ 
-QQQ10013.	Hall/VdC Norms: Female#0020	actC actM setIQ 
-QQQ10014.	Hall/VdC Norms: Female#0021	actL actS setIF 
-QQQ10015.	Hall/VdC Norms: Female#0022	actV> actP setIU 
-QQQ10016.	Hall/VdC Norms: Female#0023	actC act> mf5 gf setIQ 
-QQQ10017.	Hall/VdC Norms: Female#0024	actM actV> actV> actS setOU setIU 
-QQQ10018.	Hall/VdC Norms: Female#0025	actV> actM actS actV> actVR actM setIU 
-QQQ10019.	Hall/VdC Norms: Female#0026	actC actP actP actS actP actS actP actM actP mf5 setIQ 
-QQQ10020.	Hall/VdC Norms: Female#0027	actS actV> actVR setIQ 
-QQQ10021.	Hall/VdC Norms: Female#0028	actL actM actM actV> actP> actS actV> actM actV> actVR actVR actVR setIF 
-QQQ10022.	Hall/VdC Norms: Female#0029	actL actS setOG 
-QQQ10023.	Hall/VdC Norms: Female#0030	actM actS actM actP actP actE actM actv> actP actM setIF 
-QQQ10024.	Hall/VdC Norms: Female#0031	actM actV> actP= setIF setIF 
-QQQ10025.	Hall/VdC Norms: Female#0032	actV> actE actM actE actS mf6 setIF setOF 
-QQQ10026.	Hall/VdC Norms: Female#0033	actP actA actS actP= actV> setID 
-QQQ10027.	Hall/VdC Norms: Female#0034	actL actV> actS setAQ 
-QQQ10028.	Hall/VdC Norms: Female#0035	actC actP setAQ 
-QQQ10029.	Hall/VdC Norms: Female#0036	actV setIF 
-QQQ10030.	Hall/VdC Norms: Female#0037	actM actM actS actV> setIQ 
-QQQ10031.	Hall/VdC Norms: Female#0038	actM actM actS actV> setIQ 
-QQQ10032.	Hall/VdC Norms: Female#0039	actS actM actV> actVR actM actS setIU 
-QQQ10033.	Hall/VdC Norms: Female#0040	actV= actC setIQ setAF setIQ 
-QQQ10034.	Hall/VdC Norms: Female#0041	actP actS actV> actVR setIQ 
-QQQ10035.	Hall/VdC Norms: Female#0042	actL actS actP> actM actM actV> setIF 
-QQQ10036.	Hall/VdC Norms: Female#0043	actM actP actS actP> mf6 setIF 
-QQQ10037.	Hall/VdC Norms: Female#0044	setIU 
-QQQ10038.	Hall/VdC Norms: Female#0045	actC actS actV> setIU 
-QQQ10039.	Hall/VdC Norms: Female#0046	actM actP actS actP= actM actS actC setOD 
-QQQ10040.	Hall/VdC Norms: Female#0047	actL actS actP actP actP actL mf6 setOQ 
-QQQ10041.	Hall/VdC Norms: Female#0048	actC actM actS setIU 
-QQQ10042.	Hall/VdC Norms: Female#0049	actM actV setIF 
-QQQ10043.	Hall/VdC Norms: Female#0050	actM actE actP actS setIQ 
-QQQ10044.	Hall/VdC Norms: Female#0051	actP actM actV actV> actM actP actM mf4 setIF 
-QQQ10045.	Hall/VdC Norms: Female#0052	actM actP actM actV= actM actV= setIQ setIF 
-QQQ10046.	Hall/VdC Norms: Female#0053	actS actV= actM setIF setIF 
-QQQ10047.	Hall/VdC Norms: Female#0054	actM actM setIF setOF 
-QQQ10048.	Hall/VdC Norms: Female#0055	actP> actM actP actP> actS actE setIF 
-QQQ10049.	Hall/VdC Norms: Female#0056	actM actS actP actS mf1 setIQ 
-QQQ10050.	Hall/VdC Norms: Female#0057	actP= actV actV actV> actVR actC setOQ 
-QQQ10051.	Hall/VdC Norms: Female#0058	actM actP= actP actC actS setOF 
-QQQ10052.	Hall/VdC Norms: Female#0059	actV> actVR actV> actA actV> actVR actV= setIQ 
-QQQ10053.	Hall/VdC Norms: Female#0060	actC actV> actVR actV mf1 setAQ 
-QQQ10054.	Hall/VdC Norms: Female#0061	actP actM actS actP> setIF 
-QQQ10055.	Hall/VdC Norms: Female#0062	actV actP mf5 mf4 setIQ 
-QQQ10056.	Hall/VdC Norms: Female#0063	actV> actM actS actV> actVR actL mf5 setIF 
-QQQ10057.	Hall/VdC Norms: Female#0064	actV> setIF 
-QQQ10058.	Hall/VdC Norms: Female#0065	actV> actM actV= actV> actV> actVR actV> actVR actV> actP actVR actC setIF 
-QQQ10059.	Hall/VdC Norms: Female#0066	actV= actP> actE actV setIF 
-QQQ10060.	Hall/VdC Norms: Female#0067	actS actM actV> actVR actE actS setOF 
-QQQ10061.	Hall/VdC Norms: Female#0068	actV> actV> actVR actE setAQ 
-QQQ10062.	Hall/VdC Norms: Female#0069	actV actP setIQ 
-QQQ10063.	Hall/VdC Norms: Female#0070	actM actV> setID 
-QQQ10064.	Hall/VdC Norms: Female#0071	actL actP actM actM actP actV> setOQ 
-QQQ10065.	Hall/VdC Norms: Female#0072	actS actM actM actV> actP actC setIF 
-QQQ10066.	Hall/VdC Norms: Female#0073	mf5 setNS 
-QQQ10067.	Hall/VdC Norms: Female#0074	actV> actP setIQ 
-QQQ10068.	Hall/VdC Norms: Female#0075	actM actP actV> actM actV> actVR setIQ 
-QQQ10069.	Hall/VdC Norms: Female#0076	actL actP setOQ 
-QQQ10070.	Hall/VdC Norms: Female#0077	actP actV> mf1 setNS 
-QQQ10071.	Hall/VdC Norms: Female#0078	actP setOQ 
-QQQ10072.	Hall/VdC Norms: Female#0079	actV> actC actS actE actC setAF 
-QQQ10073.	Hall/VdC Norms: Female#0080	actC actA actV= actL actP> actV> actVR actP actVR setAQ 
-QQQ10074.	Hall/VdC Norms: Female#0081	actL mf5 gf setAD 
-QQQ10075.	Hall/VdC Norms: Female#0082	actS actS actP mf5 setIQ 
-QQQ10076.	Hall/VdC Norms: Female#0083	actL setAF 
-QQQ10077.	Hall/VdC Norms: Female#0084	actL actM actM setIF 
-QQQ10078.	Hall/VdC Norms: Female#0085	actS actP actV> actE actE actV> actV setIQ 
-QQQ10079.	Hall/VdC Norms: Female#0086	actP actP actS actP actP setAF 
-QQQ10080.	Hall/VdC Norms: Female#0087	actM actP actM actM mf4 setIQ 
-QQQ10081.	Hall/VdC Norms: Female#0088	actM actP actE actM actM actP actVR actV> actE actM actM mf4 mf1 mf4 setOF setIQ setIQ setIU setOQ 
-QQQ10082.	Hall/VdC Norms: Female#0089	actM actP actP actM actV> actM actM setIU 
-QQQ10083.	Hall/VdC Norms: Female#0090	actL actP actV actP actM mf5 gf setOQ setOQ 
-QQQ10084.	Hall/VdC Norms: Female#0091	actV> actE actM actM actV> actA setIF 
-QQQ10085.	Hall/VdC Norms: Female#0092	actV> actV> setAD setOQ 
-QQQ10086.	Hall/VdC Norms: Female#0093	actM actV> setAQ 
-QQQ10087.	Hall/VdC Norms: Female#0094	actM actP actM mf3 setOU 
-QQQ10088.	Hall/VdC Norms: Female#0095	actV> actVR actV> actM mf3 setOD 
-QQQ10089.	Hall/VdC Norms: Female#0096	actS actP actV> actVR setAF 
-QQQ10090.	Hall/VdC Norms: Female#0097	actS actV> actS setIF 
-QQQ10091.	Hall/VdC Norms: Female#0098	actV> actV> actS mf6 gf setOU 
-QQQ10092.	Hall/VdC Norms: Female#0099	actS actE setNS 
-QQQ10093.	Hall/VdC Norms: Female#0100	actA actV> actA actE actS mf6 setAQ 
-QQQ10094.	Hall/VdC Norms: Female#0101	actM actP actM actP actV setIF 
-QQQ10095.	Hall/VdC Norms: Female#0102	actP actV actP> actV actM actM mf5 setIF 
-QQQ10096.	Hall/VdC Norms: Female#0103	actM setIU 
-QQQ10097.	Hall/VdC Norms: Female#0104	actV> actVR setIQ 
-QQQ10098.	Hall/VdC Norms: Female#0105	actL actM mf1 setIQ 
-QQQ10099.	Hall/VdC Norms: Female#0106	actS actP> actPR setOQ 
-QQQ10100.	Hall/VdC Norms: Female#0107	actP actS actP actP actS actM mf4 setOF 
-QQQ10101.	Hall/VdC Norms: Female#0108	actV> actM actP actP actV> actM actP actV> actV> actP actS mf4 setIF 
-QQQ10102.	Hall/VdC Norms: Female#0109	actL actS actM actM actP actS actE actM actV> setOQ setIQ 
-QQQ10103.	Hall/VdC Norms: Female#0110	actM actL actM actM setIQ setOQ setOQ 
-QQQ10104.	Hall/VdC Norms: Female#0111	mf6 setNS 
-QQQ10105.	Hall/VdC Norms: Female#0112	actM actE actP actV> mf4 setOQ 
-QQQ10106.	Hall/VdC Norms: Female#0113	actM actV> actC actV> actM setIF 
-QQQ10107.	Hall/VdC Norms: Female#0114	actP mf5 setNS 
-QQQ10108.	Hall/VdC Norms: Female#0115	actM actS setOF 
-QQQ10109.	Hall/VdC Norms: Female#0116	actM actM gf setIQ 
-QQQ10110.	Hall/VdC Norms: Female#0117	actM actV actP actS setOD setIQ 
-QQQ10111.	Hall/VdC Norms: Female#0118	actP actP actV> actM actP actM actM actS actM setIF 
-QQQ10112.	Hall/VdC Norms: Female#0119	actP actL actP mf1 setOU setIU 
-QQQ10113.	Hall/VdC Norms: Female#0120	actM actS actM actM actM actS gf setIQ setOQ 
-QQQ10114.	Hall/VdC Norms: Female#0121	actM actA actS actM actP> actM actP gf setIF 
-QQQ10115.	Hall/VdC Norms: Female#0122	actL actP> actP> actE actE actP actL actV> actE mf5 setIQ setIF setIQ 
-QQQ10116.	Hall/VdC Norms: Female#0123	actM actV= actC actM actV> actC mf1 setIF setIF setIF 
-QQQ10117.	Hall/VdC Norms: Female#0124	actM actS actP actV= actM setOF 
-QQQ10118.	Hall/VdC Norms: Female#0125	actC actS actV> actA actV> actVR actV setIF 
-QQQ10119.	Hall/VdC Norms: Female#0126	actL actP actS gf setOG 
-QQQ10120.	Hall/VdC Norms: Female#0127	actL actV gf setOG 
-QQQ10121.	Hall/VdC Norms: Female#0128	actS actA actE mf5 setIF 
-QQQ10122.	Hall/VdC Norms: Female#0129	actL actP actP actM setIF 
-QQQ10123.	Hall/VdC Norms: Female#0130	actP actM actV> actM actE actM actM actM actP actV> setIG setIF 
-QQQ10124.	Hall/VdC Norms: Female#0131	actM setAQ 
-QQQ10125.	Hall/VdC Norms: Female#0132	actS actP actP actP actC actP actM actP actP actS actS actC mf5 gf setIF 
-QQQ10126.	Hall/VdC Norms: Female#0133	actS actM actP actS actC mf3 setIF 
-QQQ10127.	Hall/VdC Norms: Female#0134	actP actP> actS actS actE actS actC setIU 
-QQQ10128.	Hall/VdC Norms: Female#0135	actS actC actP gf setNS 
-QQQ10129.	Hall/VdC Norms: Female#0136	actM actL actM actV> actVR mf5 setIQ 
-QQQ10130.	Hall/VdC Norms: Female#0137	actV> actV> actM setOF setIU 
-QQQ10131.	Hall/VdC Norms: Female#0138	actM actA actS actA actM setOQ 
-QQQ10132.	Hall/VdC Norms: Female#0139	actM actP actM actV actC mf2 setIQ 
-QQQ10133.	Hall/VdC Norms: Female#0140	actM actM actS actM setIQ 
-QQQ10134.	Hall/VdC Norms: Female#0141	actM actP actV> actVR actM actS actS setIF 
-QQQ10135.	Hall/VdC Norms: Female#0142	actP actS actM actS actM mf4 setOF setIF 
-QQQ10136.	Hall/VdC Norms: Female#0143	actV actC actM actL actP actP actM mf1 setIF setOU setIQ 
-QQQ10137.	Hall/VdC Norms: Female#0144	actV> actV> actC mf5 setNS 
-QQQ10138.	Hall/VdC Norms: Female#0145	actM mf1 setID setOF actP> actV> actE actS mf5 setIF 
-QQQ10139.	Hall/VdC Norms: Female#0147	actP actM actC setIF 
-QQQ10140.	Hall/VdC Norms: Female#0148	actP actV> actP setAQ 
-QQQ10141.	Hall/VdC Norms: Female#0149	actM actM actC actV actM actP setOD setIQ setOQ 
-QQQ10142.	Hall/VdC Norms: Female#0150	actV> actP> actM setOF 
-QQQ10143.	Hall/VdC Norms: Female#0151	actM actS actV> actP actS actM actV> actP actA actP actS actM actP actM actM actM actP setID 
-QQQ10144.	Hall/VdC Norms: Female#0152	actM actM actV> actVR actVR actVR actS actE setOQ 
-QQQ10145.	Hall/VdC Norms: Female#0153	actS actL actM actM setOQ 
-QQQ10146.	Hall/VdC Norms: Female#0154	actP actP> actM actM actV> actP actP> actPR setIF setOQ 
-QQQ10147.	Hall/VdC Norms: Female#0155	actM actS actS actP actP setIF 
-QQQ10148.	Hall/VdC Norms: Female#0156	actP actV> setIF setOF 
-QQQ10149.	Hall/VdC Norms: Female#0157	actM actP actP actM actL setIQ setOQ 
-QQQ10150.	Hall/VdC Norms: Female#0158	actM actP> actM actP> actL actL actM setIF 
-QQQ10151.	Hall/VdC Norms: Female#0159	actS actV> setIF 
-QQQ10152.	Hall/VdC Norms: Female#0160	actM actS actM actL actS actP> actL actS actP setOG 
-QQQ10153.	Hall/VdC Norms: Female#0161	actP actL actM actV actP actV actP actV> actM actV> actP actL actP setOQ setIF setOQ 
-QQQ10154.	Hall/VdC Norms: Female#0162	actM actV> actP actV> actC actP actV> actVR setOQ setIQ 
-QQQ10155.	Hall/VdC Norms: Female#0163	actM actV> actP actV> actC actP actV> actVR setOQ setIQ 
-QQQ10156.	Hall/VdC Norms: Female#0164	actV actM actM actM actC actP actP actP actV actV> actM actV> actV> actM actP actA setOF setIQ 
-QQQ10157.	Hall/VdC Norms: Female#0165	actP> actP setIQ setOQ 
-QQQ10158.	Hall/VdC Norms: Female#0166	actP= mf1 setIU 
-QQQ10159.	Hall/VdC Norms: Female#0167	actS actP actS actV> actVR setAQ 
-QQQ10160.	Hall/VdC Norms: Female#0168	mf5 gf setIQ 
-QQQ10161.	Hall/VdC Norms: Female#0169	actM actC setOF 
-QQQ10162.	Hall/VdC Norms: Female#0170	actM actC actP setOU 
-QQQ10163.	Hall/VdC Norms: Female#0171	actM actV mf1 setOQ 
-QQQ10164.	Hall/VdC Norms: Female#0172	actS actC actP setIU 
-QQQ10165.	Hall/VdC Norms: Female#0173	actS mf4 setIF 
-QQQ10166.	Hall/VdC Norms: Female#0174	actM actS mf1 setOU 
-QQQ10167.	Hall/VdC Norms: Female#0175	actM mf4 setIU setIF 
-QQQ10168.	Hall/VdC Norms: Female#0176	actP actL actP actL actV> actA actP actS setOQ 
-QQQ10169.	Hall/VdC Norms: Female#0177	actM actM actV> actVR actM actM actP actL actP actA actP actS actV actP actS actM actP mf4 setOQ 
-QQQ10170.	Hall/VdC Norms: Female#0178	actM actV> actVR actP actL actV> actVR actM mf1 setOF 
-QQQ10171.	Hall/VdC Norms: Female#0179	actV= actS actM actV> actV> actVR actV> setIF 
-QQQ10172.	Hall/VdC Norms: Female#0180	actE actS actE actM actV> actV> actE mf6 setIF 
-QQQ10173.	Hall/VdC Norms: Female#0181	actM actS actM actV actC actV> setIQ 
-QQQ10174.	Hall/VdC Norms: Female#0182	actM actS actS actV actE actS mf5 setOD 
-QQQ10175.	Hall/VdC Norms: Female#0183	actM actM actS actV setIF 
-QQQ10176.	Hall/VdC Norms: Female#0184	actV= setAQ 
-QQQ10177.	Hall/VdC Norms: Female#0185	actM actV> actVR actM actP> actP actM setOF setIQ 
-QQQ10178.	Hall/VdC Norms: Female#0186	actS actL actV> actM actM setID setOQ 
-QQQ10179.	Hall/VdC Norms: Female#0187	actL actC actV> actVR actM actL setIU setOQ setIU 
-QQQ10180.	Hall/VdC Norms: Female#0188	actM actM actP> actV> actVR actVR actVR setIQ 
-QQQ10181.	Hall/VdC Norms: Female#0189	actM actP actL actL actP actV> setID 
-QQQ10182.	Hall/VdC Norms: Female#0190	actV> actM actP actM actM actC mf6 setIU setOU 
-QQQ10183.	Hall/VdC Norms: Female#0191	actM actP> actP actP> setID 
-QQQ10184.	Hall/VdC Norms: Female#0192	actV> actVR actC setAQ 
-QQQ10185.	Hall/VdC Norms: Female#0193	actC actV actM actP actV> actVR actM actV> setIF 
-QQQ10186.	Hall/VdC Norms: Female#0194	actL actL actV actP actM actM actS actV setIF setIF setIF 
-QQQ10187.	Hall/VdC Norms: Female#0195	actC actP mf1 setAQ 
-QQQ10188.	Hall/VdC Norms: Female#0196	actL actV> actM actV> setIF 
-QQQ10189.	Hall/VdC Norms: Female#0197	actV> actM setOG 
-QQQ10190.	Hall/VdC Norms: Female#0198	actM actV> actM actA actV> actVR actM actV> actVR actP actM setID 
-QQQ10191.	Hall/VdC Norms: Female#0199	actL actS actM setIF 
-QQQ10192.	Hall/VdC Norms: Female#0200	actV actE actP actV actM actC actS actM setIG setAG 
-QQQ10193.	Hall/VdC Norms: Female#0201	actM actM actP actS actL actP actV> actVR setOQ setIU 
-QQQ10194.	Hall/VdC Norms: Female#0202	actP actS actS actV setOF 
-QQQ10195.	Hall/VdC Norms: Female#0203	actM actV> actM actP actP actM actS actP setIF 
-QQQ10196.	Hall/VdC Norms: Female#0204	actP actC actS actC actV actV mf1 setOF setAQ 
-QQQ10197.	Hall/VdC Norms: Female#0205	actV> mf5 mf5 setIU 
-QQQ10198.	Hall/VdC Norms: Female#0206	actM actL actM actV actS actS setOQ setOU setIU 
-QQQ10199.	Hall/VdC Norms: Female#0207	actM actM actV> actP actV> setIF 
-QQQ10200.	Hall/VdC Norms: Female#0208	actV= actM actP> actE mf5 setIQ 
-QQQ10201.	Hall/VdC Norms: Female#0209	actV> actVR actE setAQ 
-QQQ10202.	Hall/VdC Norms: Female#0210	actP actP actS actP mf6 setOF setAU 
-QQQ10203.	Hall/VdC Norms: Female#0211	actM actV> actVR actV> setAF 
-QQQ10204.	Hall/VdC Norms: Female#0212	actS actV> mf1 setOU 
-QQQ10205.	Hall/VdC Norms: Female#0213	actM actA actV actM actL actP setOF 
-QQQ10206.	Hall/VdC Norms: Female#0214	actM actM actS actC setOG setIQ setOG 
-QQQ10207.	Hall/VdC Norms: Female#0215	actM actM actV> setIF setOF 
-QQQ10208.	Hall/VdC Norms: Female#0216	actS actS actM actL actV> mf1 setIF setOF 
-QQQ10209.	Hall/VdC Norms: Female#0217	actP> actV> actV> actP> actP setIF 
-QQQ10210.	Hall/VdC Norms: Female#0218	actP actP mf5 setIQ 
-QQQ10211.	Hall/VdC Norms: Female#0219	actM actV> actS actV> actVR setIF 
-QQQ10212.	Hall/VdC Norms: Female#0220	actP actC actM actV> actP setIF 
-QQQ10213.	Hall/VdC Norms: Female#0221	actL actL actV> actM actM actV> actVR actL actV= actL setOD setOQ setOD 
-QQQ10214.	Hall/VdC Norms: Female#0222	actS actM actV> actV> setIF 
-QQQ10215.	Hall/VdC Norms: Female#0223	actV> actL actP actS actM setOU setIU 
-QQQ10216.	Hall/VdC Norms: Female#0224	actV> actP actP setIQ 
-QQQ10217.	Hall/VdC Norms: Female#0225	actA actV actV actA actV> actVR actM actS setAG setOG setIQ 
-QQQ10218.	Hall/VdC Norms: Female#0226	actL actM actV> actM actL setOQ 
-QQQ10219.	Hall/VdC Norms: Female#0227	actV actM actM actP actP> mf5 setIQ setIQ 
-QQQ10220.	Hall/VdC Norms: Female#0228	actM actS actM actM actV> actE actM actM actV> actVR actM actM setIQ 
-QQQ10221.	Hall/VdC Norms: Female#0229	actP> actV= actM setOQ setIQ 
-QQQ10222.	Hall/VdC Norms: Female#0230	actA actV actV actP actE actM setIF 
-QQQ10223.	Hall/VdC Norms: Female#0231	actM actP actP actE setIF 
-QQQ10224.	Hall/VdC Norms: Female#0232	actS actM setOQ 
-QQQ10225.	Hall/VdC Norms: Female#0233	actM actP> actV> actVR actVR actVR actV actM actV> actV> setOQ 
-QQQ10226.	Hall/VdC Norms: Female#0234	actA actM actS actP actS actP mf5 mf5 setOF 
-QQQ10227.	Hall/VdC Norms: Female#0235	actM actM actV> actVR actP> actM setIF 
-QQQ10228.	Hall/VdC Norms: Female#0236	actS actM actM actM actM actV> setIQ 
-QQQ10229.	Hall/VdC Norms: Female#0237	actM actE actV actS actV actM actP actV> actE actVR actP actV actL setOU 
-QQQ10230.	Hall/VdC Norms: Female#0238	actM actE actV> actVR actVR actM actV> actE actV> actM actM actE actS actE actM setIF 
-QQQ10231.	Hall/VdC Norms: Female#0239	actM actP actC actS actV actE mf1 setIF 
-QQQ10232.	Hall/VdC Norms: Female#0240	actP> actL actP actM actL actE actV mf5 mf5 setIQ setOU 
-QQQ10233.	Hall/VdC Norms: Female#0241	actP actL actV> actVR setIQ setIF 
-QQQ10234.	Hall/VdC Norms: Female#0242	actV= actA actP actS actV> actP actC mf5 setAQ 
-QQQ10235.	Hall/VdC Norms: Female#0243	actM actP actV> actVR actE setIF 
-QQQ10236.	Hall/VdC Norms: Female#0244	actP> actP> actM actV> actE actP> setIF 
-QQQ10237.	Hall/VdC Norms: Female#0245	actV> actVR actVR actM actP> actV> actVR setOF 
-QQQ10238.	Hall/VdC Norms: Female#0246	actP actM actP actP> actL actL actV> setIQ setAQ 
-QQQ10239.	Hall/VdC Norms: Female#0247	actS actS actM actP setIF 
-QQQ10240.	Hall/VdC Norms: Female#0248	actM actS actS actP> actM mf1 setOQ 
-QQQ10241.	Hall/VdC Norms: Female#0249	actV actM actP> mf5 setAQ 
-QQQ10242.	Hall/VdC Norms: Female#0250	actL actM actS actV= mf1 setOD setIG setOG 
-QQQ10243.	Hall/VdC Norms: Female#0251	actM actP actV> actM actS actV> actVR actC setIU 
-QQQ10244.	Hall/VdC Norms: Female#0252	actL actV> setIF 
-QQQ10245.	Hall/VdC Norms: Female#0253	actP> actV setIU 
-QQQ10246.	Hall/VdC Norms: Female#0254	actM actV> actP actV> actP mf3 setIQ 
-QQQ10247.	Hall/VdC Norms: Female#0255	actS actC actM actM setOQ 
-QQQ10248.	Hall/VdC Norms: Female#0256	actP actM actV> setID 
-QQQ10249.	Hall/VdC Norms: Female#0257	actM actM actP actV> actM actP actV> actP> setOF setIF 
-QQQ10250.	Hall/VdC Norms: Female#0258	actL actC actL setIF setIF 
-QQQ10251.	Hall/VdC Norms: Female#0259	actL actP actS actP actP actL actP gf setOQ setIF setOF 
-QQQ10252.	Hall/VdC Norms: Female#0260	actV> actP actV> setIF 
-QQQ10253.	Hall/VdC Norms: Female#0261	actV> actM actA actP actP actP actC actS actP actS setIF 
-QQQ10254.	Hall/VdC Norms: Female#0262	actS actP actA actS actP actV actV actP actE actV actM actM actV actV> actP setOG 
-QQQ10255.	Hall/VdC Norms: Female#0263	actV actM actP setIF 
-QQQ10256.	Hall/VdC Norms: Female#0264	actV> setID 
-QQQ10257.	Hall/VdC Norms: Female#0265	actP actS actP actP actC setIQ 
-QQQ10258.	Hall/VdC Norms: Female#0266	actL actP mf3 setOQ 
-QQQ10259.	Hall/VdC Norms: Female#0267	actV= actS actV> actVR actV= setIQ 
-QQQ10260.	Hall/VdC Norms: Female#0268	gf setAQ 
-QQQ10261.	Hall/VdC Norms: Female#0269	actV actS actM actP actS actE actP> actV> actM actM actM setIU 
-QQQ10262.	Hall/VdC Norms: Female#0270	actA actM actA actM actM actS setIF 
-QQQ10263.	Hall/VdC Norms: Female#0271	actP= actM actM setOQ 
-QQQ10264.	Hall/VdC Norms: Female#0272	actL actV> setAQ 
-QQQ10265.	Hall/VdC Norms: Female#0273	actV actM setAG setIQ 
-QQQ10266.	Hall/VdC Norms: Female#0274	actL actV actV mf3 mf6 mf5 mf2 setOQ 
-QQQ10267.	Hall/VdC Norms: Female#0275	actM actV> actVR actL actV> actL actV> setOQ setIU 
-QQQ10268.	Hall/VdC Norms: Female#0276	actM actS actP setIQ 
-QQQ10269.	Hall/VdC Norms: Female#0277	actM actV> actM actV> actM actV> setIQ 
-QQQ10270.	Hall/VdC Norms: Female#0278	actP> mf4 setIQ 
-QQQ10271.	Hall/VdC Norms: Female#0279	actP> actM mf5 setIQ 
-QQQ10272.	Hall/VdC Norms: Female#0280	actM actM setOF 
-QQQ10273.	Hall/VdC Norms: Female#0281	actV actV actV> actVR gf setIQ 
-QQQ10274.	Hall/VdC Norms: Female#0282	actM actS setAQ 
-QQQ10275.	Hall/VdC Norms: Female#0283	gf setIF 
-QQQ10276.	Hall/VdC Norms: Female#0284	actV setAQ 
-QQQ10277.	Hall/VdC Norms: Female#0285	actM actE setIQ 
-QQQ10278.	Hall/VdC Norms: Female#0286	actA actV> actM actV> actM actV> actM actM setIU setOU 
-QQQ10279.	Hall/VdC Norms: Female#0287	actP actV> actV> setIQ 
-QQQ10280.	Hall/VdC Norms: Female#0288	actL actL actM actP mf1 mf4 setOF setOF 
-QQQ10281.	Hall/VdC Norms: Female#0289	actM actP actV> actM actV> actV= actVR setID 
-QQQ10282.	Hall/VdC Norms: Female#0290	actM actS actM actL actS actP> actP> actM actM actV> setOQ 
-QQQ10283.	Hall/VdC Norms: Female#0291	actM actV> actM actM actV> actM actM setOQ setIU 
-QQQ10284.	Hall/VdC Norms: Female#0292	actL actM actV> actP actM actM actV> mf5 setOF 
-QQQ10285.	Hall/VdC Norms: Female#0293	actS actC actV> mf3 mf1 setOQ 
-QQQ10286.	Hall/VdC Norms: Female#0294	actV> actVR mf5 setIF 
-QQQ10287.	Hall/VdC Norms: Female#0295	actS actM actC actV actV> actVR actP> setIQ 
-QQQ10288.	Hall/VdC Norms: Female#0296	actM actS actM actS actL actM actV> actE mf3 mf1 setOQ setIU setIF 
-QQQ10289.	Hall/VdC Norms: Female#0297	actL actV> actVR actL actM actV> setIQ setID setIQ 
-QQQ10290.	Hall/VdC Norms: Female#0298	actP actM actV> actV= actE mf6 setIQ setOQ 
-QQQ10291.	Hall/VdC Norms: Female#0299	actM actM actM gf setIQ setOF 
-QQQ10292.	Hall/VdC Norms: Female#0300	actM actM actV> actS actM setOQ 
-QQQ10293.	Hall/VdC Norms: Female#0301	actL actV> actM actL actV> setIU setIU 
-QQQ10294.	Hall/VdC Norms: Female#0302	actP actM actS actP actS setIF setIF 
-QQQ10295.	Hall/VdC Norms: Female#0303	actC actM setIU 
-QQQ10296.	Hall/VdC Norms: Female#0304	actS actV> actVR actC actL actP setAQ setIF 
-QQQ10297.	Hall/VdC Norms: Female#0306	actM actM actS actV> actM setID 
-QQQ10298.	Hall/VdC Norms: Female#0307	actM actM actV> actM actV actC gf setIQ 
-QQQ10299.	Hall/VdC Norms: Female#0308	actE actV> actL actC actS actM setOQ setOF 
-QQQ10300.	Hall/VdC Norms: Female#0309	actV> actV> actP actV> actM actP> actP actC setOF 
-QQQ10301.	Hall/VdC Norms: Female#0310	actM actE actV actS actP actM actP> actV> setIF 
-QQQ10302.	Hall/VdC Norms: Female#0311	actC actS mf1 setIQ setOD setIQ setOD 
-QQQ10303.	Hall/VdC Norms: Female#0312	actM actL actV> actL actS mf1 setOG 
-QQQ10304.	Hall/VdC Norms: Female#0313	actS actM actV> actM actP actS actM actM actV actV actL setIQ setOQ 
-QQQ10305.	Hall/VdC Norms: Female#0314	actM actC actS setOQ 
-QQQ10306.	Hall/VdC Norms: Female#0315	actM actM actL actS actP actV> actL mf4 setAD setIF setOQ 
-QQQ10307.	Hall/VdC Norms: Female#0316	actP actA setIF 
-QQQ10308.	Hall/VdC Norms: Female#0317	actM actV actL actV> actVR mf3 setOQ 
-QQQ10309.	Hall/VdC Norms: Female#0318	actV> actC actC actV> actVR actV> actV> actV> actC setAQ 
-QQQ10310.	Hall/VdC Norms: Female#0319	actM actV> actV> actV> actC actC setAQ 
-QQQ10311.	Hall/VdC Norms: Female#0320	actV> actVR actV> actVR actP actV> actVR actP> setAQ 
-QQQ10312.	Hall/VdC Norms: Female#0321	actV> actP actV= actV> actVR setOQ 
-QQQ10313.	Hall/VdC Norms: Female#0322	actL actV> actS actL actV> actC setIF 
-QQQ10314.	Hall/VdC Norms: Female#0323	actM actS actM actS actM actM actC setID 
-QQQ10315.	Hall/VdC Norms: Female#0324	actS actS actC actC actP actC actM actC setIQ 
-QQQ10316.	Hall/VdC Norms: Female#0325	actL actC actM actS actV actM actM actL setIF 
-QQQ10317.	Hall/VdC Norms: Female#0326	actV> actM actM actP actV> actP> actP actM actP actV> actS actS actM setIU 
-QQQ10318.	Hall/VdC Norms: Female#0327	actV> actL setID 
-QQQ10319.	Hall/VdC Norms: Female#0328	actP actV actC mf6 mf6 setOQ 
-QQQ10320.	Hall/VdC Norms: Female#0330	actV actV actV actV> actVR actVR setIF 
-QQQ10321.	Hall/VdC Norms: Female#0331	actM actV> actP> actV> actE actP actM actV actM actS actM mf3 mf3 mf3 setID 
-QQQ10322.	Hall/VdC Norms: Female#0332	actM actS actV> actM actV> actL actC setIF 
-QQQ10323.	Hall/VdC Norms: Female#0333	actM actM actV> actM actP> actL actV actP actV> actVR actVR actM actC mf1 setOF setIU 
-QQQ10324.	Hall/VdC Norms: Female#0334	actM actP actS actM actP> actP= actV> actVR actM actS actM setIQ 
-QQQ10325.	Hall/VdC Norms: Female#0335	actM actS actL actE actP> actS actC setIQ setIQ 
-QQQ10326.	Hall/VdC Norms: Female#0336	actL actE actP actS actV> actVR setOQ 
-QQQ10327.	Hall/VdC Norms: Female#0337	actL actS actP mf1 setIQ 
-QQQ10328.	Hall/VdC Norms: Female#0338	actP actL actP actM actL actM actP mf1 mf4 mf4 mf1 setOQ setOF setIF 
-QQQ10329.	Hall/VdC Norms: Female#0339	actV> actM actM actM actP> setIQ setID 
-QQQ10330.	Hall/VdC Norms: Female#0340	actS actL actL actV> actC setAF 
-QQQ10331.	Hall/VdC Norms: Female#0341	actL actS actV> actP actE mf4 setIQ 
-QQQ10332.	Hall/VdC Norms: Female#0342	actM actM actS actV actP actP actC actP> actS setIQ 
-QQQ10333.	Hall/VdC Norms: Female#0343	actM actP actP actL actP actM actC actV> actP setOF 
-QQQ10334.	Hall/VdC Norms: Female#0344	actP actM actV actC setIF 
-QQQ10335.	Hall/VdC Norms: Female#0345	actV> actM actV actC actV> actP setIQ 
-QQQ10336.	Hall/VdC Norms: Female#0348	actP actM actC actP actM actV> mf1 setIQ 
-QQQ10337.	Hall/VdC Norms: Female#0349	actS actC actM actV> actV= actS actC actV> actM actV actV> mf1 setIF 
-QQQ10338.	Hall/VdC Norms: Female#0350	actP actP actM actL actV actP mf1 setIQ setOQ 
-QQQ10339.	Hall/VdC Norms: Female#0351	actL actM actS actV> actM setOF setIF 
-QQQ10340.	Hall/VdC Norms: Female#0352	actM actP> actL actP actM actV> actS actM actM actV> setOQ setIQ 
-QQQ10341.	Hall/VdC Norms: Female#0355	actL actS actV> actM actP actS actV> setOQ 
-QQQ10342.	Hall/VdC Norms: Female#0356	actS actP> actV setAQ 
-QQQ10343.	Hall/VdC Norms: Female#0357	actV> actP actV> actV> actC actV> actL actP mf6 mf1 setIQ 
-QQQ10344.	Hall/VdC Norms: Female#0358	actP> actP actV> actC mf6 setIQ 
-QQQ10345.	Hall/VdC Norms: Female#0359	actV actV> actVR actS actC actV actP actP actV> setOU 
-QQQ10346.	Hall/VdC Norms: Female#0360	actL actV> actVR actM actS mf4 setOQ 
-QQQ10347.	Hall/VdC Norms: Female#0361	actL actV> actM actV> actS actP> actS actM actP actE mf4 mf5 setOF setIF 
-QQQ10348.	Hall/VdC Norms: Female#0362	actM actS actM actP> actM actM mf3 setOD 
-QQQ10349.	Hall/VdC Norms: Female#0363	actP> actM actV actP> actE setOQ 
-QQQ10350.	Hall/VdC Norms: Female#0364	actA setIF 
-QQQ10351.	Hall/VdC Norms: Female#0365	actM actM actP> actP> actPR actV actS actM actM actV> actV> actE mf5 setIF setOF setIQ 
-QQQ10352.	Hall/VdC Norms: Female#0369	actM actP> setOQ 
-QQQ10353.	Hall/VdC Norms: Female#0370	actV> actL actP actV> actM actP actL actV> actM actC setIF setIF setIF 
-QQQ10354.	Hall/VdC Norms: Female#0371	actS actM mf1 mf5 setIQ 
-QQQ10355.	Hall/VdC Norms: Female#0372	actL actL mf6 setOF 
-QQQ10356.	Hall/VdC Norms: Female#0373	actL actP> setIF 
-QQQ10357.	Hall/VdC Norms: Female#0374	actL actS actM actV> setID 
-QQQ10358.	Hall/VdC Norms: Female#0375	actC actM actV> mf1 setIF 
-QQQ10359.	Hall/VdC Norms: Female#0376	actE actV> mf5 mf1 setIF 
-QQQ10360.	Hall/VdC Norms: Female#0377	actC actM actP actV> actVR actV setIF 
-QQQ10361.	Hall/VdC Norms: Female#0378	actP actL actV> actV> mf5 setOD 
-QQQ10362.	Hall/VdC Norms: Female#0379	gf setAQ 
-QQQ10363.	Hall/VdC Norms: Female#0380	actE actC actM actL mf1 setAF setOF 
-QQQ10364.	Hall/VdC Norms: Female#0381	actL actM actL actV> mf4 mf3 setOG 
-QQQ10365.	Hall/VdC Norms: Female#0382	actM actM setOU setIU 
-QQQ10366.	Hall/VdC Norms: Female#0383	actM actM actM actS actC mf4 mf3 setOQ 
-QQQ10367.	Hall/VdC Norms: Female#0384	actL actS actM actA actV actM actS actE actP> actM setOU 
-QQQ10368.	Hall/VdC Norms: Female#0385	actM actM actS mf1 setOF 
-QQQ10369.	Hall/VdC Norms: Female#0386	actV> actVR actL actP actP actV> actC actV> mf5 setOQ 
-QQQ10370.	Hall/VdC Norms: Female#0387	actS actL actM actM actM actM mf5 mf5 setOF setIF 
-QQQ10371.	Hall/VdC Norms: Female#0388	actL actM actV> actVR setAQ 
-QQQ10372.	Hall/VdC Norms: Female#0389	actL actV> actM actL mf4 setIF 
-QQQ10373.	Hall/VdC Norms: Female#0390	actS actV> actP actM gf setIQ 
-QQQ10374.	Hall/VdC Norms: Female#0391	actM actS actM actS actP actS mf2 mf3 setOQ setOF 
-QQQ10375.	Hall/VdC Norms: Female#0392	actM actS actM actE actP mf1 setIQ 
-QQQ10376.	Hall/VdC Norms: Female#0393	actL actS actV> actS actM mf1 gf setOF 
-QQQ10377.	Hall/VdC Norms: Female#0394	actP> actE setID 
-QQQ10378.	Hall/VdC Norms: Female#0395	actV> actS setIQ 
-QQQ10379.	Hall/VdC Norms: Female#0396	actS actC actM actC mf6 setIF 
-QQQ10380.	Hall/VdC Norms: Female#0397	actL actS actV actV> actV> actV> setOF setOQ 
-QQQ10381.	Hall/VdC Norms: Female#0398	actV> actL actC mf6 setAQ 
-QQQ10382.	Hall/VdC Norms: Female#0399	actS actL actV> gf setIQ 
-QQQ10383.	Hall/VdC Norms: Female#0400	actP actL actS actS actP actM actM actC mf1 setIF 
-QQQ10384.	Hall/VdC Norms: Female#0401	actS actM actP actP= actM mf1 setIF 
-QQQ10385.	Hall/VdC Norms: Female#0402	actV> actS mf4 setIF 
-QQQ10386.	Hall/VdC Norms: Female#0403	actS actM actS actV> actV= actE actM actL actV mf1 setIF setIF setIF 
-QQQ10387.	Hall/VdC Norms: Female#0404	actL actE actE actS actE actM actP actM mf4 mf1 setOF 
-QQQ10388.	Hall/VdC Norms: Female#0405	actM actM actE mf5 mf5 setOQ 
-QQQ10389.	Hall/VdC Norms: Female#0406	actM actS actV actV setOQ 
-QQQ10390.	Hall/VdC Norms: Female#0407	actV> actP> actV> mf5 setAQ 
-QQQ10391.	Hall/VdC Norms: Female#0408	actL actP actM actV> actVR mf1 setOF setIF 
-QQQ10392.	Hall/VdC Norms: Female#0409	actL actS actM actV> actVR actVR setOQ 
-QQQ10393.	Hall/VdC Norms: Female#0410	actM actV> actS actC setIF 
-QQQ10394.	Hall/VdC Norms: Female#0411	actL actL mf1 setAG 
-QQQ10395.	Hall/VdC Norms: Female#0412	actL actM actM mf4 mf1 setOQ 
-QQQ10396.	Hall/VdC Norms: Female#0413	actM actV> actV mf3 mf4 setIF 
-QQQ10397.	Hall/VdC Norms: Female#0414	actP actL actP mf3 mf4 setOF 
-QQQ10398.	Hall/VdC Norms: Female#0415	actS actL actV actL actV> actM mf5 mf6 mf5 setOQ setIQ 
-QQQ10399.	Hall/VdC Norms: Female#0416	actP actV> actM actS actS actP> setAQ 
-QQQ10400.	Hall/VdC Norms: Female#0417	actV actS actM actV> actP actP actM setIQ setOQ setIQ setOQ 
-QQQ10401.	Hall/VdC Norms: Female#0418	actL actM actV> mf3 setOQ setOQ 
-QQQ10402.	Hall/VdC Norms: Female#0419	actL actM actS actV> actVR mf4 setOF setIF 
-QQQ10403.	Hall/VdC Norms: Female#0420	actL actM actS actP actP actS actM mf1 mf1 setIQ setOQ 
-QQQ10404.	Hall/VdC Norms: Female#0421	actM actP mf4 mf5 setIF 
-QQQ10405.	Hall/VdC Norms: Female#0422	actL actP mf4 gf setOQ 
-QQQ10406.	Hall/VdC Norms: Female#0423	actP setIF 
-QQQ10407.	Hall/VdC Norms: Female#0424	actM mf3 setOQ 
-QQQ10408.	Hall/VdC Norms: Female#0425	actS actV> actP actP actV> actP> actM setOQ 
-QQQ10409.	Hall/VdC Norms: Female#0426	actM actP actL setOQ setOQ 
-QQQ10410.	Hall/VdC Norms: Female#0427	actM actP actV> actVR actP setIQ 
-QQQ10411.	Hall/VdC Norms: Female#0428	actL actL actM actL actP setOQ setIQ 
-QQQ10412.	Hall/VdC Norms: Female#0429	actM actP> setOQ 
-QQQ10413.	Hall/VdC Norms: Female#0430	actV> actVR actL setIF setOF 
-QQQ10414.	Hall/VdC Norms: Female#0431	setOQ setIQ 
-QQQ10415.	Hall/VdC Norms: Female#0432	actM actL actP actS actL mf3 setOG 
-QQQ10416.	Hall/VdC Norms: Female#0433	actM actM actV> actL actS actM actE setIF 
-QQQ10417.	Hall/VdC Norms: Female#0434	actM actV> actS actS actM mf1 setOD 
-QQQ10418.	Hall/VdC Norms: Female#0435	actM actV> actVR actP actM setIF 
-QQQ10419.	Hall/VdC Norms: Female#0436	actL setAQ 
-QQQ10420.	Hall/VdC Norms: Female#0437	actM actS actP setOF setIF 
-QQQ10421.	Hall/VdC Norms: Female#0438	actM actM actL actL actM actM mf3 setOQ 
-QQQ10422.	Hall/VdC Norms: Female#0439	actV actS setIU 
-QQQ10423.	Hall/VdC Norms: Female#0440	actM actM gf setAQ 
-QQQ10424.	Hall/VdC Norms: Female#0441	actV setIU 
-QQQ10425.	Hall/VdC Norms: Female#0442	actM actM actC actP actV mf1 setIQ setAQ 
-QQQ10426.	Hall/VdC Norms: Female#0443	actM actL actL actP> actM actL setAQ 
-QQQ10427.	Hall/VdC Norms: Female#0444	actL actP actS actS actV> actVR setOQ setIQ 
-QQQ10428.	Hall/VdC Norms: Female#0445	actV actM actP actS setIF 
-QQQ10429.	Hall/VdC Norms: Female#0446	actC setIQ 
-QQQ10430.	Hall/VdC Norms: Female#0447	actP actP> actV> actVR setAQ 
-QQQ10431.	Hall/VdC Norms: Female#0448	actP> actM actE actS actS actV> setIQ setOQ 
-QQQ10432.	Hall/VdC Norms: Female#0449	actM actP actS actM actV> actM actV> setOQ 
-QQQ10433.	Hall/VdC Norms: Female#0450	actM actM actM actV> actP mf1 setOF 
-QQQ10434.	Hall/VdC Norms: Female#0451	actM actP actM actV> setOF 
-QQQ10435.	Hall/VdC Norms: Female#0452	actM actS actS actP setOQ 
-QQQ10436.	Hall/VdC Norms: Female#0453	actM actM actM actP> actM setOQ 
-QQQ10437.	Hall/VdC Norms: Female#0454	actL actP actS actM actM actS actC setOQ 
-QQQ10438.	Hall/VdC Norms: Female#0455	actM actS actL actM actV> actP> actV> actP> mf1 mf1 setID 
-QQQ10439.	Hall/VdC Norms: Female#0456	actP actV> actM mf4 setIQ 
-QQQ10440.	Hall/VdC Norms: Female#0457	actP actV> actP actL actP actL mf3 setOG 
-QQQ10441.	Hall/VdC Norms: Female#0458	actC actM actV> actA actV actP actV> mf1 setIF 
-QQQ10442.	Hall/VdC Norms: Female#0459	actP actP actM actM actV> actA actV> setIQ 
-QQQ10443.	Hall/VdC Norms: Female#0460	actV> actS actE actC setIU 
-QQQ10444.	Hall/VdC Norms: Female#0461	actM actS actS mf2 setAQ 
-QQQ10445.	Hall/VdC Norms: Female#0462	actM actV> actM actP actM actV> setIF 
-QQQ10446.	Hall/VdC Norms: Female#0463	actM actS actP= actM actS setOF 
-QQQ10447.	Hall/VdC Norms: Female#0464	actM actS actA actM actM actS actV> actE mf4 gf setOF setOU 
-QQQ10448.	Hall/VdC Norms: Female#0465	actV actM actV mf2 mf3 setOU setIU 
-QQQ10449.	Hall/VdC Norms: Female#0466	actM actM actM actS mf1 setOQ 
-QQQ10450.	Hall/VdC Norms: Female#0467	actM actS actM setIQ 
-QQQ10451.	Hall/VdC Norms: Female#0468	actV actE actL actV> setOQ 
-QQQ10452.	Hall/VdC Norms: Female#0469	actM actV> actM actP actV> actV= mf1 setIQ setOF 
-QQQ10453.	Hall/VdC Norms: Female#0470	actS actC actM actP> setOQ 
-QQQ10454.	Hall/VdC Norms: Female#0471	actV> actM actP actS actV> actP actE setID setOU 
-QQQ10455.	Hall/VdC Norms: Female#0472	actM actS actS actP actM actS actP setOQ 
-QQQ10456.	Hall/VdC Norms: Female#0473	actM actP actS actP> actP actM actM actS actP> mf5 setIF setOF 
-QQQ10457.	Hall/VdC Norms: Female#0474	actP actS actS actE actV actV> mf4 setAF 
-QQQ10458.	Hall/VdC Norms: Female#0475	actP actM actS actM setIF setOF 
-QQQ10459.	Hall/VdC Norms: Female#0476	actM actS actS actS gf setIU 
-QQQ10460.	Hall/VdC Norms: Female#0477	actM actA actP actM mf3 mf3 mf3 setOU 
-QQQ10461.	Hall/VdC Norms: Female#0478	actP> actM setIF 
-QQQ10462.	Hall/VdC Norms: Female#0479	actM actM gf setOQ 
-QQQ10463.	Hall/VdC Norms: Female#0480	mf1 setOQ 
-QQQ10464.	Hall/VdC Norms: Female#0481	actS actE actV actM actM actP actP actP> setIQ 
-QQQ10465.	Hall/VdC Norms: Female#0482	actV actS setIQ 
-QQQ10466.	Hall/VdC Norms: Female#0483	actP actM actV actE actV> setIQ setIQ 
-QQQ10467.	Hall/VdC Norms: Female#0484	actM actS actS actM actP actS setOQ setIQ 
-QQQ10468.	Hall/VdC Norms: Female#0485	actS actM actV> actVR actP actM setIQ setOQ setIQ 
-QQQ10469.	Hall/VdC Norms: Female#0486	actV> actV> actV> mf4 setIF setIF 
-QQQ10470.	Hall/VdC Norms: Female#0487	actP actS actP> actM actM actP mf4 setIF 
-QQQ10471.	Hall/VdC Norms: Female#0488	actV> actVR actM actP> actM actS actE actM setIF setOF 
-QQQ10472.	Hall/VdC Norms: Female#0489	actP actC actP actP> actP> actP> mf5 setIF 
-QQQ10473.	Hall/VdC Norms: Female#0490	actS actV actC actS setIF 
-QQQ10474.	Hall/VdC Norms: Female#0491	actP actC actP setIQ 
-QQQ10475.	Hall/VdC Norms: Female#0492	actS actS actM actC mf1 setOF setIF 
-QQQ10476.	Hall/VdC Norms: Female#0493	actS actM actV> actVR actP actV mf1 setIF 
-QQQ10477.	Hall/VdC Norms: Female#0494	actS actV actM actS actS actC actS mf1 setIF 
-QQQ10478.	Hall/VdC Norms: Female#0495	actC actL actP> setIF 
-QQQ10479.	Hall/VdC Norms: Female#0496	setAF setIQ 
-QQQ10480.	Hall/VdC Norms: Female#0497	actM setOU 
-QQQ10481.	Hall/VdC Norms: Female#0498	actL actM gf setOQ 
-QQQ10482.	Hall/VdC Norms: Female#0499	actV> actVR actM actP setIF 
-QQQ10483.	Hall/VdC Norms: Female#0500	actS actV> setIQ setOQ 
-QQQ10484.	Hall/VdC Norms: Male#0001	actV> actV> setID 
-QQQ10485.	Hall/VdC Norms: Male#0002	actP actS setIQ 
-QQQ10486.	Hall/VdC Norms: Male#0003	actV= actP actM actS actS actV actP mf5 setIF setOF 
-QQQ10487.	Hall/VdC Norms: Male#0004	actM actP actM mf5 setIF 
-QQQ10488.	Hall/VdC Norms: Male#0005	actV actM actP actS setIQ 
-QQQ10489.	Hall/VdC Norms: Male#0006	actM actC actA actV actP actS actS actE actM setOU 
-QQQ10490.	Hall/VdC Norms: Male#0007	actM actV> actP mf4 setOU 
-QQQ10491.	Hall/VdC Norms: Male#0008	actP setIQ 
-QQQ10492.	Hall/VdC Norms: Male#0009	actM actV> actM actM actS actP actM actV> actM setOU 
-QQQ10493.	Hall/VdC Norms: Male#0010	actV actM actV> actP setOU 
-QQQ10494.	Hall/VdC Norms: Male#0011	actV> actV> actL setIG setOG 
-QQQ10495.	Hall/VdC Norms: Male#0012	actV> actVr actP actS actV> actP= setIF setIF 
-QQQ10496.	Hall/VdC Norms: Male#0013	actL actP actV> actP actP> actP setOF 
-QQQ10497.	Hall/VdC Norms: Male#0014	actM actV mf1 setOF 
-QQQ10498.	Hall/VdC Norms: Male#0015	actM actM actV> actL actP> actC actM actS actM actV> actVr mf3 setOQ setIQ setOQ 
-QQQ10499.	Hall/VdC Norms: Male#0016	setIQ 
-QQQ10500.	Hall/VdC Norms: Male#0017	actM actP= actP> setIQ 
-QQQ10501.	Hall/VdC Norms: Male#0018	actL actP actS actP> actL actP> actV> actP actL actM mf6 setOU 
-QQQ10502.	Hall/VdC Norms: Male#0019	actP actM setIF 
-QQQ10503.	Hall/VdC Norms: Male#0020	actL actM actM actM actC setOG setIG 
+QQQ10484.	Hall/VdC Norms: Male#0001	actV> actV> emoAP setID objAV 
+QQQ10485.	Hall/VdC Norms: Male#0002	actP actS setIQ objAE objHH objFO objFO 
+QQQ10486.	Hall/VdC Norms: Male#0003	actV= actP actM actS actS actV actP mf5 setIF setOF objTR objAR objST objBH 
+QQQ10487.	Hall/VdC Norms: Male#0004	actM actP actM mf5 setIF objAD objIW objIW objBT objBA objAR objCL 
+QQQ10488.	Hall/VdC Norms: Male#0005	actV actM actP actS setIQ objAE objAE objAE objAD 
+QQQ10489.	Hall/VdC Norms: Male#0006	actM actC actA actV actP actS actS actE actM emoAN setOU objAR objNA objST objBH 
+QQQ10490.	Hall/VdC Norms: Male#0007	actM actV> actP mf4 emoHA setOU objST objCL objMS 
+QQQ10491.	Hall/VdC Norms: Male#0008	actP emoHA setIQ objCL objAE objFO 
+QQQ10492.	Hall/VdC Norms: Male#0009	actM actV> actM actM actS actP actM actV> actM emoAP setOU objNA objNA objNA objBT 
+QQQ10493.	Hall/VdC Norms: Male#0010	actV actM actV> actP setOU objNA objNA objNA objNA objNA objNA objBT 
+QQQ10494.	Hall/VdC Norms: Male#0011	actV> actV> actL setIG setOG objBH objHH objNA objHH objHH objHH objAR objAD objAR 
+QQQ10495.	Hall/VdC Norms: Male#0012	actV> actVr actP actS actV> actP= emoAP setIF setIF objAE objAD 
+QQQ10496.	Hall/VdC Norms: Male#0013	actL actP actV> actP actP> actP setOF objTR objAV objAV objCM objMO objTR 
+QQQ10497.	Hall/VdC Norms: Male#0014	actM actV mf1 emoCO emoAN setOF objTR objAV 
+QQQ10498.	Hall/VdC Norms: Male#0015	actM actM actV> actL actP> actC actM actS actM actV> actVr mf3 setOQ setIQ setOQ objNA objNA objNA objAD objNA objAR 
+QQQ10499.	Hall/VdC Norms: Male#0016	setIQ objAV objCL 
+QQQ10500.	Hall/VdC Norms: Male#0017	actM actP= actP> setIQ objCL objAR objHH 
+QQQ10501.	Hall/VdC Norms: Male#0018	actL actP actS actP> actL actP> actV> actP actL actM mf6 setOU objTR objBE objNA objST objCM 
+QQQ10502.	Hall/VdC Norms: Male#0019	actP actM emoCO setIF objAR objCM objCM objCM objCM 
+QQQ10503.	Hall/VdC Norms: Male#0020	actL actM actM actM actC setOG setIG objTR objTR objTR objIT objAR 
 QQQ10504.	Hall/VdC Norms: Male#0021	actV> setNS 
-QQQ10505.	Hall/VdC Norms: Male#0022	actC actM actV> setNS 
+QQQ10505.	Hall/VdC Norms: Male#0022	actC actM actV> setNS objCM 
 QQQ10506.	Hall/VdC Norms: Male#0023	actL setOQ 
-QQQ10507.	Hall/VdC Norms: Male#0024	actM actS actM actM actS actV> actP setOU 
-QQQ10508.	Hall/VdC Norms: Male#0025	actM actM setOF 
-QQQ10509.	Hall/VdC Norms: Male#0026	actM actS actC actV= setOF 
-QQQ10510.	Hall/VdC Norms: Male#0027	actL actM actS actM actS actP> actP actM setOU setOU 
-QQQ10511.	Hall/VdC Norms: Male#0028	actP actM actM actP actP> actM mf5 setIU setOU 
-QQQ10512.	Hall/VdC Norms: Male#0029	actC actP actM mf3 setIU 
-QQQ10513.	Hall/VdC Norms: Male#0030	actM actS actE setIU 
-QQQ10514.	Hall/VdC Norms: Male#0031	actM actS actM actS actP actS actP actM gf setOQ 
-QQQ10515.	Hall/VdC Norms: Male#0032	actM actA actV> actS actM setOQ 
-QQQ10516.	Hall/VdC Norms: Male#0033	actM actM setAU 
-QQQ10517.	Hall/VdC Norms: Male#0034	actP actV> actM actP actP> actP actM setOF 
-QQQ10518.	Hall/VdC Norms: Male#0035	actP actP actP mf5 setIQ 
-QQQ10519.	Hall/VdC Norms: Male#0036	actS actC actS actM actS actM actV mf1 setIU 
-QQQ10520.	Hall/VdC Norms: Male#0037	actM actS actP> actP actP> actC mf1 setOU 
-QQQ10521.	Hall/VdC Norms: Male#0038	actL actS actP actM actS mf1 setOF 
-QQQ10522.	Hall/VdC Norms: Male#0039	actM actS actC actM actV> actM actP> actV> setIQ 
-QQQ10523.	Hall/VdC Norms: Male#0040	actL actP actP mf1 gf setOQ 
-QQQ10524.	Hall/VdC Norms: Male#0041	actL actV> actL actP> actP setIQ setAQ setOQ 
-QQQ10525.	Hall/VdC Norms: Male#0042	actV> mf1 setIF 
-QQQ10526.	Hall/VdC Norms: Male#0043	actL actV= actS actM setIF 
-QQQ10527.	Hall/VdC Norms: Male#0044	actA actS actM actM actM actP actM actS actM mf6 setIQ 
-QQQ10528.	Hall/VdC Norms: Male#0045	actS actP actV> actM mf1 setIF 
-QQQ10529.	Hall/VdC Norms: Male#0046	actM actP actV actE actP actM actS mf5 gf setIQ 
-QQQ10530.	Hall/VdC Norms: Male#0047	actM actS actM actV= actM setIQ 
-QQQ10531.	Hall/VdC Norms: Male#0048	setNS 
-QQQ10532.	Hall/VdC Norms: Male#0049	actM actM actV> actVr actP> setIF 
-QQQ10533.	Hall/VdC Norms: Male#0050	actM actP actV> actS setOQ 
-QQQ10534.	Hall/VdC Norms: Male#0051	actM actS actS mf5 setOU 
-QQQ10535.	Hall/VdC Norms: Male#0052	actP> actS actE actS setIQ 
-QQQ10536.	Hall/VdC Norms: Male#0053	actP> actP actM actV setIU 
-QQQ10537.	Hall/VdC Norms: Male#0054	actS actP actM actE mf4 setOQ 
-QQQ10538.	Hall/VdC Norms: Male#0055	actL actP actL actP actL actP actS mf4 setOQ 
-QQQ10539.	Hall/VdC Norms: Male#0056	actM actS actP setIF setOG setOF setOG setIF 
-QQQ10540.	Hall/VdC Norms: Male#0057	actP actM actP actM actM actM setIF setOQ 
-QQQ10541.	Hall/VdC Norms: Male#0058	actV actM actV> actP> actM setOU 
-QQQ10542.	Hall/VdC Norms: Male#0059	actS actM actM actV actP actM actS setIF setOF 
-QQQ10543.	Hall/VdC Norms: Male#0060	actV= mf6 setOG 
-QQQ10544.	Hall/VdC Norms: Male#0061	actC actS actV mf4 setNS 
-QQQ10545.	Hall/VdC Norms: Male#0062	actS setAQ 
-QQQ10546.	Hall/VdC Norms: Male#0063	actS setIU 
+QQQ10507.	Hall/VdC Norms: Male#0024	actM actS actM actM actS actV> actP setOU objAR objRG objAD 
+QQQ10508.	Hall/VdC Norms: Male#0025	actM actM setOF objRG 
+QQQ10509.	Hall/VdC Norms: Male#0026	actM actS actC actV= emoCO setOF objRG objTR objTR 
+QQQ10510.	Hall/VdC Norms: Male#0027	actL actM actS actM actS actP> actP actM emoAP emoAP setOU setOU objTR objST objNA objIW objIW objST 
+QQQ10511.	Hall/VdC Norms: Male#0028	actP actM actM actP actP> actM mf5 setIU setOU objAR objST objAD objBE 
+QQQ10512.	Hall/VdC Norms: Male#0029	actC actP actM mf3 setIU objAD objAR 
+QQQ10513.	Hall/VdC Norms: Male#0030	actM actS actE setIU objAR objAR objAD objAD 
+QQQ10514.	Hall/VdC Norms: Male#0031	actM actS actM actS actP actS actP actM gf setOQ objTR objCL objTR objST objMO objST objMO 
+QQQ10515.	Hall/VdC Norms: Male#0032	actM actA actV> actS actM setOQ objNA objNA 
+QQQ10516.	Hall/VdC Norms: Male#0033	actM actM setAU objRG objBH objBH 
+QQQ10517.	Hall/VdC Norms: Male#0034	actP actV> actM actP actP> actP actM emoHA setOF objCM objCM objST objAR objAR 
+QQQ10518.	Hall/VdC Norms: Male#0035	actP actP actP mf5 setIQ objHH objBH objBH objBA objHH objBE objBH objBA objHH 
+QQQ10519.	Hall/VdC Norms: Male#0036	actS actC actS actM actS actM actV mf1 emoCO setIU objCL objCL objCL objTR objTR 
+QQQ10520.	Hall/VdC Norms: Male#0037	actM actS actP> actP actP> actC mf1 emoCO setOU objCL objCL objBE objBE objCL objTR objST objRG objIR objMS 
+QQQ10521.	Hall/VdC Norms: Male#0038	actL actS actP actM actS mf1 setOF objAV objAD objTR objST objTR 
+QQQ10522.	Hall/VdC Norms: Male#0039	actM actS actC actM actV> actM actP> actV> emoCO setIQ objAV objBE objAB objAB objCM objAR 
+QQQ10523.	Hall/VdC Norms: Male#0040	actL actP actP mf1 gf setOQ objTR objNA objNA objTR objST objST objTR 
+QQQ10524.	Hall/VdC Norms: Male#0041	actL actV> actL actP> actP setIQ setAQ setOQ objCM objCM objCM objAV objMS 
+QQQ10525.	Hall/VdC Norms: Male#0042	actV> mf1 emoAN emoAN setIF objBT objBA objBA objAV objMS 
+QQQ10526.	Hall/VdC Norms: Male#0043	actL actV= actS actM emoAP setIF objHH objAI 
+QQQ10527.	Hall/VdC Norms: Male#0044	actA actS actM actM actM actP actM actS actM mf6 setIQ objAE objAE objBA 
+QQQ10528.	Hall/VdC Norms: Male#0045	actS actP actV> actM mf1 emoCO emoAN setIF objAR objHH objAD objBT objBS objAR objAR objBS objAD objBS 
+QQQ10529.	Hall/VdC Norms: Male#0046	actM actP actV actE actP actM actS mf5 gf emoAN setIQ objHH objBH objBT objHH objAR objMS 
+QQQ10530.	Hall/VdC Norms: Male#0047	actM actS actM actV= actM emoHA setIQ objAD objAD objAR 
+QQQ10531.	Hall/VdC Norms: Male#0048	setNS objCM 
+QQQ10532.	Hall/VdC Norms: Male#0049	actM actM actV> actVr actP> emoAN emoAN emoCO setIF objAR objRG objAD objBE 
+QQQ10533.	Hall/VdC Norms: Male#0050	actM actP actV> actS setOQ objST objBE objCL 
+QQQ10534.	Hall/VdC Norms: Male#0051	actM actS actS mf5 setOU objTR objCL objHH objST objAV objAV objBT 
+QQQ10535.	Hall/VdC Norms: Male#0052	actP> actS actE actS emoAP setIQ objAV objBS objBS objHH objBS 
+QQQ10536.	Hall/VdC Norms: Male#0053	actP> actP actM actV setIU objAM objHH objAD objBH objIW objAD objBE 
+QQQ10537.	Hall/VdC Norms: Male#0054	actS actP actM actE mf4 emoAN setOQ objNA objRG objIR objTR objTR objBH objTR 
+QQQ10538.	Hall/VdC Norms: Male#0055	actL actP actL actP actL actP actS mf4 emoAP setOQ objTR objTR objTR objST objST objST 
+QQQ10539.	Hall/VdC Norms: Male#0056	actM actS actP emoAP setIF setOG setOF setOG setIF objAR objHH objHH objST objAD objST objTR objAE objFO 
+QQQ10540.	Hall/VdC Norms: Male#0057	actP actM actP actM actM actM setIF setOQ objAR objHH objAD objAB objAD objHH objBH objMS 
+QQQ10541.	Hall/VdC Norms: Male#0058	actV actM actV> actP> actM emoAP setOU objNA objAR objCL objRG objIW objBE objMS 
+QQQ10542.	Hall/VdC Norms: Male#0059	actS actM actM actV actP actM actS setIF setOF objAR objTR objAD objTR objAD objAR objAD objRG 
+QQQ10543.	Hall/VdC Norms: Male#0060	actV= mf6 setOG objTR objMO objTR objTR 
+QQQ10544.	Hall/VdC Norms: Male#0061	actC actS actV mf4 setNS objBE objMS objMS 
+QQQ10545.	Hall/VdC Norms: Male#0062	actS setAQ objCL objNA objCL objBH objBT 
+QQQ10546.	Hall/VdC Norms: Male#0063	actS setIU objHH objAE objHH objFO 
 QQQ10547.	Hall/VdC Norms: Male#0064	actV> setNS 
-QQQ10548.	Hall/VdC Norms: Male#0065	actP> actM setNS 
-QQQ10549.	Hall/VdC Norms: Male#0066	actV actE actS actM actM setIF 
-QQQ10550.	Hall/VdC Norms: Male#0067	actV> actVr actM actV> setIF 
-QQQ10551.	Hall/VdC Norms: Male#0068	actM actV actM setIQ 
-QQQ10552.	Hall/VdC Norms: Male#0069	actL actV= actM setIF 
-QQQ10553.	Hall/VdC Norms: Male#0070	actS actM actV> actVr actVr setOF 
-QQQ10554.	Hall/VdC Norms: Male#0071	actV actV> actVr actV> actVr actV= setIF 
-QQQ10555.	Hall/VdC Norms: Male#0072	actV> actC actM actS mf5 mf4 setIF 
-QQQ10556.	Hall/VdC Norms: Male#0073	actM actE actP> actP actV> actM setOF 
-QQQ10557.	Hall/VdC Norms: Male#0074	actP actV> actVr actM actP actC setIF 
-QQQ10558.	Hall/VdC Norms: Male#0075	actP actV> actVr actM actP setIQ 
-QQQ10559.	Hall/VdC Norms: Male#0076	actC actV setIF 
-QQQ10560.	Hall/VdC Norms: Male#0077	actS mf3 setOU 
-QQQ10561.	Hall/VdC Norms: Male#0078	actS actM actS actM actS actA actM actC actM actM actS actM setIF 
-QQQ10562.	Hall/VdC Norms: Male#0079	actM actP actPr actM actP actP> actP> setIF 
-QQQ10563.	Hall/VdC Norms: Male#0080	actV> actA actP> actPr actP> actP mf5 setIQ 
+QQQ10548.	Hall/VdC Norms: Male#0065	actP> actM emoCO emoAP setNS objBS objBE objBE 
+QQQ10549.	Hall/VdC Norms: Male#0066	actV actE actS actM actM emoAP setIF objAE objAD 
+QQQ10550.	Hall/VdC Norms: Male#0067	actV> actVr actM actV> setIF objAV objMS 
+QQQ10551.	Hall/VdC Norms: Male#0068	actM actV actM setIQ objAI objAD objIR 
+QQQ10552.	Hall/VdC Norms: Male#0069	actL actV= actM setIF objAR objCM objAR objCL objAR 
+QQQ10553.	Hall/VdC Norms: Male#0070	actS actM actV> actVr actVr setOF objRG objHH 
+QQQ10554.	Hall/VdC Norms: Male#0071	actV actV> actVr actV> actVr actV= emoAP setIF objAR 
+QQQ10555.	Hall/VdC Norms: Male#0072	actV> actC actM actS mf5 mf4 emoSD emoSD setIF objAR objBA objAR objHH objHH objHH 
+QQQ10556.	Hall/VdC Norms: Male#0073	actM actE actP> actP actV> actM emoAP emoHA setOF objST objCM objTR objBT objBT objAV objFO 
+QQQ10557.	Hall/VdC Norms: Male#0074	actP actV> actVr actM actP actC setIF objHH objAR objFO objFO objFO 
+QQQ10558.	Hall/VdC Norms: Male#0075	actP actV> actVr actM actP emoCO setIQ objCM objAR objAR objHH objAR objAD objHH objAD 
+QQQ10559.	Hall/VdC Norms: Male#0076	actC actV setIF objCM objHH 
+QQQ10560.	Hall/VdC Norms: Male#0077	actS mf3 emoAP setOU objNA objNA objNA 
+QQQ10561.	Hall/VdC Norms: Male#0078	actS actM actS actM actS actA actM actC actM actM actS actM setIF objCL objCL objTR objAI objAD objAD objAD 
+QQQ10562.	Hall/VdC Norms: Male#0079	actM actP actPr actM actP actP> actP> setIF objAR objAR objHH objCL objBT objBS 
+QQQ10563.	Hall/VdC Norms: Male#0080	actV> actA actP> actPr actP> actP mf5 setIQ objHH objHH objIT objBH objMS 
 QQQ10564.	Hall/VdC Norms: Male#0081	actP= setAU 
-QQQ10565.	Hall/VdC Norms: Male#0082	actL actP actV> actL actP setOQ 
-QQQ10566.	Hall/VdC Norms: Male#0083	actM actL mf5 setIQ 
-QQQ10567.	Hall/VdC Norms: Male#0084	actV mf5 setOQ 
-QQQ10568.	Hall/VdC Norms: Male#0085	actL actL mf5 setOF 
-QQQ10569.	Hall/VdC Norms: Male#0086	actS actC actL actP actP> actS actC setIF setOQ 
-QQQ10570.	Hall/VdC Norms: Male#0087	actL actE actM actV= setOF 
-QQQ10571.	Hall/VdC Norms: Male#0088	actV> actVr actM actL actC actP> actV actC mf2 setIQ 
-QQQ10572.	Hall/VdC Norms: Male#0089	actP actL actM actL actP actS actS actV> actVr mf4 setOQ setOF 
-QQQ10573.	Hall/VdC Norms: Male#0090	actL actP actV> actVr actS actC actM actV> actVr actM actV= actM actV> actV actS actP setOQ 
-QQQ10574.	Hall/VdC Norms: Male#0091	actV> actV setAQ 
-QQQ10575.	Hall/VdC Norms: Male#0092	actP actV actV> actE actV> actC setIQ 
-QQQ10576.	Hall/VdC Norms: Male#0093	actP actP actM actP> actV> actE actVr actVr setOQ 
-QQQ10577.	Hall/VdC Norms: Male#0094	actP actP actM actP actP actC mf4 setIF 
-QQQ10578.	Hall/VdC Norms: Male#0095	actV> actV> actM actV> setIQ 
-QQQ10579.	Hall/VdC Norms: Male#0096	actP actP actP actL actL mf1 setOF 
-QQQ10580.	Hall/VdC Norms: Male#0097	actS setNS 
-QQQ10581.	Hall/VdC Norms: Male#0098	actV> mf4 setOD 
-QQQ10582.	Hall/VdC Norms: Male#0099	actP> actM actV> actP setOU setIU 
-QQQ10583.	Hall/VdC Norms: Male#0100	actM actP actM actP actM setIF setOF 
-QQQ10584.	Hall/VdC Norms: Male#0101	actS actM setIF 
-QQQ10585.	Hall/VdC Norms: Male#0102	actP actM mf1 setOU 
-QQQ10586.	Hall/VdC Norms: Male#0103	actM actS actV actM setOU 
-QQQ10587.	Hall/VdC Norms: Male#0104	actP> actM actM actS actM actP> actM actP> setIF 
-QQQ10588.	Hall/VdC Norms: Male#0105	actL actS actP actM actV> actP> setOU actL actP actV= actL actP setOF actV actP actE actC actS setIF actV> actS actM setAQ actL actM actV actM actP actV> actV> mf5 gf setIQ 
-QQQ10589.	Hall/VdC Norms: Male#0110	actL actV> actM actP> actP actL actV actV setOQ 
-QQQ10590.	Hall/VdC Norms: Male#0111	actM mf2 gf setOQ 
-QQQ10591.	Hall/VdC Norms: Male#0112	mf1 setNS 
-QQQ10592.	Hall/VdC Norms: Male#0113	actP mf5 setOQ 
-QQQ10593.	Hall/VdC Norms: Male#0114	actM actM actP actV> actS actE actVr actM actE setOU 
-QQQ10594.	Hall/VdC Norms: Male#0115	actM actS actM actP> actM actP> setOF 
-QQQ10595.	Hall/VdC Norms: Male#0116	actA actV> actS mf5 setIF 
-QQQ10596.	Hall/VdC Norms: Male#0117	actS actV actP mf1 setIG 
-QQQ10597.	Hall/VdC Norms: Male#0118	actM actV> actP setOQ 
-QQQ10598.	Hall/VdC Norms: Male#0119	actM actM actL mf5 setOU 
-QQQ10599.	Hall/VdC Norms: Male#0120	actM actP actP actC actM mf4 setIF 
-QQQ10600.	Hall/VdC Norms: Male#0121	actV> actC mf3 setIQ 
-QQQ10601.	Hall/VdC Norms: Male#0122	actV= actM actP actA actM actV actC setOF setIU 
-QQQ10602.	Hall/VdC Norms: Male#0123	actV> actM actM actP actA actP> setIQ 
-QQQ10603.	Hall/VdC Norms: Male#0124	actV> actVr actV actM actP> setIF 
-QQQ10604.	Hall/VdC Norms: Male#0125	actV> setIU 
-QQQ10605.	Hall/VdC Norms: Male#0126	actS mf4 setOQ 
-QQQ10606.	Hall/VdC Norms: Male#0127	actP actP actP actP actP actP setIF 
-QQQ10607.	Hall/VdC Norms: Male#0128	actL actV actV> setIQ 
-QQQ10608.	Hall/VdC Norms: Male#0129	actV> actVr setAU 
-QQQ10609.	Hall/VdC Norms: Male#0130	actM actP> actP actP actV> actP setAG 
-QQQ10610.	Hall/VdC Norms: Male#0131	actV> gf setIQ 
-QQQ10611.	Hall/VdC Norms: Male#0132	actM actM setOU setIU 
-QQQ10612.	Hall/VdC Norms: Male#0133	actA actM actV> actVr mf3 setIF 
-QQQ10613.	Hall/VdC Norms: Male#0134	actC setIU 
-QQQ10614.	Hall/VdC Norms: Male#0135	actV actM actA actP actV> actP actM actS mf6 setOF 
-QQQ10615.	Hall/VdC Norms: Male#0136	actP setIF 
-QQQ10616.	Hall/VdC Norms: Male#0137	actM actL actP actL actP setOU setIU 
-QQQ10617.	Hall/VdC Norms: Male#0138	setIU 
-QQQ10618.	Hall/VdC Norms: Male#0139	actP> actP actP actM mf4 setIF 
-QQQ10619.	Hall/VdC Norms: Male#0140	actV= actP> setIU setOF 
-QQQ10620.	Hall/VdC Norms: Male#0141	actL actL actC setOQ setIQ 
-QQQ10621.	Hall/VdC Norms: Male#0142	actP actM actS actM actV= actM setOF 
-QQQ10622.	Hall/VdC Norms: Male#0143	actS actM actM actC actV> actVr actS actC mf1 gf setOF 
-QQQ10623.	Hall/VdC Norms: Male#0144	actV actV actM actV actM actV> actV> actV actM setOU setIU 
-QQQ10624.	Hall/VdC Norms: Male#0145	actM actM actS actV> actVr actL actS actV> actS actM actV> actS setIF setOQ setOQ 
-QQQ10625.	Hall/VdC Norms: Male#0146	actP actV> setIG 
-QQQ10626.	Hall/VdC Norms: Male#0147	actL actP actL actP actL actP actS setOU 
-QQQ10627.	Hall/VdC Norms: Male#0148	actS actS actP> actS mf5 mf5 setOU 
-QQQ10628.	Hall/VdC Norms: Male#0149	actP actP actS actM mf3 setIF 
-QQQ10629.	Hall/VdC Norms: Male#0150	actM actL actS mf2 setIQ 
-QQQ10630.	Hall/VdC Norms: Male#0151	actL actS actM actP actM actM actP> setOD setIQ 
-QQQ10631.	Hall/VdC Norms: Male#0152	actM actS actM actP actA actV> actM actV actM setIU 
-QQQ10632.	Hall/VdC Norms: Male#0153	actC actM actS actV> actM actP actP setIF 
-QQQ10633.	Hall/VdC Norms: Male#0154	actM actP actP actP actS setOQ setOD 
-QQQ10634.	Hall/VdC Norms: Male#0155	actP actM actS actV mf2 gf setIU setOD 
-QQQ10635.	Hall/VdC Norms: Male#0156	actC actV setIF 
-QQQ10636.	Hall/VdC Norms: Male#0157	actM actS actS actV> actM setIF 
+QQQ10565.	Hall/VdC Norms: Male#0082	actL actP actV> actL actP setOQ objTR objTR objRG objRG 
+QQQ10566.	Hall/VdC Norms: Male#0083	actM actL mf5 setIQ objNA 
+QQQ10567.	Hall/VdC Norms: Male#0084	actV mf5 setOQ objNA objNA objHH 
+QQQ10568.	Hall/VdC Norms: Male#0085	actL actL mf5 setOF objTR objAR objTR objIT 
+QQQ10569.	Hall/VdC Norms: Male#0086	actS actC actL actP actP> actS actC setIF setOQ objAR objTR objAR objAR objBE objBH 
+QQQ10570.	Hall/VdC Norms: Male#0087	actL actE actM actV= emoCO setOF objST 
+QQQ10571.	Hall/VdC Norms: Male#0088	actV> actVr actM actL actC actP> actV actC mf2 emoAP emoAN emoAP setIQ objTR objHH objAI objAI 
+QQQ10572.	Hall/VdC Norms: Male#0089	actP actL actM actL actP actS actS actV> actVr mf4 emoAN emoAN emoAN setOQ setOF objTR objCM objAR objST objST objTR objTR objRG objTR 
+QQQ10573.	Hall/VdC Norms: Male#0090	actL actP actV> actVr actS actC actM actV> actVr actM actV= actM actV> actV actS actP emoAP setOQ objTR objAR objAR objST objHH objAD objAD 
+QQQ10574.	Hall/VdC Norms: Male#0091	actV> actV emoCO emoAP setAQ objHH objHH objFO 
+QQQ10575.	Hall/VdC Norms: Male#0092	actP actV actV> actE actV> actC emoCO setIQ objHH objCM objCL objCL objBH objHH objAD objMS objAD objAD 
+QQQ10576.	Hall/VdC Norms: Male#0093	actP actP actM actP> actV> actE actVr actVr setOQ objAR objHH objBE objNA objNA objAD objAD objFO objAD 
+QQQ10577.	Hall/VdC Norms: Male#0094	actP actP actM actP actP actC mf4 setIF objCM objHH objAR objHH objMS 
+QQQ10578.	Hall/VdC Norms: Male#0095	actV> actV> actM actV> emoAN emoAP emoCO emoAN setIQ objHH objMO objAV objAE objMO 
+QQQ10579.	Hall/VdC Norms: Male#0096	actP actP actP actL actL mf1 emoAP emoHA setOF objTR objCM objTR objTR objST objAV objST objBE 
+QQQ10580.	Hall/VdC Norms: Male#0097	actS setNS objCM objAD 
+QQQ10581.	Hall/VdC Norms: Male#0098	actV> mf4 emoHA setOD objAR objTR objST objTR 
+QQQ10582.	Hall/VdC Norms: Male#0099	actP> actM actV> actP setOU setIU objTR objIW objAV objRG objAV objAD 
+QQQ10583.	Hall/VdC Norms: Male#0100	actM actP actM actP actM emoAP setIF setOF objAR objTR objAR objIR objIR objAD objAR 
+QQQ10584.	Hall/VdC Norms: Male#0101	actS actM setIF objAR objAD objIW objBE objRG 
+QQQ10585.	Hall/VdC Norms: Male#0102	actP actM mf1 setOU objRG objIR 
+QQQ10586.	Hall/VdC Norms: Male#0103	actM actS actV actM emoAP setOU objRG objCL objCL objBE objBA 
+QQQ10587.	Hall/VdC Norms: Male#0104	actP> actM actM actS actM actP> actM actP> emoAP setIF objAR objHH objBE objHH objAR objAR objHH objIW objIW objFO 
+QQQ10588.	Hall/VdC Norms: Male#0105	actL actS actP actM actV> actP> emoAP setOU objTR objHH objIW objTR objTR objTR objTR actL actP actV= actL actP emoHA emoHA setOF objTR objTR objST actV actP actE actC actS setIF objIR objAD actV> actS actM setAQ objIW objAR objIW objAD objMS actL actM actV actM actP actV> actV> mf5 gf setIQ objHH objAD objBA 
+QQQ10589.	Hall/VdC Norms: Male#0110	actL actV> actM actP> actP actL actV actV setOQ objTR objTR objST objST objIW 
+QQQ10590.	Hall/VdC Norms: Male#0111	actM mf2 gf setOQ objST objAM objBA objBS objIT 
+QQQ10591.	Hall/VdC Norms: Male#0112	mf1 emoSD setNS 
+QQQ10592.	Hall/VdC Norms: Male#0113	actP mf5 setOQ objRG objCL objBA 
+QQQ10593.	Hall/VdC Norms: Male#0114	actM actM actP actV> actS actE actVr actM actE setOU objAR objAR objAD objBH objAD objST objMO objBS objBE 
+QQQ10594.	Hall/VdC Norms: Male#0115	actM actS actM actP> actM actP> setOF objST objCL objBE objIR 
+QQQ10595.	Hall/VdC Norms: Male#0116	actA actV> actS mf5 setIF objAR objCM objNA objCM objBH objHH objBA objAR objHH 
+QQQ10596.	Hall/VdC Norms: Male#0117	actS actV actP mf1 setIG objTR objIW objAV objAD objIT objIT objAV objRG objRG 
+QQQ10597.	Hall/VdC Norms: Male#0118	actM actV> actP setOQ objST objMO objTR objCM objCM objBE 
+QQQ10598.	Hall/VdC Norms: Male#0119	actM actM actL mf5 setOU objAR objBH objNA objTR objST objAR objAB 
+QQQ10599.	Hall/VdC Norms: Male#0120	actM actP actP actC actM mf4 emoCO setIF objAR objCL objCL objAR objBH objCL 
+QQQ10600.	Hall/VdC Norms: Male#0121	actV> actC mf3 setIQ objCM objAV 
+QQQ10601.	Hall/VdC Norms: Male#0122	actV= actM actP actA actM actV actC setOF setIU objAR objCM objHH objNA 
+QQQ10602.	Hall/VdC Norms: Male#0123	actV> actM actM actP actA actP> setIQ objBE 
+QQQ10603.	Hall/VdC Norms: Male#0124	actV> actVr actV actM actP> setIF objAR 
+QQQ10604.	Hall/VdC Norms: Male#0125	actV> emoHA setIU objAR 
+QQQ10605.	Hall/VdC Norms: Male#0126	actS mf4 emoAP setOQ objCL objIW 
+QQQ10606.	Hall/VdC Norms: Male#0127	actP actP actP actP actP actP setIF objAR objAR objBH objAD objCL objST objST objAR objRG 
+QQQ10607.	Hall/VdC Norms: Male#0128	actL actV actV> setIQ objCM objMO objHH objAR 
+QQQ10608.	Hall/VdC Norms: Male#0129	actV> actVr setAU objRG objAE 
+QQQ10609.	Hall/VdC Norms: Male#0130	actM actP> actP actP actV> actP setAG objTR objCL objCL objHH objCL objBE objBE objRG objRG 
+QQQ10610.	Hall/VdC Norms: Male#0131	actV> gf emoAP setIQ 
+QQQ10611.	Hall/VdC Norms: Male#0132	actM actM setOU setIU objRG objST objAV 
+QQQ10612.	Hall/VdC Norms: Male#0133	actA actM actV> actVr mf3 emoAP setIF objAR 
+QQQ10613.	Hall/VdC Norms: Male#0134	actC setIU objAI 
+QQQ10614.	Hall/VdC Norms: Male#0135	actV actM actA actP actV> actP actM actS mf6 setOF objRG objBH objBE 
+QQQ10615.	Hall/VdC Norms: Male#0136	actP setIF objHH objAR objMS 
+QQQ10616.	Hall/VdC Norms: Male#0137	actM actL actP actL actP setOU setIU objST objAV objTR objTR 
+QQQ10617.	Hall/VdC Norms: Male#0138	setIU objAR objAD objHH objHH objHH 
+QQQ10618.	Hall/VdC Norms: Male#0139	actP> actP actP actM mf4 setIF objAE objIW objIW objBE 
+QQQ10619.	Hall/VdC Norms: Male#0140	actV= actP> setIU setOF objIW objBH objBH objTR objMS objAR 
+QQQ10620.	Hall/VdC Norms: Male#0141	actL actL actC setOQ setIQ objTR objAR objBH objTR objAR objST objIW objIW 
+QQQ10621.	Hall/VdC Norms: Male#0142	actP actM actS actM actV= actM setOF objNA objTR objAR objAR objST objMS objRG 
+QQQ10622.	Hall/VdC Norms: Male#0143	actS actM actM actC actV> actVr actS actC mf1 gf setOF objCL objBE objBE objST objAV objAD objBS 
+QQQ10623.	Hall/VdC Norms: Male#0144	actV actV actM actV actM actV> actV> actV actM emoHA setOU setIU objCM objCM objRG objAE objHH 
+QQQ10624.	Hall/VdC Norms: Male#0145	actM actM actS actV> actVr actL actS actV> actS actM actV> actS emoAN setIF setOQ setOQ objNA objAR objTR objNA objNA objST objFO 
+QQQ10625.	Hall/VdC Norms: Male#0146	actP actV> setIG objAR objNA objAR objBE objRG objFO 
+QQQ10626.	Hall/VdC Norms: Male#0147	actL actP actL actP actL actP actS setOU objTR objNA objNA objNA objST objST 
+QQQ10627.	Hall/VdC Norms: Male#0148	actS actS actP> actS mf5 mf5 emoCO setOU objNA objNA objIT objIT objBA objBH objNA objAV 
+QQQ10628.	Hall/VdC Norms: Male#0149	actP actP actS actM mf3 setIF objAR objHH objNA objNA objAD objAD objIT objHH objIT 
+QQQ10629.	Hall/VdC Norms: Male#0150	actM actL actS mf2 emoAP setIQ objAV objBE objCL objAR objNA objMS 
+QQQ10630.	Hall/VdC Norms: Male#0151	actL actS actM actP actM actM actP> setOD setIQ objTR objAR objCL objCL objST objBS objAD 
+QQQ10631.	Hall/VdC Norms: Male#0152	actM actS actM actP actA actV> actM actV actM setIU objHH objAR objAR objHH objAR objNA objST objAD 
+QQQ10632.	Hall/VdC Norms: Male#0153	actC actM actS actV> actM actP actP setIF objAR objHH objAR objAR objFO 
+QQQ10633.	Hall/VdC Norms: Male#0154	actM actP actP actP actS emoCO setOQ setOD objNA objNA objTR objRG objIW objIW objBE objIW objIW 
+QQQ10634.	Hall/VdC Norms: Male#0155	actP actM actS actV mf2 gf setIU setOD objAR objAR objAR objNA objAD objMS objRG objHH objHH 
+QQQ10635.	Hall/VdC Norms: Male#0156	actC actV emoAP setIF objAR objAR objBA 
+QQQ10636.	Hall/VdC Norms: Male#0157	actM actS actS actV> actM emoAP emoSD setIF objAE objAE objAE objAE objBE objCL 
 QQQ10637.	Hall/VdC Norms: Male#0158	actS mf6 setAG 
-QQQ10638.	Hall/VdC Norms: Male#0159	actV actM actS actV> actVr mf3 setOU setIQ 
-QQQ10639.	Hall/VdC Norms: Male#0160	actV> actM setOQ 
-QQQ10640.	Hall/VdC Norms: Male#0161	actV> actVr actM actP mf4 setIQ 
-QQQ10641.	Hall/VdC Norms: Male#0162	actL actV> actV> actVr actS setIQ 
-QQQ10642.	Hall/VdC Norms: Male#0163	actS actC actP actM mf4 gf setOQ 
-QQQ10643.	Hall/VdC Norms: Male#0164	actV actL actV actS actM actM actC setIQ 
-QQQ10644.	Hall/VdC Norms: Male#0165	actV> actP actV> actVr actS actC setIQ 
-QQQ10645.	Hall/VdC Norms: Male#0166	actM actV> actM actS actL actS setIU setOG 
-QQQ10646.	Hall/VdC Norms: Male#0167	actM actV> actP actS setIF 
-QQQ10647.	Hall/VdC Norms: Male#0168	actP actV> actL actVr actVr actVr setIQ setOQ 
-QQQ10648.	Hall/VdC Norms: Male#0169	actV actP actM actS actC actM actP> actV> actS setIQ 
-QQQ10649.	Hall/VdC Norms: Male#0170	actM actM actM actP actL actL mf6 mf3 setOQ 
-QQQ10650.	Hall/VdC Norms: Male#0171	actM actP> actM actP> actP actC setOQ 
-QQQ10651.	Hall/VdC Norms: Male#0172	actL actP actM actP actM actP actP mf1 setIF 
-QQQ10652.	Hall/VdC Norms: Male#0173	actV= actP actM actM actS actM actM actP mf1 setIQ 
-QQQ10653.	Hall/VdC Norms: Male#0174	actP actL actV> actE actM setOQ 
-QQQ10654.	Hall/VdC Norms: Male#0175	actS actP> actC mf5 setNS 
-QQQ10655.	Hall/VdC Norms: Male#0176	actM actV> actM actM actM actP> mf1 setIG setOG 
-QQQ10656.	Hall/VdC Norms: Male#0177	actM actS actP> actM actS actP> actV> setOQ setIQ setOQ 
-QQQ10657.	Hall/VdC Norms: Male#0178	actM actM actP mf4 setOF setID 
-QQQ10658.	Hall/VdC Norms: Male#0179	actP actV actM actP actP> actP actE actV> mf5 setIF 
-QQQ10659.	Hall/VdC Norms: Male#0180	actL actP actM actL actP actM actV> mf5 mf5 setOQ 
-QQQ10660.	Hall/VdC Norms: Male#0181	actV> actM actV> actM setOQ 
-QQQ10661.	Hall/VdC Norms: Male#0182	actL actP setOF 
-QQQ10662.	Hall/VdC Norms: Male#0183	actL setOG 
+QQQ10638.	Hall/VdC Norms: Male#0159	actV actM actS actV> actVr mf3 emoAP setOU setIQ objNA objST objNA objAV objAD 
+QQQ10639.	Hall/VdC Norms: Male#0160	actV> actM setOQ objTR objCL objBE objTR objAD 
+QQQ10640.	Hall/VdC Norms: Male#0161	actV> actVr actM actP mf4 setIQ objAV objHH 
+QQQ10641.	Hall/VdC Norms: Male#0162	actL actV> actV> actVr actS setIQ objAR objCM objCM objHH objAD objIR objIR 
+QQQ10642.	Hall/VdC Norms: Male#0163	actS actC actP actM mf4 gf setOQ objNA objNA objNA objNA 
+QQQ10643.	Hall/VdC Norms: Male#0164	actV actL actV actS actM actM actC emoSD setIQ objAD objAE 
+QQQ10644.	Hall/VdC Norms: Male#0165	actV> actP actV> actVr actS actC setIQ objCL objCM objCM objCL objAV 
+QQQ10645.	Hall/VdC Norms: Male#0166	actM actV> actM actS actL actS setIU setOG objAR objTR objST objIR objRG 
+QQQ10646.	Hall/VdC Norms: Male#0167	actM actV> actP actS setIF objCM objAV objHH objAV 
+QQQ10647.	Hall/VdC Norms: Male#0168	actP actV> actL actVr actVr actVr setIQ setOQ objAV objAV objIT objFO 
+QQQ10648.	Hall/VdC Norms: Male#0169	actV actP actM actS actC actM actP> actV> actS setIQ objAE objIW objAD objBH 
+QQQ10649.	Hall/VdC Norms: Male#0170	actM actM actM actP actL actL mf6 mf3 emoAP setOQ objRG objAD objMS 
+QQQ10650.	Hall/VdC Norms: Male#0171	actM actP> actM actP> actP actC emoHA emoHA setOQ objIW objBT objAD objST objMS 
+QQQ10651.	Hall/VdC Norms: Male#0172	actL actP actM actP actM actP actP mf1 emoAN emoAN setIF objAR objHH objHH objAD objAD objBE objFO 
+QQQ10652.	Hall/VdC Norms: Male#0173	actV= actP actM actM actS actM actM actP mf1 emoAP emoAP emoAN setIQ objBH objHH objCM objMS 
+QQQ10653.	Hall/VdC Norms: Male#0174	actP actL actV> actE actM emoAN setOQ objTR objTR objTR 
+QQQ10654.	Hall/VdC Norms: Male#0175	actS actP> actC mf5 emoAP emoSD setNS objIR objBT objBH objIR objBH 
+QQQ10655.	Hall/VdC Norms: Male#0176	actM actV> actM actM actM actP> mf1 emoAP setIG setOG objAR objAR objAR objST objRG objAE 
+QQQ10656.	Hall/VdC Norms: Male#0177	actM actS actP> actM actS actP> actV> setOQ setIQ setOQ objAR objTR objNA objAD objMO 
+QQQ10657.	Hall/VdC Norms: Male#0178	actM actM actP mf4 emoAP setOF setID objCM objCM objAR objHH objST objST objCL objAV objAI objAI 
+QQQ10658.	Hall/VdC Norms: Male#0179	actP actV actM actP actP> actP actE actV> mf5 emoSD setIF objHH objAR objAD 
+QQQ10659.	Hall/VdC Norms: Male#0180	actL actP actM actL actP actM actV> mf5 mf5 emoHA setOQ objNA objNA objHH objHH objCM 
+QQQ10660.	Hall/VdC Norms: Male#0181	actV> actM actV> actM setOQ objTR objRG objRG 
+QQQ10661.	Hall/VdC Norms: Male#0182	actL actP setOF objNA objST objST objST 
+QQQ10662.	Hall/VdC Norms: Male#0183	actL setOG objTR objMO objAR 
 QQQ10663.	Hall/VdC Norms: Male#0184	actV= setNS 
-QQQ10664.	Hall/VdC Norms: Male#0185	actP actL actV> setOF 
-QQQ10665.	Hall/VdC Norms: Male#0186	actM actM actV> setOF setIF setOF setIF 
-QQQ10666.	Hall/VdC Norms: Male#0187	actM actV> actV> actS actM actV> actV> actVr mf1 gf setOQ setAG 
-QQQ10667.	Hall/VdC Norms: Male#0188	actL actV actM actS actV setOG 
-QQQ10668.	Hall/VdC Norms: Male#0189	actM actM setOG 
-QQQ10669.	Hall/VdC Norms: Male#0190	actM actM actM actV> setOF setIF 
-QQQ10670.	Hall/VdC Norms: Male#0191	actV= actV> actVr actM setOQ 
-QQQ10671.	Hall/VdC Norms: Male#0192	actM actL actS setOQ setOG setOQ 
-QQQ10672.	Hall/VdC Norms: Male#0193	actP mf1 setIQ 
-QQQ10673.	Hall/VdC Norms: Male#0194	actP actL actM actV> actV> mf4 mf1 setOF 
-QQQ10674.	Hall/VdC Norms: Male#0195	actM actM actV> actV> setOQ setIQ 
-QQQ10675.	Hall/VdC Norms: Male#0196	actL actL setIU 
-QQQ10676.	Hall/VdC Norms: Male#0197	actP> actM actV> actL actS actM actP actP gf setOQ setOF setIF 
-QQQ10677.	Hall/VdC Norms: Male#0198	actV> actL actV> actV> actP actL setIF setOQ 
-QQQ10678.	Hall/VdC Norms: Male#0199	actP actM actS actM actV actM actV> actVr actP actS actL actP actM actV> actM actL mf3 setIG setOG 
-QQQ10679.	Hall/VdC Norms: Male#0200	actM actM actM actS actM actP> actM actM actS actP> actS actM actM actV setOF 
-QQQ10680.	Hall/VdC Norms: Male#0201	actP actP> actV> setOQ 
-QQQ10681.	Hall/VdC Norms: Male#0202	actM actM actS actE actS actE actV> setOF setIF 
-QQQ10682.	Hall/VdC Norms: Male#0203	actS actP actV> actVr actVr actP setIU 
-QQQ10683.	Hall/VdC Norms: Male#0204	actM actS actE actP actS setOF 
-QQQ10684.	Hall/VdC Norms: Male#0205	actS actV> setOF 
-QQQ10685.	Hall/VdC Norms: Male#0206	actV actL gf setAQ setIF 
-QQQ10686.	Hall/VdC Norms: Male#0207	actM actP> actE actP> actM actL actP> mf5 mf5 setIQ setIQ 
-QQQ10687.	Hall/VdC Norms: Male#0208	actV actM mf5 setIQ 
-QQQ10688.	Hall/VdC Norms: Male#0209	actM actV> actC actL mf3 setIQ 
-QQQ10689.	Hall/VdC Norms: Male#0210	actP actV> actP mf4 setOF 
-QQQ10690.	Hall/VdC Norms: Male#0211	actC setOQ 
-QQQ10691.	Hall/VdC Norms: Male#0212	actP> actS actM actP> actV> actE actP> actC actM mf6 setOQ 
-QQQ10692.	Hall/VdC Norms: Male#0213	actS actM actV> actM actV actP actV> setOU 
-QQQ10693.	Hall/VdC Norms: Male#0214	actV> actS setAQ 
-QQQ10694.	Hall/VdC Norms: Male#0215	actP actS actP actV> actM actP actP actL mf5 setAF setIF setOF 
-QQQ10695.	Hall/VdC Norms: Male#0216	actP actM actP actL actL mf3 setOQ setOQ 
-QQQ10696.	Hall/VdC Norms: Male#0217	actL actP actL actP actP actP actM actP actP> mf4 setOU 
-QQQ10697.	Hall/VdC Norms: Male#0218	actM actM actP actP setIU 
-QQQ10698.	Hall/VdC Norms: Male#0219	actP actS actS actS actP actV> actP> actP> mf4 mf4 setOF setOQ setAG 
-QQQ10699.	Hall/VdC Norms: Male#0220	actM actM actS actP> actP mf6 setOU 
-QQQ10700.	Hall/VdC Norms: Male#0221	actM actM actM actL actP setOQ setIQ 
-QQQ10701.	Hall/VdC Norms: Male#0222	actV> actP actP mf1 mf5 mf1 setAG 
-QQQ10702.	Hall/VdC Norms: Male#0223	actP> actC setIU 
-QQQ10703.	Hall/VdC Norms: Male#0224	actM actL actP> actS actS actP mf5 mf4 setOF setIF 
-QQQ10704.	Hall/VdC Norms: Male#0225	actC actP setIQ 
-QQQ10705.	Hall/VdC Norms: Male#0226	actV> actM actM actP actV> setIF setOQ 
-QQQ10706.	Hall/VdC Norms: Male#0227	actM actV actP actP actV> setAF 
-QQQ10707.	Hall/VdC Norms: Male#0228	actM actP actS actV> setAQ 
-QQQ10708.	Hall/VdC Norms: Male#0229	actL actP actL setAG setAG 
-QQQ10709.	Hall/VdC Norms: Male#0230	actM actV actP actA actL actV setOF setIQ setOQ 
-QQQ10710.	Hall/VdC Norms: Male#0231	actV> actM actM mf4 setIF setOQ setIF 
-QQQ10711.	Hall/VdC Norms: Male#0232	actL actS actP actS actV> actVr actV> mf5 setIF 
-QQQ10712.	Hall/VdC Norms: Male#0233	actP actP> actPr actP> actPr setOG 
-QQQ10713.	Hall/VdC Norms: Male#0234	actS actP actS actM actM mf1 setIF setOF 
-QQQ10714.	Hall/VdC Norms: Male#0235	actV actV> actVr setIF 
-QQQ10715.	Hall/VdC Norms: Male#0236	actM actM actV> actV> setIU 
-QQQ10716.	Hall/VdC Norms: Male#0237	actM mf1 setIF 
-QQQ10717.	Hall/VdC Norms: Male#0238	actA actC actM setIF 
-QQQ10718.	Hall/VdC Norms: Male#0239	actS actV> actV> actVr setIU 
-QQQ10719.	Hall/VdC Norms: Male#0240	actP actL setAD 
-QQQ10720.	Hall/VdC Norms: Male#0241	actM actS actV> setOF 
-QQQ10721.	Hall/VdC Norms: Male#0242	actP actP actV> actM actS actP mf4 setID 
-QQQ10722.	Hall/VdC Norms: Male#0243	actM actM actM setIF setOF 
-QQQ10723.	Hall/VdC Norms: Male#0244	actL actS actP actV> actP> actM mf6 setOQ 
-QQQ10724.	Hall/VdC Norms: Male#0245	actL actP mf1 setOD 
-QQQ10725.	Hall/VdC Norms: Male#0246	actP actL actV> mf6 gf setOQ 
-QQQ10726.	Hall/VdC Norms: Male#0247	actV> actM actS setIF setAF 
-QQQ10727.	Hall/VdC Norms: Male#0248	actV> actVr setIF 
+QQQ10664.	Hall/VdC Norms: Male#0185	actP actL actV> setOF objTR objST objTR objAD 
+QQQ10665.	Hall/VdC Norms: Male#0186	actM actM actV> setOF setIF setOF setIF objAR objST objAV 
+QQQ10666.	Hall/VdC Norms: Male#0187	actM actV> actV> actS actM actV> actV> actVr mf1 gf setOQ setAG objRG objRG objCL objCM 
+QQQ10667.	Hall/VdC Norms: Male#0188	actL actV actM actS actV emoSD setOG objTR objNA objRG objTR objTR objBH objTR 
+QQQ10668.	Hall/VdC Norms: Male#0189	actM actM setOG objNA objAR objST objST objRG objMS 
+QQQ10669.	Hall/VdC Norms: Male#0190	actM actM actM actV> setOF setIF objAR objNA 
+QQQ10670.	Hall/VdC Norms: Male#0191	actV= actV> actVr actM setOQ objTR objAV objCL objTR 
+QQQ10671.	Hall/VdC Norms: Male#0192	actM actL actS emoCO setOQ setOG setOQ objNA objRG objTR objRG 
+QQQ10672.	Hall/VdC Norms: Male#0193	actP mf1 setIQ objCM objCM objHH objCM objRG objBH objCM 
+QQQ10673.	Hall/VdC Norms: Male#0194	actP actL actM actV> actV> mf4 mf1 setOF objAR objTR objMO objST objTR objAR 
+QQQ10674.	Hall/VdC Norms: Male#0195	actM actM actV> actV> setOQ setIQ objAE objAD 
+QQQ10675.	Hall/VdC Norms: Male#0196	actL actL emoHA emoHA emoHA emoHA setIU objAR objNA objNA objNA objAV objRG 
+QQQ10676.	Hall/VdC Norms: Male#0197	actP> actM actV> actL actS actM actP actP gf emoHA emoHA setOQ setOF setIF objCM objAR objCM objTR objAR objMO objIR objRG objIR objAE objRG objAE objCL 
+QQQ10677.	Hall/VdC Norms: Male#0198	actV> actL actV> actV> actP actL emoHA setIF setOQ objTR objAR objMO objST objAE objCM objRG 
+QQQ10678.	Hall/VdC Norms: Male#0199	actP actM actS actM actV actM actV> actVr actP actS actL actP actM actV> actM actL mf3 emoCO setIG setOG objAR objAR objTR objTR objTR objST objST objST objRG objAR objCL objBH objMS objAR objAR objRG 
+QQQ10679.	Hall/VdC Norms: Male#0200	actM actM actM actS actM actP> actM actM actS actP> actS actM actM actV emoAP emoHA emoAP setOF objNA objNA objAR objRG objIW objIW objIW objMS objBE objIW objBT 
+QQQ10680.	Hall/VdC Norms: Male#0201	actP actP> actV> setOQ objCL objCL objBT 
+QQQ10681.	Hall/VdC Norms: Male#0202	actM actM actS actE actS actE actV> emoAP setOF setIF objST objCL objCL objCL objCL objBH objBH objST objHH objAR 
+QQQ10682.	Hall/VdC Norms: Male#0203	actS actP actV> actVr actVr actP emoSD setIU objAE 
+QQQ10683.	Hall/VdC Norms: Male#0204	actM actS actE actP actS setOF objRG objAE objCL objCL 
+QQQ10684.	Hall/VdC Norms: Male#0205	actS actV> setOF objAV objAV 
+QQQ10685.	Hall/VdC Norms: Male#0206	actV actL gf emoCO setAQ setIF objMO objMS 
+QQQ10686.	Hall/VdC Norms: Male#0207	actM actP> actE actP> actM actL actP> mf5 mf5 setIQ setIQ objAE objBE objBH objBH objBH 
+QQQ10687.	Hall/VdC Norms: Male#0208	actV actM mf5 setIQ objAV objCL objAD objAD objHH 
+QQQ10688.	Hall/VdC Norms: Male#0209	actM actV> actC actL mf3 setIQ objAV objAD objAD objTR objTR objMS 
+QQQ10689.	Hall/VdC Norms: Male#0210	actP actV> actP mf4 setOF objTR objRG objTR objHH objMS 
+QQQ10690.	Hall/VdC Norms: Male#0211	actC setOQ objRG objMS 
+QQQ10691.	Hall/VdC Norms: Male#0212	actP> actS actM actP> actV> actE actP> actC actM mf6 setOQ objST objHH objNA objNA objCL objFO 
+QQQ10692.	Hall/VdC Norms: Male#0213	actS actM actV> actM actV actP actV> emoCO setOU objAR objAD objTR 
+QQQ10693.	Hall/VdC Norms: Male#0214	actV> actS setAQ objTR objTR objTR objMS 
+QQQ10694.	Hall/VdC Norms: Male#0215	actP actS actP actV> actM actP actP actL mf5 setAF setIF setOF objAE objBE objAD objAR objHH objBE objBE objBE objBT objHH objRG objTR objAV 
+QQQ10695.	Hall/VdC Norms: Male#0216	actP actM actP actL actL mf3 emoAP emoAP setOQ setOQ objHH objBT objST objAR objCM objTR objTR 
+QQQ10696.	Hall/VdC Norms: Male#0217	actL actP actL actP actP actP actM actP actP> mf4 emoHA emoSD setOU objNA objTR objIR objAR objIW objBA objBA objBT objMS 
+QQQ10697.	Hall/VdC Norms: Male#0218	actM actM actP actP emoCO setIU objAD objAE objAD objAE objAD objHH objIR objHH objFO objFO 
+QQQ10698.	Hall/VdC Norms: Male#0219	actP actS actS actS actP actV> actP> actP> mf4 mf4 setOF setOQ setAG objHH objST objAR objHH objTR objTR objRG objMS objTR objFO 
+QQQ10699.	Hall/VdC Norms: Male#0220	actM actM actS actP> actP mf6 emoAP setOU objNA objNA objBH objNA objBA objIT objBE 
+QQQ10700.	Hall/VdC Norms: Male#0221	actM actM actM actL actP setOQ setIQ objTR objAR objIW objAD objBA objIW objBE 
+QQQ10701.	Hall/VdC Norms: Male#0222	actV> actP actP mf1 mf5 mf1 setAG objRG objCM objAR 
+QQQ10702.	Hall/VdC Norms: Male#0223	actP> actC setIU objAR objHH objCM 
+QQQ10703.	Hall/VdC Norms: Male#0224	actM actL actP> actS actS actP mf5 mf4 setOF setIF objTR objST objTR objNA objAR objMS objST objAR objTR objTR objIT objIT objMS objMS 
+QQQ10704.	Hall/VdC Norms: Male#0225	actC actP setIQ objAV objCM objCL 
+QQQ10705.	Hall/VdC Norms: Male#0226	actV> actM actM actP actV> emoAN setIF setOQ objAV objCL objCL objHH objST objIR 
+QQQ10706.	Hall/VdC Norms: Male#0227	actM actV actP actP actV> emoAN setAF objCM objCM objBH objMO 
+QQQ10707.	Hall/VdC Norms: Male#0228	actM actP actS actV> emoCO emoHA setAQ objCM objBE objCL objCM 
+QQQ10708.	Hall/VdC Norms: Male#0229	actL actP actL setAG setAG objBH objCL objCM objAR objMS 
+QQQ10709.	Hall/VdC Norms: Male#0230	actM actV actP actA actL actV setOF setIQ setOQ objAE objCL objST objAI objTR objFO 
+QQQ10710.	Hall/VdC Norms: Male#0231	actV> actM actM mf4 setIF setOQ setIF objAV objHH objMO 
+QQQ10711.	Hall/VdC Norms: Male#0232	actL actS actP actS actV> actVr actV> mf5 setIF objAV objBH objBH objCM objMO 
+QQQ10712.	Hall/VdC Norms: Male#0233	actP actP> actPr actP> actPr setOG objNA objTR objIW 
+QQQ10713.	Hall/VdC Norms: Male#0234	actS actP actS actM actM mf1 emoCO emoAP setIF setOF objAR objCM objAD objBE 
+QQQ10714.	Hall/VdC Norms: Male#0235	actV actV> actVr setIF objCM 
+QQQ10715.	Hall/VdC Norms: Male#0236	actM actM actV> actV> setIU objAR objAR objAR objHH 
+QQQ10716.	Hall/VdC Norms: Male#0237	actM mf1 emoAP setIF objAR objAD 
+QQQ10717.	Hall/VdC Norms: Male#0238	actA actC actM emoAN setIF objAV objAV 
+QQQ10718.	Hall/VdC Norms: Male#0239	actS actV> actV> actVr setIU objAR objAR objIR objCM objAR objMS 
+QQQ10719.	Hall/VdC Norms: Male#0240	actP actL setAD objAR objRG objBH objBH 
+QQQ10720.	Hall/VdC Norms: Male#0241	actM actS actV> setOF objAE objTR objST 
+QQQ10721.	Hall/VdC Norms: Male#0242	actP actP actV> actM actS actP mf4 emoAP setID objAR objAR objHH objHH objCL objAR objHH 
+QQQ10722.	Hall/VdC Norms: Male#0243	actM actM actM setIF setOF objRG objAR objRG 
+QQQ10723.	Hall/VdC Norms: Male#0244	actL actS actP actV> actP> actM mf6 emoSD setOQ objST objTR objNA objNA objTR 
+QQQ10724.	Hall/VdC Norms: Male#0245	actL actP mf1 setOD objTR objAE objST 
+QQQ10725.	Hall/VdC Norms: Male#0246	actP actL actV> mf6 gf setOQ objTR objTR objTR objNA 
+QQQ10726.	Hall/VdC Norms: Male#0247	actV> actM actS setIF setAF objAV objAV objIT objAV 
+QQQ10727.	Hall/VdC Norms: Male#0248	actV> actVr setIF objAI 
 QQQ10728.	Hall/VdC Norms: Male#0249	actV> actP> actV> actC setNS 
-QQQ10729.	Hall/VdC Norms: Male#0250	actL actV> setOQ 
-QQQ10730.	Hall/VdC Norms: Male#0251	actC setIQ 
-QQQ10731.	Hall/VdC Norms: Male#0252	actV actM setIF 
-QQQ10732.	Hall/VdC Norms: Male#0253	actS actP= actP actP actV> actL actM setIQ 
-QQQ10733.	Hall/VdC Norms: Male#0254	actP actV actV= setAQ setIQ setIQ 
-QQQ10734.	Hall/VdC Norms: Male#0255	actV actA setIQ 
-QQQ10735.	Hall/VdC Norms: Male#0256	actP actL actP actL actP actV= mf4 gf setOQ 
-QQQ10736.	Hall/VdC Norms: Male#0257	actP> actC setAQ 
-QQQ10737.	Hall/VdC Norms: Male#0258	actL actP actM actV> actM actP actV> actM mf4 setIF 
-QQQ10738.	Hall/VdC Norms: Male#0259	actP actL actL setOQ 
-QQQ10739.	Hall/VdC Norms: Male#0260	actC actM actA actV actC setIQ 
-QQQ10740.	Hall/VdC Norms: Male#0261	actP actP actM actM actM actP actP> actP actV> actP> actS actM gf setOF 
-QQQ10741.	Hall/VdC Norms: Male#0262	actP actL actL actS actP actP actP actM actM actP actS actS actP actP actP actP actL actP actP> actV actS setOQ 
-QQQ10742.	Hall/VdC Norms: Male#0263	actM actM actP> actPr actM actP> actL actM actM mf5 mf1 gf setOQ 
-QQQ10743.	Hall/VdC Norms: Male#0264	actL actP actP actP> actM actL actM actS actV> gf setOU setIU 
-QQQ10744.	Hall/VdC Norms: Male#0265	actM actS actA actP> actV> mf1 setOQ 
-QQQ10745.	Hall/VdC Norms: Male#0266	actM actS setOF 
+QQQ10729.	Hall/VdC Norms: Male#0250	actL actV> setOQ objNA objRG 
+QQQ10730.	Hall/VdC Norms: Male#0251	actC emoAP setIQ objAV objCM 
+QQQ10731.	Hall/VdC Norms: Male#0252	actV actM setIF objAR objAR objAR 
+QQQ10732.	Hall/VdC Norms: Male#0253	actS actP= actP actP actV> actL actM setIQ objAE objCM objNA objIW 
+QQQ10733.	Hall/VdC Norms: Male#0254	actP actV actV= setAQ setIQ setIQ objAD objAR objAD objMO objAR objAR 
+QQQ10734.	Hall/VdC Norms: Male#0255	actV actA emoAP setIQ objTR objTR objTR 
+QQQ10735.	Hall/VdC Norms: Male#0256	actP actL actP actL actP actV= mf4 gf emoHA setOQ objTR objTR 
+QQQ10736.	Hall/VdC Norms: Male#0257	actP> actC emoAP emoCO setAQ objHH objBH 
+QQQ10737.	Hall/VdC Norms: Male#0258	actL actP actM actV> actM actP actV> actM mf4 emoAN setIF objAR objCM objAR objHH objTR objMS 
+QQQ10738.	Hall/VdC Norms: Male#0259	actP actL actL emoHA setOQ objAV objMO objCL objTR objRG 
+QQQ10739.	Hall/VdC Norms: Male#0260	actC actM actA actV actC emoAP setIQ objAV objAV 
+QQQ10740.	Hall/VdC Norms: Male#0261	actP actP actM actM actM actP actP> actP actV> actP> actS actM gf emoHA setOF objRG objHH objNA objBH objBT objBE 
+QQQ10741.	Hall/VdC Norms: Male#0262	actP actL actL actS actP actP actP actM actM actP actS actS actP actP actP actP actL actP actP> actV actS emoHA emoHA setOQ objTR objNA objTR objIW objNA objBH objNA objNA 
+QQQ10742.	Hall/VdC Norms: Male#0263	actM actM actP> actPr actM actP> actL actM actM mf5 mf1 gf emoAP emoAP setOQ objST objTR objBE 
+QQQ10743.	Hall/VdC Norms: Male#0264	actL actP actP actP> actM actL actM actS actV> gf emoHA setOU setIU objTR objAR objCL objAR objAD objBE objAR objAE objAR 
+QQQ10744.	Hall/VdC Norms: Male#0265	actM actS actA actP> actV> mf1 setOQ objST objRG objAD objAD objCL objAD objAR objBE 
+QQQ10745.	Hall/VdC Norms: Male#0266	actM actS emoCO emoCO setOF objRG objST objNA objNA objNA objAR objRG 
 QQQ10746.	Hall/VdC Norms: Male#0267	actM actS actM setOQ 
-QQQ10747.	Hall/VdC Norms: Male#0268	actM actV> actVr actVr setIF 
-QQQ10748.	Hall/VdC Norms: Male#0269	actM actM setIQ 
-QQQ10749.	Hall/VdC Norms: Male#0270	actS actM actS actM actM setOD setIQ 
-QQQ10750.	Hall/VdC Norms: Male#0271	actM actM actV> actS actP> actM actP> actL actV> mf1 setOF setIU 
-QQQ10751.	Hall/VdC Norms: Male#0272	actP actM actS actV> actVr actP> actP actV> actP actV> actM actVr actM actV> actP actM setIF 
-QQQ10752.	Hall/VdC Norms: Male#0273	actL actP actS actM actM setOF setIF 
-QQQ10753.	Hall/VdC Norms: Male#0274	actS actP actM actM actS actM actV> actVr mf1 setIF setOF 
-QQQ10754.	Hall/VdC Norms: Male#0275	actV> actV> actP actS actP setAD setIQ 
-QQQ10755.	Hall/VdC Norms: Male#0276	actM actS actM actE setOQ 
-QQQ10756.	Hall/VdC Norms: Male#0277	actM actP setIF 
-QQQ10757.	Hall/VdC Norms: Male#0278	actP actV> actVr actP= setAQ 
-QQQ10758.	Hall/VdC Norms: Male#0279	actV> actP= setAQ 
-QQQ10759.	Hall/VdC Norms: Male#0280	actP actL actV> actS actM setOU 
-QQQ10760.	Hall/VdC Norms: Male#0281	actS actM actM actP actS actP= actP actL actM actS actM gf setOG setOU 
-QQQ10761.	Hall/VdC Norms: Male#0282	actV> actVr actE actVr actM actP actP> actM actS actV> actVr setOQ 
-QQQ10762.	Hall/VdC Norms: Male#0283	actS actM actS actM actL actP actV> actVr actS actM setOF 
-QQQ10763.	Hall/VdC Norms: Male#0284	actP> actPr setOQ 
-QQQ10764.	Hall/VdC Norms: Male#0285	actM actC actL actP actM actS actP actS actV> actP actVr actM actL actP setOQ setIU setOQ 
-QQQ10765.	Hall/VdC Norms: Male#0286	actP= mf1 setIQ 
-QQQ10766.	Hall/VdC Norms: Male#0287	actL actP mf4 gf setOQ 
-QQQ10767.	Hall/VdC Norms: Male#0288	actP actM actM actP actP actM actL setOG 
-QQQ10768.	Hall/VdC Norms: Male#0289	actL actP actS actM mf6 setOU setIU 
-QQQ10769.	Hall/VdC Norms: Male#0290	actS actP> setIU 
-QQQ10770.	Hall/VdC Norms: Male#0291	actM actM actV> mf5 setIF 
-QQQ10771.	Hall/VdC Norms: Male#0292	actL actM actV> actM actE actP= setIF 
-QQQ10772.	Hall/VdC Norms: Male#0293	actM actV> setOF 
-QQQ10773.	Hall/VdC Norms: Male#0294	actM actS actC mf6 setOF 
-QQQ10774.	Hall/VdC Norms: Male#0295	actM actS actV> actVr actA actV> setIF 
-QQQ10775.	Hall/VdC Norms: Male#0296	actM actM mf1 setOU 
-QQQ10776.	Hall/VdC Norms: Male#0297	actM actV mf1 setOQ 
-QQQ10777.	Hall/VdC Norms: Male#0298	actM actS actV> actP> mf1 setOU setIQ 
-QQQ10778.	Hall/VdC Norms: Male#0299	actM actS actA actM actP actP actM actP mf1 setOU 
-QQQ10779.	Hall/VdC Norms: Male#0300	actM actM actS actE mf1 setIQ 
-QQQ10780.	Hall/VdC Norms: Male#0301	actP actS actL actL actL actL actP mf3 mf3 setOG 
-QQQ10781.	Hall/VdC Norms: Male#0302	actL actM mf4 mf2 setOQ 
-QQQ10782.	Hall/VdC Norms: Male#0303	actL actP mf5 mf4 setOQ 
-QQQ10783.	Hall/VdC Norms: Male#0304	actM actP> actM actL actM actP> actM setOQ 
-QQQ10784.	Hall/VdC Norms: Male#0305	actS actA actM actM mf5 setIF 
-QQQ10785.	Hall/VdC Norms: Male#0306	actM actP> actP> mf4 setIU 
-QQQ10786.	Hall/VdC Norms: Male#0307	actS actM mf4 setAQ 
-QQQ10787.	Hall/VdC Norms: Male#0308	actM setIU 
-QQQ10788.	Hall/VdC Norms: Male#0309	actV= actP actE gf setIF 
-QQQ10789.	Hall/VdC Norms: Male#0310	actM actV> actL actS actM actM mf4 setOG 
-QQQ10790.	Hall/VdC Norms: Male#0311	actM actV actP setOG 
-QQQ10791.	Hall/VdC Norms: Male#0312	actP actL mf4 setOF 
-QQQ10792.	Hall/VdC Norms: Male#0313	actP> actS actV> actP= actP setIQ 
-QQQ10793.	Hall/VdC Norms: Male#0314	actM mf2 mf3 setOQ 
-QQQ10794.	Hall/VdC Norms: Male#0315	actP actP actV> actL mf5 setOD setIQ setOQ 
-QQQ10795.	Hall/VdC Norms: Male#0316	actL actL setAQ setAG 
-QQQ10796.	Hall/VdC Norms: Male#0317	actP actP actE actP> actM actM actP> setOQ 
-QQQ10797.	Hall/VdC Norms: Male#0318	actP actV> actS mf5 setIQ 
-QQQ10798.	Hall/VdC Norms: Male#0319	actV> actP> actM actM setIF setOQ setIQ setOQ 
-QQQ10799.	Hall/VdC Norms: Male#0320	actP= actL actV> actM mf3 setOQ setOF 
-QQQ10800.	Hall/VdC Norms: Male#0321	actM mf4 setAQ 
-QQQ10801.	Hall/VdC Norms: Male#0322	actM actP setOF 
-QQQ10802.	Hall/VdC Norms: Male#0323	actV> actP> actM setIQ 
-QQQ10803.	Hall/VdC Norms: Male#0324	actL actP actS actV> actVr mf4 setOQ 
-QQQ10804.	Hall/VdC Norms: Male#0325	actM actP actS mf2 setOQ 
-QQQ10805.	Hall/VdC Norms: Male#0326	actP actM actP> actP actV> setIQ 
-QQQ10806.	Hall/VdC Norms: Male#0327	actM actV> actP actP actV> actP> actP= setOQ setIQ 
-QQQ10807.	Hall/VdC Norms: Male#0328	actP actV actM actL setIQ 
-QQQ10808.	Hall/VdC Norms: Male#0329	actP actM actM actV= actM actM actP> actM actP> actV> actM actM actP> actP> actV> gf setIU 
-QQQ10809.	Hall/VdC Norms: Male#0330	actM actP actM actL actP mf4 setIU setOF 
-QQQ10810.	Hall/VdC Norms: Male#0331	actM actP actM actP mf5 setIQ 
-QQQ10811.	Hall/VdC Norms: Male#0332	actM actS actS actM actM actM setOF setID 
-QQQ10812.	Hall/VdC Norms: Male#0333	actM actM actP actL mf3 setIQ 
-QQQ10813.	Hall/VdC Norms: Male#0334	actP actV> actE actL actP actS setIF 
-QQQ10814.	Hall/VdC Norms: Male#0335	actV> actV> actVr actP actM mf1 setOF 
-QQQ10815.	Hall/VdC Norms: Male#0336	actS actM actC actM mf1 setIF 
+QQQ10747.	Hall/VdC Norms: Male#0268	actM actV> actVr actVr emoAN setIF objCM objAV 
+QQQ10748.	Hall/VdC Norms: Male#0269	actM actM setIQ objAR objAR objAR objAD objAR objCL objBH 
+QQQ10749.	Hall/VdC Norms: Male#0270	actS actM actS actM actM setOD setIQ objCM objAV objRG objNA objST objST objAD objAE objST objAV objAD 
+QQQ10750.	Hall/VdC Norms: Male#0271	actM actM actV> actS actP> actM actP> actL actV> mf1 emoAP setOF setIU objST objRG objAR objAD objAD objBH objTR objTR 
+QQQ10751.	Hall/VdC Norms: Male#0272	actP actM actS actV> actVr actP> actP actV> actP actV> actM actVr actM actV> actP actM emoCO emoSD setIF objAE objIR objHH objIR objIR objIR objIR 
+QQQ10752.	Hall/VdC Norms: Male#0273	actL actP actS actM actM emoCO emoSD setOF setIF objAR objTR objAV objST objNA objNA objHH objAV 
+QQQ10753.	Hall/VdC Norms: Male#0274	actS actP actM actM actS actM actV> actVr mf1 emoCO emoSD setIF setOF objAR objTR objNA objCL objRG objNA objTR objTR objCL 
+QQQ10754.	Hall/VdC Norms: Male#0275	actV> actV> actP actS actP setAD setIQ objRG objAV objRG objIW objAE objHH objHH objFO 
+QQQ10755.	Hall/VdC Norms: Male#0276	actM actS actM actE emoHA emoHA emoAP setOQ objIR objIR objBA objBH 
+QQQ10756.	Hall/VdC Norms: Male#0277	actM actP emoAN setIF objAR objHH 
+QQQ10757.	Hall/VdC Norms: Male#0278	actP actV> actVr actP= emoHA setAQ objBT 
+QQQ10758.	Hall/VdC Norms: Male#0279	actV> actP= emoAP emoAN setAQ 
+QQQ10759.	Hall/VdC Norms: Male#0280	actP actL actV> actS actM emoAP setOU objCL objTR objNA objNA 
+QQQ10760.	Hall/VdC Norms: Male#0281	actS actM actM actP actS actP= actP actL actM actS actM gf emoAP emoHA emoCO emoHA setOG setOU objRG objNA objTR objTR objTR objTR objST objNA objNA 
+QQQ10761.	Hall/VdC Norms: Male#0282	actV> actVr actE actVr actM actP actP> actM actS actV> actVr setOQ objRG objAE objBE objAI objHH 
+QQQ10762.	Hall/VdC Norms: Male#0283	actS actM actS actM actL actP actV> actVr actS actM emoCO setOF objAE objST objTR objTR objTR objST objAR 
+QQQ10763.	Hall/VdC Norms: Male#0284	actP> actPr setOQ objNA objCL 
+QQQ10764.	Hall/VdC Norms: Male#0285	actM actC actL actP actM actS actP actS actV> actP actVr actM actL actP emoHA setOQ setIU setOQ objTR objRG objNA objAR objAV objMS objMS objNA objNA 
+QQQ10765.	Hall/VdC Norms: Male#0286	actP= mf1 setIQ objHH 
+QQQ10766.	Hall/VdC Norms: Male#0287	actL actP mf4 gf setOQ objST objNA objTR objTR 
+QQQ10767.	Hall/VdC Norms: Male#0288	actP actM actM actP actP actM actL setOG objRG objIW objIW objCL objHH objHH objIW 
+QQQ10768.	Hall/VdC Norms: Male#0289	actL actP actS actM mf6 setOU setIU objRG objTR objST objTR objAI objAI objHH objHH 
+QQQ10769.	Hall/VdC Norms: Male#0290	actS actP> emoCO setIU objAR objAR objCM objIW objBH 
+QQQ10770.	Hall/VdC Norms: Male#0291	actM actM actV> mf5 emoCO emoCO setIF objAV objAV objCL objCM objAD objAV 
+QQQ10771.	Hall/VdC Norms: Male#0292	actL actM actV> actM actE actP= emoCO setIF objAR objAR objCL 
+QQQ10772.	Hall/VdC Norms: Male#0293	actM actV> emoCO setOF 
+QQQ10773.	Hall/VdC Norms: Male#0294	actM actS actC mf6 emoSD setOF objST objAI objAI objCM objBE 
+QQQ10774.	Hall/VdC Norms: Male#0295	actM actS actV> actVr actA actV> emoCO emoSD setIF objHH objAV objRG objHH objCL objCL 
+QQQ10775.	Hall/VdC Norms: Male#0296	actM actM mf1 emoAP emoAP setOU objNA 
+QQQ10776.	Hall/VdC Norms: Male#0297	actM actV mf1 setOQ objST objTR objMS 
+QQQ10777.	Hall/VdC Norms: Male#0298	actM actS actV> actP> mf1 emoAP emoAN setOU setIQ objST objAR objAR 
+QQQ10778.	Hall/VdC Norms: Male#0299	actM actS actA actM actP actP actM actP mf1 setOU objST objNA objCM objNA objNA objNA objCL objAR objIR 
+QQQ10779.	Hall/VdC Norms: Male#0300	actM actM actS actE mf1 emoHA setIQ objAE objAE objHH 
+QQQ10780.	Hall/VdC Norms: Male#0301	actP actS actL actL actL actL actP mf3 mf3 setOG objAR objNA objNA objIT objRG objIW objNA objNA 
+QQQ10781.	Hall/VdC Norms: Male#0302	actL actM mf4 mf2 setOQ objTR objRG objIT objCL objTR objNA objBT 
+QQQ10782.	Hall/VdC Norms: Male#0303	actL actP mf5 mf4 emoAP setOQ objTR objST objTR objNA 
+QQQ10783.	Hall/VdC Norms: Male#0304	actM actP> actM actL actM actP> actM setOQ objST objNA objNA objAM objIW objNA objNA 
+QQQ10784.	Hall/VdC Norms: Male#0305	actS actA actM actM mf5 setIF objAD objAR objAR objTR objTR 
+QQQ10785.	Hall/VdC Norms: Male#0306	actM actP> actP> mf4 setIU objAR objST objIW objIW objIW objAD 
+QQQ10786.	Hall/VdC Norms: Male#0307	actS actM mf4 emoAP setAQ objIW 
+QQQ10787.	Hall/VdC Norms: Male#0308	actM emoHA setIU objAE 
+QQQ10788.	Hall/VdC Norms: Male#0309	actV= actP actE gf setIF objAR objAR objAD objFO 
+QQQ10789.	Hall/VdC Norms: Male#0310	actM actV> actL actS actM actM mf4 setOG objIR objNA objTR objNA objNA objNA 
+QQQ10790.	Hall/VdC Norms: Male#0311	actM actV actP setOG objNA objNA objIW 
+QQQ10791.	Hall/VdC Norms: Male#0312	actP actL mf4 setOF objST objRG objTR objTR objTR objTR objTR objST 
+QQQ10792.	Hall/VdC Norms: Male#0313	actP> actS actV> actP= actP emoAP setIQ objAE objAE objBT objAR objCL 
+QQQ10793.	Hall/VdC Norms: Male#0314	actM mf2 mf3 emoAP setOQ objNA objNA 
+QQQ10794.	Hall/VdC Norms: Male#0315	actP actP actV> actL mf5 setOD setIQ setOQ objNA objNA objNA objTR objNA objMS 
+QQQ10795.	Hall/VdC Norms: Male#0316	actL actL setAQ setAG objBE objBH objBE objBE objIW objRG 
+QQQ10796.	Hall/VdC Norms: Male#0317	actP actP actE actP> actM actM actP> setOQ objIR objIW objCL objAD objAV objST 
+QQQ10797.	Hall/VdC Norms: Male#0318	actP actV> actS mf5 setIQ objIR objAD objAE objAR objBH 
+QQQ10798.	Hall/VdC Norms: Male#0319	actV> actP> actM actM setIF setOQ setIQ setOQ objIW objAR objIW objST objAR objRG objAD objBH objMS 
+QQQ10799.	Hall/VdC Norms: Male#0320	actP= actL actV> actM mf3 emoHA setOQ setOF objST objRG objRG objST objTR objTR 
+QQQ10800.	Hall/VdC Norms: Male#0321	actM mf4 setAQ objRG objAV objNA objAV objCL 
+QQQ10801.	Hall/VdC Norms: Male#0322	actM actP setOF objNA objST objBE objHH 
+QQQ10802.	Hall/VdC Norms: Male#0323	actV> actP> actM setIQ objAR objNA objAD objCM 
+QQQ10803.	Hall/VdC Norms: Male#0324	actL actP actS actV> actVr mf4 setOQ objST objST objMS 
+QQQ10804.	Hall/VdC Norms: Male#0325	actM actP actS mf2 emoAP setOQ objNA objNA objNA objNA objBE 
+QQQ10805.	Hall/VdC Norms: Male#0326	actP actM actP> actP actV> setIQ objCM objCL objHH objIT objAV 
+QQQ10806.	Hall/VdC Norms: Male#0327	actM actV> actP actP actV> actP> actP= setOQ setIQ objST objAE objIR objAD objAE objIR objIR objHH 
+QQQ10807.	Hall/VdC Norms: Male#0328	actP actV actM actL setIQ objCM objCM objAV objHH objAR 
+QQQ10808.	Hall/VdC Norms: Male#0329	actP actM actM actV= actM actM actP> actM actP> actV> actM actM actP> actP> actV> gf setIU objAD objAR objAR objCL objIR objBH objCL objCL objCL objAR objCL objCL objBT objCL objBH objCL objBE 
+QQQ10809.	Hall/VdC Norms: Male#0330	actM actP actM actL actP mf4 emoAP setIU setOF objAR objAR objAR objAD objHH objHH objHH objIT objHH objST objRG objTR objTR 
+QQQ10810.	Hall/VdC Norms: Male#0331	actM actP actM actP mf5 setIQ objCM objBH objHH 
+QQQ10811.	Hall/VdC Norms: Male#0332	actM actS actS actM actM actM emoAN setOF setID objST objAD objHH objAD objHH objHH objBH objCM objAE objST objAE objAE objCM objHH objAD objHH 
+QQQ10812.	Hall/VdC Norms: Male#0333	actM actM actP actL mf3 emoAP emoAP setIQ objAV objRG objIT objIT objAD objAD objTR objHH objIT 
+QQQ10813.	Hall/VdC Norms: Male#0334	actP actV> actE actL actP actS setIF objAR objAR objHH objHH objAD objTR objST objFO 
+QQQ10814.	Hall/VdC Norms: Male#0335	actV> actV> actVr actP actM mf1 emoAP setOF objAV objST objTR objTR objRG objTR objTR 
+QQQ10815.	Hall/VdC Norms: Male#0336	actS actM actC actM mf1 setIF objCM objAR objAV 
 QQQ10816.	Hall/VdC Norms: Male#0337	actP= mf1 setAQ 
-QQQ10817.	Hall/VdC Norms: Male#0338	actM mf1 setID 
-QQQ10818.	Hall/VdC Norms: Male#0339	actP actP setIF 
-QQQ10819.	Hall/VdC Norms: Male#0340	actL actP actS setOG 
-QQQ10820.	Hall/VdC Norms: Male#0341	actS actV> actM actP> actL mf2 setAF 
-QQQ10821.	Hall/VdC Norms: Male#0342	actA actP actA actP mf6 setIF 
-QQQ10822.	Hall/VdC Norms: Male#0343	actM actP actM actS gf setOQ setIQ setOQ 
-QQQ10823.	Hall/VdC Norms: Male#0344	actM mf5 gf setOQ 
-QQQ10824.	Hall/VdC Norms: Male#0345	actM actP actS actV> actS actP setIF 
-QQQ10825.	Hall/VdC Norms: Male#0346	actM actM mf2 setOF 
-QQQ10826.	Hall/VdC Norms: Male#0347	actM actV> actV> setAQ 
-QQQ10827.	Hall/VdC Norms: Male#0348	actA actM actP> actPr actM actM actP> setIF actM actS actP setIF 
-QQQ10828.	Hall/VdC Norms: Male#0350	actM actP> actV setOG actM actP> actV> actP> setOQ 
-QQQ10829.	Hall/VdC Norms: Male#0352	actP> actS actM actS setIQ 
-QQQ10830.	Hall/VdC Norms: Male#0353	actM actC actM actM setIF setOQ 
-QQQ10831.	Hall/VdC Norms: Male#0354	actM actM actV actS actV setOQ 
-QQQ10832.	Hall/VdC Norms: Male#0355	actM actS actS setIQ setIF 
-QQQ10833.	Hall/VdC Norms: Male#0356	actP actV> actP mf4 setIQ 
-QQQ10834.	Hall/VdC Norms: Male#0357	actM actM mf1 setOG 
-QQQ10835.	Hall/VdC Norms: Male#0358	actL actP actA actP actL actP mf6 mf4 mf4 setOU 
-QQQ10836.	Hall/VdC Norms: Male#0359	actP actV> actVr actVr actM mf5 setOQ 
-QQQ10837.	Hall/VdC Norms: Male#0360	actL actP actV> actVr actVr actL actP actP actL actP mf4 setOF 
-QQQ10838.	Hall/VdC Norms: Male#0361	actM actL actV> actP actP> mf1 setIQ setOQ setIQ 
-QQQ10839.	Hall/VdC Norms: Male#0362	actL actV= actL actV> setIF setOQ setIF 
-QQQ10840.	Hall/VdC Norms: Male#0363	actM actM actL mf1 mf1 setIU setOU 
-QQQ10841.	Hall/VdC Norms: Male#0364	actL actP actP actV> actVr actP mf4 setOG 
-QQQ10842.	Hall/VdC Norms: Male#0365	actV> actV setAQ 
-QQQ10843.	Hall/VdC Norms: Male#0366	actV> actM actL actV actV> actS setIF setIF setOF 
-QQQ10844.	Hall/VdC Norms: Male#0367	actL actM actL actL actV> actP actL actL mf5 setOQ 
-QQQ10845.	Hall/VdC Norms: Male#0368	actE actV actV> actVr setAQ 
-QQQ10846.	Hall/VdC Norms: Male#0369	actP actV actV actP actP actM actS actV> actM actV> actVr actP setIQ setOQ setIU 
-QQQ10847.	Hall/VdC Norms: Male#0370	actV actM actS actM actA actV> actS setIF 
-QQQ10848.	Hall/VdC Norms: Male#0371	actL actV> actV= mf4 setOG 
-QQQ10849.	Hall/VdC Norms: Male#0372	actP actV> setOG setIU 
-QQQ10850.	Hall/VdC Norms: Male#0373	actS actE actM actP actS actP actS actV> actP setIQ 
-QQQ10851.	Hall/VdC Norms: Male#0374	actP> actL actM actS setOU 
-QQQ10852.	Hall/VdC Norms: Male#0375	actM actS actV> actVr actM actP mf1 setOU 
-QQQ10853.	Hall/VdC Norms: Male#0376	actM actV actM actM actM setIF setOF 
-QQQ10854.	Hall/VdC Norms: Male#0377	actP> actS actM setIU 
-QQQ10855.	Hall/VdC Norms: Male#0378	actV> actS actM actS setAU 
-QQQ10856.	Hall/VdC Norms: Male#0379	actM actP actP actV= actP> actVr setOU setIU 
-QQQ10857.	Hall/VdC Norms: Male#0380	actL actV> actP> actV> actV> actM setOG 
-QQQ10858.	Hall/VdC Norms: Male#0381	actV setIQ 
-QQQ10859.	Hall/VdC Norms: Male#0382	actS actP actS setOQ 
-QQQ10860.	Hall/VdC Norms: Male#0383	actP actP> actP> actV> setIF 
-QQQ10861.	Hall/VdC Norms: Male#0384	actM actS actC mf1 setIF 
-QQQ10862.	Hall/VdC Norms: Male#0385	actL actP actV mf4 setIQ setIF 
-QQQ10863.	Hall/VdC Norms: Male#0386	actV> mf4 setIF 
-QQQ10864.	Hall/VdC Norms: Male#0387	actM actL actL actP actV setOQ setIU 
-QQQ10865.	Hall/VdC Norms: Male#0388	setOQ 
-QQQ10866.	Hall/VdC Norms: Male#0389	actL actP actS actP> actP> actV> actV> setOF 
-QQQ10867.	Hall/VdC Norms: Male#0390	actV= actP actM actV actM actP> actM setIF 
-QQQ10868.	Hall/VdC Norms: Male#0391	actP actV> actP> actL actM actP actV setOQ setIF actM actM mf4 mf1 setOF actM actP> actP> actE setOQ actM actM actS actS actM setOQ 
-QQQ10869.	Hall/VdC Norms: Male#0395	actM actP actP actM actM actM setOQ setIQ 
-QQQ10870.	Hall/VdC Norms: Male#0396	actM actS actP> actP> actV actE setIU 
-QQQ10871.	Hall/VdC Norms: Male#0397	actV> actV actV> actVr actP> actE actVr actM actS setIF 
-QQQ10872.	Hall/VdC Norms: Male#0398	actS actV> actM actS actV actP= setIF 
-QQQ10873.	Hall/VdC Norms: Male#0399	actP actS actV> actVr setIQ setIF 
-QQQ10874.	Hall/VdC Norms: Male#0400	actP setIF 
-QQQ10875.	Hall/VdC Norms: Male#0401	actM actS actS actE actV> actP setOU 
-QQQ10876.	Hall/VdC Norms: Male#0402	actM actP actV> actVr actP actP actP actE actV> actP> actP> actV> actVr setIU 
-QQQ10877.	Hall/VdC Norms: Male#0403	actS actV> actV> actL actC setAQ 
-QQQ10878.	Hall/VdC Norms: Male#0404	actS actC setOG 
-QQQ10879.	Hall/VdC Norms: Male#0405	actA actM actM actP actP actS mf1 gf setIF 
-QQQ10880.	Hall/VdC Norms: Male#0406	actM actP mf1 setIU 
-QQQ10881.	Hall/VdC Norms: Male#0407	actM actL actP> actS actM actS actV> actP actV> actV> actE actC setOQ setIQ 
-QQQ10882.	Hall/VdC Norms: Male#0408	actM actV> actV> actP> actP actP actP actP setIU 
-QQQ10883.	Hall/VdC Norms: Male#0409	actM actP> actP setOU setIU 
-QQQ10884.	Hall/VdC Norms: Male#0410	actM actV> setIF 
-QQQ10885.	Hall/VdC Norms: Male#0411	actS actM actP> actV> actP> actP actS actP> setIQ 
-QQQ10886.	Hall/VdC Norms: Male#0412	actA actP actP actM actS actP actP= setOQ 
-QQQ10887.	Hall/VdC Norms: Male#0413	actP> actL actP> actP> actL gf setOQ 
-QQQ10888.	Hall/VdC Norms: Male#0414	actV> actP> actM actP> actP setIQ 
-QQQ10889.	Hall/VdC Norms: Male#0415	actP actS actP> actPr actP> actP> setOQ 
-QQQ10890.	Hall/VdC Norms: Male#0416	actM actP actP> actM setOU 
-QQQ10891.	Hall/VdC Norms: Male#0417	actL actL actP actP actP actM actV> mf4 setOQ 
-QQQ10892.	Hall/VdC Norms: Male#0418	actL mf3 setOQ 
-QQQ10893.	Hall/VdC Norms: Male#0419	actL mf3 setOQ 
-QQQ10894.	Hall/VdC Norms: Male#0420	actP mf3 setOQ 
-QQQ10895.	Hall/VdC Norms: Male#0421	actM actS actM actP> actV> actS actM actV= actP= setOU setIU 
-QQQ10896.	Hall/VdC Norms: Male#0422	actV> actM actS actV= setIG 
-QQQ10897.	Hall/VdC Norms: Male#0423	actM actP actP mf1 setOU setIQ setOU 
-QQQ10898.	Hall/VdC Norms: Male#0424	actV> actV actM actM actV= setIF setOF setOQ 
-QQQ10899.	Hall/VdC Norms: Male#0425	actS actV actP setOF 
-QQQ10900.	Hall/VdC Norms: Male#0426	actV actC setIU 
-QQQ10901.	Hall/VdC Norms: Male#0427	actP actM actC actM actP actL setOQ setIQ setOQ 
-QQQ10902.	Hall/VdC Norms: Male#0428	actS actV> mf5 setIU 
-QQQ10903.	Hall/VdC Norms: Male#0429	actM mf1 setOQ 
-QQQ10904.	Hall/VdC Norms: Male#0430	actV mf1 setAQ 
-QQQ10905.	Hall/VdC Norms: Male#0431	actP actL actA actP actP actA actP mf4 setOQ 
-QQQ10906.	Hall/VdC Norms: Male#0432	actP actP actP setIF 
-QQQ10907.	Hall/VdC Norms: Male#0433	actP actA actL actM actL actV> actS actV actV> actP> actP> setIU setIU 
-QQQ10908.	Hall/VdC Norms: Male#0434	actP actL actA mf3 gf setOQ 
-QQQ10909.	Hall/VdC Norms: Male#0435	actP actL actS actV actA mf3 gf setOG 
-QQQ10910.	Hall/VdC Norms: Male#0436	actV> actP= setAG setIQ 
-QQQ10911.	Hall/VdC Norms: Male#0437	actV> actP actP actV> actP actP> actV actM actC setIQ 
-QQQ10912.	Hall/VdC Norms: Male#0438	actP actS actM actP actE mf1 setIU 
-QQQ10913.	Hall/VdC Norms: Male#0439	actP actV> mf1 setIQ 
-QQQ10914.	Hall/VdC Norms: Male#0440	actL actP actM setOQ 
-QQQ10915.	Hall/VdC Norms: Male#0441	actP actP actS mf1 setIQ 
-QQQ10916.	Hall/VdC Norms: Male#0442	actM actV actP actP> actM actP actV> actV> actM setIU 
-QQQ10917.	Hall/VdC Norms: Male#0443	actA actM actV actA actP setIQ setOQ 
-QQQ10918.	Hall/VdC Norms: Male#0444	actP> actL actC actP setOU 
-QQQ10919.	Hall/VdC Norms: Male#0445	actL actV> actL actP setOG setOG 
-QQQ10920.	Hall/VdC Norms: Male#0446	actL actV actA actP setAQ setOQ 
-QQQ10921.	Hall/VdC Norms: Male#0447	actM actC actM actS actP actE actM actM setOQ 
-QQQ10922.	Hall/VdC Norms: Male#0448	actM actS actM actL actV actM mf3 setOQ setIU 
-QQQ10923.	Hall/VdC Norms: Male#0449	actL actM actM actM actP actP> setOF setIF 
-QQQ10924.	Hall/VdC Norms: Male#0450	actM actV= actL actV= actS actP actV> actVr setOF setOG setIF 
-QQQ10925.	Hall/VdC Norms: Male#0451	actL actP setIQ setIQ 
-QQQ10926.	Hall/VdC Norms: Male#0452	actS actV actM actV> actVr actV> actVr actVr actVr setIF 
-QQQ10927.	Hall/VdC Norms: Male#0453	actP actL actV> actVr actVr actVr actL actP actS actV> actVr actVr setOF 
-QQQ10928.	Hall/VdC Norms: Male#0454	actL actM actM actM actP mf4 mf6 setOU 
-QQQ10929.	Hall/VdC Norms: Male#0455	actP actM actS actM actS actM actS actC actM actM actM mf3 setOU 
-QQQ10930.	Hall/VdC Norms: Male#0456	actM actP> actA actM actP> actE setOU setIF 
-QQQ10931.	Hall/VdC Norms: Male#0457	actM actS actP actP actC setOQ 
-QQQ10932.	Hall/VdC Norms: Male#0458	mf5 setIF 
-QQQ10933.	Hall/VdC Norms: Male#0459	actM actL actP> mf5 setOQ 
-QQQ10934.	Hall/VdC Norms: Male#0460	actM actS actM actV> actM setIF setOF 
-QQQ10935.	Hall/VdC Norms: Male#0461	actM actV> actM actV> actV> actP actS actM actM actP> setIU 
-QQQ10936.	Hall/VdC Norms: Male#0462	actM actV> actM actM actP> actM actS actM actP mf4 gf setOG 
-QQQ10937.	Hall/VdC Norms: Male#0463	actM actP actM actM actS actP actP actE actP actE actP actP actE mf6 mf4 setOU setIU 
-QQQ10938.	Hall/VdC Norms: Male#0464	actM actP> actV> actVr actV> actVr actS actE setOF setIF 
-QQQ10939.	Hall/VdC Norms: Male#0465	actM actA actA actM actP mf3 setOU setIU 
-QQQ10940.	Hall/VdC Norms: Male#0466	actM actP actV> actM mf1 mf1 gf setIQ 
-QQQ10941.	Hall/VdC Norms: Male#0467	actL actP actV> actVr actM actL actC setOQ 
-QQQ10942.	Hall/VdC Norms: Male#0468	actL actM actM actS actM actV> actP actM actS actV actM actP> actV> actP> setOU setIU 
-QQQ10943.	Hall/VdC Norms: Male#0469	actS actM actP actP actV> actE actV> actP actV> mf1 setAG setOG 
-QQQ10944.	Hall/VdC Norms: Male#0470	actP actS actM setIU 
-QQQ10945.	Hall/VdC Norms: Male#0471	actM actV> actM actV> gf setOG setOU 
-QQQ10946.	Hall/VdC Norms: Male#0472	actL actP actL actC actV> mf3 setOQ setIF 
-QQQ10947.	Hall/VdC Norms: Male#0473	actP= actV> actM setOQ setOF 
-QQQ10948.	Hall/VdC Norms: Male#0474	actL actP actV> actVr mf4 gf setOF 
-QQQ10949.	Hall/VdC Norms: Male#0475	actL actS actC mf1 setOQ 
-QQQ10950.	Hall/VdC Norms: Male#0476	actS actC setNS 
-QQQ10951.	Hall/VdC Norms: Male#0477	actM actE actV actC actV> actM mf3 setOF 
-QQQ10952.	Hall/VdC Norms: Male#0478	actM actS actV> actM actM actP actP actS actP mf6 setOU 
-QQQ10953.	Hall/VdC Norms: Male#0479	actM actC actM actP actC actS actS actM actV> actVr actVr actVr actM actL actP actV setOQ 
-QQQ10954.	Hall/VdC Norms: Male#0480	actM actC actS actV> actM actP actV> actE gf setOU setIU 
-QQQ10955.	Hall/VdC Norms: Male#0481	actP> actP actPr actP setIF 
-QQQ10956.	Hall/VdC Norms: Male#0482	actS actP mf4 setOQ 
-QQQ10957.	Hall/VdC Norms: Male#0483	actP actS actP actP> actV> setIF 
-QQQ10958.	Hall/VdC Norms: Male#0484	actM actC setOF 
-QQQ10959.	Hall/VdC Norms: Male#0485	actL actP actM actP actM actP actP> actL mf3 setIQ 
-QQQ10960.	Hall/VdC Norms: Male#0486	actS actM actP> actV actV setIF 
-QQQ10961.	Hall/VdC Norms: Male#0487	actV> actVr actE setAQ 
-QQQ10962.	Hall/VdC Norms: Male#0488	actS actM actS actP> actV> actVr setOQ 
-QQQ10963.	Hall/VdC Norms: Male#0489	actS actC setIQ 
-QQQ10964.	Hall/VdC Norms: Male#0490	actV> actVr actV> actV> actV> mf5 setIF 
+QQQ10817.	Hall/VdC Norms: Male#0338	actM mf1 setID objAR objAR objHH objHH 
+QQQ10818.	Hall/VdC Norms: Male#0339	actP actP setIF objAR objHH objAD objHH 
+QQQ10819.	Hall/VdC Norms: Male#0340	actL actP actS setOG objIW objIW objIW objIT objIT 
+QQQ10820.	Hall/VdC Norms: Male#0341	actS actV> actM actP> actL mf2 setAF objAV objAV objST objAR 
+QQQ10821.	Hall/VdC Norms: Male#0342	actA actP actA actP mf6 emoCO setIF objCM objAR objTR 
+QQQ10822.	Hall/VdC Norms: Male#0343	actM actP actM actS gf setOQ setIQ setOQ objST objIR objIT objMO objIR objAE 
+QQQ10823.	Hall/VdC Norms: Male#0344	actM mf5 gf emoCO setOQ 
+QQQ10824.	Hall/VdC Norms: Male#0345	actM actP actS actV> actS actP emoCO setIF objAR objTR objTR objIT objRG 
+QQQ10825.	Hall/VdC Norms: Male#0346	actM actM mf2 setOF objRG objAV 
+QQQ10826.	Hall/VdC Norms: Male#0347	actM actV> actV> emoCO setAQ objAD 
+QQQ10827.	Hall/VdC Norms: Male#0348	actA actM actP> actPr actM actM actP> setIF objAR objIW objBE objBT actM actS actP setIF objAV objCL objHH objCL 
+QQQ10828.	Hall/VdC Norms: Male#0350	actM actP> actV emoCO setOG objNA actM actP> actV> actP> setOQ objBE objMS 
+QQQ10829.	Hall/VdC Norms: Male#0352	actP> actS actM actS setIQ objHH 
+QQQ10830.	Hall/VdC Norms: Male#0353	actM actC actM actM setIF setOQ objAR objAR objAR objAD objAR 
+QQQ10831.	Hall/VdC Norms: Male#0354	actM actM actV actS actV setOQ objBE objNA 
+QQQ10832.	Hall/VdC Norms: Male#0355	actM actS actS setIQ setIF objTR objTR objBH 
+QQQ10833.	Hall/VdC Norms: Male#0356	actP actV> actP mf4 setIQ objAE objFO objAD 
+QQQ10834.	Hall/VdC Norms: Male#0357	actM actM mf1 emoAP setOG objNA objBE objBE objNA 
+QQQ10835.	Hall/VdC Norms: Male#0358	actL actP actA actP actL actP mf6 mf4 mf4 setOU objTR objNA objTR objNA objTR objNA objTR objNA objTR objNA 
+QQQ10836.	Hall/VdC Norms: Male#0359	actP actV> actVr actVr actM mf5 setOQ objRG objTR objTR objBE objST 
+QQQ10837.	Hall/VdC Norms: Male#0360	actL actP actV> actVr actVr actL actP actP actL actP mf4 setOF objTR objST objTR objRG objTR objCM objMS 
+QQQ10838.	Hall/VdC Norms: Male#0361	actM actL actV> actP actP> mf1 emoCO setIQ setOQ setIQ objAR objAR objAD objAD objTR objAD objAR objMO 
+QQQ10839.	Hall/VdC Norms: Male#0362	actL actV= actL actV> setIF setOQ setIF objAR objRG objFO objHH objFO 
+QQQ10840.	Hall/VdC Norms: Male#0363	actM actM actL mf1 mf1 setIU setOU objAE objCL objAE objAE objAR objST 
+QQQ10841.	Hall/VdC Norms: Male#0364	actL actP actP actV> actVr actP mf4 emoAN setOG objRG objTR objNA objNA objNA objAB objTR 
+QQQ10842.	Hall/VdC Norms: Male#0365	actV> actV emoCO emoHA setAQ 
+QQQ10843.	Hall/VdC Norms: Male#0366	actV> actM actL actV actV> actS setIF setIF setOF objAE objAR objRG objTR objMO objAV objMO objCL 
+QQQ10844.	Hall/VdC Norms: Male#0367	actL actM actL actL actV> actP actL actL mf5 emoAN setOQ objST objTR objTR objTR objTR objTR objTR objST objCM objCM 
+QQQ10845.	Hall/VdC Norms: Male#0368	actE actV actV> actVr setAQ objCL 
+QQQ10846.	Hall/VdC Norms: Male#0369	actP actV actV actP actP actM actS actV> actM actV> actVr actP setIQ setOQ setIU objCL objCL objAE objFO objFO objAV objIR objIR objIR objAV objFO 
+QQQ10847.	Hall/VdC Norms: Male#0370	actV actM actS actM actA actV> actS setIF objAI objAD objCM objAI objHH objAR 
+QQQ10848.	Hall/VdC Norms: Male#0371	actL actV> actV= mf4 setOG objRG objNA objTR objNA objRG 
+QQQ10849.	Hall/VdC Norms: Male#0372	actP actV> setOG setIU objRG objMO objMO 
+QQQ10850.	Hall/VdC Norms: Male#0373	actS actE actM actP actS actP actS actV> actP setIQ objAV objBH objIT objHH objHH objIT 
+QQQ10851.	Hall/VdC Norms: Male#0374	actP> actL actM actS setOU objTR objNA objNA objST 
+QQQ10852.	Hall/VdC Norms: Male#0375	actM actS actV> actVr actM actP mf1 emoHA setOU objRG objCL objNA objMS 
+QQQ10853.	Hall/VdC Norms: Male#0376	actM actV actM actM actM setIF setOF objRG objAV objAV objRG objAE 
+QQQ10854.	Hall/VdC Norms: Male#0377	actP> actS actM setIU objAV objCL objHH objCL 
+QQQ10855.	Hall/VdC Norms: Male#0378	actV> actS actM actS emoCO setAU objRG objAR objCL objAV objAV objAV objAV objAV 
+QQQ10856.	Hall/VdC Norms: Male#0379	actM actP actP actV= actP> actVr setOU setIU objNA objRG objCL objAM objNA 
+QQQ10857.	Hall/VdC Norms: Male#0380	actL actV> actP> actV> actV> actM setOG objTR objTR objBT objBE 
+QQQ10858.	Hall/VdC Norms: Male#0381	actV setIQ objHH 
+QQQ10859.	Hall/VdC Norms: Male#0382	actS actP actS setOQ objIR 
+QQQ10860.	Hall/VdC Norms: Male#0383	actP actP> actP> actV> emoCO emoCO setIF objAR objHH objBT objBS 
+QQQ10861.	Hall/VdC Norms: Male#0384	actM actS actC mf1 setIF objAR objCM objCM objRG 
+QQQ10862.	Hall/VdC Norms: Male#0385	actL actP actV mf4 setIQ setIF objAE objAD objAE objMO 
+QQQ10863.	Hall/VdC Norms: Male#0386	actV> mf4 setIF objAV objCL 
+QQQ10864.	Hall/VdC Norms: Male#0387	actM actL actL actP actV setOQ setIU objNA objNA objNA objFO objFO 
+QQQ10865.	Hall/VdC Norms: Male#0388	setOQ objCL objCL objCL objST objST 
+QQQ10866.	Hall/VdC Norms: Male#0389	actL actP actS actP> actP> actV> actV> setOF objST objST objIT objIT objBH 
+QQQ10867.	Hall/VdC Norms: Male#0390	actV= actP actM actV actM actP> actM setIF objAR objHH objRG objHH objBE objIW objCL objIW objAD objAR 
+QQQ10868.	Hall/VdC Norms: Male#0391	actP actV> actP> actL actM actP actV setOQ setIF objAE objIR objIR objBT actM actM mf4 mf1 setOF objRG objAV objAR objBH objCL actM actP> actP> actE setOQ objNA objBE actM actM actS actS actM setOQ objRG objCM objST 
+QQQ10869.	Hall/VdC Norms: Male#0395	actM actP actP actM actM actM setOQ setIQ objNA objIR objAV objHH objAV objIR 
+QQQ10870.	Hall/VdC Norms: Male#0396	actM actS actP> actP> actV actE setIU objAD objAV objHH 
+QQQ10871.	Hall/VdC Norms: Male#0397	actV> actV actV> actVr actP> actE actVr actM actS setIF objHH objAR 
+QQQ10872.	Hall/VdC Norms: Male#0398	actS actV> actM actS actV actP= setIF objAR objHH objHH objAD 
+QQQ10873.	Hall/VdC Norms: Male#0399	actP actS actV> actVr setIQ setIF objAE objFO objHH objHH objAR 
+QQQ10874.	Hall/VdC Norms: Male#0400	actP emoCO setIF objCL 
+QQQ10875.	Hall/VdC Norms: Male#0401	actM actS actS actE actV> actP emoHA setOU objNA objNA objNA objNA objNA 
+QQQ10876.	Hall/VdC Norms: Male#0402	actM actP actV> actVr actP actP actP actE actV> actP> actP> actV> actVr emoSD setIU objAR objHH objBH objCL objHH objBE objNA 
+QQQ10877.	Hall/VdC Norms: Male#0403	actS actV> actV> actL actC emoHA emoCO setAQ objRG 
+QQQ10878.	Hall/VdC Norms: Male#0404	actS actC emoHA emoAP setOG objBT objNA objRG objNA objNA objNA 
+QQQ10879.	Hall/VdC Norms: Male#0405	actA actM actM actP actP actS mf1 gf emoAP emoAP setIF objHH objAR objAD objHH objAD objIW 
+QQQ10880.	Hall/VdC Norms: Male#0406	actM actP mf1 setIU objAI objAD objHH objAD objAB objHH objBH objAD objMS 
+QQQ10881.	Hall/VdC Norms: Male#0407	actM actL actP> actS actM actS actV> actP actV> actV> actE actC emoSD emoSD setOQ setIQ objTR objIW objAV objAD objBH objHH objIW objHH objAI 
+QQQ10882.	Hall/VdC Norms: Male#0408	actM actV> actV> actP> actP actP actP actP setIU objHH objAR objBA objHH objIT objAD objAV objFO objFO 
+QQQ10883.	Hall/VdC Norms: Male#0409	actM actP> actP setOU setIU objST objAR objBE objBS objHH 
+QQQ10884.	Hall/VdC Norms: Male#0410	actM actV> setIF objST objAR objHH objBE objBH objBT 
+QQQ10885.	Hall/VdC Norms: Male#0411	actS actM actP> actV> actP> actP actS actP> setIQ objAE objBS objHH 
+QQQ10886.	Hall/VdC Norms: Male#0412	actA actP actP actM actS actP actP= emoCO setOQ objNA objNA objNA objNA objBH objBH 
+QQQ10887.	Hall/VdC Norms: Male#0413	actP> actL actP> actP> actL gf setOQ objST objNA objIW objIW 
+QQQ10888.	Hall/VdC Norms: Male#0414	actV> actP> actM actP> actP setIQ objAE objAD 
+QQQ10889.	Hall/VdC Norms: Male#0415	actP actS actP> actPr actP> actP> setOQ objNA objNA objNA objBH objBE objBT objBS objBS 
+QQQ10890.	Hall/VdC Norms: Male#0416	actM actP actP> actM setOU objNA objAE objCL objAD 
+QQQ10891.	Hall/VdC Norms: Male#0417	actL actL actP actP actP actM actV> mf4 setOQ objTR objRG objTR objTR 
+QQQ10892.	Hall/VdC Norms: Male#0418	actL mf3 setOQ objTR objST objNA 
+QQQ10893.	Hall/VdC Norms: Male#0419	actL mf3 emoAP setOQ objTR objTR objTR 
+QQQ10894.	Hall/VdC Norms: Male#0420	actP mf3 emoAP setOQ objTR objTR objNA 
+QQQ10895.	Hall/VdC Norms: Male#0421	actM actS actM actP> actV> actS actM actV= actP= emoAP setOU setIU objST objRG objAR objAD objAR 
+QQQ10896.	Hall/VdC Norms: Male#0422	actV> actM actS actV= emoCO setIG objRG objCL objAI 
+QQQ10897.	Hall/VdC Norms: Male#0423	actM actP actP mf1 emoCO setOU setIQ setOU objST objAE objRG objIR objFO 
+QQQ10898.	Hall/VdC Norms: Male#0424	actV> actV actM actM actV= emoAN setIF setOF setOQ objRG objTR objTR objTR objTR objST 
+QQQ10899.	Hall/VdC Norms: Male#0425	actS actV actP emoAP setOF objAE 
+QQQ10900.	Hall/VdC Norms: Male#0426	actV actC setIU objAR objAD objAD objHH objAD 
+QQQ10901.	Hall/VdC Norms: Male#0427	actP actM actC actM actP actL emoAP setOQ setIQ setOQ objTR objAV objHH objHH 
+QQQ10902.	Hall/VdC Norms: Male#0428	actS actV> mf5 emoSD setIU objAV objCL objCL objBE 
+QQQ10903.	Hall/VdC Norms: Male#0429	actM mf1 emoAP setOQ objST objAE 
+QQQ10904.	Hall/VdC Norms: Male#0430	actV mf1 emoAP setAQ 
+QQQ10905.	Hall/VdC Norms: Male#0431	actP actL actA actP actP actA actP mf4 setOQ objST objST objTR objTR objTR 
+QQQ10906.	Hall/VdC Norms: Male#0432	actP actP actP emoAN setIF objAR objAR objAR objHH objAD objIT 
+QQQ10907.	Hall/VdC Norms: Male#0433	actP actA actL actM actL actV> actS actV actV> actP> actP> emoAP emoAN setIU setIU objRG objNA objAD objMS objFO 
+QQQ10908.	Hall/VdC Norms: Male#0434	actP actL actA mf3 gf emoAP setOQ objTR objTR 
+QQQ10909.	Hall/VdC Norms: Male#0435	actP actL actS actV actA mf3 gf setOG objTR objST objNA objNA objBT 
+QQQ10910.	Hall/VdC Norms: Male#0436	actV> actP= setAG setIQ objRG objCL objAR objHH 
+QQQ10911.	Hall/VdC Norms: Male#0437	actV> actP actP actV> actP actP> actV actM actC emoAN emoAN emoHA setIQ objHH objIR objMO objHH objAR 
+QQQ10912.	Hall/VdC Norms: Male#0438	actP actS actM actP actE mf1 emoHA emoSD setIU objAR objBE objCL objAD objAR objCL objCL objAD objNA 
+QQQ10913.	Hall/VdC Norms: Male#0439	actP actV> mf1 emoSD setIQ objAV objHH objNA 
+QQQ10914.	Hall/VdC Norms: Male#0440	actL actP actM emoAP setOQ objTR objNA objTR 
+QQQ10915.	Hall/VdC Norms: Male#0441	actP actP actS mf1 setIQ objAR objHH objCL objCL objHH objAD 
+QQQ10916.	Hall/VdC Norms: Male#0442	actM actV actP actP> actM actP actV> actV> actM setIU objAE objAE objMO objFO 
+QQQ10917.	Hall/VdC Norms: Male#0443	actA actM actV actA actP setIQ setOQ objAI objCM objST objCM 
+QQQ10918.	Hall/VdC Norms: Male#0444	actP> actL actC actP setOU objRG objTR objIW objAD objFO 
+QQQ10919.	Hall/VdC Norms: Male#0445	actL actV> actL actP setOG setOG objTR objTR objTR objNA objNA 
+QQQ10920.	Hall/VdC Norms: Male#0446	actL actV actA actP emoAP emoHA setAQ setOQ objHH objTR objTR objRG 
+QQQ10921.	Hall/VdC Norms: Male#0447	actM actC actM actS actP actE actM actM emoCO setOQ objNA objST objCL objBH 
+QQQ10922.	Hall/VdC Norms: Male#0448	actM actS actM actL actV actM mf3 setOQ setIU objTR objTR objTR objTR objCL objAI objAI 
+QQQ10923.	Hall/VdC Norms: Male#0449	actL actM actM actM actP actP> emoHA setOF setIF objCL objRG objAV objIW objCL 
+QQQ10924.	Hall/VdC Norms: Male#0450	actM actV= actL actV= actS actP actV> actVr setOF setOG setIF objRG objTR objTR objAR objTR objAR objNA objST objMO objIT 
+QQQ10925.	Hall/VdC Norms: Male#0451	actL actP emoHA emoAN setIQ setIQ objAV objHH 
+QQQ10926.	Hall/VdC Norms: Male#0452	actS actV actM actV> actVr actV> actVr actVr actVr setIF objHH objCM objHH objRG objFO 
+QQQ10927.	Hall/VdC Norms: Male#0453	actP actL actV> actVr actVr actVr actL actP actS actV> actVr actVr setOF objST objTR objAV objIT 
+QQQ10928.	Hall/VdC Norms: Male#0454	actL actM actM actM actP mf4 mf6 setOU objRG objTR objIW objTR objNA objNA objMS objMS 
+QQQ10929.	Hall/VdC Norms: Male#0455	actP actM actS actM actS actM actS actC actM actM actM mf3 setOU objTR objRG objNA objNA objRG objST objRG objNA objNA objHH objMS 
+QQQ10930.	Hall/VdC Norms: Male#0456	actM actP> actA actM actP> actE emoHA setOU setIF objRG objIW objAR objAD objAD objBE 
+QQQ10931.	Hall/VdC Norms: Male#0457	actM actS actP actP actC setOQ objST objNA objMS objMS objMS objHH 
+QQQ10932.	Hall/VdC Norms: Male#0458	mf5 emoAP setIF objHH objAR objAR objBH objCL 
+QQQ10933.	Hall/VdC Norms: Male#0459	actM actL actP> mf5 setOQ objAI objNA objCL 
+QQQ10934.	Hall/VdC Norms: Male#0460	actM actS actM actV> actM setIF setOF objAV objAV objST objRG 
+QQQ10935.	Hall/VdC Norms: Male#0461	actM actV> actM actV> actV> actP actS actM actM actP> setIU objAE objAE objAD objAD 
+QQQ10936.	Hall/VdC Norms: Male#0462	actM actV> actM actM actP> actM actS actM actP mf4 gf emoHA setOG objST objCL objMO objAV objMO objST objAD objAV objMO objBE objBT 
+QQQ10937.	Hall/VdC Norms: Male#0463	actM actP actM actM actS actP actP actE actP actE actP actP actE mf6 mf4 emoCO setOU setIU objNA objNA objBE objBE objNA objBE objBH objAE objAD objAD objIR objHH objHH objBH objIR objIR objBE objBE objBT objBH 
+QQQ10938.	Hall/VdC Norms: Male#0464	actM actP> actV> actVr actV> actVr actS actE setOF setIF objRG objAV objCM objAV 
+QQQ10939.	Hall/VdC Norms: Male#0465	actM actA actA actM actP mf3 setOU setIU objST objIW objAR objAD objAR objAR objAD objIW 
+QQQ10940.	Hall/VdC Norms: Male#0466	actM actP actV> actM mf1 mf1 gf setIQ objAV objCL objCL objMO 
+QQQ10941.	Hall/VdC Norms: Male#0467	actL actP actV> actVr actM actL actC emoAN emoAN setOQ objTR objTR objTR objNA objCM objTR 
+QQQ10942.	Hall/VdC Norms: Male#0468	actL actM actM actS actM actV> actP actM actS actV actM actP> actV> actP> setOU setIU objRG objIW objBE objAV objMO objMO objBH objBE objBH objBH objBE 
+QQQ10943.	Hall/VdC Norms: Male#0469	actS actM actP actP actV> actE actV> actP actV> mf1 emoAP setAG setOG objRG objNA objCM objCM objMS 
+QQQ10944.	Hall/VdC Norms: Male#0470	actP actS actM emoCO setIU objAV objTR objAV 
+QQQ10945.	Hall/VdC Norms: Male#0471	actM actV> actM actV> gf emoHA setOG setOU objRG objTR objTR 
+QQQ10946.	Hall/VdC Norms: Male#0472	actL actP actL actC actV> mf3 setOQ setIF objST objCL objAR objAR 
+QQQ10947.	Hall/VdC Norms: Male#0473	actP= actV> actM setOQ setOF objST objTR objBH objCL objST 
+QQQ10948.	Hall/VdC Norms: Male#0474	actL actP actV> actVr mf4 gf setOF objTR objST 
+QQQ10949.	Hall/VdC Norms: Male#0475	actL actS actC mf1 emoCO emoSD emoCO setOQ objAR objTR objST objNA objAR objAR objAR objAR 
+QQQ10950.	Hall/VdC Norms: Male#0476	actS actC emoAN emoSD setNS objCM 
+QQQ10951.	Hall/VdC Norms: Male#0477	actM actE actV actC actV> actM mf3 emoAP emoCO setOF objRG objRG objST objST objAR objAV objNA objAM 
+QQQ10952.	Hall/VdC Norms: Male#0478	actM actS actV> actM actM actP actP actS actP mf6 setOU objNA objST objNA objNA objTR objIW objIW objNA objCL 
+QQQ10953.	Hall/VdC Norms: Male#0479	actM actC actM actP actC actS actS actM actV> actVr actVr actVr actM actL actP actV setOQ objST objRG objNA objNA objIR objIR objNA objST objNA objRG objTR 
+QQQ10954.	Hall/VdC Norms: Male#0480	actM actC actS actV> actM actP actV> actE gf emoCO emoHA setOU setIU objST objCL objAV objHH 
+QQQ10955.	Hall/VdC Norms: Male#0481	actP> actP actPr actP setIF objAR objAR objAR objBE objCL objHH objMS objMS 
+QQQ10956.	Hall/VdC Norms: Male#0482	actS actP mf4 setOQ objNA objST objTR objTR objTR 
+QQQ10957.	Hall/VdC Norms: Male#0483	actP actS actP actP> actV> setIF objAR objAR objHH objHH objHH 
+QQQ10958.	Hall/VdC Norms: Male#0484	actM actC setOF objAI objTR objHH objMS 
+QQQ10959.	Hall/VdC Norms: Male#0485	actL actP actM actP actM actP actP> actL mf3 setIQ objAV objAD objBS objCL objCL objHH objBE objBS objBS objBH 
+QQQ10960.	Hall/VdC Norms: Male#0486	actS actM actP> actV actV setIF objHH objCM 
+QQQ10961.	Hall/VdC Norms: Male#0487	actV> actVr actE emoSD setAQ 
+QQQ10962.	Hall/VdC Norms: Male#0488	actS actM actS actP> actV> actVr setOQ objAV objNA objBS objBE 
+QQQ10963.	Hall/VdC Norms: Male#0489	actS actC setIQ objAR objAR objHH objCL objAI objAI objFO 
+QQQ10964.	Hall/VdC Norms: Male#0490	actV> actVr actV> actV> actV> mf5 emoAN emoAP setIF objHH objBA objMS 
 QQQ10965.	Hall/VdC Norms: Male#0491	actL actV actM setOQ 
-QQQ10966.	Hall/VdC Norms: Male#0492	actL actC setAQ setAF 
-QQQ10967.	Hall/VdC Norms: Male#0493	actM actV> actP actM setOU setIU 
-QQQ10968.	Hall/VdC Norms: Male#0494	actL setIG 
-QQQ10969.	Hall/VdC Norms: Male#0495	actP actM actP actV> actV= actV> mf5 setIF setIQ 
-QQQ10970.	Hall/VdC Norms: Male#0496	actP actV> actM actM actP actE setIF 
-QQQ10971.	Hall/VdC Norms: Male#0497	actP actM actP actS actS actP actM actM actP setOU 
-QQQ10972.	Hall/VdC Norms: Male#0498	actP> actP actM actP> actPr actM actV= actE actV actP> actPr setAU setOU 
-QQQ10973.	Hall/VdC Norms: Male#0499	actL actP actS actP actS mf1 gf setOQ 
-QQQ10974.	Hall/VdC Norms: Male#0500	actV actA actM actE actS actE actV> actV actE mf2 mf5 setOU 
+QQQ10966.	Hall/VdC Norms: Male#0492	actL actC emoHA emoAP emoAN setAQ setAF 
+QQQ10967.	Hall/VdC Norms: Male#0493	actM actV> actP actM emoAN emoAP setOU setIU objRG objAR objNA objFO 
+QQQ10968.	Hall/VdC Norms: Male#0494	actL emoAP setIG objAI 
+QQQ10969.	Hall/VdC Norms: Male#0495	actP actM actP actV> actV= actV> mf5 emoSD emoAP setIF setIQ objAE objFO objFO 
+QQQ10970.	Hall/VdC Norms: Male#0496	actP actV> actM actM actP actE emoCO setIF objHH objAR objIW objCL objAD 
+QQQ10971.	Hall/VdC Norms: Male#0497	actP actM actP actS actS actP actM actM actP setOU objRG objAI objCL objNA objCL 
+QQQ10972.	Hall/VdC Norms: Male#0498	actP> actP actM actP> actPr actM actV= actE actV actP> actPr emoHA emoCO setAU setOU objBE objMS 
+QQQ10973.	Hall/VdC Norms: Male#0499	actL actP actS actP actS mf1 gf emoAP setOQ objST objBE objTR objST objTR 
+QQQ10974.	Hall/VdC Norms: Male#0500	actV actA actM actE actS actE actV> actV actE mf2 mf5 emoAP emoAP emoAN setOU objNA objNA 
+QQQ9994.	Hall/VdC Norms: Female#0001	actV> actV> actC actV> actC actV> actP> actP actV> actVR emoAP emoAP emoHA setIQ objAE objMO objRG objFO objFO objFO 
+QQQ9995.	Hall/VdC Norms: Female#0002	actV> actP actS actP actS actM actM setIU objAR objAR objAD objHH objNA objNA objHH objBE objBT objRG 
+QQQ9996.	Hall/VdC Norms: Female#0003	actP emoAP setOU objNA objBT 
+QQQ9997.	Hall/VdC Norms: Female#0004	actL actL actP actP actP actP mf2 setOU setOU objTR objNA objST objCM objRG 
+QQQ9998.	Hall/VdC Norms: Female#0005	actP actM actV emoCO emoAN setIF objAV objHH objHH objHH objFO objFO 
+QQQ9999.	Hall/VdC Norms: Female#0006	actP actM actS actP actV> actP actP actP actM actE actC mf1 setIF objAR objAR objHH objAD objCL objHH objHH objMO objTR objTR 
+QQQ10000.	Hall/VdC Norms: Female#0007	actV> actP> actV> actM actV> actP actL actL actP emoAP setOQ objTR objBE objST objTR objTR 
+QQQ10001.	Hall/VdC Norms: Female#0008	actP actV> actP actV> actA actM actM mf3 emoAN setIF objAR objCM objCL objAR objCM objAV objAV objST 
+QQQ10002.	Hall/VdC Norms: Female#0009	actS actM actV> actM actP actM actM actP actV> setID objAR objHH objAD objCM objCM objHH objAR objAD objAR objBE 
+QQQ10003.	Hall/VdC Norms: Female#0010	actP actV> actP actP actV> actS emoAN setOQ objTR objCM objCM objBA objCM objTR objCM 
+QQQ10004.	Hall/VdC Norms: Female#0011	actP actP> setIQ objHH objAR 
+QQQ10005.	Hall/VdC Norms: Female#0012	actP actS actP actV> actM actM emoAP setOQ objBT objCL objCL objAD objAR objBA objIW objST objST objST objCL 
+QQQ10006.	Hall/VdC Norms: Female#0013	actP actV> setIF objAR objCM objCL objBE objTR 
+QQQ10007.	Hall/VdC Norms: Female#0014	actP actL actP actV> actM actP actS actS emoAP setOQ objNA objTR objNA objNA objNA objBH objTR 
+QQQ10008.	Hall/VdC Norms: Female#0015	actV> actS actM mf6 emoCO emoAP setIQ objAR objHH objCL objBE objBH objBH objAR objHH objAR 
+QQQ10009.	Hall/VdC Norms: Female#0016	actM actM actS actS actV> actE setOF objBH objBE objAR objST objNA 
+QQQ10010.	Hall/VdC Norms: Female#0017	actM actV> actP actP mf1 setOQ objNA objNA objTR objNA objIR objNA objNA objST objTR 
+QQQ10011.	Hall/VdC Norms: Female#0018	actM actS actP actM emoHA setOF setIF setIU objAV objCL objHH objCL objCL objAV objCL objCL objST 
+QQQ10012.	Hall/VdC Norms: Female#0019	actL actL actV setIF setIQ objCL objCL objCL objAE objTR objAR objCL objST objAE 
+QQQ10013.	Hall/VdC Norms: Female#0020	actC actM emoAP setIQ objAE objHH objAE 
+QQQ10014.	Hall/VdC Norms: Female#0021	actL actS emoAP setIF objAR objAR objCM objBE objAR 
+QQQ10015.	Hall/VdC Norms: Female#0022	actV> actP setIU objAV objHH objIT objIT 
+QQQ10016.	Hall/VdC Norms: Female#0023	actC act> mf5 gf emoCO emoHA setIQ objBA 
+QQQ10017.	Hall/VdC Norms: Female#0024	actM actV> actV> actS emoAP setOU setIU objTR objAI objIT objRG 
+QQQ10018.	Hall/VdC Norms: Female#0025	actV> actM actS actV> actVR actM emoAP setIU objAI objHH objBA objBA objBA objAI 
+QQQ10019.	Hall/VdC Norms: Female#0026	actC actP actP actS actP actS actP actM actP mf5 emoAP setIQ objBH objBE objBA objBH objAR objFO 
+QQQ10020.	Hall/VdC Norms: Female#0027	actS actV> actVR setIQ objHH objBE objBE 
+QQQ10021.	Hall/VdC Norms: Female#0028	actL actM actM actV> actP> actS actV> actM actV> actVR actVR actVR setIF objAR objHH objCL 
+QQQ10022.	Hall/VdC Norms: Female#0029	actL actS emoAN setOG objNA objNA objNA objST objRG objRG objRG objRG 
+QQQ10023.	Hall/VdC Norms: Female#0030	actM actS actM actP actP actE actM actv> actP actM emoAN setIF objAR objAD objHH objCL objAD objAR objBE objAR objAR 
+QQQ10024.	Hall/VdC Norms: Female#0031	actM actV> actP= setIF setIF objAE objAR objHH 
+QQQ10025.	Hall/VdC Norms: Female#0032	actV> actE actM actE actS mf6 emoSD setIF setOF objAR objNA objIR objAR objBH objRG 
+QQQ10026.	Hall/VdC Norms: Female#0033	actP actA actS actP= actV> setID objAR objCL objAD objAR objIW objCL 
+QQQ10027.	Hall/VdC Norms: Female#0034	actL actV> actS setAQ objNA objRG 
+QQQ10028.	Hall/VdC Norms: Female#0035	actC actP emoCO setAQ objCL objCL objBT 
+QQQ10029.	Hall/VdC Norms: Female#0036	actV emoHA emoHA setIF objAR 
+QQQ10030.	Hall/VdC Norms: Female#0037	actM actM actS actV> emoCO setIQ objAR objAR objAE objRG 
+QQQ10031.	Hall/VdC Norms: Female#0038	actM actM actS actV> emoCO setIQ objAR objAR objAE objRG 
+QQQ10032.	Hall/VdC Norms: Female#0039	actS actM actV> actVR actM actS emoAN setIU objAR objAR 
+QQQ10033.	Hall/VdC Norms: Female#0040	actV= actC setIQ setAF setIQ objAE objAR objCL objRG 
+QQQ10034.	Hall/VdC Norms: Female#0041	actP actS actV> actVR emoHA setIQ objHH objAR objFO 
+QQQ10035.	Hall/VdC Norms: Female#0042	actL actS actP> actM actM actV> emoHA setIF objAR objHH objCL objBE objAR objAR 
+QQQ10036.	Hall/VdC Norms: Female#0043	actM actP actS actP> mf6 emoCO setIF objAR 
+QQQ10037.	Hall/VdC Norms: Female#0044	emoHA setIU objAR objCL objAD objFO 
+QQQ10038.	Hall/VdC Norms: Female#0045	actC actS actV> emoAP setIU objAR objCL objST objBH 
+QQQ10039.	Hall/VdC Norms: Female#0046	actM actP actS actP= actM actS actC emoAN setOD objAR objAD objAR objHH objBT 
+QQQ10040.	Hall/VdC Norms: Female#0047	actL actS actP actP actP actL mf6 setOQ objTR objBT objTR objMS 
+QQQ10041.	Hall/VdC Norms: Female#0048	actC actM actS emoAP emoCO setIU objAR objHH objHH objHH objHH objHH objAR objMO 
+QQQ10042.	Hall/VdC Norms: Female#0049	actM actV emoCO emoHA setIF objCL objHH objHH 
+QQQ10043.	Hall/VdC Norms: Female#0050	actM actE actP actS setIQ objCL objCL objAV 
+QQQ10044.	Hall/VdC Norms: Female#0051	actP actM actV actV> actM actP actM mf4 setIF objAR objCL objAR objAR objHH objAD objBH objBH objFO 
+QQQ10045.	Hall/VdC Norms: Female#0052	actM actP actM actV= actM actV= setIQ setIF objAE objCL objAD objAR objAR objRG objFO 
+QQQ10046.	Hall/VdC Norms: Female#0053	actS actV= actM emoAN setIF setIF objAE objCM objHH objAV objHH objAD 
+QQQ10047.	Hall/VdC Norms: Female#0054	actM actM setIF setOF objAD objAM objAD objNA 
+QQQ10048.	Hall/VdC Norms: Female#0055	actP> actM actP actP> actS actE emoAP emoCO setIF objAV objBT objBA objBA objHH objBE objBE objBH 
+QQQ10049.	Hall/VdC Norms: Female#0056	actM actS actP actS mf1 emoSD setIQ objAE objIR objCL objBH objAD objCL 
+QQQ10050.	Hall/VdC Norms: Female#0057	actP= actV actV actV> actVR actC emoSD setOQ objTR objTR 
+QQQ10051.	Hall/VdC Norms: Female#0058	actM actP= actP actC actS emoCO emoAN setOF objBE objBE objRG objAR objAD objAR 
+QQQ10052.	Hall/VdC Norms: Female#0059	actV> actVR actV> actA actV> actVR actV= emoAN setIQ objAV objHH objHH 
+QQQ10053.	Hall/VdC Norms: Female#0060	actC actV> actVR actV mf1 emoAP setAQ objCL 
+QQQ10054.	Hall/VdC Norms: Female#0061	actP actM actS actP> emoAP setIF objAR objHH objAD objAR objHH 
+QQQ10055.	Hall/VdC Norms: Female#0062	actV actP mf5 mf4 emoAP setIQ objIT objMS objAR 
+QQQ10056.	Hall/VdC Norms: Female#0063	actV> actM actS actV> actVR actL mf5 setIF objCM objAV objAV objCL objCL objCL objBE objBE objBE objCL 
+QQQ10057.	Hall/VdC Norms: Female#0064	actV> setIF objHH objAR 
+QQQ10058.	Hall/VdC Norms: Female#0065	actV> actM actV= actV> actV> actVR actV> actVR actV> actP actVR actC emoSD setIF objAR objCL objAD objAR objCL objIR objAR objCL objMS 
+QQQ10059.	Hall/VdC Norms: Female#0066	actV= actP> actE actV emoAN setIF objAR objAR objBH objBE objAD 
+QQQ10060.	Hall/VdC Norms: Female#0067	actS actM actV> actVR actE actS setOF objST objAR objST objAR objAV objAR objBH objMS 
+QQQ10061.	Hall/VdC Norms: Female#0068	actV> actV> actVR actE setAQ objRG objCL objCL 
+QQQ10062.	Hall/VdC Norms: Female#0069	actV actP emoHA emoHA emoCO setIQ objHH objBS objBH objHH objTR 
+QQQ10063.	Hall/VdC Norms: Female#0070	actM actV> setID objCM objAV objHH objHH objAD objCL objBE objBH objBE objBE objCL objCL objCL 
+QQQ10064.	Hall/VdC Norms: Female#0071	actL actP actM actM actP actV> emoAP setOQ objNA objTR objTR objNA 
+QQQ10065.	Hall/VdC Norms: Female#0072	actS actM actM actV> actP actC setIF objAV objHH objAV objCM 
+QQQ10066.	Hall/VdC Norms: Female#0073	mf5 setNS objBE objBE objBE objBE 
+QQQ10067.	Hall/VdC Norms: Female#0074	actV> actP emoCO emoCO emoCO setIQ objCL objHH objCL objMS 
+QQQ10068.	Hall/VdC Norms: Female#0075	actM actP actV> actM actV> actVR setIQ objAR objNA objHH 
+QQQ10069.	Hall/VdC Norms: Female#0076	actL actP setOQ objCL objCL objNA objNA objNA 
+QQQ10070.	Hall/VdC Norms: Female#0077	actP actV> mf1 setNS objNA objFO 
+QQQ10071.	Hall/VdC Norms: Female#0078	actP setOQ objTR objTR objTR objTR 
+QQQ10072.	Hall/VdC Norms: Female#0079	actV> actC actS actE actC emoCO setAF objMO 
+QQQ10073.	Hall/VdC Norms: Female#0080	actC actA actV= actL actP> actV> actVR actP actVR emoAP emoSD emoCO emoHA emoAP emoHA setAQ objNA objCL objBE objAR objBH objAR 
+QQQ10074.	Hall/VdC Norms: Female#0081	actL mf5 gf emoAP setAD 
+QQQ10075.	Hall/VdC Norms: Female#0082	actS actS actP mf5 setIQ objCM objBH objMS 
+QQQ10076.	Hall/VdC Norms: Female#0083	actL emoHA setAF 
+QQQ10077.	Hall/VdC Norms: Female#0084	actL actM actM setIF objAV objTR objCL objCL objCL 
+QQQ10078.	Hall/VdC Norms: Female#0085	actS actP actV> actE actE actV> actV emoAN setIQ 
+QQQ10079.	Hall/VdC Norms: Female#0086	actP actP actS actP actP setAF objHH objHH objHH objAE objFO 
+QQQ10080.	Hall/VdC Norms: Female#0087	actM actP actM actM mf4 setIQ objAV objAD objMS objAD objCL objMS 
+QQQ10081.	Hall/VdC Norms: Female#0088	actM actP actE actM actM actP actVR actV> actE actM actM mf4 mf1 mf4 emoSD emoAP setOF setIQ setIQ setIU setOQ objST objRG objCL objBH objAE objCL objAR objRG objCL objMS 
+QQQ10082.	Hall/VdC Norms: Female#0089	actM actP actP actM actV> actM actM setIU objAM objAD objAM objAM objIW objAM objAR objMS 
+QQQ10083.	Hall/VdC Norms: Female#0090	actL actP actV actP actM mf5 gf emoAP setOQ setOQ objTR objIR objIR objTR objBA objBH objAR objAR objTR objMS 
+QQQ10084.	Hall/VdC Norms: Female#0091	actV> actE actM actM actV> actA emoAP setIF objAR objAR 
+QQQ10085.	Hall/VdC Norms: Female#0092	actV> actV> setAD setOQ objRG objAV objTR objTR objTR objAR 
+QQQ10086.	Hall/VdC Norms: Female#0093	actM actV> emoAP setAQ objAV objAE objHH 
+QQQ10087.	Hall/VdC Norms: Female#0094	actM actP actM mf3 emoAP setOU objST objNA objNA objNA objNA 
+QQQ10088.	Hall/VdC Norms: Female#0095	actV> actVR actV> actM mf3 emoSD setOD objCL objHH objTR objTR objTR objNA objAD objAE 
+QQQ10089.	Hall/VdC Norms: Female#0096	actS actP actV> actVR emoCO emoHA setAF objCM objAV 
+QQQ10090.	Hall/VdC Norms: Female#0097	actS actV> actS setIF objAR objAR objHH objHH objBH 
+QQQ10091.	Hall/VdC Norms: Female#0098	actV> actV> actS mf6 gf emoHA setOU objRG objTR objRG objNA objNA objNA 
+QQQ10092.	Hall/VdC Norms: Female#0099	actS actE setNS objBH 
+QQQ10093.	Hall/VdC Norms: Female#0100	actA actV> actA actE actS mf6 emoSD emoAP emoSD setAQ objCM objBA objBH objBH 
+QQQ10094.	Hall/VdC Norms: Female#0101	actM actP actM actP actV emoAN setIF objAR objHH objAR 
+QQQ10095.	Hall/VdC Norms: Female#0102	actP actV actP> actV actM actM mf5 setIF objIR objAR objBH objAD 
+QQQ10096.	Hall/VdC Norms: Female#0103	actM emoSD setIU objAV objCM 
+QQQ10097.	Hall/VdC Norms: Female#0104	actV> actVR emoSD setIQ objAR objAR 
+QQQ10098.	Hall/VdC Norms: Female#0105	actL actM mf1 emoSD emoHA setIQ objAR objAR objTR objAR objAR 
+QQQ10099.	Hall/VdC Norms: Female#0106	actS actP> actPR setOQ objRG objBE objBE 
+QQQ10100.	Hall/VdC Norms: Female#0107	actP actS actP actP actS actM mf4 setOF objAR objHH objST objHH objHH objNA objAB 
+QQQ10101.	Hall/VdC Norms: Female#0108	actV> actM actP actP actV> actM actP actV> actV> actP actS mf4 setIF objAR objAR objHH objHH objCL objHH objHH objFO 
+QQQ10102.	Hall/VdC Norms: Female#0109	actL actS actM actM actP actS actE actM actV> emoAP emoAP setOQ setIQ objRG objCL objNA objCL objAE objCM objHH objCL objCL objCL objCL objAE 
+QQQ10103.	Hall/VdC Norms: Female#0110	actM actL actM actM emoAP setIQ setOQ setOQ objAM objCM objAV objAR objST objAD objTR 
+QQQ10104.	Hall/VdC Norms: Female#0111	mf6 emoHA emoAP emoAN setNS 
+QQQ10105.	Hall/VdC Norms: Female#0112	actM actE actP actV> mf4 emoAP setOQ objNA objCL objBT objBS 
+QQQ10106.	Hall/VdC Norms: Female#0113	actM actV> actC actV> actM emoAP emoAP setIF objAR objAR objAR 
+QQQ10107.	Hall/VdC Norms: Female#0114	actP mf5 emoHA emoAP setNS objBA objBH objBH 
+QQQ10108.	Hall/VdC Norms: Female#0115	actM actS emoHA emoHA setOF objST objTR objST objAR objST objAV 
+QQQ10109.	Hall/VdC Norms: Female#0116	actM actM gf setIQ objAD objBH 
+QQQ10110.	Hall/VdC Norms: Female#0117	actM actV actP actS setOD setIQ objNA objAV objAV objBH 
+QQQ10111.	Hall/VdC Norms: Female#0118	actP actP actV> actM actP actM actM actS actM emoCO emoCO setIF objAR objAR objHH objAD objHH objCM objAR objAD objIW objHH objAR objAD 
+QQQ10112.	Hall/VdC Norms: Female#0119	actP actL actP mf1 setOU setIU objAR objTR objRG objCL objAR objMO 
+QQQ10113.	Hall/VdC Norms: Female#0120	actM actS actM actM actM actS gf emoHA emoHA setIQ setOQ objAV objCL objHH objCL objTR objTR objTR 
+QQQ10114.	Hall/VdC Norms: Female#0121	actM actA actS actM actP> actM actP gf emoHA setIF objAR objHH objAR objBH objBH 
+QQQ10115.	Hall/VdC Norms: Female#0122	actL actP> actP> actE actE actP actL actV> actE mf5 emoSD emoSD setIQ setIF setIQ objAI objAR objHH objBT objBT objAI 
+QQQ10116.	Hall/VdC Norms: Female#0123	actM actV= actC actM actV> actC mf1 emoSD setIF setIF setIF objAV objAV objCM objAD objAV objAV objCM 
+QQQ10117.	Hall/VdC Norms: Female#0124	actM actS actP actV= actM setOF objTR objST objAV objCL objCL objCL objCL 
+QQQ10118.	Hall/VdC Norms: Female#0125	actC actS actV> actA actV> actVR actV setIF objAE objAE objAV 
+QQQ10119.	Hall/VdC Norms: Female#0126	actL actP actS gf emoHA emoHA setOG objTR objST objNA objNA objNA 
+QQQ10120.	Hall/VdC Norms: Female#0127	actL actV gf emoHA emoHA setOG objRG objTR objRG objCM objCM 
+QQQ10121.	Hall/VdC Norms: Female#0128	actS actA actE mf5 emoCO emoSD setIF objAR objBE objBE objBE objBA 
+QQQ10122.	Hall/VdC Norms: Female#0129	actL actP actP actM emoCO setIF objCM objAR objAR 
+QQQ10123.	Hall/VdC Norms: Female#0130	actP actM actV> actM actE actM actM actM actP actV> emoAP setIG setIF objAI objRG objMO objCL objAD 
+QQQ10124.	Hall/VdC Norms: Female#0131	actM setAQ objCL objCL objAD objAV objAV 
+QQQ10125.	Hall/VdC Norms: Female#0132	actS actP actP actP actC actP actM actP actP actS actS actC mf5 gf emoHA emoCO emoHA emoAP emoAP emoAP emoCO emoAP emoAN setIF objHH objBH objBH objBH objBH objBA objBH objCM objCM objMS objIT objCL objAR objBH objMS objBH objMS 
+QQQ10126.	Hall/VdC Norms: Female#0133	actS actM actP actS actC mf3 emoAP emoHA emoCO setIF objAR objAR objHH objMS 
+QQQ10127.	Hall/VdC Norms: Female#0134	actP actP> actS actS actE actS actC emoAP emoAP emoAP setIU objAR objBH objHH objBH objHH objBT objBH 
+QQQ10128.	Hall/VdC Norms: Female#0135	actS actC actP gf setNS objCM objCM objNA objBH 
+QQQ10129.	Hall/VdC Norms: Female#0136	actM actL actM actV> actVR mf5 emoAN setIQ objAI objHH objAI 
+QQQ10130.	Hall/VdC Norms: Female#0137	actV> actV> actM emoHA setOF setIU objNA objNA objAE objAR 
+QQQ10131.	Hall/VdC Norms: Female#0138	actM actA actS actA actM emoHA emoSD setOQ objBT objBT objNA objNA 
+QQQ10132.	Hall/VdC Norms: Female#0139	actM actP actM actV actC mf2 emoCO emoAN setIQ objAV objHH objHH 
+QQQ10133.	Hall/VdC Norms: Female#0140	actM actM actS actM setIQ objNA objAE objAE 
+QQQ10134.	Hall/VdC Norms: Female#0141	actM actP actV> actVR actM actS actS emoSD setIF objAI objAD objBT objBT 
+QQQ10135.	Hall/VdC Norms: Female#0142	actP actS actM actS actM mf4 emoAP setOF setIF objAR objRG objAD objAD objHH objAD objRG 
+QQQ10136.	Hall/VdC Norms: Female#0143	actV actC actM actL actP actP actM mf1 setIF setOU setIQ objAR objAR objAD objAD objRG objTR objNA objAR objHH objAD objMS 
+QQQ10137.	Hall/VdC Norms: Female#0144	actV> actV> actC mf5 emoAP setNS objBA objBA 
+QQQ10138.	Hall/VdC Norms: Female#0145	actM mf1 emoSD setID setOF objAE objAI objAD actP> actV> actE actS mf5 emoAP setIF objAV objBT objHH objBH objMS 
+QQQ10139.	Hall/VdC Norms: Female#0147	actP actM actC emoCO setIF objHH objAR objCM objCM 
+QQQ10140.	Hall/VdC Norms: Female#0148	actP actV> actP emoAN setAQ objCM 
+QQQ10141.	Hall/VdC Norms: Female#0149	actM actM actC actV actM actP setOD setIQ setOQ objST objAR objAR objCM objHH objAD objST 
+QQQ10142.	Hall/VdC Norms: Female#0150	actV> actP> actM setOF objAR objRG objAV objAD objBH 
+QQQ10143.	Hall/VdC Norms: Female#0151	actM actS actV> actP actS actM actV> actP actA actP actS actM actP actM actM actM actP setID objAD objAD objAV objAV objBE 
+QQQ10144.	Hall/VdC Norms: Female#0152	actM actM actV> actVR actVR actVR actS actE setOQ objNA objNA objTR objCL objTR objBH objHH objCL objCL objCL objBH objBE 
+QQQ10145.	Hall/VdC Norms: Female#0153	actS actL actM actM setOQ objNA objNA objHH objHH objNA objTR objTR objCL objCL objCL objCL objTR 
+QQQ10146.	Hall/VdC Norms: Female#0154	actP actP> actM actM actV> actP actP> actPR emoHA setIF setOQ objAR objAD objAD objTR objAR objAR objTR objBE objBH objBT 
+QQQ10147.	Hall/VdC Norms: Female#0155	actM actS actS actP actP setIF objAV objCM 
+QQQ10148.	Hall/VdC Norms: Female#0156	actP actV> setIF setOF objAR objRG objBH 
+QQQ10149.	Hall/VdC Norms: Female#0157	actM actP actP actM actL setIQ setOQ objCL objCL objCL objCL objTR objST 
+QQQ10150.	Hall/VdC Norms: Female#0158	actM actP> actM actP> actL actL actM setIF objAR objAD objBT objBT objTR objAI 
+QQQ10151.	Hall/VdC Norms: Female#0159	actS actV> setIF objAI 
+QQQ10152.	Hall/VdC Norms: Female#0160	actM actS actM actL actS actP> actL actS actP setOG objHH objBH objCL objNA objBH objHH objTR objTR 
+QQQ10153.	Hall/VdC Norms: Female#0161	actP actL actM actV actP actV actP actV> actM actV> actP actL actP emoAP setOQ setIF setOQ objST objAR objAR objAR objAR objCL objTR objTR 
+QQQ10154.	Hall/VdC Norms: Female#0162	actM actV> actP actV> actC actP actV> actVR emoAP setOQ setIQ objNA objNA objNA objBE objCL objCM objCL 
+QQQ10155.	Hall/VdC Norms: Female#0163	actM actV> actP actV> actC actP actV> actVR emoAP setOQ setIQ objNA objNA objNA objBE objCL objCM objCL 
+QQQ10156.	Hall/VdC Norms: Female#0164	actV actM actM actM actC actP actP actP actV actV> actM actV> actV> actM actP actA emoCO setOF setIQ objRG objCM objBE 
+QQQ10157.	Hall/VdC Norms: Female#0165	actP> actP emoAP setIQ setOQ objAR objAR objAR objIW objST objNA objIW 
+QQQ10158.	Hall/VdC Norms: Female#0166	actP= mf1 emoCO setIU objRG objAR objAR objAR 
+QQQ10159.	Hall/VdC Norms: Female#0167	actS actP actS actV> actVR setAQ objCL objBT objCL objCL 
+QQQ10160.	Hall/VdC Norms: Female#0168	mf5 gf emoAP emoHA setIQ objAI objMS objBH 
+QQQ10161.	Hall/VdC Norms: Female#0169	actM actC setOF objNA objST objAR 
+QQQ10162.	Hall/VdC Norms: Female#0170	actM actC actP setOU objST objST objAV objCL objBE 
+QQQ10163.	Hall/VdC Norms: Female#0171	actM actV mf1 setOQ objTR objTR objCL objTR objFO 
+QQQ10164.	Hall/VdC Norms: Female#0172	actS actC actP setIU objHH objAR objHH objAD objBH objBE objHH 
+QQQ10165.	Hall/VdC Norms: Female#0173	actS mf4 emoSD setIF objAR objCL objCL 
+QQQ10166.	Hall/VdC Norms: Female#0174	actM actS mf1 emoSD setOU objNA objAM objNA 
+QQQ10167.	Hall/VdC Norms: Female#0175	actM mf4 setIU setIF objAR objHH objCM objBH objCL objCL objAR 
+QQQ10168.	Hall/VdC Norms: Female#0176	actP actL actP actL actV> actA actP actS setOQ objST objTR objTR 
+QQQ10169.	Hall/VdC Norms: Female#0177	actM actM actV> actVR actM actM actP actL actP actA actP actS actV actP actS actM actP mf4 emoAP setOQ objST objBT objTR objST objTR objBH objTR objBH objAD 
+QQQ10170.	Hall/VdC Norms: Female#0178	actM actV> actVR actP actL actV> actVR actM mf1 setOF objAD objAI objCM objRG objTR objTR objTR 
+QQQ10171.	Hall/VdC Norms: Female#0179	actV= actS actM actV> actV> actVR actV> setIF objAR objHH objHH objCL objBE objBE 
+QQQ10172.	Hall/VdC Norms: Female#0180	actE actS actE actM actV> actV> actE mf6 emoSD setIF objAR 
+QQQ10173.	Hall/VdC Norms: Female#0181	actM actS actM actV actC actV> emoCO emoAN emoAP emoHA setIQ objAR objCM objBH objCL 
+QQQ10174.	Hall/VdC Norms: Female#0182	actM actS actS actV actE actS mf5 setOD objST objST objBE objBE objTR objST 
+QQQ10175.	Hall/VdC Norms: Female#0183	actM actM actS actV emoAP setIF objAV objAV objAV objCL objST 
+QQQ10176.	Hall/VdC Norms: Female#0184	actV= emoCO setAQ objCM 
+QQQ10177.	Hall/VdC Norms: Female#0185	actM actV> actVR actM actP> actP actM emoCO emoCO setOF setIQ objST objAV objAV objHH objAD objCM objCM objCL objAV objHH objHH 
+QQQ10178.	Hall/VdC Norms: Female#0186	actS actL actV> actM actM emoHA emoHA setID setOQ objAR objRG objAM objAD objAD objHH objAD 
+QQQ10179.	Hall/VdC Norms: Female#0187	actL actC actV> actVR actM actL emoAN emoHA setIU setOQ setIU objAM objIW objAV objHH objST objAR 
+QQQ10180.	Hall/VdC Norms: Female#0188	actM actM actP> actV> actVR actVR actVR setIQ objAR objAV objBH objBH objBH objBE objBT 
+QQQ10181.	Hall/VdC Norms: Female#0189	actM actP actL actL actP actV> emoHA emoAN setID objAR objAR objCM objAD 
+QQQ10182.	Hall/VdC Norms: Female#0190	actV> actM actP actM actM actC mf6 emoAP setIU setOU objAR objAR objHH objAR objAD objAD objST 
+QQQ10183.	Hall/VdC Norms: Female#0191	actM actP> actP actP> emoAP setID objAR objAR objAR objAR objAD objBH objCL objCL 
+QQQ10184.	Hall/VdC Norms: Female#0192	actV> actVR actC setAQ objCL objCM 
+QQQ10185.	Hall/VdC Norms: Female#0193	actC actV actM actP actV> actVR actM actV> emoAP setIF objAR objBE objAR objBH 
+QQQ10186.	Hall/VdC Norms: Female#0194	actL actL actV actP actM actM actS actV setIF setIF setIF objAE objMO objAI objCM objIR objFO objFO objFO 
+QQQ10187.	Hall/VdC Norms: Female#0195	actC actP mf1 setAQ objRG objCL objCL 
+QQQ10188.	Hall/VdC Norms: Female#0196	actL actV> actM actV> emoAN emoAP setIF objAR objCL objCL objCM 
+QQQ10189.	Hall/VdC Norms: Female#0197	actV> actM setOG objNA objRG objAE 
+QQQ10190.	Hall/VdC Norms: Female#0198	actM actV> actM actA actV> actVR actM actV> actVR actP actM emoCO setID objAV objAV objCM objAV 
+QQQ10191.	Hall/VdC Norms: Female#0199	actL actS actM emoSD setIF objAV objAV 
+QQQ10192.	Hall/VdC Norms: Female#0200	actV actE actP actV actM actC actS actM emoAP emoCO setIG setAG objAI objTR objMS 
+QQQ10193.	Hall/VdC Norms: Female#0201	actM actM actP actS actL actP actV> actVR emoHA setOQ setIU objNA objAI objAD objST objTR 
+QQQ10194.	Hall/VdC Norms: Female#0202	actP actS actS actV emoSD setOF objRG objMS 
+QQQ10195.	Hall/VdC Norms: Female#0203	actM actV> actM actP actP actM actS actP emoAP setIF objAE objHH objHH objHH objHH objHH objFO objFO objFO objBH objFO 
+QQQ10196.	Hall/VdC Norms: Female#0204	actP actC actS actC actV actV mf1 setOF setAQ objST objTR objTR objCM objMS 
+QQQ10197.	Hall/VdC Norms: Female#0205	actV> mf5 mf5 setIU objRG objBH objBE objBT objAM objBH objBE 
+QQQ10198.	Hall/VdC Norms: Female#0206	actM actL actM actV actS actS setOQ setOU setIU objST objST objNA objNA objTR objAV objAD objAV objNA objAR objNA objAD objHH objHH objAR objRG objMS 
+QQQ10199.	Hall/VdC Norms: Female#0207	actM actM actV> actP actV> setIF objAR objBH objBH objBH objBE objHH 
+QQQ10200.	Hall/VdC Norms: Female#0208	actV= actM actP> actE mf5 emoSD setIQ 
+QQQ10201.	Hall/VdC Norms: Female#0209	actV> actVR actE setAQ 
+QQQ10202.	Hall/VdC Norms: Female#0210	actP actP actS actP mf6 setOF setAU objST objST objBT objCL objBT objCM objBE objFO 
+QQQ10203.	Hall/VdC Norms: Female#0211	actM actV> actVR actV> emoAP setAF objRG objST objRG objCM objCM 
+QQQ10204.	Hall/VdC Norms: Female#0212	actS actV> mf1 setOU objRG objTR 
+QQQ10205.	Hall/VdC Norms: Female#0213	actM actA actV actM actL actP setOF objST objTR objCL objAV objTR objTR objAD 
+QQQ10206.	Hall/VdC Norms: Female#0214	actM actM actS actC emoCO setOG setIQ setOG objRG objRG objCL objAV objST objST objAI objAV 
+QQQ10207.	Hall/VdC Norms: Female#0215	actM actM actV> emoAP setIF setOF objAE objST objST objST objTR objBE objFO 
+QQQ10208.	Hall/VdC Norms: Female#0216	actS actS actM actL actV> mf1 setIF setOF objAR objRG objHH objAD objRG objTR objRG 
+QQQ10209.	Hall/VdC Norms: Female#0217	actP> actV> actV> actP> actP setIF objHH objAR objMO objMO 
+QQQ10210.	Hall/VdC Norms: Female#0218	actP actP mf5 setIQ objAV objHH objHH objHH objBH objFO 
+QQQ10211.	Hall/VdC Norms: Female#0219	actM actV> actS actV> actVR emoCO setIF objAD objAR objBH 
+QQQ10212.	Hall/VdC Norms: Female#0220	actP actC actM actV> actP setIF objAR objHH objMS 
+QQQ10213.	Hall/VdC Norms: Female#0221	actL actL actV> actM actM actV> actVR actL actV= actL setOD setOQ setOD objAV objTR objTR objST objTR objCL objRG objST objAD 
+QQQ10214.	Hall/VdC Norms: Female#0222	actS actM actV> actV> setIF objAR objHH objAR objCM objCM objIR objAD objAR 
+QQQ10215.	Hall/VdC Norms: Female#0223	actV> actL actP actS actM setOU setIU objRG objTR objCL objST objAE objMS 
+QQQ10216.	Hall/VdC Norms: Female#0224	actV> actP actP emoAP emoAN setIQ objAE objCM objFO 
+QQQ10217.	Hall/VdC Norms: Female#0225	actA actV actV actA actV> actVR actM actS setAG setOG setIQ objRG objRG objRG objNA objNA objNA objRG objAR objAR objCL objHH 
+QQQ10218.	Hall/VdC Norms: Female#0226	actL actM actV> actM actL setOQ objTR objST objTR 
+QQQ10219.	Hall/VdC Norms: Female#0227	actV actM actM actP actP> mf5 setIQ setIQ objAE objAD objAV objCL objCL objBH objMS 
+QQQ10220.	Hall/VdC Norms: Female#0228	actM actS actM actM actV> actE actM actM actV> actVR actM actM setIQ objAV objCM objBH objHH objAV 
+QQQ10221.	Hall/VdC Norms: Female#0229	actP> actV= actM emoAN setOQ setIQ objTR objTR objBE objAR objAR objAR 
+QQQ10222.	Hall/VdC Norms: Female#0230	actA actV actV actP actE actM setIF objAI objAD 
+QQQ10223.	Hall/VdC Norms: Female#0231	actM actP actP actE emoHA setIF objAR objAD objCM objBH objAR objAR objAR objHH objHH objHH objHH 
+QQQ10224.	Hall/VdC Norms: Female#0232	actS actM emoHA emoAP setOQ objNA objNA 
+QQQ10225.	Hall/VdC Norms: Female#0233	actM actP> actV> actVR actVR actVR actV actM actV> actV> emoAP setOQ objNA objST objCM objTR objMS 
+QQQ10226.	Hall/VdC Norms: Female#0234	actA actM actS actP actS actP mf5 mf5 emoAP setOF objAR objAD objNA objBT objBH objFO 
+QQQ10227.	Hall/VdC Norms: Female#0235	actM actM actV> actVR actP> actM emoAP emoCO setIF objAV objHH objHH 
+QQQ10228.	Hall/VdC Norms: Female#0236	actS actM actM actM actM actV> emoSD emoAP setIQ objAE objAD objCL objHH objFO 
+QQQ10229.	Hall/VdC Norms: Female#0237	actM actE actV actS actV actM actP actV> actE actVR actP actV actL setOU objTR objRG objNA objST objTR objTR objBE 
+QQQ10230.	Hall/VdC Norms: Female#0238	actM actE actV> actVR actVR actM actV> actE actV> actM actM actE actS actE actM emoHA emoCO setIF objAR objAD objIR objRG objBH objBH 
+QQQ10231.	Hall/VdC Norms: Female#0239	actM actP actC actS actV actE mf1 setIF objCM objHH objAD objBE objAD objAD objAD 
+QQQ10232.	Hall/VdC Norms: Female#0240	actP> actL actP actM actL actE actV mf5 mf5 emoAP emoSD emoHA setIQ setOU objAI objHH objBH objBH objTR objRG objFO 
+QQQ10233.	Hall/VdC Norms: Female#0241	actP actL actV> actVR emoAP setIQ setIF objAR 
+QQQ10234.	Hall/VdC Norms: Female#0242	actV= actA actP actS actV> actP actC mf5 setAQ objBH objBE objBH objBH objBH 
+QQQ10235.	Hall/VdC Norms: Female#0243	actM actP actV> actVR actE setIF objAR objCL objCL objHH objBE objAR 
+QQQ10236.	Hall/VdC Norms: Female#0244	actP> actP> actM actV> actE actP> setIF objAR objAR objAR objBH objAD 
+QQQ10237.	Hall/VdC Norms: Female#0245	actV> actVR actVR actM actP> actV> actVR setOF objTR objAR 
+QQQ10238.	Hall/VdC Norms: Female#0246	actP actM actP actP> actL actL actV> emoSD setIQ setAQ objHH objNA objNA 
+QQQ10239.	Hall/VdC Norms: Female#0247	actS actS actM actP emoCO setIF objCL objAR objFO 
+QQQ10240.	Hall/VdC Norms: Female#0248	actM actS actS actP> actM mf1 emoAP setOQ objRG objTR objCL 
+QQQ10241.	Hall/VdC Norms: Female#0249	actV actM actP> mf5 emoAN setAQ objBH objBH objHH 
+QQQ10242.	Hall/VdC Norms: Female#0250	actL actM actS actV= mf1 emoCO setOD setIG setOG objRG objCL objTR objAR objAR objAR objAR objAR objHH 
+QQQ10243.	Hall/VdC Norms: Female#0251	actM actP actV> actM actS actV> actVR actC emoCO emoCO emoSD setIU objAD objAV objMO 
+QQQ10244.	Hall/VdC Norms: Female#0252	actL actV> emoAP emoAP emoSD setIF objTR 
+QQQ10245.	Hall/VdC Norms: Female#0253	actP> actV emoHA emoAP setIU objAD objAV objMO 
+QQQ10246.	Hall/VdC Norms: Female#0254	actM actV> actP actV> actP mf3 emoAP emoSD setIQ objAR objBE objBE objBH objAD 
+QQQ10247.	Hall/VdC Norms: Female#0255	actS actC actM actM setOQ objNA objNA objNA objTR 
+QQQ10248.	Hall/VdC Norms: Female#0256	actP actM actV> setID objHH objTR objHH objAR objRG 
+QQQ10249.	Hall/VdC Norms: Female#0257	actM actM actP actV> actM actP actV> actP> emoAP setOF setIF objST objAR objAD objNA objAR objAD objAD objBH 
+QQQ10250.	Hall/VdC Norms: Female#0258	actL actC actL emoHA setIF setIF objRG objAR objTR objTR objRG objTR objTR objTR objTR 
+QQQ10251.	Hall/VdC Norms: Female#0259	actL actP actS actP actP actL actP gf setOQ setIF setOF objTR objAR objHH objCL objCL objST objAR objTR 
+QQQ10252.	Hall/VdC Norms: Female#0260	actV> actP actV> setIF objAV objCM objAV 
+QQQ10253.	Hall/VdC Norms: Female#0261	actV> actM actA actP actP actP actC actS actP actS emoAP setIF objAV objAV objAV objBH objHH objCL objHH objHH objHH objAD objHH objNA objCL objCL objCL objCL objCL objCL 
+QQQ10254.	Hall/VdC Norms: Female#0262	actS actP actA actS actP actV actV actP actE actV actM actM actV actV> actP emoHA emoCO emoHA setOG objNA objRG objNA objNA objBH objMS objNA objCL objCL objNA objNA objMS objIR objNA objTR objMS objIW 
+QQQ10255.	Hall/VdC Norms: Female#0263	actV actM actP emoAP emoHA setIF objAR objAR objHH objMS objAD objHH objNA objCM objHH 
+QQQ10256.	Hall/VdC Norms: Female#0264	actV> emoHA setID objAE objAE objCL objHH objHH objFO 
+QQQ10257.	Hall/VdC Norms: Female#0265	actP actS actP actP actC emoAP setIQ objAV objCM objCM objCM 
+QQQ10258.	Hall/VdC Norms: Female#0266	actL actP mf3 setOQ objTR objTR objNA objTR 
+QQQ10259.	Hall/VdC Norms: Female#0267	actV= actS actV> actVR actV= emoHA setIQ objAR objAR objAR objHH objHH objHH objHH objHH objAB objCL objCL objCL objBH objHH objCL 
+QQQ10260.	Hall/VdC Norms: Female#0268	gf setAQ objHH objCM objHH 
+QQQ10261.	Hall/VdC Norms: Female#0269	actV actS actM actP actS actE actP> actV> actM actM actM emoAN emoAP setIU objAR objRG objST objAD objBH objBH objBA objAR 
+QQQ10262.	Hall/VdC Norms: Female#0270	actA actM actA actM actM actS emoHA setIF objAR objIR objAR objCM objAR objAD objHH 
+QQQ10263.	Hall/VdC Norms: Female#0271	actP= actM actM emoHA emoAP setOQ objAR objCL 
+QQQ10264.	Hall/VdC Norms: Female#0272	actL actV> emoHA emoHA setAQ 
+QQQ10265.	Hall/VdC Norms: Female#0273	actV actM setAG setIQ objRG objAV objHH 
+QQQ10266.	Hall/VdC Norms: Female#0274	actL actV actV mf3 mf6 mf5 mf2 emoAP setOQ objTR objTR objBA 
+QQQ10267.	Hall/VdC Norms: Female#0275	actM actV> actVR actL actV> actL actV> setOQ setIU objST objCL objRG objAR objAI 
+QQQ10268.	Hall/VdC Norms: Female#0276	actM actS actP emoCO setIQ objAV objAV objAV objCL objCL objCL objCL 
+QQQ10269.	Hall/VdC Norms: Female#0277	actM actV> actM actV> actM actV> setIQ objAR objBH objBH objBT objCL objHH 
+QQQ10270.	Hall/VdC Norms: Female#0278	actP> mf4 emoAP setIQ objCL objBH objAV objHH objHH objHH objAD 
+QQQ10271.	Hall/VdC Norms: Female#0279	actP> actM mf5 setIQ objAI objBA objBA objAV objBT objBA objBA objBA 
+QQQ10272.	Hall/VdC Norms: Female#0280	actM actM emoAP setOF objNA objAV objCM objCL objAV 
+QQQ10273.	Hall/VdC Norms: Female#0281	actV actV actV> actVR gf emoAN setIQ objAI objAD objCM 
+QQQ10274.	Hall/VdC Norms: Female#0282	actM actS emoHA setAQ objCL 
+QQQ10275.	Hall/VdC Norms: Female#0283	gf emoHA setIF objCL objRG objAV objCL objBH objCL objCL objCL objCL 
+QQQ10276.	Hall/VdC Norms: Female#0284	actV emoAP setAQ 
+QQQ10277.	Hall/VdC Norms: Female#0285	actM actE emoHA emoHA setIQ objAR objBE objHH 
+QQQ10278.	Hall/VdC Norms: Female#0286	actA actV> actM actV> actM actV> actM actM emoAN emoAP setIU setOU objAR objAR objRG objTR objAD 
+QQQ10279.	Hall/VdC Norms: Female#0287	actP actV> actV> setIQ objAV objCM objCM objCM 
+QQQ10280.	Hall/VdC Norms: Female#0288	actL actL actM actP mf1 mf4 emoSD setOF setOF objRG objTR objTR objST objST objTR objNA objIT objCL objTR objBT objCL objCL objAR objRG 
+QQQ10281.	Hall/VdC Norms: Female#0289	actM actP actV> actM actV> actV= actVR setID objAR objHH objHH objAD objAR objHH objAD objCL 
+QQQ10282.	Hall/VdC Norms: Female#0290	actM actS actM actL actS actP> actP> actM actM actV> setOQ objBH objBT objBH objAE objTR objAE objBH 
+QQQ10283.	Hall/VdC Norms: Female#0291	actM actV> actM actM actV> actM actM emoAN emoAP emoAN setOQ setIU objHH objAD objAR objAR objCL objBH objBH objBH objHH objIW 
+QQQ10284.	Hall/VdC Norms: Female#0292	actL actM actV> actP actM actM actV> mf5 emoAP setOF objTR objST objTR objST objST objAV objRG 
+QQQ10285.	Hall/VdC Norms: Female#0293	actS actC actV> mf3 mf1 setOQ objNA objNA objNA objAM 
+QQQ10286.	Hall/VdC Norms: Female#0294	actV> actVR mf5 emoAP setIF objAI objAI objHH objBE objBH 
+QQQ10287.	Hall/VdC Norms: Female#0295	actS actM actC actV actV> actVR actP> emoHA emoAN emoAN emoSD setIQ objAE objCL objCL objBE 
+QQQ10288.	Hall/VdC Norms: Female#0296	actM actS actM actS actL actM actV> actE mf3 mf1 emoAP setOQ setIU setIF objIW objRG objST objRG objTR objRG objAR objCM objAR objMO 
+QQQ10289.	Hall/VdC Norms: Female#0297	actL actV> actVR actL actM actV> emoAN setIQ setID setIQ objAE objAE objBH objBH objCL objBH 
+QQQ10290.	Hall/VdC Norms: Female#0298	actP actM actV> actV= actE mf6 emoCO emoHA setIQ setOQ objRG objAR objRG objAD objTR 
+QQQ10291.	Hall/VdC Norms: Female#0299	actM actM actM gf emoAP setIQ setOF objAE objCL objST objTR 
+QQQ10292.	Hall/VdC Norms: Female#0300	actM actM actV> actS actM emoHA setOQ objST objBH objBH objBH 
+QQQ10293.	Hall/VdC Norms: Female#0301	actL actV> actM actL actV> setIU setIU objAR objHH objAR objAR objAR objAR objCM 
+QQQ10294.	Hall/VdC Norms: Female#0302	actP actM actS actP actS setIF setIF objAR objHH objAR objAE objFO objFO 
+QQQ10295.	Hall/VdC Norms: Female#0303	actC actM setIU objAV objFO objRG objAV objRG 
+QQQ10296.	Hall/VdC Norms: Female#0304	actS actV> actVR actC actL actP setAQ setIF objCM objCM objAV objCM objCM objAV objMO 
+QQQ10297.	Hall/VdC Norms: Female#0306	actM actM actS actV> actM setID objHH objAV objCL objAE objHH objAD objAR 
+QQQ10298.	Hall/VdC Norms: Female#0307	actM actM actV> actM actV actC gf emoHA setIQ objTR objAD objAR objAR objTR objAR objAD objCL 
+QQQ10299.	Hall/VdC Norms: Female#0308	actE actV> actL actC actS actM emoHA setOQ setOF objNA objNA objNA objAD objAR objCM objTR objBE objCL objMS 
+QQQ10300.	Hall/VdC Norms: Female#0309	actV> actV> actP actV> actM actP> actP actC emoCO emoCO emoHA setOF objAV objNA objCM objBE 
+QQQ10301.	Hall/VdC Norms: Female#0310	actM actE actV actS actP actM actP> actV> emoSD setIF objCL objAE objHH objAD objAD objCL objCL objBH objHH objAD objBE objBH 
+QQQ10302.	Hall/VdC Norms: Female#0311	actC actS mf1 emoAP setIQ setOD setIQ setOD objTR objNA objAR objCM objCL objTR objNA objRG objCM objHH objAV 
+QQQ10303.	Hall/VdC Norms: Female#0312	actM actL actV> actL actS mf1 setOG objST objAV objHH objRG objTR objAR objHH objHH 
+QQQ10304.	Hall/VdC Norms: Female#0313	actS actM actV> actM actP actS actM actM actV actV actL setIQ setOQ objAE objAD objRG objCL objAE objNA objNA objST 
+QQQ10305.	Hall/VdC Norms: Female#0314	actM actC actS setOQ objNA objNA objNA objNA objTR objAR 
+QQQ10306.	Hall/VdC Norms: Female#0315	actM actM actL actS actP actV> actL mf4 emoHA emoCO setAD setIF setOQ objAR objAR objRG objCM objTR objTR objFO 
+QQQ10307.	Hall/VdC Norms: Female#0316	actP actA emoCO setIF objAV objCL objAI objTR objRG objTR objMS 
+QQQ10308.	Hall/VdC Norms: Female#0317	actM actV actL actV> actVR mf3 setOQ objNA objNA 
+QQQ10309.	Hall/VdC Norms: Female#0318	actV> actC actC actV> actVR actV> actV> actV> actC emoHA emoHA emoAN setAQ 
+QQQ10310.	Hall/VdC Norms: Female#0319	actM actV> actV> actV> actC actC emoCO setAQ objCL 
+QQQ10311.	Hall/VdC Norms: Female#0320	actV> actVR actV> actVR actP actV> actVR actP> emoHA emoAN emoAN setAQ objBT 
+QQQ10312.	Hall/VdC Norms: Female#0321	actV> actP actV= actV> actVR emoAP setOQ objCL objCL objTR 
+QQQ10313.	Hall/VdC Norms: Female#0322	actL actV> actS actL actV> actC emoAP setIF objAV objCL objCL 
+QQQ10314.	Hall/VdC Norms: Female#0323	actM actS actM actS actM actM actC emoCO setID objCL objHH objCL objCL objHH objAD objHH objAV objAV objHH 
+QQQ10315.	Hall/VdC Norms: Female#0324	actS actS actC actC actP actC actM actC emoAP setIQ objAV objCL objCL objCL objCL objHH objHH objCL objCL objCL 
+QQQ10316.	Hall/VdC Norms: Female#0325	actL actC actM actS actV actM actM actL emoAP setIF objAR objAR objAE 
+QQQ10317.	Hall/VdC Norms: Female#0326	actV> actM actM actP actV> actP> actP actM actP actV> actS actS actM emoAP emoCO setIU objAR objAR objHH objAD objAD objAR objAD objAR objAD objAR objAD objHH objAR 
+QQQ10318.	Hall/VdC Norms: Female#0327	actV> actL emoHA setID objAR objAE objAE objAR 
+QQQ10319.	Hall/VdC Norms: Female#0328	actP actV actC mf6 mf6 emoSD setOQ objNA objNA objNA objBH objBE objBH objNA 
+QQQ10320.	Hall/VdC Norms: Female#0330	actV actV actV actV> actVR actVR setIF objAR objHH objAR 
+QQQ10321.	Hall/VdC Norms: Female#0331	actM actV> actP> actV> actE actP actM actV actM actS actM mf3 mf3 mf3 emoAP setID objHH objAD objAD objAR objAD objBE 
+QQQ10322.	Hall/VdC Norms: Female#0332	actM actS actV> actM actV> actL actC setIF objAE objAE objCL objCL objHH 
+QQQ10323.	Hall/VdC Norms: Female#0333	actM actM actV> actM actP> actL actV actP actV> actVR actVR actM actC mf1 setOF setIU objST objAV objAV objST objCM objAV objIT objAR objNA objCM objAD objAV 
+QQQ10324.	Hall/VdC Norms: Female#0334	actM actP actS actM actP> actP= actV> actVR actM actS actM setIQ objAR objAR objHH 
+QQQ10325.	Hall/VdC Norms: Female#0335	actM actS actL actE actP> actS actC setIQ setIQ objAE objHH objAR objHH objBH objBH objBH objBH objBH objBH 
+QQQ10326.	Hall/VdC Norms: Female#0336	actL actE actP actS actV> actVR emoSD emoAN setOQ objBH objBH objBH objBH 
+QQQ10327.	Hall/VdC Norms: Female#0337	actL actS actP mf1 emoSD setIQ objAR objAR objHH objHH objNA objNA objNA objNA objAD objFO 
+QQQ10328.	Hall/VdC Norms: Female#0338	actP actL actP actM actL actM actP mf1 mf4 mf4 mf1 emoAN setOQ setOF setIF objAE objST objTR objNA objNA objCL objMO objCL objCL objTR objTR objTR objNA objNA 
+QQQ10329.	Hall/VdC Norms: Female#0339	actV> actM actM actM actP> setIQ setID objAE objAE objHH objCM objHH objAE objCL objCL objAR objFO objFO 
+QQQ10330.	Hall/VdC Norms: Female#0340	actS actL actL actV> actC emoSD emoHA setAF objAV objAR objST objRG objAR 
+QQQ10331.	Hall/VdC Norms: Female#0341	actL actS actV> actP actE mf4 setIQ objAR objAR objTR objAR objHH objBT objCL objBH objFO 
+QQQ10332.	Hall/VdC Norms: Female#0342	actM actM actS actV actP actP actC actP> actS setIQ objAE objAE objAD objHH objCL objCM objCM objBE objBT 
+QQQ10333.	Hall/VdC Norms: Female#0343	actM actP actP actL actP actM actC actV> actP setOF objRG objAR objTR objST objTR objCM 
+QQQ10334.	Hall/VdC Norms: Female#0344	actP actM actV actC emoAN setIF objAR objAR objHH objHH objHH objHH objAD objAV objCL 
+QQQ10335.	Hall/VdC Norms: Female#0345	actV> actM actV actC actV> actP setIQ objAR objAR objFO 
+QQQ10336.	Hall/VdC Norms: Female#0348	actP actM actC actP actM actV> mf1 setIQ objAR objHH objNA objNA objNA 
+QQQ10337.	Hall/VdC Norms: Female#0349	actS actC actM actV> actV= actS actC actV> actM actV actV> mf1 setIF objAE objAE objCM objHH objCL objBE objCL objHH 
+QQQ10338.	Hall/VdC Norms: Female#0350	actP actP actM actL actV actP mf1 setIQ setOQ objAR objCL objCL objHH objNA objCL objNA objHH objAD objCL objAV objAD objTR 
+QQQ10339.	Hall/VdC Norms: Female#0351	actL actM actS actV> actM setOF setIF objAI objHH objAD objAD objMS objAD 
+QQQ10340.	Hall/VdC Norms: Female#0352	actM actP> actL actP actM actV> actS actM actM actV> emoAN setOQ setIQ objTR objBE objAR objFO objHH objFO 
+QQQ10341.	Hall/VdC Norms: Female#0355	actL actS actV> actM actP actS actV> setOQ objST 
+QQQ10342.	Hall/VdC Norms: Female#0356	actS actP> actV emoAN setAQ objCL objCL objBE 
+QQQ10343.	Hall/VdC Norms: Female#0357	actV> actP actV> actV> actC actV> actL actP mf6 mf1 emoHA emoSD setIQ objAR objNA objIR objIR objNA objMS objAR objHH objCL objBE 
+QQQ10344.	Hall/VdC Norms: Female#0358	actP> actP actV> actC mf6 emoAP emoAP emoAP setIQ objAR objIW objAD objBH objAR objIW objHH 
+QQQ10345.	Hall/VdC Norms: Female#0359	actV actV> actVR actS actC actV actP actP actV> emoAP setOU objNA objAR objAM objHH objNA 
+QQQ10346.	Hall/VdC Norms: Female#0360	actL actV> actVR actM actS mf4 emoAP emoAP setOQ objTR objCL objST objNA objCL 
+QQQ10347.	Hall/VdC Norms: Female#0361	actL actV> actM actV> actS actP> actS actM actP actE mf4 mf5 setOF setIF objAR objTR objAD objBE objNA objCL 
+QQQ10348.	Hall/VdC Norms: Female#0362	actM actS actM actP> actM actM mf3 emoAP setOD objST objNA objAR objNA objIW objNA 
+QQQ10349.	Hall/VdC Norms: Female#0363	actP> actM actV actP> actE emoAP setOQ objST objCL objBH objBH 
+QQQ10350.	Hall/VdC Norms: Female#0364	actA emoAP setIF objHH 
+QQQ10351.	Hall/VdC Norms: Female#0365	actM actM actP> actP> actPR actV actS actM actM actV> actV> actE mf5 emoAP emoSD setIF setOF setIQ objAR objAR objAD objST objBA objBH objAI 
+QQQ10352.	Hall/VdC Norms: Female#0369	actM actP> emoAP setOQ objNA 
+QQQ10353.	Hall/VdC Norms: Female#0370	actV> actL actP actV> actM actP actL actV> actM actC emoCO setIF setIF setIF objAR objAR objHH objHH objAR 
+QQQ10354.	Hall/VdC Norms: Female#0371	actS actM mf1 mf5 emoCO setIQ objAI objMS 
+QQQ10355.	Hall/VdC Norms: Female#0372	actL actL mf6 setOF objTR objST objTR objTR objTR objAR 
+QQQ10356.	Hall/VdC Norms: Female#0373	actL actP> emoAN emoAN setIF objAR 
+QQQ10357.	Hall/VdC Norms: Female#0374	actL actS actM actV> setID objAV 
+QQQ10358.	Hall/VdC Norms: Female#0375	actC actM actV> mf1 emoCO setIF objAV objCM 
+QQQ10359.	Hall/VdC Norms: Female#0376	actE actV> mf5 mf1 emoSD emoAP setIF objHH objHH objHH 
+QQQ10360.	Hall/VdC Norms: Female#0377	actC actM actP actV> actVR actV setIF objAV objHH objAD objIW objAR 
+QQQ10361.	Hall/VdC Norms: Female#0378	actP actL actV> actV> mf5 setOD objST objTR objAD objAR objTR objAR objAD 
+QQQ10362.	Hall/VdC Norms: Female#0379	gf emoCO emoHA emoHA setAQ objMO objAR 
+QQQ10363.	Hall/VdC Norms: Female#0380	actE actC actM actL mf1 emoHA setAF setOF objRG objTR objAR 
+QQQ10364.	Hall/VdC Norms: Female#0381	actL actM actL actV> mf4 mf3 setOG objTR objNA objNA 
+QQQ10365.	Hall/VdC Norms: Female#0382	actM actM setOU setIU objNA objNA objNA objAR objAR 
+QQQ10366.	Hall/VdC Norms: Female#0383	actM actM actM actS actC mf4 mf3 emoAP setOQ objAR objRG objNA objNA objCL objCL objTR objNA objFO 
+QQQ10367.	Hall/VdC Norms: Female#0384	actL actS actM actA actV actM actS actE actP> actM setOU objTR objST objRG objCM objST objAV objBH objBH objHH 
+QQQ10368.	Hall/VdC Norms: Female#0385	actM actM actS mf1 setOF objST objBE objRG objAV objBE objNA 
+QQQ10369.	Hall/VdC Norms: Female#0386	actV> actVR actL actP actP actV> actC actV> mf5 emoAP setOQ objTR objAI objBH objHH 
+QQQ10370.	Hall/VdC Norms: Female#0387	actS actL actM actM actM actM mf5 mf5 setOF setIF objNA objBH objAV objFO objAR objAD objCL objMS 
+QQQ10371.	Hall/VdC Norms: Female#0388	actL actM actV> actVR setAQ objCL objAR objCL objBH objFO 
+QQQ10372.	Hall/VdC Norms: Female#0389	actL actV> actM actL mf4 setIF objAI objTR objAR objTR objAD objAD 
+QQQ10373.	Hall/VdC Norms: Female#0390	actS actV> actP actM gf setIQ objCM objAE objMO objIR objCL objCL 
+QQQ10374.	Hall/VdC Norms: Female#0391	actM actS actM actS actP actS mf2 mf3 emoAP emoAP setOQ setOF objNA objNA objNA objAR objTR 
+QQQ10375.	Hall/VdC Norms: Female#0392	actM actS actM actE actP mf1 emoAP emoAP setIQ objAV objAD objIR objBE 
+QQQ10376.	Hall/VdC Norms: Female#0393	actL actS actV> actS actM mf1 gf emoAP setOF objTR objST objCM objRG objRG objCL objBH 
+QQQ10377.	Hall/VdC Norms: Female#0394	actP> actE emoCO setID objAR objNA objNA objIW 
+QQQ10378.	Hall/VdC Norms: Female#0395	actV> actS setIQ objAV objHH objAD objIR objIR objCL 
+QQQ10379.	Hall/VdC Norms: Female#0396	actS actC actM actC mf6 emoAP emoSD setIF objAR objAD objST 
+QQQ10380.	Hall/VdC Norms: Female#0397	actL actS actV actV> actV> actV> emoCO setOF setOQ objTR objNA objRG objNA objAR objTR objTR objTR objTR objNA 
+QQQ10381.	Hall/VdC Norms: Female#0398	actV> actL actC mf6 emoCO setAQ objAR objAD objTR objTR objMS 
+QQQ10382.	Hall/VdC Norms: Female#0399	actS actL actV> gf emoHA setIQ objAI 
+QQQ10383.	Hall/VdC Norms: Female#0400	actP actL actS actS actP actM actM actC mf1 emoAP emoCO setIF objAR objHH objAR objCL objAR 
+QQQ10384.	Hall/VdC Norms: Female#0401	actS actM actP actP= actM mf1 setIF objAR objAD objAD objAD objMS 
+QQQ10385.	Hall/VdC Norms: Female#0402	actV> actS mf4 emoAP setIF objAV objCL objMO objBH objBH 
+QQQ10386.	Hall/VdC Norms: Female#0403	actS actM actS actV> actV= actE actM actL actV mf1 emoSD emoAP setIF setIF setIF objCM objAR objAR objAD 
+QQQ10387.	Hall/VdC Norms: Female#0404	actL actE actE actS actE actM actP actM mf4 mf1 emoSD emoSD setOF objTR objRG objTR objST objNA objTR 
+QQQ10388.	Hall/VdC Norms: Female#0405	actM actM actE mf5 mf5 emoSD setOQ objNA objST 
+QQQ10389.	Hall/VdC Norms: Female#0406	actM actS actV actV emoCO setOQ objST objAM objAD objAR objAE 
+QQQ10390.	Hall/VdC Norms: Female#0407	actV> actP> actV> mf5 setAQ objBE objIW objNA 
+QQQ10391.	Hall/VdC Norms: Female#0408	actL actP actM actV> actVR mf1 emoSD emoAN setOF setIF objAR objTR objTR objAR objAR objTR 
+QQQ10392.	Hall/VdC Norms: Female#0409	actL actS actM actV> actVR actVR emoSD setOQ objNA objCL 
+QQQ10393.	Hall/VdC Norms: Female#0410	actM actV> actS actC emoCO setIF objST objHH objAR objAR objCL objAD objCL objCL 
+QQQ10394.	Hall/VdC Norms: Female#0411	actL actL mf1 emoAP emoAP setAG objRG objHH objCL 
+QQQ10395.	Hall/VdC Norms: Female#0412	actL actM actM mf4 mf1 emoAP emoAP setOQ objTR objNA 
+QQQ10396.	Hall/VdC Norms: Female#0413	actM actV> actV mf3 mf4 emoAP emoCO setIF objAV objCM 
+QQQ10397.	Hall/VdC Norms: Female#0414	actP actL actP mf3 mf4 emoAP emoAP setOF objST objBE objTR objTR objST objMS 
+QQQ10398.	Hall/VdC Norms: Female#0415	actS actL actV actL actV> actM mf5 mf6 mf5 setOQ setIQ objRG objTR objTR objAI objBE objBE 
+QQQ10399.	Hall/VdC Norms: Female#0416	actP actV> actM actS actS actP> setAQ objAD objAD objAD objNA objBH 
+QQQ10400.	Hall/VdC Norms: Female#0417	actV actS actM actV> actP actP actM emoAP setIQ setOQ setIQ setOQ objCL objCL objST objAV objHH objCL objCL objCL objTR objMS 
+QQQ10401.	Hall/VdC Norms: Female#0418	actL actM actV> mf3 emoAP emoAP setOQ setOQ objTR objST objNA objRG objAD objAD objTR objCM 
+QQQ10402.	Hall/VdC Norms: Female#0419	actL actM actS actV> actVR mf4 setOF setIF objTR objTR objRG objST objCM objAV objAI 
+QQQ10403.	Hall/VdC Norms: Female#0420	actL actM actS actP actP actS actM mf1 mf1 emoAP setIQ setOQ objAV objAD objST objAV objHH objHH objBH objBE objMO 
+QQQ10404.	Hall/VdC Norms: Female#0421	actM actP mf4 mf5 setIF objBA objBA objBH objHH objAR objBH 
+QQQ10405.	Hall/VdC Norms: Female#0422	actL actP mf4 gf setOQ objIR objBE objBE 
+QQQ10406.	Hall/VdC Norms: Female#0423	actP setIF objAV objMO 
+QQQ10407.	Hall/VdC Norms: Female#0424	actM mf3 setOQ objRG objIW objNA objAR 
+QQQ10408.	Hall/VdC Norms: Female#0425	actS actV> actP actP actV> actP> actM emoSD setOQ objRG objBH objCL objCL objBH objCL objBH 
+QQQ10409.	Hall/VdC Norms: Female#0426	actM actP actL emoSD setOQ setOQ objRG objNA objNA objBH objRG objRG 
+QQQ10410.	Hall/VdC Norms: Female#0427	actM actP actV> actVR actP setIQ objAE objAR objCL objCL objCL objCL objCL 
+QQQ10411.	Hall/VdC Norms: Female#0428	actL actL actM actL actP setOQ setIQ objRG objTR objCL objBT objTR objAV objTR 
+QQQ10412.	Hall/VdC Norms: Female#0429	actM actP> setOQ objRG 
+QQQ10413.	Hall/VdC Norms: Female#0430	actV> actVR actL setIF setOF objAR objRG objTR 
+QQQ10414.	Hall/VdC Norms: Female#0431	setOQ setIQ objTR objAD 
+QQQ10415.	Hall/VdC Norms: Female#0432	actM actL actP actS actL mf3 emoAP emoCO setOG objRG objTR objCM objTR 
+QQQ10416.	Hall/VdC Norms: Female#0433	actM actM actV> actL actS actM actE setIF objAE objAR objAD objAR 
+QQQ10417.	Hall/VdC Norms: Female#0434	actM actV> actS actS actM mf1 setOD objRG objST objAR objAR 
+QQQ10418.	Hall/VdC Norms: Female#0435	actM actV> actVR actP actM emoAN setIF objAR objAD objAR 
+QQQ10419.	Hall/VdC Norms: Female#0436	actL emoHA setAQ 
+QQQ10420.	Hall/VdC Norms: Female#0437	actM actS actP setOF setIF objRG objAR objAD objAD 
+QQQ10421.	Hall/VdC Norms: Female#0438	actM actM actL actL actM actM mf3 setOQ objNA objCL 
+QQQ10422.	Hall/VdC Norms: Female#0439	actV actS setIU objAM objIW objHH objNA objTR 
+QQQ10423.	Hall/VdC Norms: Female#0440	actM actM gf emoAP setAQ objCL objAD objST objMS 
+QQQ10424.	Hall/VdC Norms: Female#0441	actV setIU objAR objAR objCM 
+QQQ10425.	Hall/VdC Norms: Female#0442	actM actM actC actP actV mf1 setIQ setAQ objAV objAV objAR objRG objAV objFO 
+QQQ10426.	Hall/VdC Norms: Female#0443	actM actL actL actP> actM actL setAQ objCL objCL objAR objCL objCL objAR objAD 
+QQQ10427.	Hall/VdC Norms: Female#0444	actL actP actS actS actV> actVR setOQ setIQ objNA objST objTR objBH objBH objAE objCL objCL objBH objTR 
+QQQ10428.	Hall/VdC Norms: Female#0445	actV actM actP actS emoCO setIF objAE 
+QQQ10429.	Hall/VdC Norms: Female#0446	actC setIQ objAR objAR objAD objHH objHH objHH objHH objHH objHH objHH objHH objHH objHH objAD objAD objHH objAD objAD objAR 
+QQQ10430.	Hall/VdC Norms: Female#0447	actP actP> actV> actVR setAQ objCM objCM 
+QQQ10431.	Hall/VdC Norms: Female#0448	actP> actM actE actS actS actV> setIQ setOQ objAR objBE objAD objHH objBE 
+QQQ10432.	Hall/VdC Norms: Female#0449	actM actP actS actM actV> actM actV> setOQ objRG objNA objAD 
+QQQ10433.	Hall/VdC Norms: Female#0450	actM actM actM actV> actP mf1 setOF objAR objAV objTR objBE objCM objTR objTR objTR 
+QQQ10434.	Hall/VdC Norms: Female#0451	actM actP actM actV> setOF objRG objNA objNA objAR objCL objBH objAR 
+QQQ10435.	Hall/VdC Norms: Female#0452	actM actS actS actP emoAP emoAN setOQ objNA objIR objBH 
+QQQ10436.	Hall/VdC Norms: Female#0453	actM actM actM actP> actM setOQ objRG objMS objMS objMS 
+QQQ10437.	Hall/VdC Norms: Female#0454	actL actP actS actM actM actS actC emoHA setOQ objTR objNA objNA objMS 
+QQQ10438.	Hall/VdC Norms: Female#0455	actM actS actL actM actV> actP> actV> actP> mf1 mf1 emoAP emoAN emoSD emoCO setID objAR objRG objAD objNA objAM objNA 
+QQQ10439.	Hall/VdC Norms: Female#0456	actP actV> actM mf4 emoAP setIQ objAR objTR objHH objAD objBE objHH objHH objTR 
+QQQ10440.	Hall/VdC Norms: Female#0457	actP actV> actP actL actP actL mf3 emoAP setOG objAM objNA objBH objCL objBH objMS 
+QQQ10441.	Hall/VdC Norms: Female#0458	actC actM actV> actA actV actP actV> mf1 setIF objAR objAD objAD objCM 
+QQQ10442.	Hall/VdC Norms: Female#0459	actP actP actM actM actV> actA actV> setIQ objAE objIR 
+QQQ10443.	Hall/VdC Norms: Female#0460	actV> actS actE actC setIU objAR objAD objAD 
+QQQ10444.	Hall/VdC Norms: Female#0461	actM actS actS mf2 setAQ objAD objHH objAR objNA objNA 
+QQQ10445.	Hall/VdC Norms: Female#0462	actM actV> actM actP actM actV> emoCO setIF objAR objAR objAR objAD objAR 
+QQQ10446.	Hall/VdC Norms: Female#0463	actM actS actP= actM actS setOF objST objAD objCL objMO objAE objCM objNA objTR objTR 
+QQQ10447.	Hall/VdC Norms: Female#0464	actM actS actA actM actM actS actV> actE mf4 gf setOF setOU objST objAR objAD objAD objAD objHH objAR objAR objAD 
+QQQ10448.	Hall/VdC Norms: Female#0465	actV actM actV mf2 mf3 emoAP setOU setIU objBH objAR objBH 
+QQQ10449.	Hall/VdC Norms: Female#0466	actM actM actM actS mf1 setOQ objNA objRG 
+QQQ10450.	Hall/VdC Norms: Female#0467	actM actS actM setIQ objRG objAV objAV objCL objTR 
+QQQ10451.	Hall/VdC Norms: Female#0468	actV actE actL actV> setOQ objST objRG objHH objHH objBH objST objTR objAR objFO 
+QQQ10452.	Hall/VdC Norms: Female#0469	actM actV> actM actP actV> actV= mf1 setIQ setOF objAR objAM objTR objRG objST objTR objNA 
+QQQ10453.	Hall/VdC Norms: Female#0470	actS actC actM actP> emoAP setOQ objNA objRG objBE 
+QQQ10454.	Hall/VdC Norms: Female#0471	actV> actM actP actS actV> actP actE setID setOU objAI objAD objHH objCL objAD objHH objCL objTR 
+QQQ10455.	Hall/VdC Norms: Female#0472	actM actS actS actP actM actS actP setOQ objNA objNA objNA objTR objRG objCL objMS 
+QQQ10456.	Hall/VdC Norms: Female#0473	actM actP actS actP> actP actM actM actS actP> mf5 emoAP emoAP setIF setOF objHH objAD objAR objAD objAD objNA objIW objBE objBA objNA objBE 
+QQQ10457.	Hall/VdC Norms: Female#0474	actP actS actS actE actV actV> mf4 setAF objRG objAD objHH objBH objCL 
+QQQ10458.	Hall/VdC Norms: Female#0475	actP actM actS actM setIF setOF objAD objAR objIW objST objTR objAR objAD objAR objFO objMS objMS 
+QQQ10459.	Hall/VdC Norms: Female#0476	actM actS actS actS gf setIU objAR objHH objAR objAR objMO objIR 
+QQQ10460.	Hall/VdC Norms: Female#0477	actM actA actP actM mf3 mf3 mf3 setOU objST objST objNA objNA 
+QQQ10461.	Hall/VdC Norms: Female#0478	actP> actM setIF objAR objAR objNA 
+QQQ10462.	Hall/VdC Norms: Female#0479	actM actM gf setOQ objRG 
+QQQ10463.	Hall/VdC Norms: Female#0480	mf1 emoAP setOQ objST objTR objST 
+QQQ10464.	Hall/VdC Norms: Female#0481	actS actE actV actM actM actP actP actP> setIQ objAV objAR objHH objHH objHH objHH 
+QQQ10465.	Hall/VdC Norms: Female#0482	actV actS emoCO setIQ objAR objAD 
+QQQ10466.	Hall/VdC Norms: Female#0483	actP actM actV actE actV> emoHA setIQ setIQ objAR objAR objBA objAR objMS 
+QQQ10467.	Hall/VdC Norms: Female#0484	actM actS actS actM actP actS emoHA setOQ setIQ 
+QQQ10468.	Hall/VdC Norms: Female#0485	actS actM actV> actVR actP actM setIQ setOQ setIQ objAV objCL 
+QQQ10469.	Hall/VdC Norms: Female#0486	actV> actV> actV> mf4 emoAN setIF setIF objCL objMS 
+QQQ10470.	Hall/VdC Norms: Female#0487	actP actS actP> actM actM actP mf4 emoAP emoAN setIF objAR objCM objHH objCM objHH objAD 
+QQQ10471.	Hall/VdC Norms: Female#0488	actV> actVR actM actP> actM actS actE actM emoSD emoCO setIF setOF objAR objAR objAD objCL objBE objRG objBA 
+QQQ10472.	Hall/VdC Norms: Female#0489	actP actC actP actP> actP> actP> mf5 setIF objAR objHH objHH objHH objHH objHH objHH 
+QQQ10473.	Hall/VdC Norms: Female#0490	actS actV actC actS emoAN setIF objAR objAD objAR objTR 
+QQQ10474.	Hall/VdC Norms: Female#0491	actP actC actP emoAN emoAP setIQ objCL objBH objHH objFO objFO objFO objFO objFO objFO 
+QQQ10475.	Hall/VdC Norms: Female#0492	actS actS actM actC mf1 setOF setIF objRG objCL objAV objCM objNA 
+QQQ10476.	Hall/VdC Norms: Female#0493	actS actM actV> actVR actP actV mf1 emoAN emoAP emoAN emoAN setIF objAV objCL objCL objHH 
+QQQ10477.	Hall/VdC Norms: Female#0494	actS actV actM actS actS actC actS mf1 emoCO emoAP setIF objAI objBH objBH objBH objBE objMS objMS 
+QQQ10478.	Hall/VdC Norms: Female#0495	actC actL actP> emoCO emoAN setIF objAR objTR 
+QQQ10479.	Hall/VdC Norms: Female#0496	emoSD setAF setIQ objRG objAR objHH objHH 
+QQQ10480.	Hall/VdC Norms: Female#0497	actM emoAP setOU objRG objAR 
+QQQ10481.	Hall/VdC Norms: Female#0498	actL actM gf emoHA setOQ objST objTR 
+QQQ10482.	Hall/VdC Norms: Female#0499	actV> actVR actM actP emoCO setIF objHH objAR objBH 
+QQQ10483.	Hall/VdC Norms: Female#0500	actS actV> setIQ setOQ objAV objCL objCL objTR 
