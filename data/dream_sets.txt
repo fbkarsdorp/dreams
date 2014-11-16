@@ -1,0 +1,981 @@
+QQQ10484.	Hall/VdC Norms: Male#0001	setID 
+QQQ10485.	Hall/VdC Norms: Male#0002	setIQ 
+QQQ10486.	Hall/VdC Norms: Male#0003	setIF setOF 
+QQQ10487.	Hall/VdC Norms: Male#0004	setIF 
+QQQ10488.	Hall/VdC Norms: Male#0005	setIQ 
+QQQ10489.	Hall/VdC Norms: Male#0006	setOU 
+QQQ10490.	Hall/VdC Norms: Male#0007	setOU 
+QQQ10491.	Hall/VdC Norms: Male#0008	setIQ 
+QQQ10492.	Hall/VdC Norms: Male#0009	setOU 
+QQQ10493.	Hall/VdC Norms: Male#0010	setOU 
+QQQ10494.	Hall/VdC Norms: Male#0011	setIG setOG 
+QQQ10495.	Hall/VdC Norms: Male#0012	setIF setIF 
+QQQ10496.	Hall/VdC Norms: Male#0013	setOF 
+QQQ10497.	Hall/VdC Norms: Male#0014	setOF 
+QQQ10498.	Hall/VdC Norms: Male#0015	setOQ setIQ setOQ 
+QQQ10499.	Hall/VdC Norms: Male#0016	setIQ 
+QQQ10500.	Hall/VdC Norms: Male#0017	setIQ 
+QQQ10501.	Hall/VdC Norms: Male#0018	setOU 
+QQQ10502.	Hall/VdC Norms: Male#0019	setIF 
+QQQ10503.	Hall/VdC Norms: Male#0020	setOG setIG 
+QQQ10504.	Hall/VdC Norms: Male#0021	setNS 
+QQQ10505.	Hall/VdC Norms: Male#0022	setNS 
+QQQ10506.	Hall/VdC Norms: Male#0023	setOQ 
+QQQ10507.	Hall/VdC Norms: Male#0024	setOU 
+QQQ10508.	Hall/VdC Norms: Male#0025	setOF 
+QQQ10509.	Hall/VdC Norms: Male#0026	setOF 
+QQQ10510.	Hall/VdC Norms: Male#0027	setOU setOU 
+QQQ10511.	Hall/VdC Norms: Male#0028	setIU setOU 
+QQQ10512.	Hall/VdC Norms: Male#0029	setIU 
+QQQ10513.	Hall/VdC Norms: Male#0030	setIU 
+QQQ10514.	Hall/VdC Norms: Male#0031	setOQ 
+QQQ10515.	Hall/VdC Norms: Male#0032	setOQ 
+QQQ10516.	Hall/VdC Norms: Male#0033	setAU 
+QQQ10517.	Hall/VdC Norms: Male#0034	setOF 
+QQQ10518.	Hall/VdC Norms: Male#0035	setIQ 
+QQQ10519.	Hall/VdC Norms: Male#0036	setIU 
+QQQ10520.	Hall/VdC Norms: Male#0037	setOU 
+QQQ10521.	Hall/VdC Norms: Male#0038	setOF 
+QQQ10522.	Hall/VdC Norms: Male#0039	setIQ 
+QQQ10523.	Hall/VdC Norms: Male#0040	setOQ 
+QQQ10524.	Hall/VdC Norms: Male#0041	setIQ setAQ setOQ 
+QQQ10525.	Hall/VdC Norms: Male#0042	setIF 
+QQQ10526.	Hall/VdC Norms: Male#0043	setIF 
+QQQ10527.	Hall/VdC Norms: Male#0044	setIQ 
+QQQ10528.	Hall/VdC Norms: Male#0045	setIF 
+QQQ10529.	Hall/VdC Norms: Male#0046	setIQ 
+QQQ10530.	Hall/VdC Norms: Male#0047	setIQ 
+QQQ10531.	Hall/VdC Norms: Male#0048	setNS 
+QQQ10532.	Hall/VdC Norms: Male#0049	setIF 
+QQQ10533.	Hall/VdC Norms: Male#0050	setOQ 
+QQQ10534.	Hall/VdC Norms: Male#0051	setOU 
+QQQ10535.	Hall/VdC Norms: Male#0052	setIQ 
+QQQ10536.	Hall/VdC Norms: Male#0053	setIU 
+QQQ10537.	Hall/VdC Norms: Male#0054	setOQ 
+QQQ10538.	Hall/VdC Norms: Male#0055	setOQ 
+QQQ10539.	Hall/VdC Norms: Male#0056	setIF setOG setOF setOG setIF 
+QQQ10540.	Hall/VdC Norms: Male#0057	setIF setOQ 
+QQQ10541.	Hall/VdC Norms: Male#0058	setOU 
+QQQ10542.	Hall/VdC Norms: Male#0059	setIF setOF 
+QQQ10543.	Hall/VdC Norms: Male#0060	setOG 
+QQQ10544.	Hall/VdC Norms: Male#0061	setNS 
+QQQ10545.	Hall/VdC Norms: Male#0062	setAQ 
+QQQ10546.	Hall/VdC Norms: Male#0063	setIU 
+QQQ10547.	Hall/VdC Norms: Male#0064	setNS 
+QQQ10548.	Hall/VdC Norms: Male#0065	setNS 
+QQQ10549.	Hall/VdC Norms: Male#0066	setIF 
+QQQ10550.	Hall/VdC Norms: Male#0067	setIF 
+QQQ10551.	Hall/VdC Norms: Male#0068	setIQ 
+QQQ10552.	Hall/VdC Norms: Male#0069	setIF 
+QQQ10553.	Hall/VdC Norms: Male#0070	setOF 
+QQQ10554.	Hall/VdC Norms: Male#0071	setIF 
+QQQ10555.	Hall/VdC Norms: Male#0072	setIF 
+QQQ10556.	Hall/VdC Norms: Male#0073	setOF 
+QQQ10557.	Hall/VdC Norms: Male#0074	setIF 
+QQQ10558.	Hall/VdC Norms: Male#0075	setIQ 
+QQQ10559.	Hall/VdC Norms: Male#0076	setIF 
+QQQ10560.	Hall/VdC Norms: Male#0077	setOU 
+QQQ10561.	Hall/VdC Norms: Male#0078	setIF 
+QQQ10562.	Hall/VdC Norms: Male#0079	setIF 
+QQQ10563.	Hall/VdC Norms: Male#0080	setIQ 
+QQQ10564.	Hall/VdC Norms: Male#0081	setAU 
+QQQ10565.	Hall/VdC Norms: Male#0082	setOQ 
+QQQ10566.	Hall/VdC Norms: Male#0083	setIQ 
+QQQ10567.	Hall/VdC Norms: Male#0084	setOQ 
+QQQ10568.	Hall/VdC Norms: Male#0085	setOF 
+QQQ10569.	Hall/VdC Norms: Male#0086	setIF setOQ 
+QQQ10570.	Hall/VdC Norms: Male#0087	setOF 
+QQQ10571.	Hall/VdC Norms: Male#0088	setIQ 
+QQQ10572.	Hall/VdC Norms: Male#0089	setOQ setOF 
+QQQ10573.	Hall/VdC Norms: Male#0090	setOQ 
+QQQ10574.	Hall/VdC Norms: Male#0091	setAQ 
+QQQ10575.	Hall/VdC Norms: Male#0092	setIQ 
+QQQ10576.	Hall/VdC Norms: Male#0093	setOQ 
+QQQ10577.	Hall/VdC Norms: Male#0094	setIF 
+QQQ10578.	Hall/VdC Norms: Male#0095	setIQ 
+QQQ10579.	Hall/VdC Norms: Male#0096	setOF 
+QQQ10580.	Hall/VdC Norms: Male#0097	setNS 
+QQQ10581.	Hall/VdC Norms: Male#0098	setOD 
+QQQ10582.	Hall/VdC Norms: Male#0099	setOU setIU 
+QQQ10583.	Hall/VdC Norms: Male#0100	setIF setOF 
+QQQ10584.	Hall/VdC Norms: Male#0101	setIF 
+QQQ10585.	Hall/VdC Norms: Male#0102	setOU 
+QQQ10586.	Hall/VdC Norms: Male#0103	setOU 
+QQQ10587.	Hall/VdC Norms: Male#0104	setIF 
+QQQ10588.	Hall/VdC Norms: Male#0105	setOU setOF setIF setAQ setIQ 
+QQQ10589.	Hall/VdC Norms: Male#0110	setOQ 
+QQQ10590.	Hall/VdC Norms: Male#0111	setOQ 
+QQQ10591.	Hall/VdC Norms: Male#0112	setNS 
+QQQ10592.	Hall/VdC Norms: Male#0113	setOQ 
+QQQ10593.	Hall/VdC Norms: Male#0114	setOU 
+QQQ10594.	Hall/VdC Norms: Male#0115	setOF 
+QQQ10595.	Hall/VdC Norms: Male#0116	setIF 
+QQQ10596.	Hall/VdC Norms: Male#0117	setIG 
+QQQ10597.	Hall/VdC Norms: Male#0118	setOQ 
+QQQ10598.	Hall/VdC Norms: Male#0119	setOU 
+QQQ10599.	Hall/VdC Norms: Male#0120	setIF 
+QQQ10600.	Hall/VdC Norms: Male#0121	setIQ 
+QQQ10601.	Hall/VdC Norms: Male#0122	setOF setIU 
+QQQ10602.	Hall/VdC Norms: Male#0123	setIQ 
+QQQ10603.	Hall/VdC Norms: Male#0124	setIF 
+QQQ10604.	Hall/VdC Norms: Male#0125	setIU 
+QQQ10605.	Hall/VdC Norms: Male#0126	setOQ 
+QQQ10606.	Hall/VdC Norms: Male#0127	setIF 
+QQQ10607.	Hall/VdC Norms: Male#0128	setIQ 
+QQQ10608.	Hall/VdC Norms: Male#0129	setAU 
+QQQ10609.	Hall/VdC Norms: Male#0130	setAG 
+QQQ10610.	Hall/VdC Norms: Male#0131	setIQ 
+QQQ10611.	Hall/VdC Norms: Male#0132	setOU setIU 
+QQQ10612.	Hall/VdC Norms: Male#0133	setIF 
+QQQ10613.	Hall/VdC Norms: Male#0134	setIU 
+QQQ10614.	Hall/VdC Norms: Male#0135	setOF 
+QQQ10615.	Hall/VdC Norms: Male#0136	setIF 
+QQQ10616.	Hall/VdC Norms: Male#0137	setOU setIU 
+QQQ10617.	Hall/VdC Norms: Male#0138	setIU 
+QQQ10618.	Hall/VdC Norms: Male#0139	setIF 
+QQQ10619.	Hall/VdC Norms: Male#0140	setIU setOF 
+QQQ10620.	Hall/VdC Norms: Male#0141	setOQ setIQ 
+QQQ10621.	Hall/VdC Norms: Male#0142	setOF 
+QQQ10622.	Hall/VdC Norms: Male#0143	setOF 
+QQQ10623.	Hall/VdC Norms: Male#0144	setOU setIU 
+QQQ10624.	Hall/VdC Norms: Male#0145	setIF setOQ setOQ 
+QQQ10625.	Hall/VdC Norms: Male#0146	setIG 
+QQQ10626.	Hall/VdC Norms: Male#0147	setOU 
+QQQ10627.	Hall/VdC Norms: Male#0148	setOU 
+QQQ10628.	Hall/VdC Norms: Male#0149	setIF 
+QQQ10629.	Hall/VdC Norms: Male#0150	setIQ 
+QQQ10630.	Hall/VdC Norms: Male#0151	setOD setIQ 
+QQQ10631.	Hall/VdC Norms: Male#0152	setIU 
+QQQ10632.	Hall/VdC Norms: Male#0153	setIF 
+QQQ10633.	Hall/VdC Norms: Male#0154	setOQ setOD 
+QQQ10634.	Hall/VdC Norms: Male#0155	setIU setOD 
+QQQ10635.	Hall/VdC Norms: Male#0156	setIF 
+QQQ10636.	Hall/VdC Norms: Male#0157	setIF 
+QQQ10637.	Hall/VdC Norms: Male#0158	setAG 
+QQQ10638.	Hall/VdC Norms: Male#0159	setOU setIQ 
+QQQ10639.	Hall/VdC Norms: Male#0160	setOQ 
+QQQ10640.	Hall/VdC Norms: Male#0161	setIQ 
+QQQ10641.	Hall/VdC Norms: Male#0162	setIQ 
+QQQ10642.	Hall/VdC Norms: Male#0163	setOQ 
+QQQ10643.	Hall/VdC Norms: Male#0164	setIQ 
+QQQ10644.	Hall/VdC Norms: Male#0165	setIQ 
+QQQ10645.	Hall/VdC Norms: Male#0166	setIU setOG 
+QQQ10646.	Hall/VdC Norms: Male#0167	setIF 
+QQQ10647.	Hall/VdC Norms: Male#0168	setIQ setOQ 
+QQQ10648.	Hall/VdC Norms: Male#0169	setIQ 
+QQQ10649.	Hall/VdC Norms: Male#0170	setOQ 
+QQQ10650.	Hall/VdC Norms: Male#0171	setOQ 
+QQQ10651.	Hall/VdC Norms: Male#0172	setIF 
+QQQ10652.	Hall/VdC Norms: Male#0173	setIQ 
+QQQ10653.	Hall/VdC Norms: Male#0174	setOQ 
+QQQ10654.	Hall/VdC Norms: Male#0175	setNS 
+QQQ10655.	Hall/VdC Norms: Male#0176	setIG setOG 
+QQQ10656.	Hall/VdC Norms: Male#0177	setOQ setIQ setOQ 
+QQQ10657.	Hall/VdC Norms: Male#0178	setOF setID 
+QQQ10658.	Hall/VdC Norms: Male#0179	setIF 
+QQQ10659.	Hall/VdC Norms: Male#0180	setOQ 
+QQQ10660.	Hall/VdC Norms: Male#0181	setOQ 
+QQQ10661.	Hall/VdC Norms: Male#0182	setOF 
+QQQ10662.	Hall/VdC Norms: Male#0183	setOG 
+QQQ10663.	Hall/VdC Norms: Male#0184	setNS 
+QQQ10664.	Hall/VdC Norms: Male#0185	setOF 
+QQQ10665.	Hall/VdC Norms: Male#0186	setOF setIF setOF setIF 
+QQQ10666.	Hall/VdC Norms: Male#0187	setOQ setAG 
+QQQ10667.	Hall/VdC Norms: Male#0188	setOG 
+QQQ10668.	Hall/VdC Norms: Male#0189	setOG 
+QQQ10669.	Hall/VdC Norms: Male#0190	setOF setIF 
+QQQ10670.	Hall/VdC Norms: Male#0191	setOQ 
+QQQ10671.	Hall/VdC Norms: Male#0192	setOQ setOG setOQ 
+QQQ10672.	Hall/VdC Norms: Male#0193	setIQ 
+QQQ10673.	Hall/VdC Norms: Male#0194	setOF 
+QQQ10674.	Hall/VdC Norms: Male#0195	setOQ setIQ 
+QQQ10675.	Hall/VdC Norms: Male#0196	setIU 
+QQQ10676.	Hall/VdC Norms: Male#0197	setOQ setOF setIF 
+QQQ10677.	Hall/VdC Norms: Male#0198	setIF setOQ 
+QQQ10678.	Hall/VdC Norms: Male#0199	setIG setOG 
+QQQ10679.	Hall/VdC Norms: Male#0200	setOF 
+QQQ10680.	Hall/VdC Norms: Male#0201	setOQ 
+QQQ10681.	Hall/VdC Norms: Male#0202	setOF setIF 
+QQQ10682.	Hall/VdC Norms: Male#0203	setIU 
+QQQ10683.	Hall/VdC Norms: Male#0204	setOF 
+QQQ10684.	Hall/VdC Norms: Male#0205	setOF 
+QQQ10685.	Hall/VdC Norms: Male#0206	setAQ setIF 
+QQQ10686.	Hall/VdC Norms: Male#0207	setIQ setIQ 
+QQQ10687.	Hall/VdC Norms: Male#0208	setIQ 
+QQQ10688.	Hall/VdC Norms: Male#0209	setIQ 
+QQQ10689.	Hall/VdC Norms: Male#0210	setOF 
+QQQ10690.	Hall/VdC Norms: Male#0211	setOQ 
+QQQ10691.	Hall/VdC Norms: Male#0212	setOQ 
+QQQ10692.	Hall/VdC Norms: Male#0213	setOU 
+QQQ10693.	Hall/VdC Norms: Male#0214	setAQ 
+QQQ10694.	Hall/VdC Norms: Male#0215	setAF setIF setOF 
+QQQ10695.	Hall/VdC Norms: Male#0216	setOQ setOQ 
+QQQ10696.	Hall/VdC Norms: Male#0217	setOU 
+QQQ10697.	Hall/VdC Norms: Male#0218	setIU 
+QQQ10698.	Hall/VdC Norms: Male#0219	setOF setOQ setAG 
+QQQ10699.	Hall/VdC Norms: Male#0220	setOU 
+QQQ10700.	Hall/VdC Norms: Male#0221	setOQ setIQ 
+QQQ10701.	Hall/VdC Norms: Male#0222	setAG 
+QQQ10702.	Hall/VdC Norms: Male#0223	setIU 
+QQQ10703.	Hall/VdC Norms: Male#0224	setOF setIF 
+QQQ10704.	Hall/VdC Norms: Male#0225	setIQ 
+QQQ10705.	Hall/VdC Norms: Male#0226	setIF setOQ 
+QQQ10706.	Hall/VdC Norms: Male#0227	setAF 
+QQQ10707.	Hall/VdC Norms: Male#0228	setAQ 
+QQQ10708.	Hall/VdC Norms: Male#0229	setAG setAG 
+QQQ10709.	Hall/VdC Norms: Male#0230	setOF setIQ setOQ 
+QQQ10710.	Hall/VdC Norms: Male#0231	setIF setOQ setIF 
+QQQ10711.	Hall/VdC Norms: Male#0232	setIF 
+QQQ10712.	Hall/VdC Norms: Male#0233	setOG 
+QQQ10713.	Hall/VdC Norms: Male#0234	setIF setOF 
+QQQ10714.	Hall/VdC Norms: Male#0235	setIF 
+QQQ10715.	Hall/VdC Norms: Male#0236	setIU 
+QQQ10716.	Hall/VdC Norms: Male#0237	setIF 
+QQQ10717.	Hall/VdC Norms: Male#0238	setIF 
+QQQ10718.	Hall/VdC Norms: Male#0239	setIU 
+QQQ10719.	Hall/VdC Norms: Male#0240	setAD 
+QQQ10720.	Hall/VdC Norms: Male#0241	setOF 
+QQQ10721.	Hall/VdC Norms: Male#0242	setID 
+QQQ10722.	Hall/VdC Norms: Male#0243	setIF setOF 
+QQQ10723.	Hall/VdC Norms: Male#0244	setOQ 
+QQQ10724.	Hall/VdC Norms: Male#0245	setOD 
+QQQ10725.	Hall/VdC Norms: Male#0246	setOQ 
+QQQ10726.	Hall/VdC Norms: Male#0247	setIF setAF 
+QQQ10727.	Hall/VdC Norms: Male#0248	setIF 
+QQQ10728.	Hall/VdC Norms: Male#0249	setNS 
+QQQ10729.	Hall/VdC Norms: Male#0250	setOQ 
+QQQ10730.	Hall/VdC Norms: Male#0251	setIQ 
+QQQ10731.	Hall/VdC Norms: Male#0252	setIF 
+QQQ10732.	Hall/VdC Norms: Male#0253	setIQ 
+QQQ10733.	Hall/VdC Norms: Male#0254	setAQ setIQ setIQ 
+QQQ10734.	Hall/VdC Norms: Male#0255	setIQ 
+QQQ10735.	Hall/VdC Norms: Male#0256	setOQ 
+QQQ10736.	Hall/VdC Norms: Male#0257	setAQ 
+QQQ10737.	Hall/VdC Norms: Male#0258	setIF 
+QQQ10738.	Hall/VdC Norms: Male#0259	setOQ 
+QQQ10739.	Hall/VdC Norms: Male#0260	setIQ 
+QQQ10740.	Hall/VdC Norms: Male#0261	setOF 
+QQQ10741.	Hall/VdC Norms: Male#0262	setOQ 
+QQQ10742.	Hall/VdC Norms: Male#0263	setOQ 
+QQQ10743.	Hall/VdC Norms: Male#0264	setOU setIU 
+QQQ10744.	Hall/VdC Norms: Male#0265	setOQ 
+QQQ10745.	Hall/VdC Norms: Male#0266	setOF 
+QQQ10746.	Hall/VdC Norms: Male#0267	setOQ 
+QQQ10747.	Hall/VdC Norms: Male#0268	setIF 
+QQQ10748.	Hall/VdC Norms: Male#0269	setIQ 
+QQQ10749.	Hall/VdC Norms: Male#0270	setOD setIQ 
+QQQ10750.	Hall/VdC Norms: Male#0271	setOF setIU 
+QQQ10751.	Hall/VdC Norms: Male#0272	setIF 
+QQQ10752.	Hall/VdC Norms: Male#0273	setOF setIF 
+QQQ10753.	Hall/VdC Norms: Male#0274	setIF setOF 
+QQQ10754.	Hall/VdC Norms: Male#0275	setAD setIQ 
+QQQ10755.	Hall/VdC Norms: Male#0276	setOQ 
+QQQ10756.	Hall/VdC Norms: Male#0277	setIF 
+QQQ10757.	Hall/VdC Norms: Male#0278	setAQ 
+QQQ10758.	Hall/VdC Norms: Male#0279	setAQ 
+QQQ10759.	Hall/VdC Norms: Male#0280	setOU 
+QQQ10760.	Hall/VdC Norms: Male#0281	setOG setOU 
+QQQ10761.	Hall/VdC Norms: Male#0282	setOQ 
+QQQ10762.	Hall/VdC Norms: Male#0283	setOF 
+QQQ10763.	Hall/VdC Norms: Male#0284	setOQ 
+QQQ10764.	Hall/VdC Norms: Male#0285	setOQ setIU setOQ 
+QQQ10765.	Hall/VdC Norms: Male#0286	setIQ 
+QQQ10766.	Hall/VdC Norms: Male#0287	setOQ 
+QQQ10767.	Hall/VdC Norms: Male#0288	setOG 
+QQQ10768.	Hall/VdC Norms: Male#0289	setOU setIU 
+QQQ10769.	Hall/VdC Norms: Male#0290	setIU 
+QQQ10770.	Hall/VdC Norms: Male#0291	setIF 
+QQQ10771.	Hall/VdC Norms: Male#0292	setIF 
+QQQ10772.	Hall/VdC Norms: Male#0293	setOF 
+QQQ10773.	Hall/VdC Norms: Male#0294	setOF 
+QQQ10774.	Hall/VdC Norms: Male#0295	setIF 
+QQQ10775.	Hall/VdC Norms: Male#0296	setOU 
+QQQ10776.	Hall/VdC Norms: Male#0297	setOQ 
+QQQ10777.	Hall/VdC Norms: Male#0298	setOU setIQ 
+QQQ10778.	Hall/VdC Norms: Male#0299	setOU 
+QQQ10779.	Hall/VdC Norms: Male#0300	setIQ 
+QQQ10780.	Hall/VdC Norms: Male#0301	setOG 
+QQQ10781.	Hall/VdC Norms: Male#0302	setOQ 
+QQQ10782.	Hall/VdC Norms: Male#0303	setOQ 
+QQQ10783.	Hall/VdC Norms: Male#0304	setOQ 
+QQQ10784.	Hall/VdC Norms: Male#0305	setIF 
+QQQ10785.	Hall/VdC Norms: Male#0306	setIU 
+QQQ10786.	Hall/VdC Norms: Male#0307	setAQ 
+QQQ10787.	Hall/VdC Norms: Male#0308	setIU 
+QQQ10788.	Hall/VdC Norms: Male#0309	setIF 
+QQQ10789.	Hall/VdC Norms: Male#0310	setOG 
+QQQ10790.	Hall/VdC Norms: Male#0311	setOG 
+QQQ10791.	Hall/VdC Norms: Male#0312	setOF 
+QQQ10792.	Hall/VdC Norms: Male#0313	setIQ 
+QQQ10793.	Hall/VdC Norms: Male#0314	setOQ 
+QQQ10794.	Hall/VdC Norms: Male#0315	setOD setIQ setOQ 
+QQQ10795.	Hall/VdC Norms: Male#0316	setAQ setAG 
+QQQ10796.	Hall/VdC Norms: Male#0317	setOQ 
+QQQ10797.	Hall/VdC Norms: Male#0318	setIQ 
+QQQ10798.	Hall/VdC Norms: Male#0319	setIF setOQ setIQ setOQ 
+QQQ10799.	Hall/VdC Norms: Male#0320	setOQ setOF 
+QQQ10800.	Hall/VdC Norms: Male#0321	setAQ 
+QQQ10801.	Hall/VdC Norms: Male#0322	setOF 
+QQQ10802.	Hall/VdC Norms: Male#0323	setIQ 
+QQQ10803.	Hall/VdC Norms: Male#0324	setOQ 
+QQQ10804.	Hall/VdC Norms: Male#0325	setOQ 
+QQQ10805.	Hall/VdC Norms: Male#0326	setIQ 
+QQQ10806.	Hall/VdC Norms: Male#0327	setOQ setIQ 
+QQQ10807.	Hall/VdC Norms: Male#0328	setIQ 
+QQQ10808.	Hall/VdC Norms: Male#0329	setIU 
+QQQ10809.	Hall/VdC Norms: Male#0330	setIU setOF 
+QQQ10810.	Hall/VdC Norms: Male#0331	setIQ 
+QQQ10811.	Hall/VdC Norms: Male#0332	setOF setID 
+QQQ10812.	Hall/VdC Norms: Male#0333	setIQ 
+QQQ10813.	Hall/VdC Norms: Male#0334	setIF 
+QQQ10814.	Hall/VdC Norms: Male#0335	setOF 
+QQQ10815.	Hall/VdC Norms: Male#0336	setIF 
+QQQ10816.	Hall/VdC Norms: Male#0337	setAQ 
+QQQ10817.	Hall/VdC Norms: Male#0338	setID 
+QQQ10818.	Hall/VdC Norms: Male#0339	setIF 
+QQQ10819.	Hall/VdC Norms: Male#0340	setOG 
+QQQ10820.	Hall/VdC Norms: Male#0341	setAF 
+QQQ10821.	Hall/VdC Norms: Male#0342	setIF 
+QQQ10822.	Hall/VdC Norms: Male#0343	setOQ setIQ setOQ 
+QQQ10823.	Hall/VdC Norms: Male#0344	setOQ 
+QQQ10824.	Hall/VdC Norms: Male#0345	setIF 
+QQQ10825.	Hall/VdC Norms: Male#0346	setOF 
+QQQ10826.	Hall/VdC Norms: Male#0347	setAQ 
+QQQ10827.	Hall/VdC Norms: Male#0348	setIF setIF 
+QQQ10828.	Hall/VdC Norms: Male#0350	setOG setOQ 
+QQQ10829.	Hall/VdC Norms: Male#0352	setIQ 
+QQQ10830.	Hall/VdC Norms: Male#0353	setIF setOQ 
+QQQ10831.	Hall/VdC Norms: Male#0354	setOQ 
+QQQ10832.	Hall/VdC Norms: Male#0355	setIQ setIF 
+QQQ10833.	Hall/VdC Norms: Male#0356	setIQ 
+QQQ10834.	Hall/VdC Norms: Male#0357	setOG 
+QQQ10835.	Hall/VdC Norms: Male#0358	setOU 
+QQQ10836.	Hall/VdC Norms: Male#0359	setOQ 
+QQQ10837.	Hall/VdC Norms: Male#0360	setOF 
+QQQ10838.	Hall/VdC Norms: Male#0361	setIQ setOQ setIQ 
+QQQ10839.	Hall/VdC Norms: Male#0362	setIF setOQ setIF 
+QQQ10840.	Hall/VdC Norms: Male#0363	setIU setOU 
+QQQ10841.	Hall/VdC Norms: Male#0364	setOG 
+QQQ10842.	Hall/VdC Norms: Male#0365	setAQ 
+QQQ10843.	Hall/VdC Norms: Male#0366	setIF setIF setOF 
+QQQ10844.	Hall/VdC Norms: Male#0367	setOQ 
+QQQ10845.	Hall/VdC Norms: Male#0368	setAQ 
+QQQ10846.	Hall/VdC Norms: Male#0369	setIQ setOQ setIU 
+QQQ10847.	Hall/VdC Norms: Male#0370	setIF 
+QQQ10848.	Hall/VdC Norms: Male#0371	setOG 
+QQQ10849.	Hall/VdC Norms: Male#0372	setOG setIU 
+QQQ10850.	Hall/VdC Norms: Male#0373	setIQ 
+QQQ10851.	Hall/VdC Norms: Male#0374	setOU 
+QQQ10852.	Hall/VdC Norms: Male#0375	setOU 
+QQQ10853.	Hall/VdC Norms: Male#0376	setIF setOF 
+QQQ10854.	Hall/VdC Norms: Male#0377	setIU 
+QQQ10855.	Hall/VdC Norms: Male#0378	setAU 
+QQQ10856.	Hall/VdC Norms: Male#0379	setOU setIU 
+QQQ10857.	Hall/VdC Norms: Male#0380	setOG 
+QQQ10858.	Hall/VdC Norms: Male#0381	setIQ 
+QQQ10859.	Hall/VdC Norms: Male#0382	setOQ 
+QQQ10860.	Hall/VdC Norms: Male#0383	setIF 
+QQQ10861.	Hall/VdC Norms: Male#0384	setIF 
+QQQ10862.	Hall/VdC Norms: Male#0385	setIQ setIF 
+QQQ10863.	Hall/VdC Norms: Male#0386	setIF 
+QQQ10864.	Hall/VdC Norms: Male#0387	setOQ setIU 
+QQQ10865.	Hall/VdC Norms: Male#0388	setOQ 
+QQQ10866.	Hall/VdC Norms: Male#0389	setOF 
+QQQ10867.	Hall/VdC Norms: Male#0390	setIF 
+QQQ10868.	Hall/VdC Norms: Male#0391	setOQ setIF setOF setOQ setOQ 
+QQQ10869.	Hall/VdC Norms: Male#0395	setOQ setIQ 
+QQQ10870.	Hall/VdC Norms: Male#0396	setIU 
+QQQ10871.	Hall/VdC Norms: Male#0397	setIF 
+QQQ10872.	Hall/VdC Norms: Male#0398	setIF 
+QQQ10873.	Hall/VdC Norms: Male#0399	setIQ setIF 
+QQQ10874.	Hall/VdC Norms: Male#0400	setIF 
+QQQ10875.	Hall/VdC Norms: Male#0401	setOU 
+QQQ10876.	Hall/VdC Norms: Male#0402	setIU 
+QQQ10877.	Hall/VdC Norms: Male#0403	setAQ 
+QQQ10878.	Hall/VdC Norms: Male#0404	setOG 
+QQQ10879.	Hall/VdC Norms: Male#0405	setIF 
+QQQ10880.	Hall/VdC Norms: Male#0406	setIU 
+QQQ10881.	Hall/VdC Norms: Male#0407	setOQ setIQ 
+QQQ10882.	Hall/VdC Norms: Male#0408	setIU 
+QQQ10883.	Hall/VdC Norms: Male#0409	setOU setIU 
+QQQ10884.	Hall/VdC Norms: Male#0410	setIF 
+QQQ10885.	Hall/VdC Norms: Male#0411	setIQ 
+QQQ10886.	Hall/VdC Norms: Male#0412	setOQ 
+QQQ10887.	Hall/VdC Norms: Male#0413	setOQ 
+QQQ10888.	Hall/VdC Norms: Male#0414	setIQ 
+QQQ10889.	Hall/VdC Norms: Male#0415	setOQ 
+QQQ10890.	Hall/VdC Norms: Male#0416	setOU 
+QQQ10891.	Hall/VdC Norms: Male#0417	setOQ 
+QQQ10892.	Hall/VdC Norms: Male#0418	setOQ 
+QQQ10893.	Hall/VdC Norms: Male#0419	setOQ 
+QQQ10894.	Hall/VdC Norms: Male#0420	setOQ 
+QQQ10895.	Hall/VdC Norms: Male#0421	setOU setIU 
+QQQ10896.	Hall/VdC Norms: Male#0422	setIG 
+QQQ10897.	Hall/VdC Norms: Male#0423	setOU setIQ setOU 
+QQQ10898.	Hall/VdC Norms: Male#0424	setIF setOF setOQ 
+QQQ10899.	Hall/VdC Norms: Male#0425	setOF 
+QQQ10900.	Hall/VdC Norms: Male#0426	setIU 
+QQQ10901.	Hall/VdC Norms: Male#0427	setOQ setIQ setOQ 
+QQQ10902.	Hall/VdC Norms: Male#0428	setIU 
+QQQ10903.	Hall/VdC Norms: Male#0429	setOQ 
+QQQ10904.	Hall/VdC Norms: Male#0430	setAQ 
+QQQ10905.	Hall/VdC Norms: Male#0431	setOQ 
+QQQ10906.	Hall/VdC Norms: Male#0432	setIF 
+QQQ10907.	Hall/VdC Norms: Male#0433	setIU setIU 
+QQQ10908.	Hall/VdC Norms: Male#0434	setOQ 
+QQQ10909.	Hall/VdC Norms: Male#0435	setOG 
+QQQ10910.	Hall/VdC Norms: Male#0436	setAG setIQ 
+QQQ10911.	Hall/VdC Norms: Male#0437	setIQ 
+QQQ10912.	Hall/VdC Norms: Male#0438	setIU 
+QQQ10913.	Hall/VdC Norms: Male#0439	setIQ 
+QQQ10914.	Hall/VdC Norms: Male#0440	setOQ 
+QQQ10915.	Hall/VdC Norms: Male#0441	setIQ 
+QQQ10916.	Hall/VdC Norms: Male#0442	setIU 
+QQQ10917.	Hall/VdC Norms: Male#0443	setIQ setOQ 
+QQQ10918.	Hall/VdC Norms: Male#0444	setOU 
+QQQ10919.	Hall/VdC Norms: Male#0445	setOG setOG 
+QQQ10920.	Hall/VdC Norms: Male#0446	setAQ setOQ 
+QQQ10921.	Hall/VdC Norms: Male#0447	setOQ 
+QQQ10922.	Hall/VdC Norms: Male#0448	setOQ setIU 
+QQQ10923.	Hall/VdC Norms: Male#0449	setOF setIF 
+QQQ10924.	Hall/VdC Norms: Male#0450	setOF setOG setIF 
+QQQ10925.	Hall/VdC Norms: Male#0451	setIQ setIQ 
+QQQ10926.	Hall/VdC Norms: Male#0452	setIF 
+QQQ10927.	Hall/VdC Norms: Male#0453	setOF 
+QQQ10928.	Hall/VdC Norms: Male#0454	setOU 
+QQQ10929.	Hall/VdC Norms: Male#0455	setOU 
+QQQ10930.	Hall/VdC Norms: Male#0456	setOU setIF 
+QQQ10931.	Hall/VdC Norms: Male#0457	setOQ 
+QQQ10932.	Hall/VdC Norms: Male#0458	setIF 
+QQQ10933.	Hall/VdC Norms: Male#0459	setOQ 
+QQQ10934.	Hall/VdC Norms: Male#0460	setIF setOF 
+QQQ10935.	Hall/VdC Norms: Male#0461	setIU 
+QQQ10936.	Hall/VdC Norms: Male#0462	setOG 
+QQQ10937.	Hall/VdC Norms: Male#0463	setOU setIU 
+QQQ10938.	Hall/VdC Norms: Male#0464	setOF setIF 
+QQQ10939.	Hall/VdC Norms: Male#0465	setOU setIU 
+QQQ10940.	Hall/VdC Norms: Male#0466	setIQ 
+QQQ10941.	Hall/VdC Norms: Male#0467	setOQ 
+QQQ10942.	Hall/VdC Norms: Male#0468	setOU setIU 
+QQQ10943.	Hall/VdC Norms: Male#0469	setAG setOG 
+QQQ10944.	Hall/VdC Norms: Male#0470	setIU 
+QQQ10945.	Hall/VdC Norms: Male#0471	setOG setOU 
+QQQ10946.	Hall/VdC Norms: Male#0472	setOQ setIF 
+QQQ10947.	Hall/VdC Norms: Male#0473	setOQ setOF 
+QQQ10948.	Hall/VdC Norms: Male#0474	setOF 
+QQQ10949.	Hall/VdC Norms: Male#0475	setOQ 
+QQQ10950.	Hall/VdC Norms: Male#0476	setNS 
+QQQ10951.	Hall/VdC Norms: Male#0477	setOF 
+QQQ10952.	Hall/VdC Norms: Male#0478	setOU 
+QQQ10953.	Hall/VdC Norms: Male#0479	setOQ 
+QQQ10954.	Hall/VdC Norms: Male#0480	setOU setIU 
+QQQ10955.	Hall/VdC Norms: Male#0481	setIF 
+QQQ10956.	Hall/VdC Norms: Male#0482	setOQ 
+QQQ10957.	Hall/VdC Norms: Male#0483	setIF 
+QQQ10958.	Hall/VdC Norms: Male#0484	setOF 
+QQQ10959.	Hall/VdC Norms: Male#0485	setIQ 
+QQQ10960.	Hall/VdC Norms: Male#0486	setIF 
+QQQ10961.	Hall/VdC Norms: Male#0487	setAQ 
+QQQ10962.	Hall/VdC Norms: Male#0488	setOQ 
+QQQ10963.	Hall/VdC Norms: Male#0489	setIQ 
+QQQ10964.	Hall/VdC Norms: Male#0490	setIF 
+QQQ10965.	Hall/VdC Norms: Male#0491	setOQ 
+QQQ10966.	Hall/VdC Norms: Male#0492	setAQ setAF 
+QQQ10967.	Hall/VdC Norms: Male#0493	setOU setIU 
+QQQ10968.	Hall/VdC Norms: Male#0494	setIG 
+QQQ10969.	Hall/VdC Norms: Male#0495	setIF setIQ 
+QQQ10970.	Hall/VdC Norms: Male#0496	setIF 
+QQQ10971.	Hall/VdC Norms: Male#0497	setOU 
+QQQ10972.	Hall/VdC Norms: Male#0498	setAU setOU 
+QQQ10973.	Hall/VdC Norms: Male#0499	setOQ 
+QQQ10974.	Hall/VdC Norms: Male#0500	setOU 
+QQQ9994.	Hall/VdC Norms: Female#0001	setIQ 
+QQQ9995.	Hall/VdC Norms: Female#0002	setIU 
+QQQ9996.	Hall/VdC Norms: Female#0003	setOU 
+QQQ9997.	Hall/VdC Norms: Female#0004	setOU setOU 
+QQQ9998.	Hall/VdC Norms: Female#0005	setIF 
+QQQ9999.	Hall/VdC Norms: Female#0006	setIF 
+QQQ10000.	Hall/VdC Norms: Female#0007	setOQ 
+QQQ10001.	Hall/VdC Norms: Female#0008	setIF 
+QQQ10002.	Hall/VdC Norms: Female#0009	setID 
+QQQ10003.	Hall/VdC Norms: Female#0010	setOQ 
+QQQ10004.	Hall/VdC Norms: Female#0011	setIQ 
+QQQ10005.	Hall/VdC Norms: Female#0012	setOQ 
+QQQ10006.	Hall/VdC Norms: Female#0013	setIF 
+QQQ10007.	Hall/VdC Norms: Female#0014	setOQ 
+QQQ10008.	Hall/VdC Norms: Female#0015	setIQ 
+QQQ10009.	Hall/VdC Norms: Female#0016	setOF 
+QQQ10010.	Hall/VdC Norms: Female#0017	setOQ 
+QQQ10011.	Hall/VdC Norms: Female#0018	setOF setIF setIU 
+QQQ10012.	Hall/VdC Norms: Female#0019	setIF setIQ 
+QQQ10013.	Hall/VdC Norms: Female#0020	setIQ 
+QQQ10014.	Hall/VdC Norms: Female#0021	setIF 
+QQQ10015.	Hall/VdC Norms: Female#0022	setIU 
+QQQ10016.	Hall/VdC Norms: Female#0023	setIQ 
+QQQ10017.	Hall/VdC Norms: Female#0024	setOU setIU 
+QQQ10018.	Hall/VdC Norms: Female#0025	setIU 
+QQQ10019.	Hall/VdC Norms: Female#0026	setIQ 
+QQQ10020.	Hall/VdC Norms: Female#0027	setIQ 
+QQQ10021.	Hall/VdC Norms: Female#0028	setIF 
+QQQ10022.	Hall/VdC Norms: Female#0029	setOG 
+QQQ10023.	Hall/VdC Norms: Female#0030	setIF 
+QQQ10024.	Hall/VdC Norms: Female#0031	setIF setIF 
+QQQ10025.	Hall/VdC Norms: Female#0032	setIF setOF 
+QQQ10026.	Hall/VdC Norms: Female#0033	setID 
+QQQ10027.	Hall/VdC Norms: Female#0034	setAQ 
+QQQ10028.	Hall/VdC Norms: Female#0035	setAQ 
+QQQ10029.	Hall/VdC Norms: Female#0036	setIF 
+QQQ10030.	Hall/VdC Norms: Female#0037	setIQ 
+QQQ10031.	Hall/VdC Norms: Female#0038	setIQ 
+QQQ10032.	Hall/VdC Norms: Female#0039	setIU 
+QQQ10033.	Hall/VdC Norms: Female#0040	setIQ setAF setIQ 
+QQQ10034.	Hall/VdC Norms: Female#0041	setIQ 
+QQQ10035.	Hall/VdC Norms: Female#0042	setIF 
+QQQ10036.	Hall/VdC Norms: Female#0043	setIF 
+QQQ10037.	Hall/VdC Norms: Female#0044	setIU 
+QQQ10038.	Hall/VdC Norms: Female#0045	setIU 
+QQQ10039.	Hall/VdC Norms: Female#0046	setOD 
+QQQ10040.	Hall/VdC Norms: Female#0047	setOQ 
+QQQ10041.	Hall/VdC Norms: Female#0048	setIU 
+QQQ10042.	Hall/VdC Norms: Female#0049	setIF 
+QQQ10043.	Hall/VdC Norms: Female#0050	setIQ 
+QQQ10044.	Hall/VdC Norms: Female#0051	setIF 
+QQQ10045.	Hall/VdC Norms: Female#0052	setIQ setIF 
+QQQ10046.	Hall/VdC Norms: Female#0053	setIF setIF 
+QQQ10047.	Hall/VdC Norms: Female#0054	setIF setOF 
+QQQ10048.	Hall/VdC Norms: Female#0055	setIF 
+QQQ10049.	Hall/VdC Norms: Female#0056	setIQ 
+QQQ10050.	Hall/VdC Norms: Female#0057	setOQ 
+QQQ10051.	Hall/VdC Norms: Female#0058	setOF 
+QQQ10052.	Hall/VdC Norms: Female#0059	setIQ 
+QQQ10053.	Hall/VdC Norms: Female#0060	setAQ 
+QQQ10054.	Hall/VdC Norms: Female#0061	setIF 
+QQQ10055.	Hall/VdC Norms: Female#0062	setIQ 
+QQQ10056.	Hall/VdC Norms: Female#0063	setIF 
+QQQ10057.	Hall/VdC Norms: Female#0064	setIF 
+QQQ10058.	Hall/VdC Norms: Female#0065	setIF 
+QQQ10059.	Hall/VdC Norms: Female#0066	setIF 
+QQQ10060.	Hall/VdC Norms: Female#0067	setOF 
+QQQ10061.	Hall/VdC Norms: Female#0068	setAQ 
+QQQ10062.	Hall/VdC Norms: Female#0069	setIQ 
+QQQ10063.	Hall/VdC Norms: Female#0070	setID 
+QQQ10064.	Hall/VdC Norms: Female#0071	setOQ 
+QQQ10065.	Hall/VdC Norms: Female#0072	setIF 
+QQQ10066.	Hall/VdC Norms: Female#0073	setNS 
+QQQ10067.	Hall/VdC Norms: Female#0074	setIQ 
+QQQ10068.	Hall/VdC Norms: Female#0075	setIQ 
+QQQ10069.	Hall/VdC Norms: Female#0076	setOQ 
+QQQ10070.	Hall/VdC Norms: Female#0077	setNS 
+QQQ10071.	Hall/VdC Norms: Female#0078	setOQ 
+QQQ10072.	Hall/VdC Norms: Female#0079	setAF 
+QQQ10073.	Hall/VdC Norms: Female#0080	setAQ 
+QQQ10074.	Hall/VdC Norms: Female#0081	setAD 
+QQQ10075.	Hall/VdC Norms: Female#0082	setIQ 
+QQQ10076.	Hall/VdC Norms: Female#0083	setAF 
+QQQ10077.	Hall/VdC Norms: Female#0084	setIF 
+QQQ10078.	Hall/VdC Norms: Female#0085	setIQ 
+QQQ10079.	Hall/VdC Norms: Female#0086	setAF 
+QQQ10080.	Hall/VdC Norms: Female#0087	setIQ 
+QQQ10081.	Hall/VdC Norms: Female#0088	setOF setIQ setIQ setIU setOQ 
+QQQ10082.	Hall/VdC Norms: Female#0089	setIU 
+QQQ10083.	Hall/VdC Norms: Female#0090	setOQ setOQ 
+QQQ10084.	Hall/VdC Norms: Female#0091	setIF 
+QQQ10085.	Hall/VdC Norms: Female#0092	setAD setOQ 
+QQQ10086.	Hall/VdC Norms: Female#0093	setAQ 
+QQQ10087.	Hall/VdC Norms: Female#0094	setOU 
+QQQ10088.	Hall/VdC Norms: Female#0095	setOD 
+QQQ10089.	Hall/VdC Norms: Female#0096	setAF 
+QQQ10090.	Hall/VdC Norms: Female#0097	setIF 
+QQQ10091.	Hall/VdC Norms: Female#0098	setOU 
+QQQ10092.	Hall/VdC Norms: Female#0099	setNS 
+QQQ10093.	Hall/VdC Norms: Female#0100	setAQ 
+QQQ10094.	Hall/VdC Norms: Female#0101	setIF 
+QQQ10095.	Hall/VdC Norms: Female#0102	setIF 
+QQQ10096.	Hall/VdC Norms: Female#0103	setIU 
+QQQ10097.	Hall/VdC Norms: Female#0104	setIQ 
+QQQ10098.	Hall/VdC Norms: Female#0105	setIQ 
+QQQ10099.	Hall/VdC Norms: Female#0106	setOQ 
+QQQ10100.	Hall/VdC Norms: Female#0107	setOF 
+QQQ10101.	Hall/VdC Norms: Female#0108	setIF 
+QQQ10102.	Hall/VdC Norms: Female#0109	setOQ setIQ 
+QQQ10103.	Hall/VdC Norms: Female#0110	setIQ setOQ setOQ 
+QQQ10104.	Hall/VdC Norms: Female#0111	setNS 
+QQQ10105.	Hall/VdC Norms: Female#0112	setOQ 
+QQQ10106.	Hall/VdC Norms: Female#0113	setIF 
+QQQ10107.	Hall/VdC Norms: Female#0114	setNS 
+QQQ10108.	Hall/VdC Norms: Female#0115	setOF 
+QQQ10109.	Hall/VdC Norms: Female#0116	setIQ 
+QQQ10110.	Hall/VdC Norms: Female#0117	setOD setIQ 
+QQQ10111.	Hall/VdC Norms: Female#0118	setIF 
+QQQ10112.	Hall/VdC Norms: Female#0119	setOU setIU 
+QQQ10113.	Hall/VdC Norms: Female#0120	setIQ setOQ 
+QQQ10114.	Hall/VdC Norms: Female#0121	setIF 
+QQQ10115.	Hall/VdC Norms: Female#0122	setIQ setIF setIQ 
+QQQ10116.	Hall/VdC Norms: Female#0123	setIF setIF setIF 
+QQQ10117.	Hall/VdC Norms: Female#0124	setOF 
+QQQ10118.	Hall/VdC Norms: Female#0125	setIF 
+QQQ10119.	Hall/VdC Norms: Female#0126	setOG 
+QQQ10120.	Hall/VdC Norms: Female#0127	setOG 
+QQQ10121.	Hall/VdC Norms: Female#0128	setIF 
+QQQ10122.	Hall/VdC Norms: Female#0129	setIF 
+QQQ10123.	Hall/VdC Norms: Female#0130	setIG setIF 
+QQQ10124.	Hall/VdC Norms: Female#0131	setAQ 
+QQQ10125.	Hall/VdC Norms: Female#0132	setIF 
+QQQ10126.	Hall/VdC Norms: Female#0133	setIF 
+QQQ10127.	Hall/VdC Norms: Female#0134	setIU 
+QQQ10128.	Hall/VdC Norms: Female#0135	setNS 
+QQQ10129.	Hall/VdC Norms: Female#0136	setIQ 
+QQQ10130.	Hall/VdC Norms: Female#0137	setOF setIU 
+QQQ10131.	Hall/VdC Norms: Female#0138	setOQ 
+QQQ10132.	Hall/VdC Norms: Female#0139	setIQ 
+QQQ10133.	Hall/VdC Norms: Female#0140	setIQ 
+QQQ10134.	Hall/VdC Norms: Female#0141	setIF 
+QQQ10135.	Hall/VdC Norms: Female#0142	setOF setIF 
+QQQ10136.	Hall/VdC Norms: Female#0143	setIF setOU setIQ 
+QQQ10137.	Hall/VdC Norms: Female#0144	setNS 
+QQQ10138.	Hall/VdC Norms: Female#0145	setID setOF setIF 
+QQQ10139.	Hall/VdC Norms: Female#0147	setIF 
+QQQ10140.	Hall/VdC Norms: Female#0148	setAQ 
+QQQ10141.	Hall/VdC Norms: Female#0149	setOD setIQ setOQ 
+QQQ10142.	Hall/VdC Norms: Female#0150	setOF 
+QQQ10143.	Hall/VdC Norms: Female#0151	setID 
+QQQ10144.	Hall/VdC Norms: Female#0152	setOQ 
+QQQ10145.	Hall/VdC Norms: Female#0153	setOQ 
+QQQ10146.	Hall/VdC Norms: Female#0154	setIF setOQ 
+QQQ10147.	Hall/VdC Norms: Female#0155	setIF 
+QQQ10148.	Hall/VdC Norms: Female#0156	setIF setOF 
+QQQ10149.	Hall/VdC Norms: Female#0157	setIQ setOQ 
+QQQ10150.	Hall/VdC Norms: Female#0158	setIF 
+QQQ10151.	Hall/VdC Norms: Female#0159	setIF 
+QQQ10152.	Hall/VdC Norms: Female#0160	setOG 
+QQQ10153.	Hall/VdC Norms: Female#0161	setOQ setIF setOQ 
+QQQ10154.	Hall/VdC Norms: Female#0162	setOQ setIQ 
+QQQ10155.	Hall/VdC Norms: Female#0163	setOQ setIQ 
+QQQ10156.	Hall/VdC Norms: Female#0164	setOF setIQ 
+QQQ10157.	Hall/VdC Norms: Female#0165	setIQ setOQ 
+QQQ10158.	Hall/VdC Norms: Female#0166	setIU 
+QQQ10159.	Hall/VdC Norms: Female#0167	setAQ 
+QQQ10160.	Hall/VdC Norms: Female#0168	setIQ 
+QQQ10161.	Hall/VdC Norms: Female#0169	setOF 
+QQQ10162.	Hall/VdC Norms: Female#0170	setOU 
+QQQ10163.	Hall/VdC Norms: Female#0171	setOQ 
+QQQ10164.	Hall/VdC Norms: Female#0172	setIU 
+QQQ10165.	Hall/VdC Norms: Female#0173	setIF 
+QQQ10166.	Hall/VdC Norms: Female#0174	setOU 
+QQQ10167.	Hall/VdC Norms: Female#0175	setIU setIF 
+QQQ10168.	Hall/VdC Norms: Female#0176	setOQ 
+QQQ10169.	Hall/VdC Norms: Female#0177	setOQ 
+QQQ10170.	Hall/VdC Norms: Female#0178	setOF 
+QQQ10171.	Hall/VdC Norms: Female#0179	setIF 
+QQQ10172.	Hall/VdC Norms: Female#0180	setIF 
+QQQ10173.	Hall/VdC Norms: Female#0181	setIQ 
+QQQ10174.	Hall/VdC Norms: Female#0182	setOD 
+QQQ10175.	Hall/VdC Norms: Female#0183	setIF 
+QQQ10176.	Hall/VdC Norms: Female#0184	setAQ 
+QQQ10177.	Hall/VdC Norms: Female#0185	setOF setIQ 
+QQQ10178.	Hall/VdC Norms: Female#0186	setID setOQ 
+QQQ10179.	Hall/VdC Norms: Female#0187	setIU setOQ setIU 
+QQQ10180.	Hall/VdC Norms: Female#0188	setIQ 
+QQQ10181.	Hall/VdC Norms: Female#0189	setID 
+QQQ10182.	Hall/VdC Norms: Female#0190	setIU setOU 
+QQQ10183.	Hall/VdC Norms: Female#0191	setID 
+QQQ10184.	Hall/VdC Norms: Female#0192	setAQ 
+QQQ10185.	Hall/VdC Norms: Female#0193	setIF 
+QQQ10186.	Hall/VdC Norms: Female#0194	setIF setIF setIF 
+QQQ10187.	Hall/VdC Norms: Female#0195	setAQ 
+QQQ10188.	Hall/VdC Norms: Female#0196	setIF 
+QQQ10189.	Hall/VdC Norms: Female#0197	setOG 
+QQQ10190.	Hall/VdC Norms: Female#0198	setID 
+QQQ10191.	Hall/VdC Norms: Female#0199	setIF 
+QQQ10192.	Hall/VdC Norms: Female#0200	setIG setAG 
+QQQ10193.	Hall/VdC Norms: Female#0201	setOQ setIU 
+QQQ10194.	Hall/VdC Norms: Female#0202	setOF 
+QQQ10195.	Hall/VdC Norms: Female#0203	setIF 
+QQQ10196.	Hall/VdC Norms: Female#0204	setOF setAQ 
+QQQ10197.	Hall/VdC Norms: Female#0205	setIU 
+QQQ10198.	Hall/VdC Norms: Female#0206	setOQ setOU setIU 
+QQQ10199.	Hall/VdC Norms: Female#0207	setIF 
+QQQ10200.	Hall/VdC Norms: Female#0208	setIQ 
+QQQ10201.	Hall/VdC Norms: Female#0209	setAQ 
+QQQ10202.	Hall/VdC Norms: Female#0210	setOF setAU 
+QQQ10203.	Hall/VdC Norms: Female#0211	setAF 
+QQQ10204.	Hall/VdC Norms: Female#0212	setOU 
+QQQ10205.	Hall/VdC Norms: Female#0213	setOF 
+QQQ10206.	Hall/VdC Norms: Female#0214	setOG setIQ setOG 
+QQQ10207.	Hall/VdC Norms: Female#0215	setIF setOF 
+QQQ10208.	Hall/VdC Norms: Female#0216	setIF setOF 
+QQQ10209.	Hall/VdC Norms: Female#0217	setIF 
+QQQ10210.	Hall/VdC Norms: Female#0218	setIQ 
+QQQ10211.	Hall/VdC Norms: Female#0219	setIF 
+QQQ10212.	Hall/VdC Norms: Female#0220	setIF 
+QQQ10213.	Hall/VdC Norms: Female#0221	setOD setOQ setOD 
+QQQ10214.	Hall/VdC Norms: Female#0222	setIF 
+QQQ10215.	Hall/VdC Norms: Female#0223	setOU setIU 
+QQQ10216.	Hall/VdC Norms: Female#0224	setIQ 
+QQQ10217.	Hall/VdC Norms: Female#0225	setAG setOG setIQ 
+QQQ10218.	Hall/VdC Norms: Female#0226	setOQ 
+QQQ10219.	Hall/VdC Norms: Female#0227	setIQ setIQ 
+QQQ10220.	Hall/VdC Norms: Female#0228	setIQ 
+QQQ10221.	Hall/VdC Norms: Female#0229	setOQ setIQ 
+QQQ10222.	Hall/VdC Norms: Female#0230	setIF 
+QQQ10223.	Hall/VdC Norms: Female#0231	setIF 
+QQQ10224.	Hall/VdC Norms: Female#0232	setOQ 
+QQQ10225.	Hall/VdC Norms: Female#0233	setOQ 
+QQQ10226.	Hall/VdC Norms: Female#0234	setOF 
+QQQ10227.	Hall/VdC Norms: Female#0235	setIF 
+QQQ10228.	Hall/VdC Norms: Female#0236	setIQ 
+QQQ10229.	Hall/VdC Norms: Female#0237	setOU 
+QQQ10230.	Hall/VdC Norms: Female#0238	setIF 
+QQQ10231.	Hall/VdC Norms: Female#0239	setIF 
+QQQ10232.	Hall/VdC Norms: Female#0240	setIQ setOU 
+QQQ10233.	Hall/VdC Norms: Female#0241	setIQ setIF 
+QQQ10234.	Hall/VdC Norms: Female#0242	setAQ 
+QQQ10235.	Hall/VdC Norms: Female#0243	setIF 
+QQQ10236.	Hall/VdC Norms: Female#0244	setIF 
+QQQ10237.	Hall/VdC Norms: Female#0245	setOF 
+QQQ10238.	Hall/VdC Norms: Female#0246	setIQ setAQ 
+QQQ10239.	Hall/VdC Norms: Female#0247	setIF 
+QQQ10240.	Hall/VdC Norms: Female#0248	setOQ 
+QQQ10241.	Hall/VdC Norms: Female#0249	setAQ 
+QQQ10242.	Hall/VdC Norms: Female#0250	setOD setIG setOG 
+QQQ10243.	Hall/VdC Norms: Female#0251	setIU 
+QQQ10244.	Hall/VdC Norms: Female#0252	setIF 
+QQQ10245.	Hall/VdC Norms: Female#0253	setIU 
+QQQ10246.	Hall/VdC Norms: Female#0254	setIQ 
+QQQ10247.	Hall/VdC Norms: Female#0255	setOQ 
+QQQ10248.	Hall/VdC Norms: Female#0256	setID 
+QQQ10249.	Hall/VdC Norms: Female#0257	setOF setIF 
+QQQ10250.	Hall/VdC Norms: Female#0258	setIF setIF 
+QQQ10251.	Hall/VdC Norms: Female#0259	setOQ setIF setOF 
+QQQ10252.	Hall/VdC Norms: Female#0260	setIF 
+QQQ10253.	Hall/VdC Norms: Female#0261	setIF 
+QQQ10254.	Hall/VdC Norms: Female#0262	setOG 
+QQQ10255.	Hall/VdC Norms: Female#0263	setIF 
+QQQ10256.	Hall/VdC Norms: Female#0264	setID 
+QQQ10257.	Hall/VdC Norms: Female#0265	setIQ 
+QQQ10258.	Hall/VdC Norms: Female#0266	setOQ 
+QQQ10259.	Hall/VdC Norms: Female#0267	setIQ 
+QQQ10260.	Hall/VdC Norms: Female#0268	setAQ 
+QQQ10261.	Hall/VdC Norms: Female#0269	setIU 
+QQQ10262.	Hall/VdC Norms: Female#0270	setIF 
+QQQ10263.	Hall/VdC Norms: Female#0271	setOQ 
+QQQ10264.	Hall/VdC Norms: Female#0272	setAQ 
+QQQ10265.	Hall/VdC Norms: Female#0273	setAG setIQ 
+QQQ10266.	Hall/VdC Norms: Female#0274	setOQ 
+QQQ10267.	Hall/VdC Norms: Female#0275	setOQ setIU 
+QQQ10268.	Hall/VdC Norms: Female#0276	setIQ 
+QQQ10269.	Hall/VdC Norms: Female#0277	setIQ 
+QQQ10270.	Hall/VdC Norms: Female#0278	setIQ 
+QQQ10271.	Hall/VdC Norms: Female#0279	setIQ 
+QQQ10272.	Hall/VdC Norms: Female#0280	setOF 
+QQQ10273.	Hall/VdC Norms: Female#0281	setIQ 
+QQQ10274.	Hall/VdC Norms: Female#0282	setAQ 
+QQQ10275.	Hall/VdC Norms: Female#0283	setIF 
+QQQ10276.	Hall/VdC Norms: Female#0284	setAQ 
+QQQ10277.	Hall/VdC Norms: Female#0285	setIQ 
+QQQ10278.	Hall/VdC Norms: Female#0286	setIU setOU 
+QQQ10279.	Hall/VdC Norms: Female#0287	setIQ 
+QQQ10280.	Hall/VdC Norms: Female#0288	setOF setOF 
+QQQ10281.	Hall/VdC Norms: Female#0289	setID 
+QQQ10282.	Hall/VdC Norms: Female#0290	setOQ 
+QQQ10283.	Hall/VdC Norms: Female#0291	setOQ setIU 
+QQQ10284.	Hall/VdC Norms: Female#0292	setOF 
+QQQ10285.	Hall/VdC Norms: Female#0293	setOQ 
+QQQ10286.	Hall/VdC Norms: Female#0294	setIF 
+QQQ10287.	Hall/VdC Norms: Female#0295	setIQ 
+QQQ10288.	Hall/VdC Norms: Female#0296	setOQ setIU setIF 
+QQQ10289.	Hall/VdC Norms: Female#0297	setIQ setID setIQ 
+QQQ10290.	Hall/VdC Norms: Female#0298	setIQ setOQ 
+QQQ10291.	Hall/VdC Norms: Female#0299	setIQ setOF 
+QQQ10292.	Hall/VdC Norms: Female#0300	setOQ 
+QQQ10293.	Hall/VdC Norms: Female#0301	setIU setIU 
+QQQ10294.	Hall/VdC Norms: Female#0302	setIF setIF 
+QQQ10295.	Hall/VdC Norms: Female#0303	setIU 
+QQQ10296.	Hall/VdC Norms: Female#0304	setAQ setIF 
+QQQ10297.	Hall/VdC Norms: Female#0306	setID 
+QQQ10298.	Hall/VdC Norms: Female#0307	setIQ 
+QQQ10299.	Hall/VdC Norms: Female#0308	setOQ setOF 
+QQQ10300.	Hall/VdC Norms: Female#0309	setOF 
+QQQ10301.	Hall/VdC Norms: Female#0310	setIF 
+QQQ10302.	Hall/VdC Norms: Female#0311	setIQ setOD setIQ setOD 
+QQQ10303.	Hall/VdC Norms: Female#0312	setOG 
+QQQ10304.	Hall/VdC Norms: Female#0313	setIQ setOQ 
+QQQ10305.	Hall/VdC Norms: Female#0314	setOQ 
+QQQ10306.	Hall/VdC Norms: Female#0315	setAD setIF setOQ 
+QQQ10307.	Hall/VdC Norms: Female#0316	setIF 
+QQQ10308.	Hall/VdC Norms: Female#0317	setOQ 
+QQQ10309.	Hall/VdC Norms: Female#0318	setAQ 
+QQQ10310.	Hall/VdC Norms: Female#0319	setAQ 
+QQQ10311.	Hall/VdC Norms: Female#0320	setAQ 
+QQQ10312.	Hall/VdC Norms: Female#0321	setOQ 
+QQQ10313.	Hall/VdC Norms: Female#0322	setIF 
+QQQ10314.	Hall/VdC Norms: Female#0323	setID 
+QQQ10315.	Hall/VdC Norms: Female#0324	setIQ 
+QQQ10316.	Hall/VdC Norms: Female#0325	setIF 
+QQQ10317.	Hall/VdC Norms: Female#0326	setIU 
+QQQ10318.	Hall/VdC Norms: Female#0327	setID 
+QQQ10319.	Hall/VdC Norms: Female#0328	setOQ 
+QQQ10320.	Hall/VdC Norms: Female#0330	setIF 
+QQQ10321.	Hall/VdC Norms: Female#0331	setID 
+QQQ10322.	Hall/VdC Norms: Female#0332	setIF 
+QQQ10323.	Hall/VdC Norms: Female#0333	setOF setIU 
+QQQ10324.	Hall/VdC Norms: Female#0334	setIQ 
+QQQ10325.	Hall/VdC Norms: Female#0335	setIQ setIQ 
+QQQ10326.	Hall/VdC Norms: Female#0336	setOQ 
+QQQ10327.	Hall/VdC Norms: Female#0337	setIQ 
+QQQ10328.	Hall/VdC Norms: Female#0338	setOQ setOF setIF 
+QQQ10329.	Hall/VdC Norms: Female#0339	setIQ setID 
+QQQ10330.	Hall/VdC Norms: Female#0340	setAF 
+QQQ10331.	Hall/VdC Norms: Female#0341	setIQ 
+QQQ10332.	Hall/VdC Norms: Female#0342	setIQ 
+QQQ10333.	Hall/VdC Norms: Female#0343	setOF 
+QQQ10334.	Hall/VdC Norms: Female#0344	setIF 
+QQQ10335.	Hall/VdC Norms: Female#0345	setIQ 
+QQQ10336.	Hall/VdC Norms: Female#0348	setIQ 
+QQQ10337.	Hall/VdC Norms: Female#0349	setIF 
+QQQ10338.	Hall/VdC Norms: Female#0350	setIQ setOQ 
+QQQ10339.	Hall/VdC Norms: Female#0351	setOF setIF 
+QQQ10340.	Hall/VdC Norms: Female#0352	setOQ setIQ 
+QQQ10341.	Hall/VdC Norms: Female#0355	setOQ 
+QQQ10342.	Hall/VdC Norms: Female#0356	setAQ 
+QQQ10343.	Hall/VdC Norms: Female#0357	setIQ 
+QQQ10344.	Hall/VdC Norms: Female#0358	setIQ 
+QQQ10345.	Hall/VdC Norms: Female#0359	setOU 
+QQQ10346.	Hall/VdC Norms: Female#0360	setOQ 
+QQQ10347.	Hall/VdC Norms: Female#0361	setOF setIF 
+QQQ10348.	Hall/VdC Norms: Female#0362	setOD 
+QQQ10349.	Hall/VdC Norms: Female#0363	setOQ 
+QQQ10350.	Hall/VdC Norms: Female#0364	setIF 
+QQQ10351.	Hall/VdC Norms: Female#0365	setIF setOF setIQ 
+QQQ10352.	Hall/VdC Norms: Female#0369	setOQ 
+QQQ10353.	Hall/VdC Norms: Female#0370	setIF setIF setIF 
+QQQ10354.	Hall/VdC Norms: Female#0371	setIQ 
+QQQ10355.	Hall/VdC Norms: Female#0372	setOF 
+QQQ10356.	Hall/VdC Norms: Female#0373	setIF 
+QQQ10357.	Hall/VdC Norms: Female#0374	setID 
+QQQ10358.	Hall/VdC Norms: Female#0375	setIF 
+QQQ10359.	Hall/VdC Norms: Female#0376	setIF 
+QQQ10360.	Hall/VdC Norms: Female#0377	setIF 
+QQQ10361.	Hall/VdC Norms: Female#0378	setOD 
+QQQ10362.	Hall/VdC Norms: Female#0379	setAQ 
+QQQ10363.	Hall/VdC Norms: Female#0380	setAF setOF 
+QQQ10364.	Hall/VdC Norms: Female#0381	setOG 
+QQQ10365.	Hall/VdC Norms: Female#0382	setOU setIU 
+QQQ10366.	Hall/VdC Norms: Female#0383	setOQ 
+QQQ10367.	Hall/VdC Norms: Female#0384	setOU 
+QQQ10368.	Hall/VdC Norms: Female#0385	setOF 
+QQQ10369.	Hall/VdC Norms: Female#0386	setOQ 
+QQQ10370.	Hall/VdC Norms: Female#0387	setOF setIF 
+QQQ10371.	Hall/VdC Norms: Female#0388	setAQ 
+QQQ10372.	Hall/VdC Norms: Female#0389	setIF 
+QQQ10373.	Hall/VdC Norms: Female#0390	setIQ 
+QQQ10374.	Hall/VdC Norms: Female#0391	setOQ setOF 
+QQQ10375.	Hall/VdC Norms: Female#0392	setIQ 
+QQQ10376.	Hall/VdC Norms: Female#0393	setOF 
+QQQ10377.	Hall/VdC Norms: Female#0394	setID 
+QQQ10378.	Hall/VdC Norms: Female#0395	setIQ 
+QQQ10379.	Hall/VdC Norms: Female#0396	setIF 
+QQQ10380.	Hall/VdC Norms: Female#0397	setOF setOQ 
+QQQ10381.	Hall/VdC Norms: Female#0398	setAQ 
+QQQ10382.	Hall/VdC Norms: Female#0399	setIQ 
+QQQ10383.	Hall/VdC Norms: Female#0400	setIF 
+QQQ10384.	Hall/VdC Norms: Female#0401	setIF 
+QQQ10385.	Hall/VdC Norms: Female#0402	setIF 
+QQQ10386.	Hall/VdC Norms: Female#0403	setIF setIF setIF 
+QQQ10387.	Hall/VdC Norms: Female#0404	setOF 
+QQQ10388.	Hall/VdC Norms: Female#0405	setOQ 
+QQQ10389.	Hall/VdC Norms: Female#0406	setOQ 
+QQQ10390.	Hall/VdC Norms: Female#0407	setAQ 
+QQQ10391.	Hall/VdC Norms: Female#0408	setOF setIF 
+QQQ10392.	Hall/VdC Norms: Female#0409	setOQ 
+QQQ10393.	Hall/VdC Norms: Female#0410	setIF 
+QQQ10394.	Hall/VdC Norms: Female#0411	setAG 
+QQQ10395.	Hall/VdC Norms: Female#0412	setOQ 
+QQQ10396.	Hall/VdC Norms: Female#0413	setIF 
+QQQ10397.	Hall/VdC Norms: Female#0414	setOF 
+QQQ10398.	Hall/VdC Norms: Female#0415	setOQ setIQ 
+QQQ10399.	Hall/VdC Norms: Female#0416	setAQ 
+QQQ10400.	Hall/VdC Norms: Female#0417	setIQ setOQ setIQ setOQ 
+QQQ10401.	Hall/VdC Norms: Female#0418	setOQ setOQ 
+QQQ10402.	Hall/VdC Norms: Female#0419	setOF setIF 
+QQQ10403.	Hall/VdC Norms: Female#0420	setIQ setOQ 
+QQQ10404.	Hall/VdC Norms: Female#0421	setIF 
+QQQ10405.	Hall/VdC Norms: Female#0422	setOQ 
+QQQ10406.	Hall/VdC Norms: Female#0423	setIF 
+QQQ10407.	Hall/VdC Norms: Female#0424	setOQ 
+QQQ10408.	Hall/VdC Norms: Female#0425	setOQ 
+QQQ10409.	Hall/VdC Norms: Female#0426	setOQ setOQ 
+QQQ10410.	Hall/VdC Norms: Female#0427	setIQ 
+QQQ10411.	Hall/VdC Norms: Female#0428	setOQ setIQ 
+QQQ10412.	Hall/VdC Norms: Female#0429	setOQ 
+QQQ10413.	Hall/VdC Norms: Female#0430	setIF setOF 
+QQQ10414.	Hall/VdC Norms: Female#0431	setOQ setIQ 
+QQQ10415.	Hall/VdC Norms: Female#0432	setOG 
+QQQ10416.	Hall/VdC Norms: Female#0433	setIF 
+QQQ10417.	Hall/VdC Norms: Female#0434	setOD 
+QQQ10418.	Hall/VdC Norms: Female#0435	setIF 
+QQQ10419.	Hall/VdC Norms: Female#0436	setAQ 
+QQQ10420.	Hall/VdC Norms: Female#0437	setOF setIF 
+QQQ10421.	Hall/VdC Norms: Female#0438	setOQ 
+QQQ10422.	Hall/VdC Norms: Female#0439	setIU 
+QQQ10423.	Hall/VdC Norms: Female#0440	setAQ 
+QQQ10424.	Hall/VdC Norms: Female#0441	setIU 
+QQQ10425.	Hall/VdC Norms: Female#0442	setIQ setAQ 
+QQQ10426.	Hall/VdC Norms: Female#0443	setAQ 
+QQQ10427.	Hall/VdC Norms: Female#0444	setOQ setIQ 
+QQQ10428.	Hall/VdC Norms: Female#0445	setIF 
+QQQ10429.	Hall/VdC Norms: Female#0446	setIQ 
+QQQ10430.	Hall/VdC Norms: Female#0447	setAQ 
+QQQ10431.	Hall/VdC Norms: Female#0448	setIQ setOQ 
+QQQ10432.	Hall/VdC Norms: Female#0449	setOQ 
+QQQ10433.	Hall/VdC Norms: Female#0450	setOF 
+QQQ10434.	Hall/VdC Norms: Female#0451	setOF 
+QQQ10435.	Hall/VdC Norms: Female#0452	setOQ 
+QQQ10436.	Hall/VdC Norms: Female#0453	setOQ 
+QQQ10437.	Hall/VdC Norms: Female#0454	setOQ 
+QQQ10438.	Hall/VdC Norms: Female#0455	setID 
+QQQ10439.	Hall/VdC Norms: Female#0456	setIQ 
+QQQ10440.	Hall/VdC Norms: Female#0457	setOG 
+QQQ10441.	Hall/VdC Norms: Female#0458	setIF 
+QQQ10442.	Hall/VdC Norms: Female#0459	setIQ 
+QQQ10443.	Hall/VdC Norms: Female#0460	setIU 
+QQQ10444.	Hall/VdC Norms: Female#0461	setAQ 
+QQQ10445.	Hall/VdC Norms: Female#0462	setIF 
+QQQ10446.	Hall/VdC Norms: Female#0463	setOF 
+QQQ10447.	Hall/VdC Norms: Female#0464	setOF setOU 
+QQQ10448.	Hall/VdC Norms: Female#0465	setOU setIU 
+QQQ10449.	Hall/VdC Norms: Female#0466	setOQ 
+QQQ10450.	Hall/VdC Norms: Female#0467	setIQ 
+QQQ10451.	Hall/VdC Norms: Female#0468	setOQ 
+QQQ10452.	Hall/VdC Norms: Female#0469	setIQ setOF 
+QQQ10453.	Hall/VdC Norms: Female#0470	setOQ 
+QQQ10454.	Hall/VdC Norms: Female#0471	setID setOU 
+QQQ10455.	Hall/VdC Norms: Female#0472	setOQ 
+QQQ10456.	Hall/VdC Norms: Female#0473	setIF setOF 
+QQQ10457.	Hall/VdC Norms: Female#0474	setAF 
+QQQ10458.	Hall/VdC Norms: Female#0475	setIF setOF 
+QQQ10459.	Hall/VdC Norms: Female#0476	setIU 
+QQQ10460.	Hall/VdC Norms: Female#0477	setOU 
+QQQ10461.	Hall/VdC Norms: Female#0478	setIF 
+QQQ10462.	Hall/VdC Norms: Female#0479	setOQ 
+QQQ10463.	Hall/VdC Norms: Female#0480	setOQ 
+QQQ10464.	Hall/VdC Norms: Female#0481	setIQ 
+QQQ10465.	Hall/VdC Norms: Female#0482	setIQ 
+QQQ10466.	Hall/VdC Norms: Female#0483	setIQ setIQ 
+QQQ10467.	Hall/VdC Norms: Female#0484	setOQ setIQ 
+QQQ10468.	Hall/VdC Norms: Female#0485	setIQ setOQ setIQ 
+QQQ10469.	Hall/VdC Norms: Female#0486	setIF setIF 
+QQQ10470.	Hall/VdC Norms: Female#0487	setIF 
+QQQ10471.	Hall/VdC Norms: Female#0488	setIF setOF 
+QQQ10472.	Hall/VdC Norms: Female#0489	setIF 
+QQQ10473.	Hall/VdC Norms: Female#0490	setIF 
+QQQ10474.	Hall/VdC Norms: Female#0491	setIQ 
+QQQ10475.	Hall/VdC Norms: Female#0492	setOF setIF 
+QQQ10476.	Hall/VdC Norms: Female#0493	setIF 
+QQQ10477.	Hall/VdC Norms: Female#0494	setIF 
+QQQ10478.	Hall/VdC Norms: Female#0495	setIF 
+QQQ10479.	Hall/VdC Norms: Female#0496	setAF setIQ 
+QQQ10480.	Hall/VdC Norms: Female#0497	setOU 
+QQQ10481.	Hall/VdC Norms: Female#0498	setOQ 
+QQQ10482.	Hall/VdC Norms: Female#0499	setIF 
+QQQ10483.	Hall/VdC Norms: Female#0500	setIQ setOQ 
