@@ -1,0 +1,982 @@
+
+QQQ10484.	Hall/VdC Norms: Male#0001	emoAP 
+QQQ10485.	Hall/VdC Norms: Male#0002	
+QQQ10486.	Hall/VdC Norms: Male#0003	
+QQQ10487.	Hall/VdC Norms: Male#0004	
+QQQ10488.	Hall/VdC Norms: Male#0005	
+QQQ10489.	Hall/VdC Norms: Male#0006	emoAN 
+QQQ10490.	Hall/VdC Norms: Male#0007	emoHA 
+QQQ10491.	Hall/VdC Norms: Male#0008	emoHA 
+QQQ10492.	Hall/VdC Norms: Male#0009	emoAP 
+QQQ10493.	Hall/VdC Norms: Male#0010	
+QQQ10494.	Hall/VdC Norms: Male#0011	
+QQQ10495.	Hall/VdC Norms: Male#0012	emoAP 
+QQQ10496.	Hall/VdC Norms: Male#0013	
+QQQ10497.	Hall/VdC Norms: Male#0014	emoCO emoAN 
+QQQ10498.	Hall/VdC Norms: Male#0015	
+QQQ10499.	Hall/VdC Norms: Male#0016	
+QQQ10500.	Hall/VdC Norms: Male#0017	
+QQQ10501.	Hall/VdC Norms: Male#0018	
+QQQ10502.	Hall/VdC Norms: Male#0019	emoCO 
+QQQ10503.	Hall/VdC Norms: Male#0020	
+QQQ10504.	Hall/VdC Norms: Male#0021	
+QQQ10505.	Hall/VdC Norms: Male#0022	
+QQQ10506.	Hall/VdC Norms: Male#0023	
+QQQ10507.	Hall/VdC Norms: Male#0024	
+QQQ10508.	Hall/VdC Norms: Male#0025	
+QQQ10509.	Hall/VdC Norms: Male#0026	emoCO 
+QQQ10510.	Hall/VdC Norms: Male#0027	emoAP emoAP 
+QQQ10511.	Hall/VdC Norms: Male#0028	
+QQQ10512.	Hall/VdC Norms: Male#0029	
+QQQ10513.	Hall/VdC Norms: Male#0030	
+QQQ10514.	Hall/VdC Norms: Male#0031	
+QQQ10515.	Hall/VdC Norms: Male#0032	
+QQQ10516.	Hall/VdC Norms: Male#0033	
+QQQ10517.	Hall/VdC Norms: Male#0034	emoHA 
+QQQ10518.	Hall/VdC Norms: Male#0035	
+QQQ10519.	Hall/VdC Norms: Male#0036	emoCO 
+QQQ10520.	Hall/VdC Norms: Male#0037	emoCO 
+QQQ10521.	Hall/VdC Norms: Male#0038	
+QQQ10522.	Hall/VdC Norms: Male#0039	emoCO 
+QQQ10523.	Hall/VdC Norms: Male#0040	
+QQQ10524.	Hall/VdC Norms: Male#0041	
+QQQ10525.	Hall/VdC Norms: Male#0042	emoAN emoAN 
+QQQ10526.	Hall/VdC Norms: Male#0043	emoAP 
+QQQ10527.	Hall/VdC Norms: Male#0044	
+QQQ10528.	Hall/VdC Norms: Male#0045	emoCO emoAN 
+QQQ10529.	Hall/VdC Norms: Male#0046	emoAN 
+QQQ10530.	Hall/VdC Norms: Male#0047	emoHA 
+QQQ10531.	Hall/VdC Norms: Male#0048	
+QQQ10532.	Hall/VdC Norms: Male#0049	emoAN emoAN emoCO 
+QQQ10533.	Hall/VdC Norms: Male#0050	
+QQQ10534.	Hall/VdC Norms: Male#0051	
+QQQ10535.	Hall/VdC Norms: Male#0052	emoAP 
+QQQ10536.	Hall/VdC Norms: Male#0053	
+QQQ10537.	Hall/VdC Norms: Male#0054	emoAN 
+QQQ10538.	Hall/VdC Norms: Male#0055	emoAP 
+QQQ10539.	Hall/VdC Norms: Male#0056	emoAP 
+QQQ10540.	Hall/VdC Norms: Male#0057	
+QQQ10541.	Hall/VdC Norms: Male#0058	emoAP 
+QQQ10542.	Hall/VdC Norms: Male#0059	
+QQQ10543.	Hall/VdC Norms: Male#0060	
+QQQ10544.	Hall/VdC Norms: Male#0061	
+QQQ10545.	Hall/VdC Norms: Male#0062	
+QQQ10546.	Hall/VdC Norms: Male#0063	
+QQQ10547.	Hall/VdC Norms: Male#0064	
+QQQ10548.	Hall/VdC Norms: Male#0065	emoCO emoAP 
+QQQ10549.	Hall/VdC Norms: Male#0066	emoAP 
+QQQ10550.	Hall/VdC Norms: Male#0067	
+QQQ10551.	Hall/VdC Norms: Male#0068	
+QQQ10552.	Hall/VdC Norms: Male#0069	
+QQQ10553.	Hall/VdC Norms: Male#0070	
+QQQ10554.	Hall/VdC Norms: Male#0071	emoAP 
+QQQ10555.	Hall/VdC Norms: Male#0072	emoSD emoSD 
+QQQ10556.	Hall/VdC Norms: Male#0073	emoAP emoHA 
+QQQ10557.	Hall/VdC Norms: Male#0074	
+QQQ10558.	Hall/VdC Norms: Male#0075	emoCO 
+QQQ10559.	Hall/VdC Norms: Male#0076	
+QQQ10560.	Hall/VdC Norms: Male#0077	emoAP 
+QQQ10561.	Hall/VdC Norms: Male#0078	
+QQQ10562.	Hall/VdC Norms: Male#0079	
+QQQ10563.	Hall/VdC Norms: Male#0080	
+QQQ10564.	Hall/VdC Norms: Male#0081	
+QQQ10565.	Hall/VdC Norms: Male#0082	
+QQQ10566.	Hall/VdC Norms: Male#0083	
+QQQ10567.	Hall/VdC Norms: Male#0084	
+QQQ10568.	Hall/VdC Norms: Male#0085	
+QQQ10569.	Hall/VdC Norms: Male#0086	
+QQQ10570.	Hall/VdC Norms: Male#0087	emoCO 
+QQQ10571.	Hall/VdC Norms: Male#0088	emoAP emoAN emoAP 
+QQQ10572.	Hall/VdC Norms: Male#0089	emoAN emoAN emoAN 
+QQQ10573.	Hall/VdC Norms: Male#0090	emoAP 
+QQQ10574.	Hall/VdC Norms: Male#0091	emoCO emoAP 
+QQQ10575.	Hall/VdC Norms: Male#0092	emoCO 
+QQQ10576.	Hall/VdC Norms: Male#0093	
+QQQ10577.	Hall/VdC Norms: Male#0094	
+QQQ10578.	Hall/VdC Norms: Male#0095	emoAN emoAP emoCO emoAN 
+QQQ10579.	Hall/VdC Norms: Male#0096	emoAP emoHA 
+QQQ10580.	Hall/VdC Norms: Male#0097	
+QQQ10581.	Hall/VdC Norms: Male#0098	emoHA 
+QQQ10582.	Hall/VdC Norms: Male#0099	
+QQQ10583.	Hall/VdC Norms: Male#0100	emoAP 
+QQQ10584.	Hall/VdC Norms: Male#0101	
+QQQ10585.	Hall/VdC Norms: Male#0102	
+QQQ10586.	Hall/VdC Norms: Male#0103	emoAP 
+QQQ10587.	Hall/VdC Norms: Male#0104	emoAP 
+QQQ10588.	Hall/VdC Norms: Male#0105	emoAP emoHA emoHA 
+QQQ10589.	Hall/VdC Norms: Male#0110	
+QQQ10590.	Hall/VdC Norms: Male#0111	
+QQQ10591.	Hall/VdC Norms: Male#0112	emoSD 
+QQQ10592.	Hall/VdC Norms: Male#0113	
+QQQ10593.	Hall/VdC Norms: Male#0114	
+QQQ10594.	Hall/VdC Norms: Male#0115	
+QQQ10595.	Hall/VdC Norms: Male#0116	
+QQQ10596.	Hall/VdC Norms: Male#0117	
+QQQ10597.	Hall/VdC Norms: Male#0118	
+QQQ10598.	Hall/VdC Norms: Male#0119	
+QQQ10599.	Hall/VdC Norms: Male#0120	emoCO 
+QQQ10600.	Hall/VdC Norms: Male#0121	
+QQQ10601.	Hall/VdC Norms: Male#0122	
+QQQ10602.	Hall/VdC Norms: Male#0123	
+QQQ10603.	Hall/VdC Norms: Male#0124	
+QQQ10604.	Hall/VdC Norms: Male#0125	emoHA 
+QQQ10605.	Hall/VdC Norms: Male#0126	emoAP 
+QQQ10606.	Hall/VdC Norms: Male#0127	
+QQQ10607.	Hall/VdC Norms: Male#0128	
+QQQ10608.	Hall/VdC Norms: Male#0129	
+QQQ10609.	Hall/VdC Norms: Male#0130	
+QQQ10610.	Hall/VdC Norms: Male#0131	emoAP 
+QQQ10611.	Hall/VdC Norms: Male#0132	
+QQQ10612.	Hall/VdC Norms: Male#0133	emoAP 
+QQQ10613.	Hall/VdC Norms: Male#0134	
+QQQ10614.	Hall/VdC Norms: Male#0135	
+QQQ10615.	Hall/VdC Norms: Male#0136	
+QQQ10616.	Hall/VdC Norms: Male#0137	
+QQQ10617.	Hall/VdC Norms: Male#0138	
+QQQ10618.	Hall/VdC Norms: Male#0139	
+QQQ10619.	Hall/VdC Norms: Male#0140	
+QQQ10620.	Hall/VdC Norms: Male#0141	
+QQQ10621.	Hall/VdC Norms: Male#0142	
+QQQ10622.	Hall/VdC Norms: Male#0143	
+QQQ10623.	Hall/VdC Norms: Male#0144	emoHA 
+QQQ10624.	Hall/VdC Norms: Male#0145	emoAN 
+QQQ10625.	Hall/VdC Norms: Male#0146	
+QQQ10626.	Hall/VdC Norms: Male#0147	
+QQQ10627.	Hall/VdC Norms: Male#0148	emoCO 
+QQQ10628.	Hall/VdC Norms: Male#0149	
+QQQ10629.	Hall/VdC Norms: Male#0150	emoAP 
+QQQ10630.	Hall/VdC Norms: Male#0151	
+QQQ10631.	Hall/VdC Norms: Male#0152	
+QQQ10632.	Hall/VdC Norms: Male#0153	
+QQQ10633.	Hall/VdC Norms: Male#0154	emoCO 
+QQQ10634.	Hall/VdC Norms: Male#0155	
+QQQ10635.	Hall/VdC Norms: Male#0156	emoAP 
+QQQ10636.	Hall/VdC Norms: Male#0157	emoAP emoSD 
+QQQ10637.	Hall/VdC Norms: Male#0158	
+QQQ10638.	Hall/VdC Norms: Male#0159	emoAP 
+QQQ10639.	Hall/VdC Norms: Male#0160	
+QQQ10640.	Hall/VdC Norms: Male#0161	
+QQQ10641.	Hall/VdC Norms: Male#0162	
+QQQ10642.	Hall/VdC Norms: Male#0163	
+QQQ10643.	Hall/VdC Norms: Male#0164	emoSD 
+QQQ10644.	Hall/VdC Norms: Male#0165	
+QQQ10645.	Hall/VdC Norms: Male#0166	
+QQQ10646.	Hall/VdC Norms: Male#0167	
+QQQ10647.	Hall/VdC Norms: Male#0168	
+QQQ10648.	Hall/VdC Norms: Male#0169	
+QQQ10649.	Hall/VdC Norms: Male#0170	emoAP 
+QQQ10650.	Hall/VdC Norms: Male#0171	emoHA emoHA 
+QQQ10651.	Hall/VdC Norms: Male#0172	emoAN emoAN 
+QQQ10652.	Hall/VdC Norms: Male#0173	emoAP emoAP emoAN 
+QQQ10653.	Hall/VdC Norms: Male#0174	emoAN 
+QQQ10654.	Hall/VdC Norms: Male#0175	emoAP emoSD 
+QQQ10655.	Hall/VdC Norms: Male#0176	emoAP 
+QQQ10656.	Hall/VdC Norms: Male#0177	
+QQQ10657.	Hall/VdC Norms: Male#0178	emoAP 
+QQQ10658.	Hall/VdC Norms: Male#0179	emoSD 
+QQQ10659.	Hall/VdC Norms: Male#0180	emoHA 
+QQQ10660.	Hall/VdC Norms: Male#0181	
+QQQ10661.	Hall/VdC Norms: Male#0182	
+QQQ10662.	Hall/VdC Norms: Male#0183	
+QQQ10663.	Hall/VdC Norms: Male#0184	
+QQQ10664.	Hall/VdC Norms: Male#0185	
+QQQ10665.	Hall/VdC Norms: Male#0186	
+QQQ10666.	Hall/VdC Norms: Male#0187	
+QQQ10667.	Hall/VdC Norms: Male#0188	emoSD 
+QQQ10668.	Hall/VdC Norms: Male#0189	
+QQQ10669.	Hall/VdC Norms: Male#0190	
+QQQ10670.	Hall/VdC Norms: Male#0191	
+QQQ10671.	Hall/VdC Norms: Male#0192	emoCO 
+QQQ10672.	Hall/VdC Norms: Male#0193	
+QQQ10673.	Hall/VdC Norms: Male#0194	
+QQQ10674.	Hall/VdC Norms: Male#0195	
+QQQ10675.	Hall/VdC Norms: Male#0196	emoHA emoHA emoHA emoHA 
+QQQ10676.	Hall/VdC Norms: Male#0197	emoHA emoHA 
+QQQ10677.	Hall/VdC Norms: Male#0198	emoHA 
+QQQ10678.	Hall/VdC Norms: Male#0199	emoCO 
+QQQ10679.	Hall/VdC Norms: Male#0200	emoAP emoHA emoAP 
+QQQ10680.	Hall/VdC Norms: Male#0201	
+QQQ10681.	Hall/VdC Norms: Male#0202	emoAP 
+QQQ10682.	Hall/VdC Norms: Male#0203	emoSD 
+QQQ10683.	Hall/VdC Norms: Male#0204	
+QQQ10684.	Hall/VdC Norms: Male#0205	
+QQQ10685.	Hall/VdC Norms: Male#0206	emoCO 
+QQQ10686.	Hall/VdC Norms: Male#0207	
+QQQ10687.	Hall/VdC Norms: Male#0208	
+QQQ10688.	Hall/VdC Norms: Male#0209	
+QQQ10689.	Hall/VdC Norms: Male#0210	
+QQQ10690.	Hall/VdC Norms: Male#0211	
+QQQ10691.	Hall/VdC Norms: Male#0212	
+QQQ10692.	Hall/VdC Norms: Male#0213	emoCO 
+QQQ10693.	Hall/VdC Norms: Male#0214	
+QQQ10694.	Hall/VdC Norms: Male#0215	
+QQQ10695.	Hall/VdC Norms: Male#0216	emoAP emoAP 
+QQQ10696.	Hall/VdC Norms: Male#0217	emoHA emoSD 
+QQQ10697.	Hall/VdC Norms: Male#0218	emoCO 
+QQQ10698.	Hall/VdC Norms: Male#0219	
+QQQ10699.	Hall/VdC Norms: Male#0220	emoAP 
+QQQ10700.	Hall/VdC Norms: Male#0221	
+QQQ10701.	Hall/VdC Norms: Male#0222	
+QQQ10702.	Hall/VdC Norms: Male#0223	
+QQQ10703.	Hall/VdC Norms: Male#0224	
+QQQ10704.	Hall/VdC Norms: Male#0225	
+QQQ10705.	Hall/VdC Norms: Male#0226	emoAN 
+QQQ10706.	Hall/VdC Norms: Male#0227	emoAN 
+QQQ10707.	Hall/VdC Norms: Male#0228	emoCO emoHA 
+QQQ10708.	Hall/VdC Norms: Male#0229	
+QQQ10709.	Hall/VdC Norms: Male#0230	
+QQQ10710.	Hall/VdC Norms: Male#0231	
+QQQ10711.	Hall/VdC Norms: Male#0232	
+QQQ10712.	Hall/VdC Norms: Male#0233	
+QQQ10713.	Hall/VdC Norms: Male#0234	emoCO emoAP 
+QQQ10714.	Hall/VdC Norms: Male#0235	
+QQQ10715.	Hall/VdC Norms: Male#0236	
+QQQ10716.	Hall/VdC Norms: Male#0237	emoAP 
+QQQ10717.	Hall/VdC Norms: Male#0238	emoAN 
+QQQ10718.	Hall/VdC Norms: Male#0239	
+QQQ10719.	Hall/VdC Norms: Male#0240	
+QQQ10720.	Hall/VdC Norms: Male#0241	
+QQQ10721.	Hall/VdC Norms: Male#0242	emoAP 
+QQQ10722.	Hall/VdC Norms: Male#0243	
+QQQ10723.	Hall/VdC Norms: Male#0244	emoSD 
+QQQ10724.	Hall/VdC Norms: Male#0245	
+QQQ10725.	Hall/VdC Norms: Male#0246	
+QQQ10726.	Hall/VdC Norms: Male#0247	
+QQQ10727.	Hall/VdC Norms: Male#0248	
+QQQ10728.	Hall/VdC Norms: Male#0249	
+QQQ10729.	Hall/VdC Norms: Male#0250	
+QQQ10730.	Hall/VdC Norms: Male#0251	emoAP 
+QQQ10731.	Hall/VdC Norms: Male#0252	
+QQQ10732.	Hall/VdC Norms: Male#0253	
+QQQ10733.	Hall/VdC Norms: Male#0254	
+QQQ10734.	Hall/VdC Norms: Male#0255	emoAP 
+QQQ10735.	Hall/VdC Norms: Male#0256	emoHA 
+QQQ10736.	Hall/VdC Norms: Male#0257	emoAP emoCO 
+QQQ10737.	Hall/VdC Norms: Male#0258	emoAN 
+QQQ10738.	Hall/VdC Norms: Male#0259	emoHA 
+QQQ10739.	Hall/VdC Norms: Male#0260	emoAP 
+QQQ10740.	Hall/VdC Norms: Male#0261	emoHA 
+QQQ10741.	Hall/VdC Norms: Male#0262	emoHA emoHA 
+QQQ10742.	Hall/VdC Norms: Male#0263	emoAP emoAP 
+QQQ10743.	Hall/VdC Norms: Male#0264	emoHA 
+QQQ10744.	Hall/VdC Norms: Male#0265	
+QQQ10745.	Hall/VdC Norms: Male#0266	emoCO emoCO 
+QQQ10746.	Hall/VdC Norms: Male#0267	
+QQQ10747.	Hall/VdC Norms: Male#0268	emoAN 
+QQQ10748.	Hall/VdC Norms: Male#0269	
+QQQ10749.	Hall/VdC Norms: Male#0270	
+QQQ10750.	Hall/VdC Norms: Male#0271	emoAP 
+QQQ10751.	Hall/VdC Norms: Male#0272	emoCO emoSD 
+QQQ10752.	Hall/VdC Norms: Male#0273	emoCO emoSD 
+QQQ10753.	Hall/VdC Norms: Male#0274	emoCO emoSD 
+QQQ10754.	Hall/VdC Norms: Male#0275	
+QQQ10755.	Hall/VdC Norms: Male#0276	emoHA emoHA emoAP 
+QQQ10756.	Hall/VdC Norms: Male#0277	emoAN 
+QQQ10757.	Hall/VdC Norms: Male#0278	emoHA 
+QQQ10758.	Hall/VdC Norms: Male#0279	emoAP emoAN 
+QQQ10759.	Hall/VdC Norms: Male#0280	emoAP 
+QQQ10760.	Hall/VdC Norms: Male#0281	emoAP emoHA emoCO emoHA 
+QQQ10761.	Hall/VdC Norms: Male#0282	
+QQQ10762.	Hall/VdC Norms: Male#0283	emoCO 
+QQQ10763.	Hall/VdC Norms: Male#0284	
+QQQ10764.	Hall/VdC Norms: Male#0285	emoHA 
+QQQ10765.	Hall/VdC Norms: Male#0286	
+QQQ10766.	Hall/VdC Norms: Male#0287	
+QQQ10767.	Hall/VdC Norms: Male#0288	
+QQQ10768.	Hall/VdC Norms: Male#0289	
+QQQ10769.	Hall/VdC Norms: Male#0290	emoCO 
+QQQ10770.	Hall/VdC Norms: Male#0291	emoCO emoCO 
+QQQ10771.	Hall/VdC Norms: Male#0292	emoCO 
+QQQ10772.	Hall/VdC Norms: Male#0293	emoCO 
+QQQ10773.	Hall/VdC Norms: Male#0294	emoSD 
+QQQ10774.	Hall/VdC Norms: Male#0295	emoCO emoSD 
+QQQ10775.	Hall/VdC Norms: Male#0296	emoAP emoAP 
+QQQ10776.	Hall/VdC Norms: Male#0297	
+QQQ10777.	Hall/VdC Norms: Male#0298	emoAP emoAN 
+QQQ10778.	Hall/VdC Norms: Male#0299	
+QQQ10779.	Hall/VdC Norms: Male#0300	emoHA 
+QQQ10780.	Hall/VdC Norms: Male#0301	
+QQQ10781.	Hall/VdC Norms: Male#0302	
+QQQ10782.	Hall/VdC Norms: Male#0303	emoAP 
+QQQ10783.	Hall/VdC Norms: Male#0304	
+QQQ10784.	Hall/VdC Norms: Male#0305	
+QQQ10785.	Hall/VdC Norms: Male#0306	
+QQQ10786.	Hall/VdC Norms: Male#0307	emoAP 
+QQQ10787.	Hall/VdC Norms: Male#0308	emoHA 
+QQQ10788.	Hall/VdC Norms: Male#0309	
+QQQ10789.	Hall/VdC Norms: Male#0310	
+QQQ10790.	Hall/VdC Norms: Male#0311	
+QQQ10791.	Hall/VdC Norms: Male#0312	
+QQQ10792.	Hall/VdC Norms: Male#0313	emoAP 
+QQQ10793.	Hall/VdC Norms: Male#0314	emoAP 
+QQQ10794.	Hall/VdC Norms: Male#0315	
+QQQ10795.	Hall/VdC Norms: Male#0316	
+QQQ10796.	Hall/VdC Norms: Male#0317	
+QQQ10797.	Hall/VdC Norms: Male#0318	
+QQQ10798.	Hall/VdC Norms: Male#0319	
+QQQ10799.	Hall/VdC Norms: Male#0320	emoHA 
+QQQ10800.	Hall/VdC Norms: Male#0321	
+QQQ10801.	Hall/VdC Norms: Male#0322	
+QQQ10802.	Hall/VdC Norms: Male#0323	
+QQQ10803.	Hall/VdC Norms: Male#0324	
+QQQ10804.	Hall/VdC Norms: Male#0325	emoAP 
+QQQ10805.	Hall/VdC Norms: Male#0326	
+QQQ10806.	Hall/VdC Norms: Male#0327	
+QQQ10807.	Hall/VdC Norms: Male#0328	
+QQQ10808.	Hall/VdC Norms: Male#0329	
+QQQ10809.	Hall/VdC Norms: Male#0330	emoAP 
+QQQ10810.	Hall/VdC Norms: Male#0331	
+QQQ10811.	Hall/VdC Norms: Male#0332	emoAN 
+QQQ10812.	Hall/VdC Norms: Male#0333	emoAP emoAP 
+QQQ10813.	Hall/VdC Norms: Male#0334	
+QQQ10814.	Hall/VdC Norms: Male#0335	emoAP 
+QQQ10815.	Hall/VdC Norms: Male#0336	
+QQQ10816.	Hall/VdC Norms: Male#0337	
+QQQ10817.	Hall/VdC Norms: Male#0338	
+QQQ10818.	Hall/VdC Norms: Male#0339	
+QQQ10819.	Hall/VdC Norms: Male#0340	
+QQQ10820.	Hall/VdC Norms: Male#0341	
+QQQ10821.	Hall/VdC Norms: Male#0342	emoCO 
+QQQ10822.	Hall/VdC Norms: Male#0343	
+QQQ10823.	Hall/VdC Norms: Male#0344	emoCO 
+QQQ10824.	Hall/VdC Norms: Male#0345	emoCO 
+QQQ10825.	Hall/VdC Norms: Male#0346	
+QQQ10826.	Hall/VdC Norms: Male#0347	emoCO 
+QQQ10827.	Hall/VdC Norms: Male#0348	
+QQQ10828.	Hall/VdC Norms: Male#0350	emoCO 
+QQQ10829.	Hall/VdC Norms: Male#0352	
+QQQ10830.	Hall/VdC Norms: Male#0353	
+QQQ10831.	Hall/VdC Norms: Male#0354	
+QQQ10832.	Hall/VdC Norms: Male#0355	
+QQQ10833.	Hall/VdC Norms: Male#0356	
+QQQ10834.	Hall/VdC Norms: Male#0357	emoAP 
+QQQ10835.	Hall/VdC Norms: Male#0358	
+QQQ10836.	Hall/VdC Norms: Male#0359	
+QQQ10837.	Hall/VdC Norms: Male#0360	
+QQQ10838.	Hall/VdC Norms: Male#0361	emoCO 
+QQQ10839.	Hall/VdC Norms: Male#0362	
+QQQ10840.	Hall/VdC Norms: Male#0363	
+QQQ10841.	Hall/VdC Norms: Male#0364	emoAN 
+QQQ10842.	Hall/VdC Norms: Male#0365	emoCO emoHA 
+QQQ10843.	Hall/VdC Norms: Male#0366	
+QQQ10844.	Hall/VdC Norms: Male#0367	emoAN 
+QQQ10845.	Hall/VdC Norms: Male#0368	
+QQQ10846.	Hall/VdC Norms: Male#0369	
+QQQ10847.	Hall/VdC Norms: Male#0370	
+QQQ10848.	Hall/VdC Norms: Male#0371	
+QQQ10849.	Hall/VdC Norms: Male#0372	
+QQQ10850.	Hall/VdC Norms: Male#0373	
+QQQ10851.	Hall/VdC Norms: Male#0374	
+QQQ10852.	Hall/VdC Norms: Male#0375	emoHA 
+QQQ10853.	Hall/VdC Norms: Male#0376	
+QQQ10854.	Hall/VdC Norms: Male#0377	
+QQQ10855.	Hall/VdC Norms: Male#0378	emoCO 
+QQQ10856.	Hall/VdC Norms: Male#0379	
+QQQ10857.	Hall/VdC Norms: Male#0380	
+QQQ10858.	Hall/VdC Norms: Male#0381	
+QQQ10859.	Hall/VdC Norms: Male#0382	
+QQQ10860.	Hall/VdC Norms: Male#0383	emoCO emoCO 
+QQQ10861.	Hall/VdC Norms: Male#0384	
+QQQ10862.	Hall/VdC Norms: Male#0385	
+QQQ10863.	Hall/VdC Norms: Male#0386	
+QQQ10864.	Hall/VdC Norms: Male#0387	
+QQQ10865.	Hall/VdC Norms: Male#0388	
+QQQ10866.	Hall/VdC Norms: Male#0389	
+QQQ10867.	Hall/VdC Norms: Male#0390	
+QQQ10868.	Hall/VdC Norms: Male#0391	
+QQQ10869.	Hall/VdC Norms: Male#0395	
+QQQ10870.	Hall/VdC Norms: Male#0396	
+QQQ10871.	Hall/VdC Norms: Male#0397	
+QQQ10872.	Hall/VdC Norms: Male#0398	
+QQQ10873.	Hall/VdC Norms: Male#0399	
+QQQ10874.	Hall/VdC Norms: Male#0400	emoCO 
+QQQ10875.	Hall/VdC Norms: Male#0401	emoHA 
+QQQ10876.	Hall/VdC Norms: Male#0402	emoSD 
+QQQ10877.	Hall/VdC Norms: Male#0403	emoHA emoCO 
+QQQ10878.	Hall/VdC Norms: Male#0404	emoHA emoAP 
+QQQ10879.	Hall/VdC Norms: Male#0405	emoAP emoAP 
+QQQ10880.	Hall/VdC Norms: Male#0406	
+QQQ10881.	Hall/VdC Norms: Male#0407	emoSD emoSD 
+QQQ10882.	Hall/VdC Norms: Male#0408	
+QQQ10883.	Hall/VdC Norms: Male#0409	
+QQQ10884.	Hall/VdC Norms: Male#0410	
+QQQ10885.	Hall/VdC Norms: Male#0411	
+QQQ10886.	Hall/VdC Norms: Male#0412	emoCO 
+QQQ10887.	Hall/VdC Norms: Male#0413	
+QQQ10888.	Hall/VdC Norms: Male#0414	
+QQQ10889.	Hall/VdC Norms: Male#0415	
+QQQ10890.	Hall/VdC Norms: Male#0416	
+QQQ10891.	Hall/VdC Norms: Male#0417	
+QQQ10892.	Hall/VdC Norms: Male#0418	
+QQQ10893.	Hall/VdC Norms: Male#0419	emoAP 
+QQQ10894.	Hall/VdC Norms: Male#0420	emoAP 
+QQQ10895.	Hall/VdC Norms: Male#0421	emoAP 
+QQQ10896.	Hall/VdC Norms: Male#0422	emoCO 
+QQQ10897.	Hall/VdC Norms: Male#0423	emoCO 
+QQQ10898.	Hall/VdC Norms: Male#0424	emoAN 
+QQQ10899.	Hall/VdC Norms: Male#0425	emoAP 
+QQQ10900.	Hall/VdC Norms: Male#0426	
+QQQ10901.	Hall/VdC Norms: Male#0427	emoAP 
+QQQ10902.	Hall/VdC Norms: Male#0428	emoSD 
+QQQ10903.	Hall/VdC Norms: Male#0429	emoAP 
+QQQ10904.	Hall/VdC Norms: Male#0430	emoAP 
+QQQ10905.	Hall/VdC Norms: Male#0431	
+QQQ10906.	Hall/VdC Norms: Male#0432	emoAN 
+QQQ10907.	Hall/VdC Norms: Male#0433	emoAP emoAN 
+QQQ10908.	Hall/VdC Norms: Male#0434	emoAP 
+QQQ10909.	Hall/VdC Norms: Male#0435	
+QQQ10910.	Hall/VdC Norms: Male#0436	
+QQQ10911.	Hall/VdC Norms: Male#0437	emoAN emoAN emoHA 
+QQQ10912.	Hall/VdC Norms: Male#0438	emoHA emoSD 
+QQQ10913.	Hall/VdC Norms: Male#0439	emoSD 
+QQQ10914.	Hall/VdC Norms: Male#0440	emoAP 
+QQQ10915.	Hall/VdC Norms: Male#0441	
+QQQ10916.	Hall/VdC Norms: Male#0442	
+QQQ10917.	Hall/VdC Norms: Male#0443	
+QQQ10918.	Hall/VdC Norms: Male#0444	
+QQQ10919.	Hall/VdC Norms: Male#0445	
+QQQ10920.	Hall/VdC Norms: Male#0446	emoAP emoHA 
+QQQ10921.	Hall/VdC Norms: Male#0447	emoCO 
+QQQ10922.	Hall/VdC Norms: Male#0448	
+QQQ10923.	Hall/VdC Norms: Male#0449	emoHA 
+QQQ10924.	Hall/VdC Norms: Male#0450	
+QQQ10925.	Hall/VdC Norms: Male#0451	emoHA emoAN 
+QQQ10926.	Hall/VdC Norms: Male#0452	
+QQQ10927.	Hall/VdC Norms: Male#0453	
+QQQ10928.	Hall/VdC Norms: Male#0454	
+QQQ10929.	Hall/VdC Norms: Male#0455	
+QQQ10930.	Hall/VdC Norms: Male#0456	emoHA 
+QQQ10931.	Hall/VdC Norms: Male#0457	
+QQQ10932.	Hall/VdC Norms: Male#0458	emoAP 
+QQQ10933.	Hall/VdC Norms: Male#0459	
+QQQ10934.	Hall/VdC Norms: Male#0460	
+QQQ10935.	Hall/VdC Norms: Male#0461	
+QQQ10936.	Hall/VdC Norms: Male#0462	emoHA 
+QQQ10937.	Hall/VdC Norms: Male#0463	emoCO 
+QQQ10938.	Hall/VdC Norms: Male#0464	
+QQQ10939.	Hall/VdC Norms: Male#0465	
+QQQ10940.	Hall/VdC Norms: Male#0466	
+QQQ10941.	Hall/VdC Norms: Male#0467	emoAN emoAN 
+QQQ10942.	Hall/VdC Norms: Male#0468	
+QQQ10943.	Hall/VdC Norms: Male#0469	emoAP 
+QQQ10944.	Hall/VdC Norms: Male#0470	emoCO 
+QQQ10945.	Hall/VdC Norms: Male#0471	emoHA 
+QQQ10946.	Hall/VdC Norms: Male#0472	
+QQQ10947.	Hall/VdC Norms: Male#0473	
+QQQ10948.	Hall/VdC Norms: Male#0474	
+QQQ10949.	Hall/VdC Norms: Male#0475	emoCO emoSD emoCO 
+QQQ10950.	Hall/VdC Norms: Male#0476	emoAN emoSD 
+QQQ10951.	Hall/VdC Norms: Male#0477	emoAP emoCO 
+QQQ10952.	Hall/VdC Norms: Male#0478	
+QQQ10953.	Hall/VdC Norms: Male#0479	
+QQQ10954.	Hall/VdC Norms: Male#0480	emoCO emoHA 
+QQQ10955.	Hall/VdC Norms: Male#0481	
+QQQ10956.	Hall/VdC Norms: Male#0482	
+QQQ10957.	Hall/VdC Norms: Male#0483	
+QQQ10958.	Hall/VdC Norms: Male#0484	
+QQQ10959.	Hall/VdC Norms: Male#0485	
+QQQ10960.	Hall/VdC Norms: Male#0486	
+QQQ10961.	Hall/VdC Norms: Male#0487	emoSD 
+QQQ10962.	Hall/VdC Norms: Male#0488	
+QQQ10963.	Hall/VdC Norms: Male#0489	
+QQQ10964.	Hall/VdC Norms: Male#0490	emoAN emoAP 
+QQQ10965.	Hall/VdC Norms: Male#0491	
+QQQ10966.	Hall/VdC Norms: Male#0492	emoHA emoAP emoAN 
+QQQ10967.	Hall/VdC Norms: Male#0493	emoAN emoAP 
+QQQ10968.	Hall/VdC Norms: Male#0494	emoAP 
+QQQ10969.	Hall/VdC Norms: Male#0495	emoSD emoAP 
+QQQ10970.	Hall/VdC Norms: Male#0496	emoCO 
+QQQ10971.	Hall/VdC Norms: Male#0497	
+QQQ10972.	Hall/VdC Norms: Male#0498	emoHA emoCO 
+QQQ10973.	Hall/VdC Norms: Male#0499	emoAP 
+QQQ10974.	Hall/VdC Norms: Male#0500	emoAP emoAP emoAN 
+QQQ9994.	Hall/VdC Norms: Female#0001	emoAP emoAP emoHA 
+QQQ9995.	Hall/VdC Norms: Female#0002	
+QQQ9996.	Hall/VdC Norms: Female#0003	emoAP 
+QQQ9997.	Hall/VdC Norms: Female#0004	
+QQQ9998.	Hall/VdC Norms: Female#0005	emoCO emoAN 
+QQQ9999.	Hall/VdC Norms: Female#0006	
+QQQ10000.	Hall/VdC Norms: Female#0007	emoAP 
+QQQ10001.	Hall/VdC Norms: Female#0008	emoAN 
+QQQ10002.	Hall/VdC Norms: Female#0009	
+QQQ10003.	Hall/VdC Norms: Female#0010	emoAN 
+QQQ10004.	Hall/VdC Norms: Female#0011	
+QQQ10005.	Hall/VdC Norms: Female#0012	emoAP 
+QQQ10006.	Hall/VdC Norms: Female#0013	
+QQQ10007.	Hall/VdC Norms: Female#0014	emoAP 
+QQQ10008.	Hall/VdC Norms: Female#0015	emoCO emoAP 
+QQQ10009.	Hall/VdC Norms: Female#0016	
+QQQ10010.	Hall/VdC Norms: Female#0017	
+QQQ10011.	Hall/VdC Norms: Female#0018	emoHA 
+QQQ10012.	Hall/VdC Norms: Female#0019	
+QQQ10013.	Hall/VdC Norms: Female#0020	emoAP 
+QQQ10014.	Hall/VdC Norms: Female#0021	emoAP 
+QQQ10015.	Hall/VdC Norms: Female#0022	
+QQQ10016.	Hall/VdC Norms: Female#0023	emoCO emoHA 
+QQQ10017.	Hall/VdC Norms: Female#0024	emoAP 
+QQQ10018.	Hall/VdC Norms: Female#0025	emoAP 
+QQQ10019.	Hall/VdC Norms: Female#0026	emoAP 
+QQQ10020.	Hall/VdC Norms: Female#0027	
+QQQ10021.	Hall/VdC Norms: Female#0028	
+QQQ10022.	Hall/VdC Norms: Female#0029	emoAN 
+QQQ10023.	Hall/VdC Norms: Female#0030	emoAN 
+QQQ10024.	Hall/VdC Norms: Female#0031	
+QQQ10025.	Hall/VdC Norms: Female#0032	emoSD 
+QQQ10026.	Hall/VdC Norms: Female#0033	
+QQQ10027.	Hall/VdC Norms: Female#0034	
+QQQ10028.	Hall/VdC Norms: Female#0035	emoCO 
+QQQ10029.	Hall/VdC Norms: Female#0036	emoHA emoHA 
+QQQ10030.	Hall/VdC Norms: Female#0037	emoCO 
+QQQ10031.	Hall/VdC Norms: Female#0038	emoCO 
+QQQ10032.	Hall/VdC Norms: Female#0039	emoAN 
+QQQ10033.	Hall/VdC Norms: Female#0040	
+QQQ10034.	Hall/VdC Norms: Female#0041	emoHA 
+QQQ10035.	Hall/VdC Norms: Female#0042	emoHA 
+QQQ10036.	Hall/VdC Norms: Female#0043	emoCO 
+QQQ10037.	Hall/VdC Norms: Female#0044	emoHA 
+QQQ10038.	Hall/VdC Norms: Female#0045	emoAP 
+QQQ10039.	Hall/VdC Norms: Female#0046	emoAN 
+QQQ10040.	Hall/VdC Norms: Female#0047	
+QQQ10041.	Hall/VdC Norms: Female#0048	emoAP emoCO 
+QQQ10042.	Hall/VdC Norms: Female#0049	emoCO emoHA 
+QQQ10043.	Hall/VdC Norms: Female#0050	
+QQQ10044.	Hall/VdC Norms: Female#0051	
+QQQ10045.	Hall/VdC Norms: Female#0052	
+QQQ10046.	Hall/VdC Norms: Female#0053	emoAN 
+QQQ10047.	Hall/VdC Norms: Female#0054	
+QQQ10048.	Hall/VdC Norms: Female#0055	emoAP emoCO 
+QQQ10049.	Hall/VdC Norms: Female#0056	emoSD 
+QQQ10050.	Hall/VdC Norms: Female#0057	emoSD 
+QQQ10051.	Hall/VdC Norms: Female#0058	emoCO emoAN 
+QQQ10052.	Hall/VdC Norms: Female#0059	emoAN 
+QQQ10053.	Hall/VdC Norms: Female#0060	emoAP 
+QQQ10054.	Hall/VdC Norms: Female#0061	emoAP 
+QQQ10055.	Hall/VdC Norms: Female#0062	emoAP 
+QQQ10056.	Hall/VdC Norms: Female#0063	
+QQQ10057.	Hall/VdC Norms: Female#0064	
+QQQ10058.	Hall/VdC Norms: Female#0065	emoSD 
+QQQ10059.	Hall/VdC Norms: Female#0066	emoAN 
+QQQ10060.	Hall/VdC Norms: Female#0067	
+QQQ10061.	Hall/VdC Norms: Female#0068	
+QQQ10062.	Hall/VdC Norms: Female#0069	emoHA emoHA emoCO 
+QQQ10063.	Hall/VdC Norms: Female#0070	
+QQQ10064.	Hall/VdC Norms: Female#0071	emoAP 
+QQQ10065.	Hall/VdC Norms: Female#0072	
+QQQ10066.	Hall/VdC Norms: Female#0073	
+QQQ10067.	Hall/VdC Norms: Female#0074	emoCO emoCO emoCO 
+QQQ10068.	Hall/VdC Norms: Female#0075	
+QQQ10069.	Hall/VdC Norms: Female#0076	
+QQQ10070.	Hall/VdC Norms: Female#0077	
+QQQ10071.	Hall/VdC Norms: Female#0078	
+QQQ10072.	Hall/VdC Norms: Female#0079	emoCO 
+QQQ10073.	Hall/VdC Norms: Female#0080	emoAP emoSD emoCO emoHA emoAP emoHA 
+QQQ10074.	Hall/VdC Norms: Female#0081	emoAP 
+QQQ10075.	Hall/VdC Norms: Female#0082	
+QQQ10076.	Hall/VdC Norms: Female#0083	emoHA 
+QQQ10077.	Hall/VdC Norms: Female#0084	
+QQQ10078.	Hall/VdC Norms: Female#0085	emoAN 
+QQQ10079.	Hall/VdC Norms: Female#0086	
+QQQ10080.	Hall/VdC Norms: Female#0087	
+QQQ10081.	Hall/VdC Norms: Female#0088	emoSD emoAP 
+QQQ10082.	Hall/VdC Norms: Female#0089	
+QQQ10083.	Hall/VdC Norms: Female#0090	emoAP 
+QQQ10084.	Hall/VdC Norms: Female#0091	emoAP 
+QQQ10085.	Hall/VdC Norms: Female#0092	
+QQQ10086.	Hall/VdC Norms: Female#0093	emoAP 
+QQQ10087.	Hall/VdC Norms: Female#0094	emoAP 
+QQQ10088.	Hall/VdC Norms: Female#0095	emoSD 
+QQQ10089.	Hall/VdC Norms: Female#0096	emoCO emoHA 
+QQQ10090.	Hall/VdC Norms: Female#0097	
+QQQ10091.	Hall/VdC Norms: Female#0098	emoHA 
+QQQ10092.	Hall/VdC Norms: Female#0099	
+QQQ10093.	Hall/VdC Norms: Female#0100	emoSD emoAP emoSD 
+QQQ10094.	Hall/VdC Norms: Female#0101	emoAN 
+QQQ10095.	Hall/VdC Norms: Female#0102	
+QQQ10096.	Hall/VdC Norms: Female#0103	emoSD 
+QQQ10097.	Hall/VdC Norms: Female#0104	emoSD 
+QQQ10098.	Hall/VdC Norms: Female#0105	emoSD emoHA 
+QQQ10099.	Hall/VdC Norms: Female#0106	
+QQQ10100.	Hall/VdC Norms: Female#0107	
+QQQ10101.	Hall/VdC Norms: Female#0108	
+QQQ10102.	Hall/VdC Norms: Female#0109	emoAP emoAP 
+QQQ10103.	Hall/VdC Norms: Female#0110	emoAP 
+QQQ10104.	Hall/VdC Norms: Female#0111	emoHA emoAP emoAN 
+QQQ10105.	Hall/VdC Norms: Female#0112	emoAP 
+QQQ10106.	Hall/VdC Norms: Female#0113	emoAP emoAP 
+QQQ10107.	Hall/VdC Norms: Female#0114	emoHA emoAP 
+QQQ10108.	Hall/VdC Norms: Female#0115	emoHA emoHA 
+QQQ10109.	Hall/VdC Norms: Female#0116	
+QQQ10110.	Hall/VdC Norms: Female#0117	
+QQQ10111.	Hall/VdC Norms: Female#0118	emoCO emoCO 
+QQQ10112.	Hall/VdC Norms: Female#0119	
+QQQ10113.	Hall/VdC Norms: Female#0120	emoHA emoHA 
+QQQ10114.	Hall/VdC Norms: Female#0121	emoHA 
+QQQ10115.	Hall/VdC Norms: Female#0122	emoSD emoSD 
+QQQ10116.	Hall/VdC Norms: Female#0123	emoSD 
+QQQ10117.	Hall/VdC Norms: Female#0124	
+QQQ10118.	Hall/VdC Norms: Female#0125	
+QQQ10119.	Hall/VdC Norms: Female#0126	emoHA emoHA 
+QQQ10120.	Hall/VdC Norms: Female#0127	emoHA emoHA 
+QQQ10121.	Hall/VdC Norms: Female#0128	emoCO emoSD 
+QQQ10122.	Hall/VdC Norms: Female#0129	emoCO 
+QQQ10123.	Hall/VdC Norms: Female#0130	emoAP 
+QQQ10124.	Hall/VdC Norms: Female#0131	
+QQQ10125.	Hall/VdC Norms: Female#0132	emoHA emoCO emoHA emoAP emoAP emoAP emoCO emoAP emoAN 
+QQQ10126.	Hall/VdC Norms: Female#0133	emoAP emoHA emoCO 
+QQQ10127.	Hall/VdC Norms: Female#0134	emoAP emoAP emoAP 
+QQQ10128.	Hall/VdC Norms: Female#0135	
+QQQ10129.	Hall/VdC Norms: Female#0136	emoAN 
+QQQ10130.	Hall/VdC Norms: Female#0137	emoHA 
+QQQ10131.	Hall/VdC Norms: Female#0138	emoHA emoSD 
+QQQ10132.	Hall/VdC Norms: Female#0139	emoCO emoAN 
+QQQ10133.	Hall/VdC Norms: Female#0140	
+QQQ10134.	Hall/VdC Norms: Female#0141	emoSD 
+QQQ10135.	Hall/VdC Norms: Female#0142	emoAP 
+QQQ10136.	Hall/VdC Norms: Female#0143	
+QQQ10137.	Hall/VdC Norms: Female#0144	emoAP 
+QQQ10138.	Hall/VdC Norms: Female#0145	emoSD emoAP 
+QQQ10139.	Hall/VdC Norms: Female#0147	emoCO 
+QQQ10140.	Hall/VdC Norms: Female#0148	emoAN 
+QQQ10141.	Hall/VdC Norms: Female#0149	
+QQQ10142.	Hall/VdC Norms: Female#0150	
+QQQ10143.	Hall/VdC Norms: Female#0151	
+QQQ10144.	Hall/VdC Norms: Female#0152	
+QQQ10145.	Hall/VdC Norms: Female#0153	
+QQQ10146.	Hall/VdC Norms: Female#0154	emoHA 
+QQQ10147.	Hall/VdC Norms: Female#0155	
+QQQ10148.	Hall/VdC Norms: Female#0156	
+QQQ10149.	Hall/VdC Norms: Female#0157	
+QQQ10150.	Hall/VdC Norms: Female#0158	
+QQQ10151.	Hall/VdC Norms: Female#0159	
+QQQ10152.	Hall/VdC Norms: Female#0160	
+QQQ10153.	Hall/VdC Norms: Female#0161	emoAP 
+QQQ10154.	Hall/VdC Norms: Female#0162	emoAP 
+QQQ10155.	Hall/VdC Norms: Female#0163	emoAP 
+QQQ10156.	Hall/VdC Norms: Female#0164	emoCO 
+QQQ10157.	Hall/VdC Norms: Female#0165	emoAP 
+QQQ10158.	Hall/VdC Norms: Female#0166	emoCO 
+QQQ10159.	Hall/VdC Norms: Female#0167	
+QQQ10160.	Hall/VdC Norms: Female#0168	emoAP emoHA 
+QQQ10161.	Hall/VdC Norms: Female#0169	
+QQQ10162.	Hall/VdC Norms: Female#0170	
+QQQ10163.	Hall/VdC Norms: Female#0171	
+QQQ10164.	Hall/VdC Norms: Female#0172	
+QQQ10165.	Hall/VdC Norms: Female#0173	emoSD 
+QQQ10166.	Hall/VdC Norms: Female#0174	emoSD 
+QQQ10167.	Hall/VdC Norms: Female#0175	
+QQQ10168.	Hall/VdC Norms: Female#0176	
+QQQ10169.	Hall/VdC Norms: Female#0177	emoAP 
+QQQ10170.	Hall/VdC Norms: Female#0178	
+QQQ10171.	Hall/VdC Norms: Female#0179	
+QQQ10172.	Hall/VdC Norms: Female#0180	emoSD 
+QQQ10173.	Hall/VdC Norms: Female#0181	emoCO emoAN emoAP emoHA 
+QQQ10174.	Hall/VdC Norms: Female#0182	
+QQQ10175.	Hall/VdC Norms: Female#0183	emoAP 
+QQQ10176.	Hall/VdC Norms: Female#0184	emoCO 
+QQQ10177.	Hall/VdC Norms: Female#0185	emoCO emoCO 
+QQQ10178.	Hall/VdC Norms: Female#0186	emoHA emoHA 
+QQQ10179.	Hall/VdC Norms: Female#0187	emoAN emoHA 
+QQQ10180.	Hall/VdC Norms: Female#0188	
+QQQ10181.	Hall/VdC Norms: Female#0189	emoHA emoAN 
+QQQ10182.	Hall/VdC Norms: Female#0190	emoAP 
+QQQ10183.	Hall/VdC Norms: Female#0191	emoAP 
+QQQ10184.	Hall/VdC Norms: Female#0192	
+QQQ10185.	Hall/VdC Norms: Female#0193	emoAP 
+QQQ10186.	Hall/VdC Norms: Female#0194	
+QQQ10187.	Hall/VdC Norms: Female#0195	
+QQQ10188.	Hall/VdC Norms: Female#0196	emoAN emoAP 
+QQQ10189.	Hall/VdC Norms: Female#0197	
+QQQ10190.	Hall/VdC Norms: Female#0198	emoCO 
+QQQ10191.	Hall/VdC Norms: Female#0199	emoSD 
+QQQ10192.	Hall/VdC Norms: Female#0200	emoAP emoCO 
+QQQ10193.	Hall/VdC Norms: Female#0201	emoHA 
+QQQ10194.	Hall/VdC Norms: Female#0202	emoSD 
+QQQ10195.	Hall/VdC Norms: Female#0203	emoAP 
+QQQ10196.	Hall/VdC Norms: Female#0204	
+QQQ10197.	Hall/VdC Norms: Female#0205	
+QQQ10198.	Hall/VdC Norms: Female#0206	
+QQQ10199.	Hall/VdC Norms: Female#0207	
+QQQ10200.	Hall/VdC Norms: Female#0208	emoSD 
+QQQ10201.	Hall/VdC Norms: Female#0209	
+QQQ10202.	Hall/VdC Norms: Female#0210	
+QQQ10203.	Hall/VdC Norms: Female#0211	emoAP 
+QQQ10204.	Hall/VdC Norms: Female#0212	
+QQQ10205.	Hall/VdC Norms: Female#0213	
+QQQ10206.	Hall/VdC Norms: Female#0214	emoCO 
+QQQ10207.	Hall/VdC Norms: Female#0215	emoAP 
+QQQ10208.	Hall/VdC Norms: Female#0216	
+QQQ10209.	Hall/VdC Norms: Female#0217	
+QQQ10210.	Hall/VdC Norms: Female#0218	
+QQQ10211.	Hall/VdC Norms: Female#0219	emoCO 
+QQQ10212.	Hall/VdC Norms: Female#0220	
+QQQ10213.	Hall/VdC Norms: Female#0221	
+QQQ10214.	Hall/VdC Norms: Female#0222	
+QQQ10215.	Hall/VdC Norms: Female#0223	
+QQQ10216.	Hall/VdC Norms: Female#0224	emoAP emoAN 
+QQQ10217.	Hall/VdC Norms: Female#0225	
+QQQ10218.	Hall/VdC Norms: Female#0226	
+QQQ10219.	Hall/VdC Norms: Female#0227	
+QQQ10220.	Hall/VdC Norms: Female#0228	
+QQQ10221.	Hall/VdC Norms: Female#0229	emoAN 
+QQQ10222.	Hall/VdC Norms: Female#0230	
+QQQ10223.	Hall/VdC Norms: Female#0231	emoHA 
+QQQ10224.	Hall/VdC Norms: Female#0232	emoHA emoAP 
+QQQ10225.	Hall/VdC Norms: Female#0233	emoAP 
+QQQ10226.	Hall/VdC Norms: Female#0234	emoAP 
+QQQ10227.	Hall/VdC Norms: Female#0235	emoAP emoCO 
+QQQ10228.	Hall/VdC Norms: Female#0236	emoSD emoAP 
+QQQ10229.	Hall/VdC Norms: Female#0237	
+QQQ10230.	Hall/VdC Norms: Female#0238	emoHA emoCO 
+QQQ10231.	Hall/VdC Norms: Female#0239	
+QQQ10232.	Hall/VdC Norms: Female#0240	emoAP emoSD emoHA 
+QQQ10233.	Hall/VdC Norms: Female#0241	emoAP 
+QQQ10234.	Hall/VdC Norms: Female#0242	
+QQQ10235.	Hall/VdC Norms: Female#0243	
+QQQ10236.	Hall/VdC Norms: Female#0244	
+QQQ10237.	Hall/VdC Norms: Female#0245	
+QQQ10238.	Hall/VdC Norms: Female#0246	emoSD 
+QQQ10239.	Hall/VdC Norms: Female#0247	emoCO 
+QQQ10240.	Hall/VdC Norms: Female#0248	emoAP 
+QQQ10241.	Hall/VdC Norms: Female#0249	emoAN 
+QQQ10242.	Hall/VdC Norms: Female#0250	emoCO 
+QQQ10243.	Hall/VdC Norms: Female#0251	emoCO emoCO emoSD 
+QQQ10244.	Hall/VdC Norms: Female#0252	emoAP emoAP emoSD 
+QQQ10245.	Hall/VdC Norms: Female#0253	emoHA emoAP 
+QQQ10246.	Hall/VdC Norms: Female#0254	emoAP emoSD 
+QQQ10247.	Hall/VdC Norms: Female#0255	
+QQQ10248.	Hall/VdC Norms: Female#0256	
+QQQ10249.	Hall/VdC Norms: Female#0257	emoAP 
+QQQ10250.	Hall/VdC Norms: Female#0258	emoHA 
+QQQ10251.	Hall/VdC Norms: Female#0259	
+QQQ10252.	Hall/VdC Norms: Female#0260	
+QQQ10253.	Hall/VdC Norms: Female#0261	emoAP 
+QQQ10254.	Hall/VdC Norms: Female#0262	emoHA emoCO emoHA 
+QQQ10255.	Hall/VdC Norms: Female#0263	emoAP emoHA 
+QQQ10256.	Hall/VdC Norms: Female#0264	emoHA 
+QQQ10257.	Hall/VdC Norms: Female#0265	emoAP 
+QQQ10258.	Hall/VdC Norms: Female#0266	
+QQQ10259.	Hall/VdC Norms: Female#0267	emoHA 
+QQQ10260.	Hall/VdC Norms: Female#0268	
+QQQ10261.	Hall/VdC Norms: Female#0269	emoAN emoAP 
+QQQ10262.	Hall/VdC Norms: Female#0270	emoHA 
+QQQ10263.	Hall/VdC Norms: Female#0271	emoHA emoAP 
+QQQ10264.	Hall/VdC Norms: Female#0272	emoHA emoHA 
+QQQ10265.	Hall/VdC Norms: Female#0273	
+QQQ10266.	Hall/VdC Norms: Female#0274	emoAP 
+QQQ10267.	Hall/VdC Norms: Female#0275	
+QQQ10268.	Hall/VdC Norms: Female#0276	emoCO 
+QQQ10269.	Hall/VdC Norms: Female#0277	
+QQQ10270.	Hall/VdC Norms: Female#0278	emoAP 
+QQQ10271.	Hall/VdC Norms: Female#0279	
+QQQ10272.	Hall/VdC Norms: Female#0280	emoAP 
+QQQ10273.	Hall/VdC Norms: Female#0281	emoAN 
+QQQ10274.	Hall/VdC Norms: Female#0282	emoHA 
+QQQ10275.	Hall/VdC Norms: Female#0283	emoHA 
+QQQ10276.	Hall/VdC Norms: Female#0284	emoAP 
+QQQ10277.	Hall/VdC Norms: Female#0285	emoHA emoHA 
+QQQ10278.	Hall/VdC Norms: Female#0286	emoAN emoAP 
+QQQ10279.	Hall/VdC Norms: Female#0287	
+QQQ10280.	Hall/VdC Norms: Female#0288	emoSD 
+QQQ10281.	Hall/VdC Norms: Female#0289	
+QQQ10282.	Hall/VdC Norms: Female#0290	
+QQQ10283.	Hall/VdC Norms: Female#0291	emoAN emoAP emoAN 
+QQQ10284.	Hall/VdC Norms: Female#0292	emoAP 
+QQQ10285.	Hall/VdC Norms: Female#0293	
+QQQ10286.	Hall/VdC Norms: Female#0294	emoAP 
+QQQ10287.	Hall/VdC Norms: Female#0295	emoHA emoAN emoAN emoSD 
+QQQ10288.	Hall/VdC Norms: Female#0296	emoAP 
+QQQ10289.	Hall/VdC Norms: Female#0297	emoAN 
+QQQ10290.	Hall/VdC Norms: Female#0298	emoCO emoHA 
+QQQ10291.	Hall/VdC Norms: Female#0299	emoAP 
+QQQ10292.	Hall/VdC Norms: Female#0300	emoHA 
+QQQ10293.	Hall/VdC Norms: Female#0301	
+QQQ10294.	Hall/VdC Norms: Female#0302	
+QQQ10295.	Hall/VdC Norms: Female#0303	
+QQQ10296.	Hall/VdC Norms: Female#0304	
+QQQ10297.	Hall/VdC Norms: Female#0306	
+QQQ10298.	Hall/VdC Norms: Female#0307	emoHA 
+QQQ10299.	Hall/VdC Norms: Female#0308	emoHA 
+QQQ10300.	Hall/VdC Norms: Female#0309	emoCO emoCO emoHA 
+QQQ10301.	Hall/VdC Norms: Female#0310	emoSD 
+QQQ10302.	Hall/VdC Norms: Female#0311	emoAP 
+QQQ10303.	Hall/VdC Norms: Female#0312	
+QQQ10304.	Hall/VdC Norms: Female#0313	
+QQQ10305.	Hall/VdC Norms: Female#0314	
+QQQ10306.	Hall/VdC Norms: Female#0315	emoHA emoCO 
+QQQ10307.	Hall/VdC Norms: Female#0316	emoCO 
+QQQ10308.	Hall/VdC Norms: Female#0317	
+QQQ10309.	Hall/VdC Norms: Female#0318	emoHA emoHA emoAN 
+QQQ10310.	Hall/VdC Norms: Female#0319	emoCO 
+QQQ10311.	Hall/VdC Norms: Female#0320	emoHA emoAN emoAN 
+QQQ10312.	Hall/VdC Norms: Female#0321	emoAP 
+QQQ10313.	Hall/VdC Norms: Female#0322	emoAP 
+QQQ10314.	Hall/VdC Norms: Female#0323	emoCO 
+QQQ10315.	Hall/VdC Norms: Female#0324	emoAP 
+QQQ10316.	Hall/VdC Norms: Female#0325	emoAP 
+QQQ10317.	Hall/VdC Norms: Female#0326	emoAP emoCO 
+QQQ10318.	Hall/VdC Norms: Female#0327	emoHA 
+QQQ10319.	Hall/VdC Norms: Female#0328	emoSD 
+QQQ10320.	Hall/VdC Norms: Female#0330	
+QQQ10321.	Hall/VdC Norms: Female#0331	emoAP 
+QQQ10322.	Hall/VdC Norms: Female#0332	
+QQQ10323.	Hall/VdC Norms: Female#0333	
+QQQ10324.	Hall/VdC Norms: Female#0334	
+QQQ10325.	Hall/VdC Norms: Female#0335	
+QQQ10326.	Hall/VdC Norms: Female#0336	emoSD emoAN 
+QQQ10327.	Hall/VdC Norms: Female#0337	emoSD 
+QQQ10328.	Hall/VdC Norms: Female#0338	emoAN 
+QQQ10329.	Hall/VdC Norms: Female#0339	
+QQQ10330.	Hall/VdC Norms: Female#0340	emoSD emoHA 
+QQQ10331.	Hall/VdC Norms: Female#0341	
+QQQ10332.	Hall/VdC Norms: Female#0342	
+QQQ10333.	Hall/VdC Norms: Female#0343	
+QQQ10334.	Hall/VdC Norms: Female#0344	emoAN 
+QQQ10335.	Hall/VdC Norms: Female#0345	
+QQQ10336.	Hall/VdC Norms: Female#0348	
+QQQ10337.	Hall/VdC Norms: Female#0349	
+QQQ10338.	Hall/VdC Norms: Female#0350	
+QQQ10339.	Hall/VdC Norms: Female#0351	
+QQQ10340.	Hall/VdC Norms: Female#0352	emoAN 
+QQQ10341.	Hall/VdC Norms: Female#0355	
+QQQ10342.	Hall/VdC Norms: Female#0356	emoAN 
+QQQ10343.	Hall/VdC Norms: Female#0357	emoHA emoSD 
+QQQ10344.	Hall/VdC Norms: Female#0358	emoAP emoAP emoAP 
+QQQ10345.	Hall/VdC Norms: Female#0359	emoAP 
+QQQ10346.	Hall/VdC Norms: Female#0360	emoAP emoAP 
+QQQ10347.	Hall/VdC Norms: Female#0361	
+QQQ10348.	Hall/VdC Norms: Female#0362	emoAP 
+QQQ10349.	Hall/VdC Norms: Female#0363	emoAP 
+QQQ10350.	Hall/VdC Norms: Female#0364	emoAP 
+QQQ10351.	Hall/VdC Norms: Female#0365	emoAP emoSD 
+QQQ10352.	Hall/VdC Norms: Female#0369	emoAP 
+QQQ10353.	Hall/VdC Norms: Female#0370	emoCO 
+QQQ10354.	Hall/VdC Norms: Female#0371	emoCO 
+QQQ10355.	Hall/VdC Norms: Female#0372	
+QQQ10356.	Hall/VdC Norms: Female#0373	emoAN emoAN 
+QQQ10357.	Hall/VdC Norms: Female#0374	
+QQQ10358.	Hall/VdC Norms: Female#0375	emoCO 
+QQQ10359.	Hall/VdC Norms: Female#0376	emoSD emoAP 
+QQQ10360.	Hall/VdC Norms: Female#0377	
+QQQ10361.	Hall/VdC Norms: Female#0378	
+QQQ10362.	Hall/VdC Norms: Female#0379	emoCO emoHA emoHA 
+QQQ10363.	Hall/VdC Norms: Female#0380	emoHA 
+QQQ10364.	Hall/VdC Norms: Female#0381	
+QQQ10365.	Hall/VdC Norms: Female#0382	
+QQQ10366.	Hall/VdC Norms: Female#0383	emoAP 
+QQQ10367.	Hall/VdC Norms: Female#0384	
+QQQ10368.	Hall/VdC Norms: Female#0385	
+QQQ10369.	Hall/VdC Norms: Female#0386	emoAP 
+QQQ10370.	Hall/VdC Norms: Female#0387	
+QQQ10371.	Hall/VdC Norms: Female#0388	
+QQQ10372.	Hall/VdC Norms: Female#0389	
+QQQ10373.	Hall/VdC Norms: Female#0390	
+QQQ10374.	Hall/VdC Norms: Female#0391	emoAP emoAP 
+QQQ10375.	Hall/VdC Norms: Female#0392	emoAP emoAP 
+QQQ10376.	Hall/VdC Norms: Female#0393	emoAP 
+QQQ10377.	Hall/VdC Norms: Female#0394	emoCO 
+QQQ10378.	Hall/VdC Norms: Female#0395	
+QQQ10379.	Hall/VdC Norms: Female#0396	emoAP emoSD 
+QQQ10380.	Hall/VdC Norms: Female#0397	emoCO 
+QQQ10381.	Hall/VdC Norms: Female#0398	emoCO 
+QQQ10382.	Hall/VdC Norms: Female#0399	emoHA 
+QQQ10383.	Hall/VdC Norms: Female#0400	emoAP emoCO 
+QQQ10384.	Hall/VdC Norms: Female#0401	
+QQQ10385.	Hall/VdC Norms: Female#0402	emoAP 
+QQQ10386.	Hall/VdC Norms: Female#0403	emoSD emoAP 
+QQQ10387.	Hall/VdC Norms: Female#0404	emoSD emoSD 
+QQQ10388.	Hall/VdC Norms: Female#0405	emoSD 
+QQQ10389.	Hall/VdC Norms: Female#0406	emoCO 
+QQQ10390.	Hall/VdC Norms: Female#0407	
+QQQ10391.	Hall/VdC Norms: Female#0408	emoSD emoAN 
+QQQ10392.	Hall/VdC Norms: Female#0409	emoSD 
+QQQ10393.	Hall/VdC Norms: Female#0410	emoCO 
+QQQ10394.	Hall/VdC Norms: Female#0411	emoAP emoAP 
+QQQ10395.	Hall/VdC Norms: Female#0412	emoAP emoAP 
+QQQ10396.	Hall/VdC Norms: Female#0413	emoAP emoCO 
+QQQ10397.	Hall/VdC Norms: Female#0414	emoAP emoAP 
+QQQ10398.	Hall/VdC Norms: Female#0415	
+QQQ10399.	Hall/VdC Norms: Female#0416	
+QQQ10400.	Hall/VdC Norms: Female#0417	emoAP 
+QQQ10401.	Hall/VdC Norms: Female#0418	emoAP emoAP 
+QQQ10402.	Hall/VdC Norms: Female#0419	
+QQQ10403.	Hall/VdC Norms: Female#0420	emoAP 
+QQQ10404.	Hall/VdC Norms: Female#0421	
+QQQ10405.	Hall/VdC Norms: Female#0422	
+QQQ10406.	Hall/VdC Norms: Female#0423	
+QQQ10407.	Hall/VdC Norms: Female#0424	
+QQQ10408.	Hall/VdC Norms: Female#0425	emoSD 
+QQQ10409.	Hall/VdC Norms: Female#0426	emoSD 
+QQQ10410.	Hall/VdC Norms: Female#0427	
+QQQ10411.	Hall/VdC Norms: Female#0428	
+QQQ10412.	Hall/VdC Norms: Female#0429	
+QQQ10413.	Hall/VdC Norms: Female#0430	
+QQQ10414.	Hall/VdC Norms: Female#0431	
+QQQ10415.	Hall/VdC Norms: Female#0432	emoAP emoCO 
+QQQ10416.	Hall/VdC Norms: Female#0433	
+QQQ10417.	Hall/VdC Norms: Female#0434	
+QQQ10418.	Hall/VdC Norms: Female#0435	emoAN 
+QQQ10419.	Hall/VdC Norms: Female#0436	emoHA 
+QQQ10420.	Hall/VdC Norms: Female#0437	
+QQQ10421.	Hall/VdC Norms: Female#0438	
+QQQ10422.	Hall/VdC Norms: Female#0439	
+QQQ10423.	Hall/VdC Norms: Female#0440	emoAP 
+QQQ10424.	Hall/VdC Norms: Female#0441	
+QQQ10425.	Hall/VdC Norms: Female#0442	
+QQQ10426.	Hall/VdC Norms: Female#0443	
+QQQ10427.	Hall/VdC Norms: Female#0444	
+QQQ10428.	Hall/VdC Norms: Female#0445	emoCO 
+QQQ10429.	Hall/VdC Norms: Female#0446	
+QQQ10430.	Hall/VdC Norms: Female#0447	
+QQQ10431.	Hall/VdC Norms: Female#0448	
+QQQ10432.	Hall/VdC Norms: Female#0449	
+QQQ10433.	Hall/VdC Norms: Female#0450	
+QQQ10434.	Hall/VdC Norms: Female#0451	
+QQQ10435.	Hall/VdC Norms: Female#0452	emoAP emoAN 
+QQQ10436.	Hall/VdC Norms: Female#0453	
+QQQ10437.	Hall/VdC Norms: Female#0454	emoHA 
+QQQ10438.	Hall/VdC Norms: Female#0455	emoAP emoAN emoSD emoCO 
+QQQ10439.	Hall/VdC Norms: Female#0456	emoAP 
+QQQ10440.	Hall/VdC Norms: Female#0457	emoAP 
+QQQ10441.	Hall/VdC Norms: Female#0458	
+QQQ10442.	Hall/VdC Norms: Female#0459	
+QQQ10443.	Hall/VdC Norms: Female#0460	
+QQQ10444.	Hall/VdC Norms: Female#0461	
+QQQ10445.	Hall/VdC Norms: Female#0462	emoCO 
+QQQ10446.	Hall/VdC Norms: Female#0463	
+QQQ10447.	Hall/VdC Norms: Female#0464	
+QQQ10448.	Hall/VdC Norms: Female#0465	emoAP 
+QQQ10449.	Hall/VdC Norms: Female#0466	
+QQQ10450.	Hall/VdC Norms: Female#0467	
+QQQ10451.	Hall/VdC Norms: Female#0468	
+QQQ10452.	Hall/VdC Norms: Female#0469	
+QQQ10453.	Hall/VdC Norms: Female#0470	emoAP 
+QQQ10454.	Hall/VdC Norms: Female#0471	
+QQQ10455.	Hall/VdC Norms: Female#0472	
+QQQ10456.	Hall/VdC Norms: Female#0473	emoAP emoAP 
+QQQ10457.	Hall/VdC Norms: Female#0474	
+QQQ10458.	Hall/VdC Norms: Female#0475	
+QQQ10459.	Hall/VdC Norms: Female#0476	
+QQQ10460.	Hall/VdC Norms: Female#0477	
+QQQ10461.	Hall/VdC Norms: Female#0478	
+QQQ10462.	Hall/VdC Norms: Female#0479	
+QQQ10463.	Hall/VdC Norms: Female#0480	emoAP 
+QQQ10464.	Hall/VdC Norms: Female#0481	
+QQQ10465.	Hall/VdC Norms: Female#0482	emoCO 
+QQQ10466.	Hall/VdC Norms: Female#0483	emoHA 
+QQQ10467.	Hall/VdC Norms: Female#0484	emoHA 
+QQQ10468.	Hall/VdC Norms: Female#0485	
+QQQ10469.	Hall/VdC Norms: Female#0486	emoAN 
+QQQ10470.	Hall/VdC Norms: Female#0487	emoAP emoAN 
+QQQ10471.	Hall/VdC Norms: Female#0488	emoSD emoCO 
+QQQ10472.	Hall/VdC Norms: Female#0489	
+QQQ10473.	Hall/VdC Norms: Female#0490	emoAN 
+QQQ10474.	Hall/VdC Norms: Female#0491	emoAN emoAP 
+QQQ10475.	Hall/VdC Norms: Female#0492	
+QQQ10476.	Hall/VdC Norms: Female#0493	emoAN emoAP emoAN emoAN 
+QQQ10477.	Hall/VdC Norms: Female#0494	emoCO emoAP 
+QQQ10478.	Hall/VdC Norms: Female#0495	emoCO emoAN 
+QQQ10479.	Hall/VdC Norms: Female#0496	emoSD 
+QQQ10480.	Hall/VdC Norms: Female#0497	emoAP 
+QQQ10481.	Hall/VdC Norms: Female#0498	emoHA 
+QQQ10482.	Hall/VdC Norms: Female#0499	emoCO 
+QQQ10483.	Hall/VdC Norms: Female#0500	

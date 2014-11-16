@@ -1,0 +1,982 @@
+
+QQQ9994.	Hall/VdC Norms: Female#0001	objAE objMO objRG objFO objFO objFO 
+QQQ9995.	Hall/VdC Norms: Female#0002	objAR objAR objAD objHH objNA objNA objHH objBE objBT objRG 
+QQQ9996.	Hall/VdC Norms: Female#0003	objNA objBT 
+QQQ9997.	Hall/VdC Norms: Female#0004	objTR objNA objST objCM objRG 
+QQQ9998.	Hall/VdC Norms: Female#0005	objAV objHH objHH objHH objFO objFO 
+QQQ9999.	Hall/VdC Norms: Female#0006	objAR objAR objHH objAD objCL objHH objHH objMO objTR objTR 
+QQQ10000.	Hall/VdC Norms: Female#0007	objTR objBE objST objTR objTR 
+QQQ10001.	Hall/VdC Norms: Female#0008	objAR objCM objCL objAR objCM objAV objAV objST 
+QQQ10002.	Hall/VdC Norms: Female#0009	objAR objHH objAD objCM objCM objHH objAR objAD objAR objBE 
+QQQ10003.	Hall/VdC Norms: Female#0010	objTR objCM objCM objBA objCM objTR objCM 
+QQQ10004.	Hall/VdC Norms: Female#0011	objHH objAR 
+QQQ10005.	Hall/VdC Norms: Female#0012	objBT objCL objCL objAD objAR objBA objIW objST objST objST objCL 
+QQQ10006.	Hall/VdC Norms: Female#0013	objAR objCM objCL objBE objTR 
+QQQ10007.	Hall/VdC Norms: Female#0014	objNA objTR objNA objNA objNA objBH objTR 
+QQQ10008.	Hall/VdC Norms: Female#0015	objAR objHH objCL objBE objBH objBH objAR objHH objAR 
+QQQ10009.	Hall/VdC Norms: Female#0016	objBH objBE objAR objST objNA 
+QQQ10010.	Hall/VdC Norms: Female#0017	objNA objNA objTR objNA objIR objNA objNA objST objTR 
+QQQ10011.	Hall/VdC Norms: Female#0018	objAV objCL objHH objCL objCL objAV objCL objCL objST 
+QQQ10012.	Hall/VdC Norms: Female#0019	objCL objCL objCL objAE objTR objAR objCL objST objAE 
+QQQ10013.	Hall/VdC Norms: Female#0020	objAE objHH objAE 
+QQQ10014.	Hall/VdC Norms: Female#0021	objAR objAR objCM objBE objAR 
+QQQ10015.	Hall/VdC Norms: Female#0022	objAV objHH objIT objIT 
+QQQ10016.	Hall/VdC Norms: Female#0023	objBA 
+QQQ10017.	Hall/VdC Norms: Female#0024	objTR objAI objIT objRG 
+QQQ10018.	Hall/VdC Norms: Female#0025	objAI objHH objBA objBA objBA objAI 
+QQQ10019.	Hall/VdC Norms: Female#0026	objBH objBE objBA objBH objAR objFO 
+QQQ10020.	Hall/VdC Norms: Female#0027	objHH objBE objBE 
+QQQ10021.	Hall/VdC Norms: Female#0028	objAR objHH objCL 
+QQQ10022.	Hall/VdC Norms: Female#0029	objNA objNA objNA objST objRG objRG objRG objRG 
+QQQ10023.	Hall/VdC Norms: Female#0030	objAR objAD objHH objCL objAD objAR objBE objAR objAR 
+QQQ10024.	Hall/VdC Norms: Female#0031	objAE objAR objHH 
+QQQ10025.	Hall/VdC Norms: Female#0032	objAR objNA objIR objAR objBH objRG 
+QQQ10026.	Hall/VdC Norms: Female#0033	objAR objCL objAD objAR objIW objCL 
+QQQ10027.	Hall/VdC Norms: Female#0034	objNA objRG 
+QQQ10028.	Hall/VdC Norms: Female#0035	objCL objCL objBT 
+QQQ10029.	Hall/VdC Norms: Female#0036	objAR 
+QQQ10030.	Hall/VdC Norms: Female#0037	objAR objAR objAE objRG 
+QQQ10031.	Hall/VdC Norms: Female#0038	objAR objAR objAE objRG 
+QQQ10032.	Hall/VdC Norms: Female#0039	objAR objAR 
+QQQ10033.	Hall/VdC Norms: Female#0040	objAE objAR objCL objRG 
+QQQ10034.	Hall/VdC Norms: Female#0041	objHH objAR objFO 
+QQQ10035.	Hall/VdC Norms: Female#0042	objAR objHH objCL objBE objAR objAR 
+QQQ10036.	Hall/VdC Norms: Female#0043	objAR 
+QQQ10037.	Hall/VdC Norms: Female#0044	objAR objCL objAD objFO 
+QQQ10038.	Hall/VdC Norms: Female#0045	objAR objCL objST objBH 
+QQQ10039.	Hall/VdC Norms: Female#0046	objAR objAD objAR objHH objBT 
+QQQ10040.	Hall/VdC Norms: Female#0047	objTR objBT objTR objMS 
+QQQ10041.	Hall/VdC Norms: Female#0048	objAR objHH objHH objHH objHH objHH objAR objMO 
+QQQ10042.	Hall/VdC Norms: Female#0049	objCL objHH objHH 
+QQQ10043.	Hall/VdC Norms: Female#0050	objCL objCL objAV 
+QQQ10044.	Hall/VdC Norms: Female#0051	objAR objCL objAR objAR objHH objAD objBH objBH objFO 
+QQQ10045.	Hall/VdC Norms: Female#0052	objAE objCL objAD objAR objAR objRG objFO 
+QQQ10046.	Hall/VdC Norms: Female#0053	objAE objCM objHH objAV objHH objAD 
+QQQ10047.	Hall/VdC Norms: Female#0054	objAD objAM objAD objNA 
+QQQ10048.	Hall/VdC Norms: Female#0055	objAV objBT objBA objBA objHH objBE objBE objBH 
+QQQ10049.	Hall/VdC Norms: Female#0056	objAE objIR objCL objBH objAD objCL 
+QQQ10050.	Hall/VdC Norms: Female#0057	objTR objTR 
+QQQ10051.	Hall/VdC Norms: Female#0058	objBE objBE objRG objAR objAD objAR 
+QQQ10052.	Hall/VdC Norms: Female#0059	objAV objHH objHH 
+QQQ10053.	Hall/VdC Norms: Female#0060	objCL 
+QQQ10054.	Hall/VdC Norms: Female#0061	objAR objHH objAD objAR objHH 
+QQQ10055.	Hall/VdC Norms: Female#0062	objIT objMS objAR 
+QQQ10056.	Hall/VdC Norms: Female#0063	objCM objAV objAV objCL objCL objCL objBE objBE objBE objCL 
+QQQ10057.	Hall/VdC Norms: Female#0064	objHH objAR 
+QQQ10058.	Hall/VdC Norms: Female#0065	objAR objCL objAD objAR objCL objIR objAR objCL objMS 
+QQQ10059.	Hall/VdC Norms: Female#0066	objAR objAR objBH objBE objAD 
+QQQ10060.	Hall/VdC Norms: Female#0067	objST objAR objST objAR objAV objAR objBH objMS 
+QQQ10061.	Hall/VdC Norms: Female#0068	objRG objCL objCL 
+QQQ10062.	Hall/VdC Norms: Female#0069	objHH objBS objBH objHH objTR 
+QQQ10063.	Hall/VdC Norms: Female#0070	objCM objAV objHH objHH objAD objCL objBE objBH objBE objBE objCL objCL objCL 
+QQQ10064.	Hall/VdC Norms: Female#0071	objNA objTR objTR objNA 
+QQQ10065.	Hall/VdC Norms: Female#0072	objAV objHH objAV objCM 
+QQQ10066.	Hall/VdC Norms: Female#0073	objBE objBE objBE objBE 
+QQQ10067.	Hall/VdC Norms: Female#0074	objCL objHH objCL objMS 
+QQQ10068.	Hall/VdC Norms: Female#0075	objAR objNA objHH 
+QQQ10069.	Hall/VdC Norms: Female#0076	objCL objCL objNA objNA objNA 
+QQQ10070.	Hall/VdC Norms: Female#0077	objNA objFO 
+QQQ10071.	Hall/VdC Norms: Female#0078	objTR objTR objTR objTR 
+QQQ10072.	Hall/VdC Norms: Female#0079	objMO 
+QQQ10073.	Hall/VdC Norms: Female#0080	objNA objCL objBE objAR objBH objAR 
+QQQ10074.	Hall/VdC Norms: Female#0081	
+QQQ10075.	Hall/VdC Norms: Female#0082	objCM objBH objMS 
+QQQ10076.	Hall/VdC Norms: Female#0083	
+QQQ10077.	Hall/VdC Norms: Female#0084	objAV objTR objCL objCL objCL 
+QQQ10078.	Hall/VdC Norms: Female#0085	
+QQQ10079.	Hall/VdC Norms: Female#0086	objHH objHH objHH objAE objFO 
+QQQ10080.	Hall/VdC Norms: Female#0087	objAV objAD objMS objAD objCL objMS 
+QQQ10081.	Hall/VdC Norms: Female#0088	objST objRG objCL objBH objAE objCL objAR objRG objCL objMS 
+QQQ10082.	Hall/VdC Norms: Female#0089	objAM objAD objAM objAM objIW objAM objAR objMS 
+QQQ10083.	Hall/VdC Norms: Female#0090	objTR objIR objIR objTR objBA objBH objAR objAR objTR objMS 
+QQQ10084.	Hall/VdC Norms: Female#0091	objAR objAR 
+QQQ10085.	Hall/VdC Norms: Female#0092	objRG objAV objTR objTR objTR objAR 
+QQQ10086.	Hall/VdC Norms: Female#0093	objAV objAE objHH 
+QQQ10087.	Hall/VdC Norms: Female#0094	objST objNA objNA objNA objNA 
+QQQ10088.	Hall/VdC Norms: Female#0095	objCL objHH objTR objTR objTR objNA objAD objAE 
+QQQ10089.	Hall/VdC Norms: Female#0096	objCM objAV 
+QQQ10090.	Hall/VdC Norms: Female#0097	objAR objAR objHH objHH objBH 
+QQQ10091.	Hall/VdC Norms: Female#0098	objRG objTR objRG objNA objNA objNA 
+QQQ10092.	Hall/VdC Norms: Female#0099	objBH 
+QQQ10093.	Hall/VdC Norms: Female#0100	objCM objBA objBH objBH 
+QQQ10094.	Hall/VdC Norms: Female#0101	objAR objHH objAR 
+QQQ10095.	Hall/VdC Norms: Female#0102	objIR objAR objBH objAD 
+QQQ10096.	Hall/VdC Norms: Female#0103	objAV objCM 
+QQQ10097.	Hall/VdC Norms: Female#0104	objAR objAR 
+QQQ10098.	Hall/VdC Norms: Female#0105	objAR objAR objTR objAR objAR 
+QQQ10099.	Hall/VdC Norms: Female#0106	objRG objBE objBE 
+QQQ10100.	Hall/VdC Norms: Female#0107	objAR objHH objST objHH objHH objNA objAB 
+QQQ10101.	Hall/VdC Norms: Female#0108	objAR objAR objHH objHH objCL objHH objHH objFO 
+QQQ10102.	Hall/VdC Norms: Female#0109	objRG objCL objNA objCL objAE objCM objHH objCL objCL objCL objCL objAE 
+QQQ10103.	Hall/VdC Norms: Female#0110	objAM objCM objAV objAR objST objAD objTR 
+QQQ10104.	Hall/VdC Norms: Female#0111	
+QQQ10105.	Hall/VdC Norms: Female#0112	objNA objCL objBT objBS 
+QQQ10106.	Hall/VdC Norms: Female#0113	objAR objAR objAR 
+QQQ10107.	Hall/VdC Norms: Female#0114	objBA objBH objBH 
+QQQ10108.	Hall/VdC Norms: Female#0115	objST objTR objST objAR objST objAV 
+QQQ10109.	Hall/VdC Norms: Female#0116	objAD objBH 
+QQQ10110.	Hall/VdC Norms: Female#0117	objNA objAV objAV objBH 
+QQQ10111.	Hall/VdC Norms: Female#0118	objAR objAR objHH objAD objHH objCM objAR objAD objIW objHH objAR objAD 
+QQQ10112.	Hall/VdC Norms: Female#0119	objAR objTR objRG objCL objAR objMO 
+QQQ10113.	Hall/VdC Norms: Female#0120	objAV objCL objHH objCL objTR objTR objTR 
+QQQ10114.	Hall/VdC Norms: Female#0121	objAR objHH objAR objBH objBH 
+QQQ10115.	Hall/VdC Norms: Female#0122	objAI objAR objHH objBT objBT objAI 
+QQQ10116.	Hall/VdC Norms: Female#0123	objAV objAV objCM objAD objAV objAV objCM 
+QQQ10117.	Hall/VdC Norms: Female#0124	objTR objST objAV objCL objCL objCL objCL 
+QQQ10118.	Hall/VdC Norms: Female#0125	objAE objAE objAV 
+QQQ10119.	Hall/VdC Norms: Female#0126	objTR objST objNA objNA objNA 
+QQQ10120.	Hall/VdC Norms: Female#0127	objRG objTR objRG objCM objCM 
+QQQ10121.	Hall/VdC Norms: Female#0128	objAR objBE objBE objBE objBA 
+QQQ10122.	Hall/VdC Norms: Female#0129	objCM objAR objAR 
+QQQ10123.	Hall/VdC Norms: Female#0130	objAI objRG objMO objCL objAD 
+QQQ10124.	Hall/VdC Norms: Female#0131	objCL objCL objAD objAV objAV 
+QQQ10125.	Hall/VdC Norms: Female#0132	objHH objBH objBH objBH objBH objBA objBH objCM objCM objMS objIT objCL objAR objBH objMS objBH objMS 
+QQQ10126.	Hall/VdC Norms: Female#0133	objAR objAR objHH objMS 
+QQQ10127.	Hall/VdC Norms: Female#0134	objAR objBH objHH objBH objHH objBT objBH 
+QQQ10128.	Hall/VdC Norms: Female#0135	objCM objCM objNA objBH 
+QQQ10129.	Hall/VdC Norms: Female#0136	objAI objHH objAI 
+QQQ10130.	Hall/VdC Norms: Female#0137	objNA objNA objAE objAR 
+QQQ10131.	Hall/VdC Norms: Female#0138	objBT objBT objNA objNA 
+QQQ10132.	Hall/VdC Norms: Female#0139	objAV objHH objHH 
+QQQ10133.	Hall/VdC Norms: Female#0140	objNA objAE objAE 
+QQQ10134.	Hall/VdC Norms: Female#0141	objAI objAD objBT objBT 
+QQQ10135.	Hall/VdC Norms: Female#0142	objAR objRG objAD objAD objHH objAD objRG 
+QQQ10136.	Hall/VdC Norms: Female#0143	objAR objAR objAD objAD objRG objTR objNA objAR objHH objAD objMS 
+QQQ10137.	Hall/VdC Norms: Female#0144	objBA objBA 
+QQQ10138.	Hall/VdC Norms: Female#0145	objAE objAI objAD objAV objBT objHH objBH objMS 
+QQQ10139.	Hall/VdC Norms: Female#0147	objHH objAR objCM objCM 
+QQQ10140.	Hall/VdC Norms: Female#0148	objCM 
+QQQ10141.	Hall/VdC Norms: Female#0149	objST objAR objAR objCM objHH objAD objST 
+QQQ10142.	Hall/VdC Norms: Female#0150	objAR objRG objAV objAD objBH 
+QQQ10143.	Hall/VdC Norms: Female#0151	objAD objAD objAV objAV objBE 
+QQQ10144.	Hall/VdC Norms: Female#0152	objNA objNA objTR objCL objTR objBH objHH objCL objCL objCL objBH objBE 
+QQQ10145.	Hall/VdC Norms: Female#0153	objNA objNA objHH objHH objNA objTR objTR objCL objCL objCL objCL objTR 
+QQQ10146.	Hall/VdC Norms: Female#0154	objAR objAD objAD objTR objAR objAR objTR objBE objBH objBT 
+QQQ10147.	Hall/VdC Norms: Female#0155	objAV objCM 
+QQQ10148.	Hall/VdC Norms: Female#0156	objAR objRG objBH 
+QQQ10149.	Hall/VdC Norms: Female#0157	objCL objCL objCL objCL objTR objST 
+QQQ10150.	Hall/VdC Norms: Female#0158	objAR objAD objBT objBT objTR objAI 
+QQQ10151.	Hall/VdC Norms: Female#0159	objAI 
+QQQ10152.	Hall/VdC Norms: Female#0160	objHH objBH objCL objNA objBH objHH objTR objTR 
+QQQ10153.	Hall/VdC Norms: Female#0161	objST objAR objAR objAR objAR objCL objTR objTR 
+QQQ10154.	Hall/VdC Norms: Female#0162	objNA objNA objNA objBE objCL objCM objCL 
+QQQ10155.	Hall/VdC Norms: Female#0163	objNA objNA objNA objBE objCL objCM objCL 
+QQQ10156.	Hall/VdC Norms: Female#0164	objRG objCM objBE 
+QQQ10157.	Hall/VdC Norms: Female#0165	objAR objAR objAR objIW objST objNA objIW 
+QQQ10158.	Hall/VdC Norms: Female#0166	objRG objAR objAR objAR 
+QQQ10159.	Hall/VdC Norms: Female#0167	objCL objBT objCL objCL 
+QQQ10160.	Hall/VdC Norms: Female#0168	objAI objMS objBH 
+QQQ10161.	Hall/VdC Norms: Female#0169	objNA objST objAR 
+QQQ10162.	Hall/VdC Norms: Female#0170	objST objST objAV objCL objBE 
+QQQ10163.	Hall/VdC Norms: Female#0171	objTR objTR objCL objTR objFO 
+QQQ10164.	Hall/VdC Norms: Female#0172	objHH objAR objHH objAD objBH objBE objHH 
+QQQ10165.	Hall/VdC Norms: Female#0173	objAR objCL objCL 
+QQQ10166.	Hall/VdC Norms: Female#0174	objNA objAM objNA 
+QQQ10167.	Hall/VdC Norms: Female#0175	objAR objHH objCM objBH objCL objCL objAR 
+QQQ10168.	Hall/VdC Norms: Female#0176	objST objTR objTR 
+QQQ10169.	Hall/VdC Norms: Female#0177	objST objBT objTR objST objTR objBH objTR objBH objAD 
+QQQ10170.	Hall/VdC Norms: Female#0178	objAD objAI objCM objRG objTR objTR objTR 
+QQQ10171.	Hall/VdC Norms: Female#0179	objAR objHH objHH objCL objBE objBE 
+QQQ10172.	Hall/VdC Norms: Female#0180	objAR 
+QQQ10173.	Hall/VdC Norms: Female#0181	objAR objCM objBH objCL 
+QQQ10174.	Hall/VdC Norms: Female#0182	objST objST objBE objBE objTR objST 
+QQQ10175.	Hall/VdC Norms: Female#0183	objAV objAV objAV objCL objST 
+QQQ10176.	Hall/VdC Norms: Female#0184	objCM 
+QQQ10177.	Hall/VdC Norms: Female#0185	objST objAV objAV objHH objAD objCM objCM objCL objAV objHH objHH 
+QQQ10178.	Hall/VdC Norms: Female#0186	objAR objRG objAM objAD objAD objHH objAD 
+QQQ10179.	Hall/VdC Norms: Female#0187	objAM objIW objAV objHH objST objAR 
+QQQ10180.	Hall/VdC Norms: Female#0188	objAR objAV objBH objBH objBH objBE objBT 
+QQQ10181.	Hall/VdC Norms: Female#0189	objAR objAR objCM objAD 
+QQQ10182.	Hall/VdC Norms: Female#0190	objAR objAR objHH objAR objAD objAD objST 
+QQQ10183.	Hall/VdC Norms: Female#0191	objAR objAR objAR objAR objAD objBH objCL objCL 
+QQQ10184.	Hall/VdC Norms: Female#0192	objCL objCM 
+QQQ10185.	Hall/VdC Norms: Female#0193	objAR objBE objAR objBH 
+QQQ10186.	Hall/VdC Norms: Female#0194	objAE objMO objAI objCM objIR objFO objFO objFO 
+QQQ10187.	Hall/VdC Norms: Female#0195	objRG objCL objCL 
+QQQ10188.	Hall/VdC Norms: Female#0196	objAR objCL objCL objCM 
+QQQ10189.	Hall/VdC Norms: Female#0197	objNA objRG objAE 
+QQQ10190.	Hall/VdC Norms: Female#0198	objAV objAV objCM objAV 
+QQQ10191.	Hall/VdC Norms: Female#0199	objAV objAV 
+QQQ10192.	Hall/VdC Norms: Female#0200	objAI objTR objMS 
+QQQ10193.	Hall/VdC Norms: Female#0201	objNA objAI objAD objST objTR 
+QQQ10194.	Hall/VdC Norms: Female#0202	objRG objMS 
+QQQ10195.	Hall/VdC Norms: Female#0203	objAE objHH objHH objHH objHH objHH objFO objFO objFO objBH objFO 
+QQQ10196.	Hall/VdC Norms: Female#0204	objST objTR objTR objCM objMS 
+QQQ10197.	Hall/VdC Norms: Female#0205	objRG objBH objBE objBT objAM objBH objBE 
+QQQ10198.	Hall/VdC Norms: Female#0206	objST objST objNA objNA objTR objAV objAD objAV objNA objAR objNA objAD objHH objHH objAR objRG objMS 
+QQQ10199.	Hall/VdC Norms: Female#0207	objAR objBH objBH objBH objBE objHH 
+QQQ10200.	Hall/VdC Norms: Female#0208	
+QQQ10201.	Hall/VdC Norms: Female#0209	
+QQQ10202.	Hall/VdC Norms: Female#0210	objST objST objBT objCL objBT objCM objBE objFO 
+QQQ10203.	Hall/VdC Norms: Female#0211	objRG objST objRG objCM objCM 
+QQQ10204.	Hall/VdC Norms: Female#0212	objRG objTR 
+QQQ10205.	Hall/VdC Norms: Female#0213	objST objTR objCL objAV objTR objTR objAD 
+QQQ10206.	Hall/VdC Norms: Female#0214	objRG objRG objCL objAV objST objST objAI objAV 
+QQQ10207.	Hall/VdC Norms: Female#0215	objAE objST objST objST objTR objBE objFO 
+QQQ10208.	Hall/VdC Norms: Female#0216	objAR objRG objHH objAD objRG objTR objRG 
+QQQ10209.	Hall/VdC Norms: Female#0217	objHH objAR objMO objMO 
+QQQ10210.	Hall/VdC Norms: Female#0218	objAV objHH objHH objHH objBH objFO 
+QQQ10211.	Hall/VdC Norms: Female#0219	objAD objAR objBH 
+QQQ10212.	Hall/VdC Norms: Female#0220	objAR objHH objMS 
+QQQ10213.	Hall/VdC Norms: Female#0221	objAV objTR objTR objST objTR objCL objRG objST objAD 
+QQQ10214.	Hall/VdC Norms: Female#0222	objAR objHH objAR objCM objCM objIR objAD objAR 
+QQQ10215.	Hall/VdC Norms: Female#0223	objRG objTR objCL objST objAE objMS 
+QQQ10216.	Hall/VdC Norms: Female#0224	objAE objCM objFO 
+QQQ10217.	Hall/VdC Norms: Female#0225	objRG objRG objRG objNA objNA objNA objRG objAR objAR objCL objHH 
+QQQ10218.	Hall/VdC Norms: Female#0226	objTR objST objTR 
+QQQ10219.	Hall/VdC Norms: Female#0227	objAE objAD objAV objCL objCL objBH objMS 
+QQQ10220.	Hall/VdC Norms: Female#0228	objAV objCM objBH objHH objAV 
+QQQ10221.	Hall/VdC Norms: Female#0229	objTR objTR objBE objAR objAR objAR 
+QQQ10222.	Hall/VdC Norms: Female#0230	objAI objAD 
+QQQ10223.	Hall/VdC Norms: Female#0231	objAR objAD objCM objBH objAR objAR objAR objHH objHH objHH objHH 
+QQQ10224.	Hall/VdC Norms: Female#0232	objNA objNA 
+QQQ10225.	Hall/VdC Norms: Female#0233	objNA objST objCM objTR objMS 
+QQQ10226.	Hall/VdC Norms: Female#0234	objAR objAD objNA objBT objBH objFO 
+QQQ10227.	Hall/VdC Norms: Female#0235	objAV objHH objHH 
+QQQ10228.	Hall/VdC Norms: Female#0236	objAE objAD objCL objHH objFO 
+QQQ10229.	Hall/VdC Norms: Female#0237	objTR objRG objNA objST objTR objTR objBE 
+QQQ10230.	Hall/VdC Norms: Female#0238	objAR objAD objIR objRG objBH objBH 
+QQQ10231.	Hall/VdC Norms: Female#0239	objCM objHH objAD objBE objAD objAD objAD 
+QQQ10232.	Hall/VdC Norms: Female#0240	objAI objHH objBH objBH objTR objRG objFO 
+QQQ10233.	Hall/VdC Norms: Female#0241	objAR 
+QQQ10234.	Hall/VdC Norms: Female#0242	objBH objBE objBH objBH objBH 
+QQQ10235.	Hall/VdC Norms: Female#0243	objAR objCL objCL objHH objBE objAR 
+QQQ10236.	Hall/VdC Norms: Female#0244	objAR objAR objAR objBH objAD 
+QQQ10237.	Hall/VdC Norms: Female#0245	objTR objAR 
+QQQ10238.	Hall/VdC Norms: Female#0246	objHH objNA objNA 
+QQQ10239.	Hall/VdC Norms: Female#0247	objCL objAR objFO 
+QQQ10240.	Hall/VdC Norms: Female#0248	objRG objTR objCL 
+QQQ10241.	Hall/VdC Norms: Female#0249	objBH objBH objHH 
+QQQ10242.	Hall/VdC Norms: Female#0250	objRG objCL objTR objAR objAR objAR objAR objAR objHH 
+QQQ10243.	Hall/VdC Norms: Female#0251	objAD objAV objMO 
+QQQ10244.	Hall/VdC Norms: Female#0252	objTR 
+QQQ10245.	Hall/VdC Norms: Female#0253	objAD objAV objMO 
+QQQ10246.	Hall/VdC Norms: Female#0254	objAR objBE objBE objBH objAD 
+QQQ10247.	Hall/VdC Norms: Female#0255	objNA objNA objNA objTR 
+QQQ10248.	Hall/VdC Norms: Female#0256	objHH objTR objHH objAR objRG 
+QQQ10249.	Hall/VdC Norms: Female#0257	objST objAR objAD objNA objAR objAD objAD objBH 
+QQQ10250.	Hall/VdC Norms: Female#0258	objRG objAR objTR objTR objRG objTR objTR objTR objTR 
+QQQ10251.	Hall/VdC Norms: Female#0259	objTR objAR objHH objCL objCL objST objAR objTR 
+QQQ10252.	Hall/VdC Norms: Female#0260	objAV objCM objAV 
+QQQ10253.	Hall/VdC Norms: Female#0261	objAV objAV objAV objBH objHH objCL objHH objHH objHH objAD objHH objNA objCL objCL objCL objCL objCL objCL 
+QQQ10254.	Hall/VdC Norms: Female#0262	objNA objRG objNA objNA objBH objMS objNA objCL objCL objNA objNA objMS objIR objNA objTR objMS objIW 
+QQQ10255.	Hall/VdC Norms: Female#0263	objAR objAR objHH objMS objAD objHH objNA objCM objHH 
+QQQ10256.	Hall/VdC Norms: Female#0264	objAE objAE objCL objHH objHH objFO 
+QQQ10257.	Hall/VdC Norms: Female#0265	objAV objCM objCM objCM 
+QQQ10258.	Hall/VdC Norms: Female#0266	objTR objTR objNA objTR 
+QQQ10259.	Hall/VdC Norms: Female#0267	objAR objAR objAR objHH objHH objHH objHH objHH objAB objCL objCL objCL objBH objHH objCL 
+QQQ10260.	Hall/VdC Norms: Female#0268	objHH objCM objHH 
+QQQ10261.	Hall/VdC Norms: Female#0269	objAR objRG objST objAD objBH objBH objBA objAR 
+QQQ10262.	Hall/VdC Norms: Female#0270	objAR objIR objAR objCM objAR objAD objHH 
+QQQ10263.	Hall/VdC Norms: Female#0271	objAR objCL 
+QQQ10264.	Hall/VdC Norms: Female#0272	
+QQQ10265.	Hall/VdC Norms: Female#0273	objRG objAV objHH 
+QQQ10266.	Hall/VdC Norms: Female#0274	objTR objTR objBA 
+QQQ10267.	Hall/VdC Norms: Female#0275	objST objCL objRG objAR objAI 
+QQQ10268.	Hall/VdC Norms: Female#0276	objAV objAV objAV objCL objCL objCL objCL 
+QQQ10269.	Hall/VdC Norms: Female#0277	objAR objBH objBH objBT objCL objHH 
+QQQ10270.	Hall/VdC Norms: Female#0278	objCL objBH objAV objHH objHH objHH objAD 
+QQQ10271.	Hall/VdC Norms: Female#0279	objAI objBA objBA objAV objBT objBA objBA objBA 
+QQQ10272.	Hall/VdC Norms: Female#0280	objNA objAV objCM objCL objAV 
+QQQ10273.	Hall/VdC Norms: Female#0281	objAI objAD objCM 
+QQQ10274.	Hall/VdC Norms: Female#0282	objCL 
+QQQ10275.	Hall/VdC Norms: Female#0283	objCL objRG objAV objCL objBH objCL objCL objCL objCL 
+QQQ10276.	Hall/VdC Norms: Female#0284	
+QQQ10277.	Hall/VdC Norms: Female#0285	objAR objBE objHH 
+QQQ10278.	Hall/VdC Norms: Female#0286	objAR objAR objRG objTR objAD 
+QQQ10279.	Hall/VdC Norms: Female#0287	objAV objCM objCM objCM 
+QQQ10280.	Hall/VdC Norms: Female#0288	objRG objTR objTR objST objST objTR objNA objIT objCL objTR objBT objCL objCL objAR objRG 
+QQQ10281.	Hall/VdC Norms: Female#0289	objAR objHH objHH objAD objAR objHH objAD objCL 
+QQQ10282.	Hall/VdC Norms: Female#0290	objBH objBT objBH objAE objTR objAE objBH 
+QQQ10283.	Hall/VdC Norms: Female#0291	objHH objAD objAR objAR objCL objBH objBH objBH objHH objIW 
+QQQ10284.	Hall/VdC Norms: Female#0292	objTR objST objTR objST objST objAV objRG 
+QQQ10285.	Hall/VdC Norms: Female#0293	objNA objNA objNA objAM 
+QQQ10286.	Hall/VdC Norms: Female#0294	objAI objAI objHH objBE objBH 
+QQQ10287.	Hall/VdC Norms: Female#0295	objAE objCL objCL objBE 
+QQQ10288.	Hall/VdC Norms: Female#0296	objIW objRG objST objRG objTR objRG objAR objCM objAR objMO 
+QQQ10289.	Hall/VdC Norms: Female#0297	objAE objAE objBH objBH objCL objBH 
+QQQ10290.	Hall/VdC Norms: Female#0298	objRG objAR objRG objAD objTR 
+QQQ10291.	Hall/VdC Norms: Female#0299	objAE objCL objST objTR 
+QQQ10292.	Hall/VdC Norms: Female#0300	objST objBH objBH objBH 
+QQQ10293.	Hall/VdC Norms: Female#0301	objAR objHH objAR objAR objAR objAR objCM 
+QQQ10294.	Hall/VdC Norms: Female#0302	objAR objHH objAR objAE objFO objFO 
+QQQ10295.	Hall/VdC Norms: Female#0303	objAV objFO objRG objAV objRG 
+QQQ10296.	Hall/VdC Norms: Female#0304	objCM objCM objAV objCM objCM objAV objMO 
+QQQ10297.	Hall/VdC Norms: Female#0306	objHH objAV objCL objAE objHH objAD objAR 
+QQQ10298.	Hall/VdC Norms: Female#0307	objTR objAD objAR objAR objTR objAR objAD objCL 
+QQQ10299.	Hall/VdC Norms: Female#0308	objNA objNA objNA objAD objAR objCM objTR objBE objCL objMS 
+QQQ10300.	Hall/VdC Norms: Female#0309	objAV objNA objCM objBE 
+QQQ10301.	Hall/VdC Norms: Female#0310	objCL objAE objHH objAD objAD objCL objCL objBH objHH objAD objBE objBH 
+QQQ10302.	Hall/VdC Norms: Female#0311	objTR objNA objAR objCM objCL objTR objNA objRG objCM objHH objAV 
+QQQ10303.	Hall/VdC Norms: Female#0312	objST objAV objHH objRG objTR objAR objHH objHH 
+QQQ10304.	Hall/VdC Norms: Female#0313	objAE objAD objRG objCL objAE objNA objNA objST 
+QQQ10305.	Hall/VdC Norms: Female#0314	objNA objNA objNA objNA objTR objAR 
+QQQ10306.	Hall/VdC Norms: Female#0315	objAR objAR objRG objCM objTR objTR objFO 
+QQQ10307.	Hall/VdC Norms: Female#0316	objAV objCL objAI objTR objRG objTR objMS 
+QQQ10308.	Hall/VdC Norms: Female#0317	objNA objNA 
+QQQ10309.	Hall/VdC Norms: Female#0318	
+QQQ10310.	Hall/VdC Norms: Female#0319	objCL 
+QQQ10311.	Hall/VdC Norms: Female#0320	objBT 
+QQQ10312.	Hall/VdC Norms: Female#0321	objCL objCL objTR 
+QQQ10313.	Hall/VdC Norms: Female#0322	objAV objCL objCL 
+QQQ10314.	Hall/VdC Norms: Female#0323	objCL objHH objCL objCL objHH objAD objHH objAV objAV objHH 
+QQQ10315.	Hall/VdC Norms: Female#0324	objAV objCL objCL objCL objCL objHH objHH objCL objCL objCL 
+QQQ10316.	Hall/VdC Norms: Female#0325	objAR objAR objAE 
+QQQ10317.	Hall/VdC Norms: Female#0326	objAR objAR objHH objAD objAD objAR objAD objAR objAD objAR objAD objHH objAR 
+QQQ10318.	Hall/VdC Norms: Female#0327	objAR objAE objAE objAR 
+QQQ10319.	Hall/VdC Norms: Female#0328	objNA objNA objNA objBH objBE objBH objNA 
+QQQ10320.	Hall/VdC Norms: Female#0330	objAR objHH objAR 
+QQQ10321.	Hall/VdC Norms: Female#0331	objHH objAD objAD objAR objAD objBE 
+QQQ10322.	Hall/VdC Norms: Female#0332	objAE objAE objCL objCL objHH 
+QQQ10323.	Hall/VdC Norms: Female#0333	objST objAV objAV objST objCM objAV objIT objAR objNA objCM objAD objAV 
+QQQ10324.	Hall/VdC Norms: Female#0334	objAR objAR objHH 
+QQQ10325.	Hall/VdC Norms: Female#0335	objAE objHH objAR objHH objBH objBH objBH objBH objBH objBH 
+QQQ10326.	Hall/VdC Norms: Female#0336	objBH objBH objBH objBH 
+QQQ10327.	Hall/VdC Norms: Female#0337	objAR objAR objHH objHH objNA objNA objNA objNA objAD objFO 
+QQQ10328.	Hall/VdC Norms: Female#0338	objAE objST objTR objNA objNA objCL objMO objCL objCL objTR objTR objTR objNA objNA 
+QQQ10329.	Hall/VdC Norms: Female#0339	objAE objAE objHH objCM objHH objAE objCL objCL objAR objFO objFO 
+QQQ10330.	Hall/VdC Norms: Female#0340	objAV objAR objST objRG objAR 
+QQQ10331.	Hall/VdC Norms: Female#0341	objAR objAR objTR objAR objHH objBT objCL objBH objFO 
+QQQ10332.	Hall/VdC Norms: Female#0342	objAE objAE objAD objHH objCL objCM objCM objBE objBT 
+QQQ10333.	Hall/VdC Norms: Female#0343	objRG objAR objTR objST objTR objCM 
+QQQ10334.	Hall/VdC Norms: Female#0344	objAR objAR objHH objHH objHH objHH objAD objAV objCL 
+QQQ10335.	Hall/VdC Norms: Female#0345	objAR objAR objFO 
+QQQ10336.	Hall/VdC Norms: Female#0348	objAR objHH objNA objNA objNA 
+QQQ10337.	Hall/VdC Norms: Female#0349	objAE objAE objCM objHH objCL objBE objCL objHH 
+QQQ10338.	Hall/VdC Norms: Female#0350	objAR objCL objCL objHH objNA objCL objNA objHH objAD objCL objAV objAD objTR 
+QQQ10339.	Hall/VdC Norms: Female#0351	objAI objHH objAD objAD objMS objAD 
+QQQ10340.	Hall/VdC Norms: Female#0352	objTR objBE objAR objFO objHH objFO 
+QQQ10341.	Hall/VdC Norms: Female#0355	objST 
+QQQ10342.	Hall/VdC Norms: Female#0356	objCL objCL objBE 
+QQQ10343.	Hall/VdC Norms: Female#0357	objAR objNA objIR objIR objNA objMS objAR objHH objCL objBE 
+QQQ10344.	Hall/VdC Norms: Female#0358	objAR objIW objAD objBH objAR objIW objHH 
+QQQ10345.	Hall/VdC Norms: Female#0359	objNA objAR objAM objHH objNA 
+QQQ10346.	Hall/VdC Norms: Female#0360	objTR objCL objST objNA objCL 
+QQQ10347.	Hall/VdC Norms: Female#0361	objAR objTR objAD objBE objNA objCL 
+QQQ10348.	Hall/VdC Norms: Female#0362	objST objNA objAR objNA objIW objNA 
+QQQ10349.	Hall/VdC Norms: Female#0363	objST objCL objBH objBH 
+QQQ10350.	Hall/VdC Norms: Female#0364	objHH 
+QQQ10351.	Hall/VdC Norms: Female#0365	objAR objAR objAD objST objBA objBH objAI 
+QQQ10352.	Hall/VdC Norms: Female#0369	objNA 
+QQQ10353.	Hall/VdC Norms: Female#0370	objAR objAR objHH objHH objAR 
+QQQ10354.	Hall/VdC Norms: Female#0371	objAI objMS 
+QQQ10355.	Hall/VdC Norms: Female#0372	objTR objST objTR objTR objTR objAR 
+QQQ10356.	Hall/VdC Norms: Female#0373	objAR 
+QQQ10357.	Hall/VdC Norms: Female#0374	objAV 
+QQQ10358.	Hall/VdC Norms: Female#0375	objAV objCM 
+QQQ10359.	Hall/VdC Norms: Female#0376	objHH objHH objHH 
+QQQ10360.	Hall/VdC Norms: Female#0377	objAV objHH objAD objIW objAR 
+QQQ10361.	Hall/VdC Norms: Female#0378	objST objTR objAD objAR objTR objAR objAD 
+QQQ10362.	Hall/VdC Norms: Female#0379	objMO objAR 
+QQQ10363.	Hall/VdC Norms: Female#0380	objRG objTR objAR 
+QQQ10364.	Hall/VdC Norms: Female#0381	objTR objNA objNA 
+QQQ10365.	Hall/VdC Norms: Female#0382	objNA objNA objNA objAR objAR 
+QQQ10366.	Hall/VdC Norms: Female#0383	objAR objRG objNA objNA objCL objCL objTR objNA objFO 
+QQQ10367.	Hall/VdC Norms: Female#0384	objTR objST objRG objCM objST objAV objBH objBH objHH 
+QQQ10368.	Hall/VdC Norms: Female#0385	objST objBE objRG objAV objBE objNA 
+QQQ10369.	Hall/VdC Norms: Female#0386	objTR objAI objBH objHH 
+QQQ10370.	Hall/VdC Norms: Female#0387	objNA objBH objAV objFO objAR objAD objCL objMS 
+QQQ10371.	Hall/VdC Norms: Female#0388	objCL objAR objCL objBH objFO 
+QQQ10372.	Hall/VdC Norms: Female#0389	objAI objTR objAR objTR objAD objAD 
+QQQ10373.	Hall/VdC Norms: Female#0390	objCM objAE objMO objIR objCL objCL 
+QQQ10374.	Hall/VdC Norms: Female#0391	objNA objNA objNA objAR objTR 
+QQQ10375.	Hall/VdC Norms: Female#0392	objAV objAD objIR objBE 
+QQQ10376.	Hall/VdC Norms: Female#0393	objTR objST objCM objRG objRG objCL objBH 
+QQQ10377.	Hall/VdC Norms: Female#0394	objAR objNA objNA objIW 
+QQQ10378.	Hall/VdC Norms: Female#0395	objAV objHH objAD objIR objIR objCL 
+QQQ10379.	Hall/VdC Norms: Female#0396	objAR objAD objST 
+QQQ10380.	Hall/VdC Norms: Female#0397	objTR objNA objRG objNA objAR objTR objTR objTR objTR objNA 
+QQQ10381.	Hall/VdC Norms: Female#0398	objAR objAD objTR objTR objMS 
+QQQ10382.	Hall/VdC Norms: Female#0399	objAI 
+QQQ10383.	Hall/VdC Norms: Female#0400	objAR objHH objAR objCL objAR 
+QQQ10384.	Hall/VdC Norms: Female#0401	objAR objAD objAD objAD objMS 
+QQQ10385.	Hall/VdC Norms: Female#0402	objAV objCL objMO objBH objBH 
+QQQ10386.	Hall/VdC Norms: Female#0403	objCM objAR objAR objAD 
+QQQ10387.	Hall/VdC Norms: Female#0404	objTR objRG objTR objST objNA objTR 
+QQQ10388.	Hall/VdC Norms: Female#0405	objNA objST 
+QQQ10389.	Hall/VdC Norms: Female#0406	objST objAM objAD objAR objAE 
+QQQ10390.	Hall/VdC Norms: Female#0407	objBE objIW objNA 
+QQQ10391.	Hall/VdC Norms: Female#0408	objAR objTR objTR objAR objAR objTR 
+QQQ10392.	Hall/VdC Norms: Female#0409	objNA objCL 
+QQQ10393.	Hall/VdC Norms: Female#0410	objST objHH objAR objAR objCL objAD objCL objCL 
+QQQ10394.	Hall/VdC Norms: Female#0411	objRG objHH objCL 
+QQQ10395.	Hall/VdC Norms: Female#0412	objTR objNA 
+QQQ10396.	Hall/VdC Norms: Female#0413	objAV objCM 
+QQQ10397.	Hall/VdC Norms: Female#0414	objST objBE objTR objTR objST objMS 
+QQQ10398.	Hall/VdC Norms: Female#0415	objRG objTR objTR objAI objBE objBE 
+QQQ10399.	Hall/VdC Norms: Female#0416	objAD objAD objAD objNA objBH 
+QQQ10400.	Hall/VdC Norms: Female#0417	objCL objCL objST objAV objHH objCL objCL objCL objTR objMS 
+QQQ10401.	Hall/VdC Norms: Female#0418	objTR objST objNA objRG objAD objAD objTR objCM 
+QQQ10402.	Hall/VdC Norms: Female#0419	objTR objTR objRG objST objCM objAV objAI 
+QQQ10403.	Hall/VdC Norms: Female#0420	objAV objAD objST objAV objHH objHH objBH objBE objMO 
+QQQ10404.	Hall/VdC Norms: Female#0421	objBA objBA objBH objHH objAR objBH 
+QQQ10405.	Hall/VdC Norms: Female#0422	objIR objBE objBE 
+QQQ10406.	Hall/VdC Norms: Female#0423	objAV objMO 
+QQQ10407.	Hall/VdC Norms: Female#0424	objRG objIW objNA objAR 
+QQQ10408.	Hall/VdC Norms: Female#0425	objRG objBH objCL objCL objBH objCL objBH 
+QQQ10409.	Hall/VdC Norms: Female#0426	objRG objNA objNA objBH objRG objRG 
+QQQ10410.	Hall/VdC Norms: Female#0427	objAE objAR objCL objCL objCL objCL objCL 
+QQQ10411.	Hall/VdC Norms: Female#0428	objRG objTR objCL objBT objTR objAV objTR 
+QQQ10412.	Hall/VdC Norms: Female#0429	objRG 
+QQQ10413.	Hall/VdC Norms: Female#0430	objAR objRG objTR 
+QQQ10414.	Hall/VdC Norms: Female#0431	objTR objAD 
+QQQ10415.	Hall/VdC Norms: Female#0432	objRG objTR objCM objTR 
+QQQ10416.	Hall/VdC Norms: Female#0433	objAE objAR objAD objAR 
+QQQ10417.	Hall/VdC Norms: Female#0434	objRG objST objAR objAR 
+QQQ10418.	Hall/VdC Norms: Female#0435	objAR objAD objAR 
+QQQ10419.	Hall/VdC Norms: Female#0436	
+QQQ10420.	Hall/VdC Norms: Female#0437	objRG objAR objAD objAD 
+QQQ10421.	Hall/VdC Norms: Female#0438	objNA objCL 
+QQQ10422.	Hall/VdC Norms: Female#0439	objAM objIW objHH objNA objTR 
+QQQ10423.	Hall/VdC Norms: Female#0440	objCL objAD objST objMS 
+QQQ10424.	Hall/VdC Norms: Female#0441	objAR objAR objCM 
+QQQ10425.	Hall/VdC Norms: Female#0442	objAV objAV objAR objRG objAV objFO 
+QQQ10426.	Hall/VdC Norms: Female#0443	objCL objCL objAR objCL objCL objAR objAD 
+QQQ10427.	Hall/VdC Norms: Female#0444	objNA objST objTR objBH objBH objAE objCL objCL objBH objTR 
+QQQ10428.	Hall/VdC Norms: Female#0445	objAE 
+QQQ10429.	Hall/VdC Norms: Female#0446	objAR objAR objAD objHH objHH objHH objHH objHH objHH objHH objHH objHH objHH objAD objAD objHH objAD objAD objAR 
+QQQ10430.	Hall/VdC Norms: Female#0447	objCM objCM 
+QQQ10431.	Hall/VdC Norms: Female#0448	objAR objBE objAD objHH objBE 
+QQQ10432.	Hall/VdC Norms: Female#0449	objRG objNA objAD 
+QQQ10433.	Hall/VdC Norms: Female#0450	objAR objAV objTR objBE objCM objTR objTR objTR 
+QQQ10434.	Hall/VdC Norms: Female#0451	objRG objNA objNA objAR objCL objBH objAR 
+QQQ10435.	Hall/VdC Norms: Female#0452	objNA objIR objBH 
+QQQ10436.	Hall/VdC Norms: Female#0453	objRG objMS objMS objMS 
+QQQ10437.	Hall/VdC Norms: Female#0454	objTR objNA objNA objMS 
+QQQ10438.	Hall/VdC Norms: Female#0455	objAR objRG objAD objNA objAM objNA 
+QQQ10439.	Hall/VdC Norms: Female#0456	objAR objTR objHH objAD objBE objHH objHH objTR 
+QQQ10440.	Hall/VdC Norms: Female#0457	objAM objNA objBH objCL objBH objMS 
+QQQ10441.	Hall/VdC Norms: Female#0458	objAR objAD objAD objCM 
+QQQ10442.	Hall/VdC Norms: Female#0459	objAE objIR 
+QQQ10443.	Hall/VdC Norms: Female#0460	objAR objAD objAD 
+QQQ10444.	Hall/VdC Norms: Female#0461	objAD objHH objAR objNA objNA 
+QQQ10445.	Hall/VdC Norms: Female#0462	objAR objAR objAR objAD objAR 
+QQQ10446.	Hall/VdC Norms: Female#0463	objST objAD objCL objMO objAE objCM objNA objTR objTR 
+QQQ10447.	Hall/VdC Norms: Female#0464	objST objAR objAD objAD objAD objHH objAR objAR objAD 
+QQQ10448.	Hall/VdC Norms: Female#0465	objBH objAR objBH 
+QQQ10449.	Hall/VdC Norms: Female#0466	objNA objRG 
+QQQ10450.	Hall/VdC Norms: Female#0467	objRG objAV objAV objCL objTR 
+QQQ10451.	Hall/VdC Norms: Female#0468	objST objRG objHH objHH objBH objST objTR objAR objFO 
+QQQ10452.	Hall/VdC Norms: Female#0469	objAR objAM objTR objRG objST objTR objNA 
+QQQ10453.	Hall/VdC Norms: Female#0470	objNA objRG objBE 
+QQQ10454.	Hall/VdC Norms: Female#0471	objAI objAD objHH objCL objAD objHH objCL objTR 
+QQQ10455.	Hall/VdC Norms: Female#0472	objNA objNA objNA objTR objRG objCL objMS 
+QQQ10456.	Hall/VdC Norms: Female#0473	objHH objAD objAR objAD objAD objNA objIW objBE objBA objNA objBE 
+QQQ10457.	Hall/VdC Norms: Female#0474	objRG objAD objHH objBH objCL 
+QQQ10458.	Hall/VdC Norms: Female#0475	objAD objAR objIW objST objTR objAR objAD objAR objFO objMS objMS 
+QQQ10459.	Hall/VdC Norms: Female#0476	objAR objHH objAR objAR objMO objIR 
+QQQ10460.	Hall/VdC Norms: Female#0477	objST objST objNA objNA 
+QQQ10461.	Hall/VdC Norms: Female#0478	objAR objAR objNA 
+QQQ10462.	Hall/VdC Norms: Female#0479	objRG 
+QQQ10463.	Hall/VdC Norms: Female#0480	objST objTR objST 
+QQQ10464.	Hall/VdC Norms: Female#0481	objAV objAR objHH objHH objHH objHH 
+QQQ10465.	Hall/VdC Norms: Female#0482	objAR objAD 
+QQQ10466.	Hall/VdC Norms: Female#0483	objAR objAR objBA objAR objMS 
+QQQ10467.	Hall/VdC Norms: Female#0484	
+QQQ10468.	Hall/VdC Norms: Female#0485	objAV objCL 
+QQQ10469.	Hall/VdC Norms: Female#0486	objCL objMS 
+QQQ10470.	Hall/VdC Norms: Female#0487	objAR objCM objHH objCM objHH objAD 
+QQQ10471.	Hall/VdC Norms: Female#0488	objAR objAR objAD objCL objBE objRG objBA 
+QQQ10472.	Hall/VdC Norms: Female#0489	objAR objHH objHH objHH objHH objHH objHH 
+QQQ10473.	Hall/VdC Norms: Female#0490	objAR objAD objAR objTR 
+QQQ10474.	Hall/VdC Norms: Female#0491	objCL objBH objHH objFO objFO objFO objFO objFO objFO 
+QQQ10475.	Hall/VdC Norms: Female#0492	objRG objCL objAV objCM objNA 
+QQQ10476.	Hall/VdC Norms: Female#0493	objAV objCL objCL objHH 
+QQQ10477.	Hall/VdC Norms: Female#0494	objAI objBH objBH objBH objBE objMS objMS 
+QQQ10478.	Hall/VdC Norms: Female#0495	objAR objTR 
+QQQ10479.	Hall/VdC Norms: Female#0496	objRG objAR objHH objHH 
+QQQ10480.	Hall/VdC Norms: Female#0497	objRG objAR 
+QQQ10481.	Hall/VdC Norms: Female#0498	objST objTR 
+QQQ10482.	Hall/VdC Norms: Female#0499	objHH objAR objBH 
+QQQ10483.	Hall/VdC Norms: Female#0500	objAV objCL objCL objTR 
+QQQ10484.	Hall/VdC Norms: Male#0001	objAV 
+QQQ10485.	Hall/VdC Norms: Male#0002	objAE objHH objFO objFO 
+QQQ10486.	Hall/VdC Norms: Male#0003	objTR objAR objST objBH 
+QQQ10487.	Hall/VdC Norms: Male#0004	objAD objIW objIW objBT objBA objAR objCL 
+QQQ10488.	Hall/VdC Norms: Male#0005	objAE objAE objAE objAD 
+QQQ10489.	Hall/VdC Norms: Male#0006	objAR objNA objST objBH 
+QQQ10490.	Hall/VdC Norms: Male#0007	objST objCL objMS 
+QQQ10491.	Hall/VdC Norms: Male#0008	objCL objAE objFO 
+QQQ10492.	Hall/VdC Norms: Male#0009	objNA objNA objNA objBT 
+QQQ10493.	Hall/VdC Norms: Male#0010	objNA objNA objNA objNA objNA objNA objBT 
+QQQ10494.	Hall/VdC Norms: Male#0011	objBH objHH objNA objHH objHH objHH objAR objAD objAR 
+QQQ10495.	Hall/VdC Norms: Male#0012	objAE objAD 
+QQQ10496.	Hall/VdC Norms: Male#0013	objTR objAV objAV objCM objMO objTR 
+QQQ10497.	Hall/VdC Norms: Male#0014	objTR objAV 
+QQQ10498.	Hall/VdC Norms: Male#0015	objNA objNA objNA objAD objNA objAR 
+QQQ10499.	Hall/VdC Norms: Male#0016	objAV objCL 
+QQQ10500.	Hall/VdC Norms: Male#0017	objCL objAR objHH 
+QQQ10501.	Hall/VdC Norms: Male#0018	objTR objBE objNA objST objCM 
+QQQ10502.	Hall/VdC Norms: Male#0019	objAR objCM objCM objCM objCM 
+QQQ10503.	Hall/VdC Norms: Male#0020	objTR objTR objTR objIT objAR 
+QQQ10504.	Hall/VdC Norms: Male#0021	
+QQQ10505.	Hall/VdC Norms: Male#0022	objCM 
+QQQ10506.	Hall/VdC Norms: Male#0023	
+QQQ10507.	Hall/VdC Norms: Male#0024	objAR objRG objAD 
+QQQ10508.	Hall/VdC Norms: Male#0025	objRG 
+QQQ10509.	Hall/VdC Norms: Male#0026	objRG objTR objTR 
+QQQ10510.	Hall/VdC Norms: Male#0027	objTR objST objNA objIW objIW objST 
+QQQ10511.	Hall/VdC Norms: Male#0028	objAR objST objAD objBE 
+QQQ10512.	Hall/VdC Norms: Male#0029	objAD objAR 
+QQQ10513.	Hall/VdC Norms: Male#0030	objAR objAR objAD objAD 
+QQQ10514.	Hall/VdC Norms: Male#0031	objTR objCL objTR objST objMO objST objMO 
+QQQ10515.	Hall/VdC Norms: Male#0032	objNA objNA 
+QQQ10516.	Hall/VdC Norms: Male#0033	objRG objBH objBH 
+QQQ10517.	Hall/VdC Norms: Male#0034	objCM objCM objST objAR objAR 
+QQQ10518.	Hall/VdC Norms: Male#0035	objHH objBH objBH objBA objHH objBE objBH objBA objHH 
+QQQ10519.	Hall/VdC Norms: Male#0036	objCL objCL objCL objTR objTR 
+QQQ10520.	Hall/VdC Norms: Male#0037	objCL objCL objBE objBE objCL objTR objST objRG objIR objMS 
+QQQ10521.	Hall/VdC Norms: Male#0038	objAV objAD objTR objST objTR 
+QQQ10522.	Hall/VdC Norms: Male#0039	objAV objBE objAB objAB objCM objAR 
+QQQ10523.	Hall/VdC Norms: Male#0040	objTR objNA objNA objTR objST objST objTR 
+QQQ10524.	Hall/VdC Norms: Male#0041	objCM objCM objCM objAV objMS 
+QQQ10525.	Hall/VdC Norms: Male#0042	objBT objBA objBA objAV objMS 
+QQQ10526.	Hall/VdC Norms: Male#0043	objHH objAI 
+QQQ10527.	Hall/VdC Norms: Male#0044	objAE objAE objBA 
+QQQ10528.	Hall/VdC Norms: Male#0045	objAR objHH objAD objBT objBS objAR objAR objBS objAD objBS 
+QQQ10529.	Hall/VdC Norms: Male#0046	objHH objBH objBT objHH objAR objMS 
+QQQ10530.	Hall/VdC Norms: Male#0047	objAD objAD objAR 
+QQQ10531.	Hall/VdC Norms: Male#0048	objCM 
+QQQ10532.	Hall/VdC Norms: Male#0049	objAR objRG objAD objBE 
+QQQ10533.	Hall/VdC Norms: Male#0050	objST objBE objCL 
+QQQ10534.	Hall/VdC Norms: Male#0051	objTR objCL objHH objST objAV objAV objBT 
+QQQ10535.	Hall/VdC Norms: Male#0052	objAV objBS objBS objHH objBS 
+QQQ10536.	Hall/VdC Norms: Male#0053	objAM objHH objAD objBH objIW objAD objBE 
+QQQ10537.	Hall/VdC Norms: Male#0054	objNA objRG objIR objTR objTR objBH objTR 
+QQQ10538.	Hall/VdC Norms: Male#0055	objTR objTR objTR objST objST objST 
+QQQ10539.	Hall/VdC Norms: Male#0056	objAR objHH objHH objST objAD objST objTR objAE objFO 
+QQQ10540.	Hall/VdC Norms: Male#0057	objAR objHH objAD objAB objAD objHH objBH objMS 
+QQQ10541.	Hall/VdC Norms: Male#0058	objNA objAR objCL objRG objIW objBE objMS 
+QQQ10542.	Hall/VdC Norms: Male#0059	objAR objTR objAD objTR objAD objAR objAD objRG 
+QQQ10543.	Hall/VdC Norms: Male#0060	objTR objMO objTR objTR 
+QQQ10544.	Hall/VdC Norms: Male#0061	objBE objMS objMS 
+QQQ10545.	Hall/VdC Norms: Male#0062	objCL objNA objCL objBH objBT 
+QQQ10546.	Hall/VdC Norms: Male#0063	objHH objAE objHH objFO 
+QQQ10547.	Hall/VdC Norms: Male#0064	
+QQQ10548.	Hall/VdC Norms: Male#0065	objBS objBE objBE 
+QQQ10549.	Hall/VdC Norms: Male#0066	objAE objAD 
+QQQ10550.	Hall/VdC Norms: Male#0067	objAV objMS 
+QQQ10551.	Hall/VdC Norms: Male#0068	objAI objAD objIR 
+QQQ10552.	Hall/VdC Norms: Male#0069	objAR objCM objAR objCL objAR 
+QQQ10553.	Hall/VdC Norms: Male#0070	objRG objHH 
+QQQ10554.	Hall/VdC Norms: Male#0071	objAR 
+QQQ10555.	Hall/VdC Norms: Male#0072	objAR objBA objAR objHH objHH objHH 
+QQQ10556.	Hall/VdC Norms: Male#0073	objST objCM objTR objBT objBT objAV objFO 
+QQQ10557.	Hall/VdC Norms: Male#0074	objHH objAR objFO objFO objFO 
+QQQ10558.	Hall/VdC Norms: Male#0075	objCM objAR objAR objHH objAR objAD objHH objAD 
+QQQ10559.	Hall/VdC Norms: Male#0076	objCM objHH 
+QQQ10560.	Hall/VdC Norms: Male#0077	objNA objNA objNA 
+QQQ10561.	Hall/VdC Norms: Male#0078	objCL objCL objTR objAI objAD objAD objAD 
+QQQ10562.	Hall/VdC Norms: Male#0079	objAR objAR objHH objCL objBT objBS 
+QQQ10563.	Hall/VdC Norms: Male#0080	objHH objHH objIT objBH objMS 
+QQQ10564.	Hall/VdC Norms: Male#0081	
+QQQ10565.	Hall/VdC Norms: Male#0082	objTR objTR objRG objRG 
+QQQ10566.	Hall/VdC Norms: Male#0083	objNA 
+QQQ10567.	Hall/VdC Norms: Male#0084	objNA objNA objHH 
+QQQ10568.	Hall/VdC Norms: Male#0085	objTR objAR objTR objIT 
+QQQ10569.	Hall/VdC Norms: Male#0086	objAR objTR objAR objAR objBE objBH 
+QQQ10570.	Hall/VdC Norms: Male#0087	objST 
+QQQ10571.	Hall/VdC Norms: Male#0088	objTR objHH objAI objAI 
+QQQ10572.	Hall/VdC Norms: Male#0089	objTR objCM objAR objST objST objTR objTR objRG objTR 
+QQQ10573.	Hall/VdC Norms: Male#0090	objTR objAR objAR objST objHH objAD objAD 
+QQQ10574.	Hall/VdC Norms: Male#0091	objHH objHH objFO 
+QQQ10575.	Hall/VdC Norms: Male#0092	objHH objCM objCL objCL objBH objHH objAD objMS objAD objAD 
+QQQ10576.	Hall/VdC Norms: Male#0093	objAR objHH objBE objNA objNA objAD objAD objFO objAD 
+QQQ10577.	Hall/VdC Norms: Male#0094	objCM objHH objAR objHH objMS 
+QQQ10578.	Hall/VdC Norms: Male#0095	objHH objMO objAV objAE objMO 
+QQQ10579.	Hall/VdC Norms: Male#0096	objTR objCM objTR objTR objST objAV objST objBE 
+QQQ10580.	Hall/VdC Norms: Male#0097	objCM objAD 
+QQQ10581.	Hall/VdC Norms: Male#0098	objAR objTR objST objTR 
+QQQ10582.	Hall/VdC Norms: Male#0099	objTR objIW objAV objRG objAV objAD 
+QQQ10583.	Hall/VdC Norms: Male#0100	objAR objTR objAR objIR objIR objAD objAR 
+QQQ10584.	Hall/VdC Norms: Male#0101	objAR objAD objIW objBE objRG 
+QQQ10585.	Hall/VdC Norms: Male#0102	objRG objIR 
+QQQ10586.	Hall/VdC Norms: Male#0103	objRG objCL objCL objBE objBA 
+QQQ10587.	Hall/VdC Norms: Male#0104	objAR objHH objBE objHH objAR objAR objHH objIW objIW objFO 
+QQQ10588.	Hall/VdC Norms: Male#0105	objTR objHH objIW objTR objTR objTR objTR objTR objTR objST objIR objAD objIW objAR objIW objAD objMS objHH objAD objBA 
+QQQ10589.	Hall/VdC Norms: Male#0110	objTR objTR objST objST objIW 
+QQQ10590.	Hall/VdC Norms: Male#0111	objST objAM objBA objBS objIT 
+QQQ10591.	Hall/VdC Norms: Male#0112	
+QQQ10592.	Hall/VdC Norms: Male#0113	objRG objCL objBA 
+QQQ10593.	Hall/VdC Norms: Male#0114	objAR objAR objAD objBH objAD objST objMO objBS objBE 
+QQQ10594.	Hall/VdC Norms: Male#0115	objST objCL objBE objIR 
+QQQ10595.	Hall/VdC Norms: Male#0116	objAR objCM objNA objCM objBH objHH objBA objAR objHH 
+QQQ10596.	Hall/VdC Norms: Male#0117	objTR objIW objAV objAD objIT objIT objAV objRG objRG 
+QQQ10597.	Hall/VdC Norms: Male#0118	objST objMO objTR objCM objCM objBE 
+QQQ10598.	Hall/VdC Norms: Male#0119	objAR objBH objNA objTR objST objAR objAB 
+QQQ10599.	Hall/VdC Norms: Male#0120	objAR objCL objCL objAR objBH objCL 
+QQQ10600.	Hall/VdC Norms: Male#0121	objCM objAV 
+QQQ10601.	Hall/VdC Norms: Male#0122	objAR objCM objHH objNA 
+QQQ10602.	Hall/VdC Norms: Male#0123	objBE 
+QQQ10603.	Hall/VdC Norms: Male#0124	objAR 
+QQQ10604.	Hall/VdC Norms: Male#0125	objAR 
+QQQ10605.	Hall/VdC Norms: Male#0126	objCL objIW 
+QQQ10606.	Hall/VdC Norms: Male#0127	objAR objAR objBH objAD objCL objST objST objAR objRG 
+QQQ10607.	Hall/VdC Norms: Male#0128	objCM objMO objHH objAR 
+QQQ10608.	Hall/VdC Norms: Male#0129	objRG objAE 
+QQQ10609.	Hall/VdC Norms: Male#0130	objTR objCL objCL objHH objCL objBE objBE objRG objRG 
+QQQ10610.	Hall/VdC Norms: Male#0131	
+QQQ10611.	Hall/VdC Norms: Male#0132	objRG objST objAV 
+QQQ10612.	Hall/VdC Norms: Male#0133	objAR 
+QQQ10613.	Hall/VdC Norms: Male#0134	objAI 
+QQQ10614.	Hall/VdC Norms: Male#0135	objRG objBH objBE 
+QQQ10615.	Hall/VdC Norms: Male#0136	objHH objAR objMS 
+QQQ10616.	Hall/VdC Norms: Male#0137	objST objAV objTR objTR 
+QQQ10617.	Hall/VdC Norms: Male#0138	objAR objAD objHH objHH objHH 
+QQQ10618.	Hall/VdC Norms: Male#0139	objAE objIW objIW objBE 
+QQQ10619.	Hall/VdC Norms: Male#0140	objIW objBH objBH objTR objMS objAR 
+QQQ10620.	Hall/VdC Norms: Male#0141	objTR objAR objBH objTR objAR objST objIW objIW 
+QQQ10621.	Hall/VdC Norms: Male#0142	objNA objTR objAR objAR objST objMS objRG 
+QQQ10622.	Hall/VdC Norms: Male#0143	objCL objBE objBE objST objAV objAD objBS 
+QQQ10623.	Hall/VdC Norms: Male#0144	objCM objCM objRG objAE objHH 
+QQQ10624.	Hall/VdC Norms: Male#0145	objNA objAR objTR objNA objNA objST objFO 
+QQQ10625.	Hall/VdC Norms: Male#0146	objAR objNA objAR objBE objRG objFO 
+QQQ10626.	Hall/VdC Norms: Male#0147	objTR objNA objNA objNA objST objST 
+QQQ10627.	Hall/VdC Norms: Male#0148	objNA objNA objIT objIT objBA objBH objNA objAV 
+QQQ10628.	Hall/VdC Norms: Male#0149	objAR objHH objNA objNA objAD objAD objIT objHH objIT 
+QQQ10629.	Hall/VdC Norms: Male#0150	objAV objBE objCL objAR objNA objMS 
+QQQ10630.	Hall/VdC Norms: Male#0151	objTR objAR objCL objCL objST objBS objAD 
+QQQ10631.	Hall/VdC Norms: Male#0152	objHH objAR objAR objHH objAR objNA objST objAD 
+QQQ10632.	Hall/VdC Norms: Male#0153	objAR objHH objAR objAR objFO 
+QQQ10633.	Hall/VdC Norms: Male#0154	objNA objNA objTR objRG objIW objIW objBE objIW objIW 
+QQQ10634.	Hall/VdC Norms: Male#0155	objAR objAR objAR objNA objAD objMS objRG objHH objHH 
+QQQ10635.	Hall/VdC Norms: Male#0156	objAR objAR objBA 
+QQQ10636.	Hall/VdC Norms: Male#0157	objAE objAE objAE objAE objBE objCL 
+QQQ10637.	Hall/VdC Norms: Male#0158	
+QQQ10638.	Hall/VdC Norms: Male#0159	objNA objST objNA objAV objAD 
+QQQ10639.	Hall/VdC Norms: Male#0160	objTR objCL objBE objTR objAD 
+QQQ10640.	Hall/VdC Norms: Male#0161	objAV objHH 
+QQQ10641.	Hall/VdC Norms: Male#0162	objAR objCM objCM objHH objAD objIR objIR 
+QQQ10642.	Hall/VdC Norms: Male#0163	objNA objNA objNA objNA 
+QQQ10643.	Hall/VdC Norms: Male#0164	objAD objAE 
+QQQ10644.	Hall/VdC Norms: Male#0165	objCL objCM objCM objCL objAV 
+QQQ10645.	Hall/VdC Norms: Male#0166	objAR objTR objST objIR objRG 
+QQQ10646.	Hall/VdC Norms: Male#0167	objCM objAV objHH objAV 
+QQQ10647.	Hall/VdC Norms: Male#0168	objAV objAV objIT objFO 
+QQQ10648.	Hall/VdC Norms: Male#0169	objAE objIW objAD objBH 
+QQQ10649.	Hall/VdC Norms: Male#0170	objRG objAD objMS 
+QQQ10650.	Hall/VdC Norms: Male#0171	objIW objBT objAD objST objMS 
+QQQ10651.	Hall/VdC Norms: Male#0172	objAR objHH objHH objAD objAD objBE objFO 
+QQQ10652.	Hall/VdC Norms: Male#0173	objBH objHH objCM objMS 
+QQQ10653.	Hall/VdC Norms: Male#0174	objTR objTR objTR 
+QQQ10654.	Hall/VdC Norms: Male#0175	objIR objBT objBH objIR objBH 
+QQQ10655.	Hall/VdC Norms: Male#0176	objAR objAR objAR objST objRG objAE 
+QQQ10656.	Hall/VdC Norms: Male#0177	objAR objTR objNA objAD objMO 
+QQQ10657.	Hall/VdC Norms: Male#0178	objCM objCM objAR objHH objST objST objCL objAV objAI objAI 
+QQQ10658.	Hall/VdC Norms: Male#0179	objHH objAR objAD 
+QQQ10659.	Hall/VdC Norms: Male#0180	objNA objNA objHH objHH objCM 
+QQQ10660.	Hall/VdC Norms: Male#0181	objTR objRG objRG 
+QQQ10661.	Hall/VdC Norms: Male#0182	objNA objST objST objST 
+QQQ10662.	Hall/VdC Norms: Male#0183	objTR objMO objAR 
+QQQ10663.	Hall/VdC Norms: Male#0184	
+QQQ10664.	Hall/VdC Norms: Male#0185	objTR objST objTR objAD 
+QQQ10665.	Hall/VdC Norms: Male#0186	objAR objST objAV 
+QQQ10666.	Hall/VdC Norms: Male#0187	objRG objRG objCL objCM 
+QQQ10667.	Hall/VdC Norms: Male#0188	objTR objNA objRG objTR objTR objBH objTR 
+QQQ10668.	Hall/VdC Norms: Male#0189	objNA objAR objST objST objRG objMS 
+QQQ10669.	Hall/VdC Norms: Male#0190	objAR objNA 
+QQQ10670.	Hall/VdC Norms: Male#0191	objTR objAV objCL objTR 
+QQQ10671.	Hall/VdC Norms: Male#0192	objNA objRG objTR objRG 
+QQQ10672.	Hall/VdC Norms: Male#0193	objCM objCM objHH objCM objRG objBH objCM 
+QQQ10673.	Hall/VdC Norms: Male#0194	objAR objTR objMO objST objTR objAR 
+QQQ10674.	Hall/VdC Norms: Male#0195	objAE objAD 
+QQQ10675.	Hall/VdC Norms: Male#0196	objAR objNA objNA objNA objAV objRG 
+QQQ10676.	Hall/VdC Norms: Male#0197	objCM objAR objCM objTR objAR objMO objIR objRG objIR objAE objRG objAE objCL 
+QQQ10677.	Hall/VdC Norms: Male#0198	objTR objAR objMO objST objAE objCM objRG 
+QQQ10678.	Hall/VdC Norms: Male#0199	objAR objAR objTR objTR objTR objST objST objST objRG objAR objCL objBH objMS objAR objAR objRG 
+QQQ10679.	Hall/VdC Norms: Male#0200	objNA objNA objAR objRG objIW objIW objIW objMS objBE objIW objBT 
+QQQ10680.	Hall/VdC Norms: Male#0201	objCL objCL objBT 
+QQQ10681.	Hall/VdC Norms: Male#0202	objST objCL objCL objCL objCL objBH objBH objST objHH objAR 
+QQQ10682.	Hall/VdC Norms: Male#0203	objAE 
+QQQ10683.	Hall/VdC Norms: Male#0204	objRG objAE objCL objCL 
+QQQ10684.	Hall/VdC Norms: Male#0205	objAV objAV 
+QQQ10685.	Hall/VdC Norms: Male#0206	objMO objMS 
+QQQ10686.	Hall/VdC Norms: Male#0207	objAE objBE objBH objBH objBH 
+QQQ10687.	Hall/VdC Norms: Male#0208	objAV objCL objAD objAD objHH 
+QQQ10688.	Hall/VdC Norms: Male#0209	objAV objAD objAD objTR objTR objMS 
+QQQ10689.	Hall/VdC Norms: Male#0210	objTR objRG objTR objHH objMS 
+QQQ10690.	Hall/VdC Norms: Male#0211	objRG objMS 
+QQQ10691.	Hall/VdC Norms: Male#0212	objST objHH objNA objNA objCL objFO 
+QQQ10692.	Hall/VdC Norms: Male#0213	objAR objAD objTR 
+QQQ10693.	Hall/VdC Norms: Male#0214	objTR objTR objTR objMS 
+QQQ10694.	Hall/VdC Norms: Male#0215	objAE objBE objAD objAR objHH objBE objBE objBE objBT objHH objRG objTR objAV 
+QQQ10695.	Hall/VdC Norms: Male#0216	objHH objBT objST objAR objCM objTR objTR 
+QQQ10696.	Hall/VdC Norms: Male#0217	objNA objTR objIR objAR objIW objBA objBA objBT objMS 
+QQQ10697.	Hall/VdC Norms: Male#0218	objAD objAE objAD objAE objAD objHH objIR objHH objFO objFO 
+QQQ10698.	Hall/VdC Norms: Male#0219	objHH objST objAR objHH objTR objTR objRG objMS objTR objFO 
+QQQ10699.	Hall/VdC Norms: Male#0220	objNA objNA objBH objNA objBA objIT objBE 
+QQQ10700.	Hall/VdC Norms: Male#0221	objTR objAR objIW objAD objBA objIW objBE 
+QQQ10701.	Hall/VdC Norms: Male#0222	objRG objCM objAR 
+QQQ10702.	Hall/VdC Norms: Male#0223	objAR objHH objCM 
+QQQ10703.	Hall/VdC Norms: Male#0224	objTR objST objTR objNA objAR objMS objST objAR objTR objTR objIT objIT objMS objMS 
+QQQ10704.	Hall/VdC Norms: Male#0225	objAV objCM objCL 
+QQQ10705.	Hall/VdC Norms: Male#0226	objAV objCL objCL objHH objST objIR 
+QQQ10706.	Hall/VdC Norms: Male#0227	objCM objCM objBH objMO 
+QQQ10707.	Hall/VdC Norms: Male#0228	objCM objBE objCL objCM 
+QQQ10708.	Hall/VdC Norms: Male#0229	objBH objCL objCM objAR objMS 
+QQQ10709.	Hall/VdC Norms: Male#0230	objAE objCL objST objAI objTR objFO 
+QQQ10710.	Hall/VdC Norms: Male#0231	objAV objHH objMO 
+QQQ10711.	Hall/VdC Norms: Male#0232	objAV objBH objBH objCM objMO 
+QQQ10712.	Hall/VdC Norms: Male#0233	objNA objTR objIW 
+QQQ10713.	Hall/VdC Norms: Male#0234	objAR objCM objAD objBE 
+QQQ10714.	Hall/VdC Norms: Male#0235	objCM 
+QQQ10715.	Hall/VdC Norms: Male#0236	objAR objAR objAR objHH 
+QQQ10716.	Hall/VdC Norms: Male#0237	objAR objAD 
+QQQ10717.	Hall/VdC Norms: Male#0238	objAV objAV 
+QQQ10718.	Hall/VdC Norms: Male#0239	objAR objAR objIR objCM objAR objMS 
+QQQ10719.	Hall/VdC Norms: Male#0240	objAR objRG objBH objBH 
+QQQ10720.	Hall/VdC Norms: Male#0241	objAE objTR objST 
+QQQ10721.	Hall/VdC Norms: Male#0242	objAR objAR objHH objHH objCL objAR objHH 
+QQQ10722.	Hall/VdC Norms: Male#0243	objRG objAR objRG 
+QQQ10723.	Hall/VdC Norms: Male#0244	objST objTR objNA objNA objTR 
+QQQ10724.	Hall/VdC Norms: Male#0245	objTR objAE objST 
+QQQ10725.	Hall/VdC Norms: Male#0246	objTR objTR objTR objNA 
+QQQ10726.	Hall/VdC Norms: Male#0247	objAV objAV objIT objAV 
+QQQ10727.	Hall/VdC Norms: Male#0248	objAI 
+QQQ10728.	Hall/VdC Norms: Male#0249	
+QQQ10729.	Hall/VdC Norms: Male#0250	objNA objRG 
+QQQ10730.	Hall/VdC Norms: Male#0251	objAV objCM 
+QQQ10731.	Hall/VdC Norms: Male#0252	objAR objAR objAR 
+QQQ10732.	Hall/VdC Norms: Male#0253	objAE objCM objNA objIW 
+QQQ10733.	Hall/VdC Norms: Male#0254	objAD objAR objAD objMO objAR objAR 
+QQQ10734.	Hall/VdC Norms: Male#0255	objTR objTR objTR 
+QQQ10735.	Hall/VdC Norms: Male#0256	objTR objTR 
+QQQ10736.	Hall/VdC Norms: Male#0257	objHH objBH 
+QQQ10737.	Hall/VdC Norms: Male#0258	objAR objCM objAR objHH objTR objMS 
+QQQ10738.	Hall/VdC Norms: Male#0259	objAV objMO objCL objTR objRG 
+QQQ10739.	Hall/VdC Norms: Male#0260	objAV objAV 
+QQQ10740.	Hall/VdC Norms: Male#0261	objRG objHH objNA objBH objBT objBE 
+QQQ10741.	Hall/VdC Norms: Male#0262	objTR objNA objTR objIW objNA objBH objNA objNA 
+QQQ10742.	Hall/VdC Norms: Male#0263	objST objTR objBE 
+QQQ10743.	Hall/VdC Norms: Male#0264	objTR objAR objCL objAR objAD objBE objAR objAE objAR 
+QQQ10744.	Hall/VdC Norms: Male#0265	objST objRG objAD objAD objCL objAD objAR objBE 
+QQQ10745.	Hall/VdC Norms: Male#0266	objRG objST objNA objNA objNA objAR objRG 
+QQQ10746.	Hall/VdC Norms: Male#0267	
+QQQ10747.	Hall/VdC Norms: Male#0268	objCM objAV 
+QQQ10748.	Hall/VdC Norms: Male#0269	objAR objAR objAR objAD objAR objCL objBH 
+QQQ10749.	Hall/VdC Norms: Male#0270	objCM objAV objRG objNA objST objST objAD objAE objST objAV objAD 
+QQQ10750.	Hall/VdC Norms: Male#0271	objST objRG objAR objAD objAD objBH objTR objTR 
+QQQ10751.	Hall/VdC Norms: Male#0272	objAE objIR objHH objIR objIR objIR objIR 
+QQQ10752.	Hall/VdC Norms: Male#0273	objAR objTR objAV objST objNA objNA objHH objAV 
+QQQ10753.	Hall/VdC Norms: Male#0274	objAR objTR objNA objCL objRG objNA objTR objTR objCL 
+QQQ10754.	Hall/VdC Norms: Male#0275	objRG objAV objRG objIW objAE objHH objHH objFO 
+QQQ10755.	Hall/VdC Norms: Male#0276	objIR objIR objBA objBH 
+QQQ10756.	Hall/VdC Norms: Male#0277	objAR objHH 
+QQQ10757.	Hall/VdC Norms: Male#0278	objBT 
+QQQ10758.	Hall/VdC Norms: Male#0279	
+QQQ10759.	Hall/VdC Norms: Male#0280	objCL objTR objNA objNA 
+QQQ10760.	Hall/VdC Norms: Male#0281	objRG objNA objTR objTR objTR objTR objST objNA objNA 
+QQQ10761.	Hall/VdC Norms: Male#0282	objRG objAE objBE objAI objHH 
+QQQ10762.	Hall/VdC Norms: Male#0283	objAE objST objTR objTR objTR objST objAR 
+QQQ10763.	Hall/VdC Norms: Male#0284	objNA objCL 
+QQQ10764.	Hall/VdC Norms: Male#0285	objTR objRG objNA objAR objAV objMS objMS objNA objNA 
+QQQ10765.	Hall/VdC Norms: Male#0286	objHH 
+QQQ10766.	Hall/VdC Norms: Male#0287	objST objNA objTR objTR 
+QQQ10767.	Hall/VdC Norms: Male#0288	objRG objIW objIW objCL objHH objHH objIW 
+QQQ10768.	Hall/VdC Norms: Male#0289	objRG objTR objST objTR objAI objAI objHH objHH 
+QQQ10769.	Hall/VdC Norms: Male#0290	objAR objAR objCM objIW objBH 
+QQQ10770.	Hall/VdC Norms: Male#0291	objAV objAV objCL objCM objAD objAV 
+QQQ10771.	Hall/VdC Norms: Male#0292	objAR objAR objCL 
+QQQ10772.	Hall/VdC Norms: Male#0293	
+QQQ10773.	Hall/VdC Norms: Male#0294	objST objAI objAI objCM objBE 
+QQQ10774.	Hall/VdC Norms: Male#0295	objHH objAV objRG objHH objCL objCL 
+QQQ10775.	Hall/VdC Norms: Male#0296	objNA 
+QQQ10776.	Hall/VdC Norms: Male#0297	objST objTR objMS 
+QQQ10777.	Hall/VdC Norms: Male#0298	objST objAR objAR 
+QQQ10778.	Hall/VdC Norms: Male#0299	objST objNA objCM objNA objNA objNA objCL objAR objIR 
+QQQ10779.	Hall/VdC Norms: Male#0300	objAE objAE objHH 
+QQQ10780.	Hall/VdC Norms: Male#0301	objAR objNA objNA objIT objRG objIW objNA objNA 
+QQQ10781.	Hall/VdC Norms: Male#0302	objTR objRG objIT objCL objTR objNA objBT 
+QQQ10782.	Hall/VdC Norms: Male#0303	objTR objST objTR objNA 
+QQQ10783.	Hall/VdC Norms: Male#0304	objST objNA objNA objAM objIW objNA objNA 
+QQQ10784.	Hall/VdC Norms: Male#0305	objAD objAR objAR objTR objTR 
+QQQ10785.	Hall/VdC Norms: Male#0306	objAR objST objIW objIW objIW objAD 
+QQQ10786.	Hall/VdC Norms: Male#0307	objIW 
+QQQ10787.	Hall/VdC Norms: Male#0308	objAE 
+QQQ10788.	Hall/VdC Norms: Male#0309	objAR objAR objAD objFO 
+QQQ10789.	Hall/VdC Norms: Male#0310	objIR objNA objTR objNA objNA objNA 
+QQQ10790.	Hall/VdC Norms: Male#0311	objNA objNA objIW 
+QQQ10791.	Hall/VdC Norms: Male#0312	objST objRG objTR objTR objTR objTR objTR objST 
+QQQ10792.	Hall/VdC Norms: Male#0313	objAE objAE objBT objAR objCL 
+QQQ10793.	Hall/VdC Norms: Male#0314	objNA objNA 
+QQQ10794.	Hall/VdC Norms: Male#0315	objNA objNA objNA objTR objNA objMS 
+QQQ10795.	Hall/VdC Norms: Male#0316	objBE objBH objBE objBE objIW objRG 
+QQQ10796.	Hall/VdC Norms: Male#0317	objIR objIW objCL objAD objAV objST 
+QQQ10797.	Hall/VdC Norms: Male#0318	objIR objAD objAE objAR objBH 
+QQQ10798.	Hall/VdC Norms: Male#0319	objIW objAR objIW objST objAR objRG objAD objBH objMS 
+QQQ10799.	Hall/VdC Norms: Male#0320	objST objRG objRG objST objTR objTR 
+QQQ10800.	Hall/VdC Norms: Male#0321	objRG objAV objNA objAV objCL 
+QQQ10801.	Hall/VdC Norms: Male#0322	objNA objST objBE objHH 
+QQQ10802.	Hall/VdC Norms: Male#0323	objAR objNA objAD objCM 
+QQQ10803.	Hall/VdC Norms: Male#0324	objST objST objMS 
+QQQ10804.	Hall/VdC Norms: Male#0325	objNA objNA objNA objNA objBE 
+QQQ10805.	Hall/VdC Norms: Male#0326	objCM objCL objHH objIT objAV 
+QQQ10806.	Hall/VdC Norms: Male#0327	objST objAE objIR objAD objAE objIR objIR objHH 
+QQQ10807.	Hall/VdC Norms: Male#0328	objCM objCM objAV objHH objAR 
+QQQ10808.	Hall/VdC Norms: Male#0329	objAD objAR objAR objCL objIR objBH objCL objCL objCL objAR objCL objCL objBT objCL objBH objCL objBE 
+QQQ10809.	Hall/VdC Norms: Male#0330	objAR objAR objAR objAD objHH objHH objHH objIT objHH objST objRG objTR objTR 
+QQQ10810.	Hall/VdC Norms: Male#0331	objCM objBH objHH 
+QQQ10811.	Hall/VdC Norms: Male#0332	objST objAD objHH objAD objHH objHH objBH objCM objAE objST objAE objAE objCM objHH objAD objHH 
+QQQ10812.	Hall/VdC Norms: Male#0333	objAV objRG objIT objIT objAD objAD objTR objHH objIT 
+QQQ10813.	Hall/VdC Norms: Male#0334	objAR objAR objHH objHH objAD objTR objST objFO 
+QQQ10814.	Hall/VdC Norms: Male#0335	objAV objST objTR objTR objRG objTR objTR 
+QQQ10815.	Hall/VdC Norms: Male#0336	objCM objAR objAV 
+QQQ10816.	Hall/VdC Norms: Male#0337	
+QQQ10817.	Hall/VdC Norms: Male#0338	objAR objAR objHH objHH 
+QQQ10818.	Hall/VdC Norms: Male#0339	objAR objHH objAD objHH 
+QQQ10819.	Hall/VdC Norms: Male#0340	objIW objIW objIW objIT objIT 
+QQQ10820.	Hall/VdC Norms: Male#0341	objAV objAV objST objAR 
+QQQ10821.	Hall/VdC Norms: Male#0342	objCM objAR objTR 
+QQQ10822.	Hall/VdC Norms: Male#0343	objST objIR objIT objMO objIR objAE 
+QQQ10823.	Hall/VdC Norms: Male#0344	
+QQQ10824.	Hall/VdC Norms: Male#0345	objAR objTR objTR objIT objRG 
+QQQ10825.	Hall/VdC Norms: Male#0346	objRG objAV 
+QQQ10826.	Hall/VdC Norms: Male#0347	objAD 
+QQQ10827.	Hall/VdC Norms: Male#0348	objAR objIW objBE objBT objAV objCL objHH objCL 
+QQQ10828.	Hall/VdC Norms: Male#0350	objNA objBE objMS 
+QQQ10829.	Hall/VdC Norms: Male#0352	objHH 
+QQQ10830.	Hall/VdC Norms: Male#0353	objAR objAR objAR objAD objAR 
+QQQ10831.	Hall/VdC Norms: Male#0354	objBE objNA 
+QQQ10832.	Hall/VdC Norms: Male#0355	objTR objTR objBH 
+QQQ10833.	Hall/VdC Norms: Male#0356	objAE objFO objAD 
+QQQ10834.	Hall/VdC Norms: Male#0357	objNA objBE objBE objNA 
+QQQ10835.	Hall/VdC Norms: Male#0358	objTR objNA objTR objNA objTR objNA objTR objNA objTR objNA 
+QQQ10836.	Hall/VdC Norms: Male#0359	objRG objTR objTR objBE objST 
+QQQ10837.	Hall/VdC Norms: Male#0360	objTR objST objTR objRG objTR objCM objMS 
+QQQ10838.	Hall/VdC Norms: Male#0361	objAR objAR objAD objAD objTR objAD objAR objMO 
+QQQ10839.	Hall/VdC Norms: Male#0362	objAR objRG objFO objHH objFO 
+QQQ10840.	Hall/VdC Norms: Male#0363	objAE objCL objAE objAE objAR objST 
+QQQ10841.	Hall/VdC Norms: Male#0364	objRG objTR objNA objNA objNA objAB objTR 
+QQQ10842.	Hall/VdC Norms: Male#0365	
+QQQ10843.	Hall/VdC Norms: Male#0366	objAE objAR objRG objTR objMO objAV objMO objCL 
+QQQ10844.	Hall/VdC Norms: Male#0367	objST objTR objTR objTR objTR objTR objTR objST objCM objCM 
+QQQ10845.	Hall/VdC Norms: Male#0368	objCL 
+QQQ10846.	Hall/VdC Norms: Male#0369	objCL objCL objAE objFO objFO objAV objIR objIR objIR objAV objFO 
+QQQ10847.	Hall/VdC Norms: Male#0370	objAI objAD objCM objAI objHH objAR 
+QQQ10848.	Hall/VdC Norms: Male#0371	objRG objNA objTR objNA objRG 
+QQQ10849.	Hall/VdC Norms: Male#0372	objRG objMO objMO 
+QQQ10850.	Hall/VdC Norms: Male#0373	objAV objBH objIT objHH objHH objIT 
+QQQ10851.	Hall/VdC Norms: Male#0374	objTR objNA objNA objST 
+QQQ10852.	Hall/VdC Norms: Male#0375	objRG objCL objNA objMS 
+QQQ10853.	Hall/VdC Norms: Male#0376	objRG objAV objAV objRG objAE 
+QQQ10854.	Hall/VdC Norms: Male#0377	objAV objCL objHH objCL 
+QQQ10855.	Hall/VdC Norms: Male#0378	objRG objAR objCL objAV objAV objAV objAV objAV 
+QQQ10856.	Hall/VdC Norms: Male#0379	objNA objRG objCL objAM objNA 
+QQQ10857.	Hall/VdC Norms: Male#0380	objTR objTR objBT objBE 
+QQQ10858.	Hall/VdC Norms: Male#0381	objHH 
+QQQ10859.	Hall/VdC Norms: Male#0382	objIR 
+QQQ10860.	Hall/VdC Norms: Male#0383	objAR objHH objBT objBS 
+QQQ10861.	Hall/VdC Norms: Male#0384	objAR objCM objCM objRG 
+QQQ10862.	Hall/VdC Norms: Male#0385	objAE objAD objAE objMO 
+QQQ10863.	Hall/VdC Norms: Male#0386	objAV objCL 
+QQQ10864.	Hall/VdC Norms: Male#0387	objNA objNA objNA objFO objFO 
+QQQ10865.	Hall/VdC Norms: Male#0388	objCL objCL objCL objST objST 
+QQQ10866.	Hall/VdC Norms: Male#0389	objST objST objIT objIT objBH 
+QQQ10867.	Hall/VdC Norms: Male#0390	objAR objHH objRG objHH objBE objIW objCL objIW objAD objAR 
+QQQ10868.	Hall/VdC Norms: Male#0391	objAE objIR objIR objBT objRG objAV objAR objBH objCL objNA objBE objRG objCM objST 
+QQQ10869.	Hall/VdC Norms: Male#0395	objNA objIR objAV objHH objAV objIR 
+QQQ10870.	Hall/VdC Norms: Male#0396	objAD objAV objHH 
+QQQ10871.	Hall/VdC Norms: Male#0397	objHH objAR 
+QQQ10872.	Hall/VdC Norms: Male#0398	objAR objHH objHH objAD 
+QQQ10873.	Hall/VdC Norms: Male#0399	objAE objFO objHH objHH objAR 
+QQQ10874.	Hall/VdC Norms: Male#0400	objCL 
+QQQ10875.	Hall/VdC Norms: Male#0401	objNA objNA objNA objNA objNA 
+QQQ10876.	Hall/VdC Norms: Male#0402	objAR objHH objBH objCL objHH objBE objNA 
+QQQ10877.	Hall/VdC Norms: Male#0403	objRG 
+QQQ10878.	Hall/VdC Norms: Male#0404	objBT objNA objRG objNA objNA objNA 
+QQQ10879.	Hall/VdC Norms: Male#0405	objHH objAR objAD objHH objAD objIW 
+QQQ10880.	Hall/VdC Norms: Male#0406	objAI objAD objHH objAD objAB objHH objBH objAD objMS 
+QQQ10881.	Hall/VdC Norms: Male#0407	objTR objIW objAV objAD objBH objHH objIW objHH objAI 
+QQQ10882.	Hall/VdC Norms: Male#0408	objHH objAR objBA objHH objIT objAD objAV objFO objFO 
+QQQ10883.	Hall/VdC Norms: Male#0409	objST objAR objBE objBS objHH 
+QQQ10884.	Hall/VdC Norms: Male#0410	objST objAR objHH objBE objBH objBT 
+QQQ10885.	Hall/VdC Norms: Male#0411	objAE objBS objHH 
+QQQ10886.	Hall/VdC Norms: Male#0412	objNA objNA objNA objNA objBH objBH 
+QQQ10887.	Hall/VdC Norms: Male#0413	objST objNA objIW objIW 
+QQQ10888.	Hall/VdC Norms: Male#0414	objAE objAD 
+QQQ10889.	Hall/VdC Norms: Male#0415	objNA objNA objNA objBH objBE objBT objBS objBS 
+QQQ10890.	Hall/VdC Norms: Male#0416	objNA objAE objCL objAD 
+QQQ10891.	Hall/VdC Norms: Male#0417	objTR objRG objTR objTR 
+QQQ10892.	Hall/VdC Norms: Male#0418	objTR objST objNA 
+QQQ10893.	Hall/VdC Norms: Male#0419	objTR objTR objTR 
+QQQ10894.	Hall/VdC Norms: Male#0420	objTR objTR objNA 
+QQQ10895.	Hall/VdC Norms: Male#0421	objST objRG objAR objAD objAR 
+QQQ10896.	Hall/VdC Norms: Male#0422	objRG objCL objAI 
+QQQ10897.	Hall/VdC Norms: Male#0423	objST objAE objRG objIR objFO 
+QQQ10898.	Hall/VdC Norms: Male#0424	objRG objTR objTR objTR objTR objST 
+QQQ10899.	Hall/VdC Norms: Male#0425	objAE 
+QQQ10900.	Hall/VdC Norms: Male#0426	objAR objAD objAD objHH objAD 
+QQQ10901.	Hall/VdC Norms: Male#0427	objTR objAV objHH objHH 
+QQQ10902.	Hall/VdC Norms: Male#0428	objAV objCL objCL objBE 
+QQQ10903.	Hall/VdC Norms: Male#0429	objST objAE 
+QQQ10904.	Hall/VdC Norms: Male#0430	
+QQQ10905.	Hall/VdC Norms: Male#0431	objST objST objTR objTR objTR 
+QQQ10906.	Hall/VdC Norms: Male#0432	objAR objAR objAR objHH objAD objIT 
+QQQ10907.	Hall/VdC Norms: Male#0433	objRG objNA objAD objMS objFO 
+QQQ10908.	Hall/VdC Norms: Male#0434	objTR objTR 
+QQQ10909.	Hall/VdC Norms: Male#0435	objTR objST objNA objNA objBT 
+QQQ10910.	Hall/VdC Norms: Male#0436	objRG objCL objAR objHH 
+QQQ10911.	Hall/VdC Norms: Male#0437	objHH objIR objMO objHH objAR 
+QQQ10912.	Hall/VdC Norms: Male#0438	objAR objBE objCL objAD objAR objCL objCL objAD objNA 
+QQQ10913.	Hall/VdC Norms: Male#0439	objAV objHH objNA 
+QQQ10914.	Hall/VdC Norms: Male#0440	objTR objNA objTR 
+QQQ10915.	Hall/VdC Norms: Male#0441	objAR objHH objCL objCL objHH objAD 
+QQQ10916.	Hall/VdC Norms: Male#0442	objAE objAE objMO objFO 
+QQQ10917.	Hall/VdC Norms: Male#0443	objAI objCM objST objCM 
+QQQ10918.	Hall/VdC Norms: Male#0444	objRG objTR objIW objAD objFO 
+QQQ10919.	Hall/VdC Norms: Male#0445	objTR objTR objTR objNA objNA 
+QQQ10920.	Hall/VdC Norms: Male#0446	objHH objTR objTR objRG 
+QQQ10921.	Hall/VdC Norms: Male#0447	objNA objST objCL objBH 
+QQQ10922.	Hall/VdC Norms: Male#0448	objTR objTR objTR objTR objCL objAI objAI 
+QQQ10923.	Hall/VdC Norms: Male#0449	objCL objRG objAV objIW objCL 
+QQQ10924.	Hall/VdC Norms: Male#0450	objRG objTR objTR objAR objTR objAR objNA objST objMO objIT 
+QQQ10925.	Hall/VdC Norms: Male#0451	objAV objHH 
+QQQ10926.	Hall/VdC Norms: Male#0452	objHH objCM objHH objRG objFO 
+QQQ10927.	Hall/VdC Norms: Male#0453	objST objTR objAV objIT 
+QQQ10928.	Hall/VdC Norms: Male#0454	objRG objTR objIW objTR objNA objNA objMS objMS 
+QQQ10929.	Hall/VdC Norms: Male#0455	objTR objRG objNA objNA objRG objST objRG objNA objNA objHH objMS 
+QQQ10930.	Hall/VdC Norms: Male#0456	objRG objIW objAR objAD objAD objBE 
+QQQ10931.	Hall/VdC Norms: Male#0457	objST objNA objMS objMS objMS objHH 
+QQQ10932.	Hall/VdC Norms: Male#0458	objHH objAR objAR objBH objCL 
+QQQ10933.	Hall/VdC Norms: Male#0459	objAI objNA objCL 
+QQQ10934.	Hall/VdC Norms: Male#0460	objAV objAV objST objRG 
+QQQ10935.	Hall/VdC Norms: Male#0461	objAE objAE objAD objAD 
+QQQ10936.	Hall/VdC Norms: Male#0462	objST objCL objMO objAV objMO objST objAD objAV objMO objBE objBT 
+QQQ10937.	Hall/VdC Norms: Male#0463	objNA objNA objBE objBE objNA objBE objBH objAE objAD objAD objIR objHH objHH objBH objIR objIR objBE objBE objBT objBH 
+QQQ10938.	Hall/VdC Norms: Male#0464	objRG objAV objCM objAV 
+QQQ10939.	Hall/VdC Norms: Male#0465	objST objIW objAR objAD objAR objAR objAD objIW 
+QQQ10940.	Hall/VdC Norms: Male#0466	objAV objCL objCL objMO 
+QQQ10941.	Hall/VdC Norms: Male#0467	objTR objTR objTR objNA objCM objTR 
+QQQ10942.	Hall/VdC Norms: Male#0468	objRG objIW objBE objAV objMO objMO objBH objBE objBH objBH objBE 
+QQQ10943.	Hall/VdC Norms: Male#0469	objRG objNA objCM objCM objMS 
+QQQ10944.	Hall/VdC Norms: Male#0470	objAV objTR objAV 
+QQQ10945.	Hall/VdC Norms: Male#0471	objRG objTR objTR 
+QQQ10946.	Hall/VdC Norms: Male#0472	objST objCL objAR objAR 
+QQQ10947.	Hall/VdC Norms: Male#0473	objST objTR objBH objCL objST 
+QQQ10948.	Hall/VdC Norms: Male#0474	objTR objST 
+QQQ10949.	Hall/VdC Norms: Male#0475	objAR objTR objST objNA objAR objAR objAR objAR 
+QQQ10950.	Hall/VdC Norms: Male#0476	objCM 
+QQQ10951.	Hall/VdC Norms: Male#0477	objRG objRG objST objST objAR objAV objNA objAM 
+QQQ10952.	Hall/VdC Norms: Male#0478	objNA objST objNA objNA objTR objIW objIW objNA objCL 
+QQQ10953.	Hall/VdC Norms: Male#0479	objST objRG objNA objNA objIR objIR objNA objST objNA objRG objTR 
+QQQ10954.	Hall/VdC Norms: Male#0480	objST objCL objAV objHH 
+QQQ10955.	Hall/VdC Norms: Male#0481	objAR objAR objAR objBE objCL objHH objMS objMS 
+QQQ10956.	Hall/VdC Norms: Male#0482	objNA objST objTR objTR objTR 
+QQQ10957.	Hall/VdC Norms: Male#0483	objAR objAR objHH objHH objHH 
+QQQ10958.	Hall/VdC Norms: Male#0484	objAI objTR objHH objMS 
+QQQ10959.	Hall/VdC Norms: Male#0485	objAV objAD objBS objCL objCL objHH objBE objBS objBS objBH 
+QQQ10960.	Hall/VdC Norms: Male#0486	objHH objCM 
+QQQ10961.	Hall/VdC Norms: Male#0487	
+QQQ10962.	Hall/VdC Norms: Male#0488	objAV objNA objBS objBE 
+QQQ10963.	Hall/VdC Norms: Male#0489	objAR objAR objHH objCL objAI objAI objFO 
+QQQ10964.	Hall/VdC Norms: Male#0490	objHH objBA objMS 
+QQQ10965.	Hall/VdC Norms: Male#0491	
+QQQ10966.	Hall/VdC Norms: Male#0492	
+QQQ10967.	Hall/VdC Norms: Male#0493	objRG objAR objNA objFO 
+QQQ10968.	Hall/VdC Norms: Male#0494	objAI 
+QQQ10969.	Hall/VdC Norms: Male#0495	objAE objFO objFO 
+QQQ10970.	Hall/VdC Norms: Male#0496	objHH objAR objIW objCL objAD 
+QQQ10971.	Hall/VdC Norms: Male#0497	objRG objAI objCL objNA objCL 
+QQQ10972.	Hall/VdC Norms: Male#0498	objBE objMS 
+QQQ10973.	Hall/VdC Norms: Male#0499	objST objBE objTR objST objTR 
+QQQ10974.	Hall/VdC Norms: Male#0500	objNA objNA 
