@@ -59,11 +59,10 @@ def match_labels_documents(documents, labels):
         yield label, documents[doc_id]
 
 
-
 if __name__ == '__main__':
     for labelfile in ("labels.hcnorms_misgoodfortune.all.txt",
                       "labels.hcnorms_char.all.txt",
-                      "dream_acts.txt", 'dream_sets.txt'):
+                      "dream_acts.txt", 'dream_sets.txt', "all_labels.txt"):
     # First we'll do a regular IR experiment with BM25
         documents = {doc_id: text for doc_id, text in read_dreams("data/dreambank.en.stanford.out")}
         labels = list(read_labels("data/" + labelfile))
